@@ -1,0 +1,390 @@
+#AREADATA
+Name Shrine of Erifdel~
+Builders Erifdel~
+VNUMs 4700 4799
+Credits {SHRINE} Erifdel shrine of Erifdel~
+Security 9
+End
+
+
+
+#MOBILES
+#4700
+dragon dracolich undead guard~
+A half-living dragon~
+A large, black dragon is before you with flesh hanging loosely from its withered bones.
+~
+Two empty sockets are filled by orbs of burning amber where eyes once
+gazed upon a life of freedom and treasures.  This dragon is now bound by
+death in service to a greater power to watch and guard over the religion of
+the Onyx Dracolich.  This dragon seems to possess powers of death as well as
+half of the fortitude it knew when it was once alive.  
+~
+dragon~
+ABGLO FHJTVc -1000 0
+60 100 1d1+10000 20d20+500 1d1+150 mental
+-50 -50 -50 -50
+ADFHM ABEIMQT CDOP FHKNSY
+stand stand none 0
+ADHIZ ACDEFGHIJKPQUVX giant 0
+F res BEH
+F vul I
+M GREET 4704 100~
+M KILL 4705 100~
+M HPCNT 4706 95~
+M HPCNT 4707 90~
+M HPCNT 4708 50~
+M DEATH 4709 100~
+#4701
+guardian lich assassin~
+An undead assassin~
+A lifeless body stands here, guarding this temple with the skills of an assassin.
+~
+An undead lich stands before you with two burning orbs staring at you from within the 
+cowl of a cloak formed from shadows. Despite his undeath, he moves with an inhuman
+speed and dexterity.
+~
+lich~
+ABLRWd DFTUVZ -1000 0
+60 700 1d1+9000 1d1+500 1d1+150 darkwrath
+-25 -25 -25 -25
+EFJKNa BLMPQ D HKN
+stand stand male 0
+A ABCDEFGHIJK medium 0
+F imm O
+F for HMV
+M BRIBE 4711 10~
+M GREET 4700 100~
+M SPEECH 4701 onyx dracolich~
+M EXIT 4702 0~
+M DELAY 4703 100~
+M SPEECH 4710 feroph~
+#4702
+dragon shadow dracguard~
+A shadow dragon~
+An insubstantial dragon flaps its wings as it lunges at you with its claws.
+~
+This dragon barely seems to exist as its entire body is made of living
+darkness. It seems to glare at you for disrupting the sanctity of this
+unholy cavern.
+~
+dragon~
+ABFG DFHJTVc -1000 0
+60 80 1d1+6000 20d20+500 1d1+65 defilement
+-25 -60 -25 -60
+ADFGHKMUa ABEIMQT CDOP FHNSY
+stand stand none 0
+ADHIZ ACDEFGHIJKPQUVX small 0
+F res BEH
+F vul I
+M ACT 4712 rescue_please~
+#0
+
+
+
+#OBJECTS
+#4700
+altar unholy onyx bone~
+an altar of bone and onyx~
+An unholy altar of bone and onyx~
+Bone~
+furniture 0 0
+0 0 0 0 0
+60 700 0 P
+E
+altar~
+An altar is before you, dedicated to the writings of the Uteroi under the
+Onyx Dracolich. You feel as if your mere presence before this altar has
+alerted the Dracolich of your passing.
+~
+L
+1
+#4701
+uteroi unholy manuscript pages darkness~
+the unholy uteroi of the onyx dracolich~
+An odd formation of pages is laying here, surrounded by darkness.~
+Flesh~
+treasure BCEPU A
+0 0 0 0 0
+60 11 0 P
+E
+manuscript~
+An assortment of pages have been bound together to form an unholy manuscript
+governing the religion of the Dracolich. Each page is formed from the flesh of
+an existing race within these realms, and written upon with their own 
+lifeblood. Perhaps start by reading the cover...
+~
+E
+cover~
+The cover, as well as back, is formed from two scales of an onyx colored
+dragon. Some have rumored it to be two existing scales of Lord Erifdel's once
+mortal form. Uteroi is engraved at the very top in a crimson color while
+directly below are the words:
+ 
+The Uteroi is only for the strong willed. Any else risk death.
+ 
+With those words ringing in your head, you have the option of looking at the
+firstpage.
+~
+#0
+
+
+
+#ROOMS
+#4700
+An enormous archway~
+An archway of solid onyx hangs overhead.  Sturdy and strong despite
+obvious signs of age and existance, it is obvious that a darker magic has
+strengthened its durability.  The smell of mildew hangs heavily within the
+air as well as an odor of decay. 
+~
+0 8201 0
+D0
+~
+~
+0 0 4701
+D2
+~
+~
+0 0 9579
+S
+#4701
+A wide cavern~
+Darkness and shadows dance at the edge of your vision with the drops of
+moisture falling to collect upon the cavern floor someplace in the distance.
+A strong sense of decay still remains heavy within the air.  
+~
+0 8201 0
+D2
+~
+~
+0 0 4700
+S
+#4702
+Back of a wide cavern~
+Darkness and shadows dance at the edge of your vision with the drops of
+moisture falling to collect upon the cavern floor someplace in the distance.
+A strong sense of decay still remains heavy within the air.  
+~
+0 8201 0
+D5
+~
+~
+0 0 4703
+S
+#4703
+A tunnel~
+Darkness and shadows dance at the edge of your vision with the drops of
+moisture falling to collect upon the cavern floor someplace in the distance.
+The smell of decay grows even stronger as you continue deeper within this
+tunnel, forsaking the light of the surface.  
+~
+0 8201 0
+D4
+~
+~
+0 0 4702
+D5
+~
+~
+0 0 4704
+S
+#4704
+A tunnel~
+Darkness and shadows dance at the edge of your vision with the drops of
+moisture falling to collect upon the cavern floor someplace in the distance.
+The smell of decay grows even stronger as you continue deeper within this
+tunnel, forsaking the light of the surface.  
+~
+0 8201 0
+D0
+~
+~
+0 0 4705
+D4
+~
+~
+0 0 4703
+S
+#4705
+A large chamber~
+The darkness within this chamber seems as thick as fog, but not allowing
+a single ray of light to penatrate the sanctity of this crypt.  Solid onyx
+makes up the walls, floors and ceiling of this room while adding to the
+abyssal darkness.  A form shrouded in darkness that seems to flow with its
+own entity is before your, barring the passage to the north.  
+~
+0 8201 0
+D0
+~
+~
+0 0 4706
+D2
+~
+~
+0 0 4704
+S
+#4706
+An unholy altar~
+The sensation of death and decay assault your mind, as this room seems
+strongly connected to the negative planes that exist within these realms. 
+An altar stands before you, formed from the remains of those misguided
+enough assault the writings of the Uteroi.  An urge inside of your mind
+tells you that to come here without purpose is a form of desecration to this
+unholy crypt.  
+~
+0 9 0
+D2
+~
+~
+0 0 4705
+S
+#4707
+A strange cell~
+~
+0 13 0
+S
+#0
+
+
+
+#SPECIALS
+M 4700 spec_breath_acid
+M 4701 spec_cast_undead
+M 4702 spec_black_dragon
+S
+
+
+
+#RESETS
+M 0 4701 1 4700 1
+M 0 4700 1 4705 1
+O 0 4700 0 4706
+M 0 4702 1 4707 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4700
+IF isevil $n
+glare $n
+whis Why do you come to this unholy cave, $n?
+ELSE
+whis I would suggest you leave this unholy cave, $n. I will only give you this one warning...
+mob remember $n
+mob delay 4
+ENDIF
+~
+#4701
+IF isevil $n
+IF carries $n 4701
+whis Proceed, you already carry the manuscript of my Lord.
+ELSE
+sagenod
+mob oload 4701
+give uteroi $n
+whis Very well, take that and proceed, $n.
+ENDIF
+ELSE
+whis You will not learn of such faiths from within this sacred cavern, $n.
+whis Speak to others of his faith before returning...that your soul might be cleansed.
+ENDIF
+~
+#4702
+IF isevil $n
+mob echo As you pass, the guardian utters an arcane phrase causing your form to become insubstantial as your are transported within the cavern.
+mob transfer $n 4702
+ELSE
+mob echo The guardian holds up a withered fist, causing an invisible barrier to bar your path.
+ENDIF
+~
+#4703
+mob echoat $q An undead assassin spins in a blur of movement as he circles behind you.
+mob echoat $q Dropping down, he takes an onyx blade from within a fold of his cloak and spins it hilt over blade towards your back.
+mob echoat $q A sharp pain enters your body as the taint of that onyx blade causes you to gasp in pain.
+mob echoat $q An onyx blade {rdoes UNSPEAKABLE things to {xyou!
+mob damage $q 1500 1500 lethal
+mob echoat $q An undead assassin calls upon the shadows.
+mob cast 'shadowstrike' $q
+mob kill $q
+mob forget
+~
+#4704
+IF carries $n 4701
+whis I see that you carry the manuscript of the Onyx Dracolich
+whis Proceed before the altar and may you be true to yourself...
+ELSE
+whis If you do not already carry the manuscript of the Onyx Dracolich, I would reconsider what knowledge you think you know of this faith...
+whis Proceed if you wish, but do so with caution...
+ENDIF
+~
+#4705
+whis You are a fool for disrupting the sanctity of this cavern!
+snarl $n
+whis May the wrath of my lord burn your soul...
+mob cast hex $n
+mob remember $n
+~
+#4706
+mob echo A half-living dragon's eyes flare brightly as he communes to his lord.
+mob cast 'wither' $q
+~
+#4707
+mob echo Uttering a prayer to the onyx dracolich, a half-living dragon growls loudly.
+mob cast 'energy drain' $q
+~
+#4708
+mob echo A half-living dragon grins malevolently as he spits acid into the air!
+mob cast 'acid need' $q
+~
+#4709
+whis The darkness consume you...Lord Erifdel, destroy this trespasser!
+mob echo The power of darkness within a half-living dragon bursts forth as he falls dead...again.
+mob damage $q 500 1000 lethal
+mob echo The darkness contorts and shifts before creating a portal to the shadow plane.
+mob goto dracguard
+say rescue_please
+mob goto 4705
+mob forget
+~
+#4710
+whis I will need a down payment first...
+~
+#4711
+mob at feroph mob co 'wither' feroph
+whis It is done...
+~
+#4712
+mob goto 4705
+mob echo $I steps out of a shadowy portal.
+~
+#4713
+IF rand 20
+mob echo Birds begin to chirp from within the bushes.
+ELSE
+IF rand 40
+mob echo The sounds of a rushing stream can be heard nearby.
+ELSE
+IF rand 60
+mob echo A gust of wind blows through your hair.
+ELSE
+IF rand 80
+mob echo The sounds of the forest feel your soul.
+ELSE
+IF rand 100
+mob echo A flock of birds can be heard above the forest canopy.
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+~
+#0
+
+#$

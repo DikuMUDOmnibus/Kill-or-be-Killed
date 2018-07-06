@@ -1,0 +1,6490 @@
+#AREADATA
+Name The Elven Stronghold~
+Builders None~
+VNUMs 4200 4399
+Credits {20 51} Deomanix The Elven Stronghold~
+Security 9
+End
+
+
+
+#MOBILES
+#4200
+elven elf ranger archer~
+an elven ranger~
+A large archer is here watching the forests.
+~
+A large elf draped in green cloaks and a large hood is here with a long 
+bow 
+slung over his shoulder. On his back he wears a full quiver of arrows.
+~
+elf~
+AB JP 1000 0
+40 0 20d8+2464 10d10+1 4d8+18 sting
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#4201
+elf elven blacksmith~
+an elven blacksmith~
+An strong elf covered in soot hammers out some metal here.
+~
+A strong elf covered in soot is here, wearing a set of elven mail and a 
+thick apron. His body is muscular from the relentless hammering of armor
+and weapons.
+~
+elf~
+AB JP 1000 0
+38 0 19d8+2213 10d10+1 5d6+16 smash
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 1
+AHMV ABCDEFGHIJK large 0
+#4202
+warrior elven elf~
+an elven guardsman~
+A quick elven guardsman is here preparing for battle.
+~
+A slender elf wearing a complete set of elven chain mail is before you. He 
+posesses a stern visage but carries a twinkle in his eye.
+~
+elf~
+AB JP 1000 0
+35 0 17d8+1867 10d10+1 4d7+14 slash
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#4203
+elf elfven man~
+an elven man~
+An elven man is feasting here merrily.
+~
+A slender elf in bright clothing is here feasting and looking merry.
+~
+elf~
+AB JP 1000 0
+25 0 12d8+944 10d10+1 2d10+7 slice
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#4204
+elven elf woman~
+an elven woman~
+A beautiful elven woman is enjoying the feasting here.
+~
+A beautiful elven woman draped in colerful robes stands here with flowers
+in her hair and a smile in her eyes.
+~
+elf~
+AB JP 1000 0
+25 0 12d8+944 10d10+1 2d7+10 slice
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand female 10
+AHMV ABCDEFGHIJK medium 0
+#4205
+server waiter elf elven~
+an elven server~
+An elven server moves quickly through the room with a tray over his head.
+~
+Dressed in black robes this elf looks a bit overwhelmed by the ammount of
+food he is carrying around.
+~
+elf~
+AB JP 1000 0
+20 0 10d8+604 10d10+1 2d6+6 crush
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#4206
+elven elf man dancer~
+an elven dancer~
+A male elf dances about merrily to the music.
+~
+Draped in colorful clothing this slender elf wears his blonde hair tied
+behind his head. His face is young and healthy looking and his eyes 
+sparkle
+in the light.
+~
+elf~
+AB JP 1000 0
+25 0 12d8+944 10d10+1 2d10+7 slap
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium 0
+#4207
+elf elven woman dancer~
+an elven dancer~
+A slender female elf dances about to the beat of the music.
+~
+A beautiful female elf smiles happily. She is draped in beautiful
+clothes of nearly every color. Her hair is braided and laced with 
+beautiful
+wildflowers.
+~
+elf~
+AB JP 1000 0
+25 0 12d8+944 10d10+1 4d10+7 slap
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand female 1
+AHMV ABCDEFGHIJK medium 0
+#4208
+musician drummer elven elf~
+an elven drummer~
+A large elf is here beating on a drum.
+~
+He is a large elf in brown leather and a large floppy hat. You notice he
+has a few drumsticks hanging out of his pocket.
+~
+elf~
+AB JP 1000 0
+30 0 15d8+1364 10d10+1 4d6+8 beating
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#4209
+elf elven woman harpist harp~
+an elven harpist~
+A elven woman with beautiful long hair plucks a harp beautifully here.
+~
+With long golden hair cascading down her back you see this elven woman
+has rose buds througout her hair. She is wearing a beautiful jade dress
+that matches her gleaming eyes.
+~
+elf~
+AB JP 1000 0
+30 0 15d8+1364 10d10+1 4d6+8 pierce
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand female 10
+AHMV ABCDEFGHIJK medium 0
+#4210
+elf elven musician piccolo~
+a small elf~
+A small elf is here playing a silver piccolo.
+~
+A small elf wearing deep purple robes and a black hat smiles to himself.
+His face is wrinkled from smiling and his eyes are a bright blue.
+~
+elf~
+AB JP 1000 0
+30 0 15d8+1364 10d10+1 4d6+8 none
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#4211
+noble elven elf man~
+an elven noble~
+A elven man in extravagant clothing is sitting here.
+~
+Beautiful golden chains and expensive clothing cover this well groomed
+elf. His hair and skin are extremely well taken care of and he looks about
+with a superior tone.
+~
+elf~
+AB JP 1000 0
+35 0 17d8+1867 10d10+1 4d7+14 slash
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#4212
+female elven elf noble~
+an elven noble~
+A beautiful elf in an expensive dress sits here quietly.
+~
+Wearing a beautiful white dress this elven woman is wearing a ring on
+almost every finger and has a beautiful necklace around her neck.
+~
+elf~
+AB JP 1000 0
+35 0 17d8+1867 10d10+1 4d7+14 slash
+-12 -12 -12 -12
+EFJK 0 BH Z
+stand stand female 100
+AHMV ABCDEFGHIJK medium 0
+#4213
+spectral dragon blackened bones~
+the Spectral Dragon~
+A massive spectral dragon made of blackened bones rises up before you.
+~
+A massive spectral dragon flickers slightly before you. Huge blackened
+bones form its entire body. A deep crimson burns in its eye sockets as it
+looks towards you.
+~
+dragon~
+ABFO DFHJTU -1000 0
+70 50 30d10+7128 10d10+1 10d10+450 defilement
+-30 -30 -30 -30
+ACDEFHIJKMNO 0 BEH FI
+stand stand male 1000
+ABDHZ ACDEFGHIJKPQUVWX giant 0
+#4214
+soul elven spectre~
+an elven spectre~
+A lost elven soul floats quietly in the room.
+~
+A greenish translucense floats before you.
+~
+unique~
+AFGO DF 0 0
+55 0 27d8+5268 10d10+1 6d12+322 grep
+-20 -20 -20 -20
+ACDEFHIJKMNO 0 0 0
+stand stand male 0
+ABC IL medium 0
+#4215
+elven ambassador~
+an elven ambassador~
+A regal elven man stands here stiffly.
+~
+This elven man wears lavish clothing and is extremely well groomed. His
+face is kind looking and without blemish. His hair is tied neatly behind
+his head, and he dons a strange looking cap.
+~
+elf~
+AG HJP 1000 24940
+45 20 22d8+3177 10d10+1 8d8+245 smash
+-12 -12 -12 -12
+CDEFK 0 BH Z
+stand stand male 1000
+ABCHMV ABCDEFGHIJKL medium 0
+#4216
+celestial titan ambassador~
+a celestial ambassador~
+A cleancut celestial titan stands here regally.
+~
+Clad in large robes and a leather belt across his chest you see a very
+clean looking titan. His hair flows down his back and tied at the very
+bottom.
+~
+unique~
+AG H 1000 0
+45 20 22d8+3177 10d10+1 8d8+245 chop
+-12 -12 -12 -12
+CI 0 0 0
+stand stand male 1000
+ABC IL huge 0
+#4217
+planar titan ambassador~
+a planar ambassador~
+A massive planar titan is thumbing through a small book here.
+~
+Clothed in a sky blue cloak and shining steel armor this planar titan
+carries a small book at his side. On his arm he wears a strange emblem of 
+a
+wolf. His visage is cast with a bit of worry, and his brow is wrinkled 
+from
+constant thought.
+~
+unique~
+AG H 0 0
+45 20 22d8+3177 10d10+1 8d8+245 crush
+-15 -15 -15 -15
+CI 0 0 0
+stand stand male 1000
+ABC IL huge 0
+#4218
+sidhe ambassador~
+a sidhe ambassador~
+A beautiful female sidhe is here tending to her image.
+~
+Clothed in green robes this sidhe wears a wreath of wildflowers in her
+hair and a belt of vines around her waste. She hovers silently before you
+quite breathtakingly.
+~
+unique~
+AGR CE 1000 0
+45 0 22d8+3177 10d10+1 8d8+245 stab
+-15 -15 -15 -15
+CFIK 0 0 0
+stand stand female 1000
+ABC IL medium 0
+#4219
+minotaur ambassador~
+a minotaur ambassador~
+A large minotaur snorts to himself as he paces back and forth.
+~
+An extremely large minotaur is before you. His horns are capped with
+gold and his hooves have been shined to a soft glow. He wears black 
+leather
+armor and a large medallion around his neck.
+~
+unique~
+AGT 0 0 0
+45 20 22d8+3177 10d10+1 8d8+245 none
+-15 -15 -15 -15
+CDE E 0 N
+stand stand male 1000
+AHN ABCDEFGHIKLUW large 0
+#4220
+halfling ambassador~
+a halfling ambassador~
+A small halfling crouches in the shadows here.
+~
+Cloaked in black garb this halfling moves about with unparalleled
+stealth. His face cannot even be seen past the dark hood he wears over his
+head.
+~
+unique~
+AGT HQ 0 0
+45 20 22d8+3177 10d10+1 8d8+245 slash
+-15 -15 -15 -15
+CDEFHK 0 0 0
+stand stand male 1000
+AHM ABCDEFGHIJ small 0
+#4221
+stronghold patrol guard~
+a stronghold patrolman~
+A member of the stronghold patrol keeps vigil over the halls.
+~
+Clothed from head to toe in elven chain mail this patrolman guards the
+halls with his life.
+~
+elf~
+AT JP 1000 0
+40 0 20d8+2464 10d10+1 4d8+14 slice
+-13 -13 -13 -13
+EFK 0 BH Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#4222
+elven elf lord~
+the Elven Lord~
+A regal elven man stands here in flowing robes.
+~
+A tall and slender elven man with long flowing robes, and and elven armor
+is before you. He is extremely well groomed and wears strange flowers in
+his long blonde hair. Beautiful eyes of azure emminate grace and goodness,
+and his skin is milky white and youthfull.
+~
+elf~
+ABQ HJNPV 1000 0
+51 0 25d8+4274 10d10+1 10d14+236 slash
+-21 -21 -21 -21
+AEFK 0 BH Z
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#4223
+human ambassador~
+a human ambassador~
+A well-kept human stands here, deep in thought.
+~
+A tall and slender human stands before you. Lead-colored eyes peer out
+from beneath two well groomed eyebrows. His hair is blonde and tied behind
+his head with a leather band. He wears a short beard which is trimmed to
+perfection.
+~
+human~
+AGT HV 1000 0
+45 20 22d8+3177 10d10+1 8d8+250 slash
+-15 -15 -15 -15
+DEFK 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#4224
+ancient statue living~
+an ancient living statue~
+A massive statue stands here, breathing heavily.
+~
+~
+unique~
+AF DF 0 26988
+53 20 26d8+4734 10d10+1 10d4+360 crush
+-23 -23 -23 -23
+FIK 0 0 0
+stand stand male 0
+AHM ABCDEFGHIJ large 0
+#4225
+guardian apparition wispy figure~
+the guardian apparition~
+A wispy figure floats silently here.
+~
+A thin wispy figure composed of refracting light and a hazy translucence
+is before you.
+~
+unique~
+AB 0 0 25974
+51 30 25d8+4274 10d10+1 10d4+360 stab
+-21 -21 -21 -21
+J 0 F E
+stand stand male 0
+ABK ABCDEFGHIJK medium 0
+#4226
+vynith fawentod old man decrepit~
+Vynith Fawentod~
+A old decrepit elf hunches here with a dismal look upon his face.
+~
+An ancient elf clothed in simple robes which have been ravaged by time.
+Tangled grey hair cascades down upon his shoulders, adding to his
+discheveled appearance. He looks about with a distant look in his eyes.
+You notice a large lion has been embroidered on the back of his robe.
+~
+elf~
+ABR JP 0 17184
+60 60 30d8+7128 10d10+1 10d10+8205 punch
+-30 -30 -30 -30
+0 0 BH Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#4200
+stronghold key large black~
+a large black key~
+A large black key rests here~
+obsidian~
+key AG AO
+0 0 0 0 0
+40 10 50000 P
+#4201
+small alabaster key~
+a small alabaster key~
+A small alabaster key lies here~
+unknown~
+key AB AO
+0 0 0 0 0
+51 0 0 P
+#4202
+mithril chain mail lion~
+a chainmail shirt emblazoned with a lion~
+A chainmail shirt emblozoned with a lion~
+mithril~
+armor 0 AD
+5 5 5 5 35
+0 15 10000 P
+A
+18 2
+A
+13 10
+A
+1 1
+#4203
+sleeves mithril chain~
+some chainmail mithril sleeves~
+A pair of chainmail mithril sleeves~
+mithril~
+armor 0 AI
+5 5 5 5 35
+0 15 10000 P
+A
+18 1
+A
+19 2
+#4204
+helm mithril sturdy~
+a sturdy mithril helm~
+A sturdy mithril helm~
+mithril~
+armor 0 AE
+5 5 5 5 35
+0 12 10000 P
+A
+19 2
+A
+13 10
+#4205
+chainmail boots mithril~
+a pair of mithril boots~
+A pair of chainmail mithril boots~
+mithril~
+armor 0 AG
+5 5 5 5 35
+0 12 10000 P
+A
+19 1
+A
+18 1
+A
+2 1
+#4206
+mithril leggings chainmail~
+a pair of chainmail mithril leggings~
+A fine pair of mithril leggings are here in a pile~
+mithril~
+armor 0 AF
+5 5 5 5 35
+0 15 10000 P
+A
+19 1
+A
+18 1
+A
+13 10
+#4207
+light pair mithril gloves~
+a pair of light mithril gloves~
+A light looking pair of mithril gloves lie here.~
+mithril~
+armor 0 AH
+5 5 5 5 35
+0 5 10000 P
+A
+19 2
+A
+13 5
+#4208
+light mithril scimitar~
+a light mithril scimitar~
+A light mithril scimitar lies on the ground here.~
+mithril~
+weapon 0 AN
+sword 4 9 slash 0
+35 10 0 P
+A
+19 3
+A
+18 1
+#4209
+large adamantite battleaxe~
+a massive battleaxe named "Drejan"~
+A massive battleaxe covered in frost lies on the ground here.~
+adamantite~
+weapon ABJT AN
+axe 7 7 frbite 0
+45 220 10000 P
+A
+19 7
+A
+18 4
+L
+4
+#4210
+hide mountain lion~
+the hide of the mountain lion~
+A pile of mountain lion fur rests here.~
+hide~
+armor BJ AD
+10 10 10 10 45
+0 10 10000 P
+A
+19 3
+A
+18 7
+A
+1 3
+L
+3
+#4211
+razor sharp stiletto~
+a razor-sharp stiletto~
+A long and slender blade glistens on the ground.~
+iron~
+weapon ABJK AN
+dagger 7 6 slash 0
+45 8 0 P
+A
+2 3
+A
+19 5
+A
+18 4
+L
+3
+#4212
+hood silent cadence black~
+the Hood of the Silent Cadence~
+A pile of dark cloth lies here.~
+shadow~
+armor BET AE
+8 7 8 7 45
+0 2 0 P
+A
+2 4
+A
+13 20
+A
+19 3
+A
+18 1
+F
+A 0 0 P
+L
+1
+#4213
+carapace~
+the Carapace of the Planes~
+A massive ethereal carapace floats here.~
+etherealness~
+armor ADJK AD
+20 20 20 20 45
+0 20 0 P
+L
+3
+#4214
+heavy maul~
+a heavy maul of iron called "Zek'ven'dever"~
+A huge maul of iron glows softly here.~
+iron~
+weapon AB AN
+mace 7 7 crush 0
+45 50 10000 P
+A
+1 3
+A
+19 4
+L
+10
+#4215
+circlet snowflakes~
+a sparkling circlet of snowflakes~
+A beautiful circle of snowfloaks sparkles upon the ground.~
+ice~
+armor AB AE
+9 9 9 9 45
+0 2 10000 P
+A
+3 4
+A
+12 30
+A
+13 50
+F
+I 0 0 I
+L
+1
+#4216
+vine living~
+a living vine called "Lorug D'dro"~
+A living vine lies in here in a heap.~
+plant~
+weapon B AN
+whip 7 6 nature AB
+45 0 0 P
+L
+3
+#4217
+scimitar flaming~
+an ornate scimitar engulfed in flames~
+A beautiful scimitar lies here engulfed in flames.~
+mithril~
+weapon AM AN
+sword 6 7 flbite 0
+45 10 10000 P
+A
+18 5
+A
+2 3
+L
+3
+#4218
+medallion elven~
+the Golden Medallion of Elves~
+A breathtaking medallion of gold lies on the ground.~
+gold~
+armor B AC
+2 2 2 2 45
+0 10 10000 P
+A
+2 3
+A
+1 1
+A
+12 45
+A
+19 2
+L
+3
+#4219
+girdle massive celestial strength~
+the Massive Girdle of Celstial Strength~
+A massive girdle covered in strange markings lies on the ground here.~
+leather~
+armor BKL AL
+8 7 8 9 45
+0 20 10000 P
+A
+19 3
+A
+1 6
+L
+3
+#4220
+ornate ivory halberd~
+an ornate halberd made from the purest ivory~
+A beautiful halberd made from ivory lies here.~
+ivory~
+weapon ABKL AN
+polearm 7 7 light F
+45 60 10000 P
+A
+18 3
+A
+19 4
+L
+3
+#4221
+ancient battered signet ring~
+an ancient and battered signet ring~
+A old battered ring lies here.~
+mithril~
+armor 0 AB
+0 0 0 0 51
+0 2 0 P
+#4222
+living oak staff~
+a long staff of living oak~
+A beautiful staff of oak spins slowly above the ground here.~
+wood~
+weapon ABM AN
+staff 7 6 smash 0
+51 10 10000 P
+L
+1
+#4223
+silver chair~
+a beautiful silver chair embossed with stars~
+A beautiful silver chair embossed with stars sits here.~
+silver~
+furniture 0 0
+1 10000 0 0 0
+1 0 0 P
+#4224
+statue dark thief~
+a statue of an elven thief~
+A statue of a slender, hooded elf stands here.~
+stone~
+furniture BG AO
+0 0 0 0 0
+51 200 0 P
+#4225
+statue elf warrior~
+a statue of an elven warrior~
+A statue of an elven warrior in full armor stands here.~
+stone~
+furniture BG AO
+0 0 0 0 0
+51 200 0 P
+#4226
+statue shaman elf~
+a statue of an elven shaman~
+A statue of an elf in religious garb stands with hands raised.~
+stone~
+furniture BG AO
+0 0 0 0 0
+51 200 0 P
+#4227
+statue mage elf~
+a statue of an elven mage~
+A statue of an elf in long flowing robes stands here.~
+stone~
+furniture BG AO
+0 0 0 0 0
+51 200 0 P
+#4228
+statue elf ranger~
+a statue of an elven ranger~
+A statue of an elf wearing a quiver across his back stands here.~
+stone~
+furniture BG AO
+0 0 0 0 0
+51 200 0 P
+#4229
+statue elf monk~
+a statue of an elven monk~
+A statue of an elf with a scroll in one hand stands here.~
+stone~
+furniture BG AO
+0 0 0 0 0
+51 200 0 P
+#4230
+hammer blacksmith~
+a sturdy forge hammer~
+A sturdy hammer lies here on the ground.~
+steel~
+weapon 0 AN
+mace 4 9 crush 0
+30 20 5000 P
+A
+9 3
+#4231
+hole star stars~
+the star~
+~
+stone~
+container Q AO
+100 0 0 1000 3
+1 1000 0 G
+#4232
+cloak deep green~
+a deep green cloak~
+A deep green pile of cloth lies here.~
+cloth~
+armor 0 AK
+2 5 5 5 35
+0 5 5000 P
+A
+19 1
+A
+18 2
+A
+2 2
+#4233
+mouth~
+the mouth of the lion~
+~
+wood~
+container Q O
+1000 0 0 1000 2
+1 100 0 G
+#4234
+wand lion ~
+a lion-headed wand~
+A small wand with the head of a lion lies here.~
+wood~
+wand BT AO
+51 5 5 '(null)' 0
+40 2 5000 P
+#4235
+leggings crystalline pair~
+a pair of crystalline leggings~
+A pair of leggings sparkle on the ground here.~
+crystal~
+armor BKL AF
+8 8 8 8 45
+0 15 13000 P
+A
+19 3
+A
+18 4
+A
+13 10
+L
+3
+#4236
+sword pitted iron rapier~
+a pitted rapier named 'Ui Dham'~
+A pitted iron rapier lies on the ground here.~
+iron~
+weapon BKL AN
+sword 7 7 acbite DH
+45 40 4500 P
+A
+19 4
+A
+2 -2
+L
+2
+#4237
+beautiful green gemstone~
+a beautiful green gemstone~
+A beautiful green stone sparkles on the ground here.~
+gem~
+treasure AB AO
+0 0 0 0 ABEF
+0 1 0 P
+#4238
+beautiful blue gemstone~
+a beautiful blue gemstone~
+A beautiful blue gemstone hums softly here.~
+gem~
+treasure AB AO
+0 0 0 0 ABEF
+0 1 0 P
+#4239
+beautiful white gemstone~
+a beautiful white gemstone~
+A beautiful white gemstone sparkles upon the ground here.~
+gem~
+treasure AB AO
+0 0 0 0 ABEF
+0 1 0 P
+#4240
+jet black gemstone~
+a jet black gemstone~
+A jet black gemstone sits upon the ground here.~
+gem~
+treasure AB AO
+0 0 0 0 ABEF
+0 1 0 P
+#4241
+beautiful red gemstone~
+a beautiful red gemstone~
+A beautiful red gemstone hums here softly.~
+gem~
+treasure AB AO
+0 0 0 0 ABEF
+0 1 0 P
+#4242
+mirky glass orb~
+a mirky glass orb~
+A strange murky orb of glass hums upon the ground here.~
+glass~
+staff B AO
+51 5 5 'word of recall' 0
+51 20 80000 P
+#4243
+shelf scorched~
+the scorched shelf~
+~
+wood~
+container 0 O
+10000 0 0 10000 100
+0 0 0 G
+#4244
+potion seething red~
+a seething red potion~
+A red potion sits here, seething violently.~
+glass~
+potion 0 AO
+51 'heal' 'heal' 'heal' 'heal'
+51 5 10000 P
+#4245
+parchment~
+a shelf behind the parchment~
+~
+wood~
+container G O
+10000 0 0 10000 100
+0 10000 0 G
+#4246
+wand smooth mithril~
+a smooth mithril wand~
+A beautiful wand of mithril shimmers upon the ground here.~
+mithril~
+wand B AO
+51 3 3 'earthmaw' 0
+45 5 5780 P
+#4247
+clump dried herbs herb~
+a small clump of dried herbs~
+A clump of dried herbs rests on the ground here.~
+herbs~
+pill 0 AO
+51 'remove curse' 'cure poison' 'cure disease' 'cure blindness'
+30 2 45000 P
+#4248
+stone floor~
+under a piece of the stone floor~
+~
+stone~
+container G O
+10000 0 0 10000 100
+0 1000 0 G
+#4250
+table oak long~
+the immense oak table~
+An immense oak table with intricate carvings rests here peacefully.~
+wood~
+furniture 0 0
+10 10000 DG 0 0
+1 0 0 P
+#4251
+virinahn portrait~
+the portrait of Virinahn~
+~
+wood~
+trash G O
+0 0 0 0 0
+1 0 0 P
+#4252
+small key ornate~
+a small ornate key~
+A small ornate key lies here.~
+mithril~
+key B AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+Looking closer at the key, you notice two concentric circles etched upon
+the head.
+~
+#4253
+small ornate key~
+a small ornate key~
+A small ornate key rests here.~
+mithril~
+key B AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+A single star has been etched into the head of the key.
+~
+#4254
+small ornate key~
+a small ornate key~
+A small ornate key lies here.~
+mithril~
+key B AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+A crown has been etched into the head of this key.
+~
+#4255
+small ornate key~
+a small ornate key~
+A small ornate key lies on the ground here.~
+mithril~
+key B AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+A gold coin has been etched into the head of the key.
+~
+#4256
+key small ornate~
+a small ornate key~
+A small ornate key rests here.~
+mithril~
+key B AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+An open hand has been etched into the head of the key.
+~
+#4257
+key small ornate~
+a small ornate key~
+A small ornate key lies here.~
+mithril~
+key B AO
+0 0 0 0 0
+1 1 0 P
+E
+key~
+A three pronged root has been etched into the head of the key.
+~
+#4258
+ancient tarnished mirror~
+an ancient tarnished mirror~
+A curious mirror lies here, humming softly.~
+glass~
+treasure B AO
+0 0 0 0 0
+51 4 0 P
+L
+1
+#4259
+chest intricate carved~
+an intricately carved chest~
+An intricately carved chest rests here peacefully.~
+wood~
+container 0 O
+10000 A 0 10000 100
+51 0 0 P
+#4260
+gold pile treasure golden~
+a pile of golden treasure~
+A shimmering pile of golden treasure is piled on the ground here.~
+gold~
+money A A
+15000 0 0 0 0
+1 1 0 P
+#4261
+skeleton ~
+a pile of bleach-white bones~
+A pile of bleach-white bones is all that remains of an ancient elven 
+traveller.~
+bone~
+container 0 A
+10000 0 0 10000 100
+1 0 0 P
+#4262
+sceptre ancient stars~
+the Ancient Sceptre of the Stars~
+A beautiful golden sceptre glimmers upon the ground here.~
+gold~
+weapon BIKM AN
+exotic 7 8 light 0
+51 15 80000 P
+A
+13 63
+A
+1 2
+E
+sceptre~
+You see a beautiful golden sceptre with with intricate carvings running
+it's length. A spectacular crystal in the rough shape of a star is 
+fastened
+to the top, reflecting the light beautifully.
+~
+L
+1
+#4263
+large feather~
+a large feather~
+A beautiful feather floats in the breeze here.~
+feather~
+treasure A AO
+0 0 0 0 ABEF
+0 0 0 P
+F
+A 0 0 T
+#4264
+throne magnificent mithril~
+a magnificent mithril throne~
+A magnificent throne of polished mithril rests proudly next to the southern wall.~
+mithril~
+furniture 0 0
+0 0 0 0 0
+1 0 0 P
+#4265
+forest green robe simple~
+a simple forest green robe~
+A simple robe lies on the ground here.~
+unknown~
+armor 0 AD
+0 0 0 0 0
+1 0 0 P
+#4266
+vine living~
+a living vine~
+A living vine lies here.~
+unknown~
+armor 0 AL
+0 0 0 0 0
+1 0 0 P
+#4267
+mouth crevice~
+the mouth of the lion~
+~
+wood~
+container G 0
+10000 0 0 10000 100
+1 0 0 P
+#4268
+crystal crown chiliad~
+a crystal crown encrusted with diamonds~
+A dazzling crown of crystal rests on the ground here.~
+crystal~
+armor ABK AE
+40 40 40 40 51
+0 8 10000 P
+A
+2 2
+A
+13 50
+A
+18 2
+A
+19 3
+F
+I 0 0 N
+L
+1
+#0
+
+
+
+#ROOMS
+#4200
+Before a vast ravine~
+Before you lies a deep ravine spanned by a wooden bridge ahead. The
+massive canopy of trees above you destroys any posibility of sunlight
+breaking through. The forest life about you sings with vibrance, and
+the smell of moist ground fills the air. The only way through the
+dense woods is to the north or south.
+~
+0 0 2
+E
+WEST W~
+The forest thickens in this direction. The mass of trees only allows you
+to see several feet off the trail.
+~
+E
+UP U~
+A massive canopy covers the sky above your head. Tiny specks of light
+strugle to make thier way through the foliage.
+~
+E
+DOWN D~
+The damp earth is a rich black color with scattered leaves upon it.
+~
+E
+EAST E~
+The forest thickens in this direction. The mass of trees only allows you
+to see several feet off the trail.
+~
+D0
+A massive ravine opens up in this directions. You can see a small wooden 
+bridge leading to the other side.
+~
+~
+0 0 4201
+D2
+~
+~
+0 0 22500
+S
+#4201
+Upon a wooden bridge~
+An old wooden bridge traverses the deep ravine here. Old tree trunks
+have been notched and carved to construct this old looking structure. A
+rushing river lies many feet below you, continuing its endless persuit to
+shape the land. The forest thickens off to the south, and a large hill
+rises up in the forest to the north.
+~
+0 0 2
+E
+NORTH N~
+A massive ravine cuts through the forest in this direction. You can see
+a small creek running at the bottom.
+~
+E
+WEST W~
+A massive ravine cuts through the forest in this direction. You can see
+a small creek running at the bottom.
+~
+E
+UP U~
+You can see the sky overhead here because of the space the ravine has 
+created.
+~
+E
+DOWN D~
+Large planks of wood a placed closely together forming a bridge across the 
+ravine.
+~
+D0
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4200
+S
+#4202
+Before the gates of the Elven Stronghold~
+A large green hill covered in trees rises up before you. Small windows
+carved out of the earth can barely be seen at the top of the hill, and
+several smoke stacks poke through the hillside. A massive gate forged from
+a strange metal is set directly into the base of the hill, and a golden
+plaque catches your attention to the left of the gate.
+~
+0 0 2
+E
+EAST E~
+A massive wall of grey stone rises up here.
+~
+E
+WEST W~
+A massive wall of grey stone rises up here. You notice a series of small 
+bumps upon the stone.
+~
+E
+UP U~
+A massive green hill rises rises high above your head.
+~
+E
+DOWN D~
+Brown packed dirt covers the ground beneath you.
+~
+E
+bumps~
+As you look more closely at the bumps you notice they are actually small
+stars embossed on the face of the stone.
+~
+E
+plaque~
+Only those who can reach the stars will pass through these gates.
+~
+D0
+Massive vines twist and turn forming a massive gate to the north.
+~
+~
+2 4203 4203
+D2
+A wooden bridge makes its way across the ravine in this direction.
+~
+~
+0 0 4201
+S
+#4203
+The Entrance Hall~
+You are beneath a spectacular dome painted with dozens of intricate
+constellations. Tall pillars guilded with gold and silver twist and turn
+like the roots of a tree to the base of the dome. Strange runes carved from
+wood sit atop the massive pillars. Intricate archways lead in every
+direction from this room.
+~
+0 256 0
+E
+UP U~
+A massive dome open covered in constellations rises above your head.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+A massive archway leads into a spectacular room.
+~
+~
+0 0 4206
+D1
+A large archway leads into a small room.
+~
+~
+0 0 4205
+D2
+~
+~
+2 4200 4202
+D3
+A large archway leads into a small room.
+~
+~
+0 0 4204
+S
+#4204
+A Guard Room~
+A rather small room surrounds you. There is no furniture, only several
+weapons hang from the wall. Marble covers the entire floor seamlessly,
+giving it a simple but elegant feel.
+~
+0 8 0
+E
+NORTH N~
+The wall here is made of a dull grey stone.
+~
+E
+SOUTH S~
+The wall here is made of a dull grey stone.
+~
+E
+WEST W~
+The wall here is made of a dull grey stone.
+~
+E
+UP U~
+The ceiling here is made of a dull grey stone.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D1
+A archway leads back out into the main hall.
+~
+~
+0 0 4203
+S
+#4205
+A Guard Room~
+A rather small room surrounds you. There is no furniture, only several
+weapons hang from the wall. Marble covers the entire floor seamlessly,
+giving it a simple but elegant feel.
+~
+0 8 0
+E
+NORTH N~
+The wall here is made of a dull grey stone.
+~
+E
+EAST E~
+The wall here is made of a dull grey stone.
+~
+E
+SOUTH S~
+The wall here is made of a dull grey stone.
+~
+E
+UP U~
+The ceiling here is made of a dull grey stone.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D3
+An archway leads back out into the main hall.
+~
+~
+0 0 4203
+S
+#4206
+A Large Apex~
+This room is even more spectacular than the room to the south. A double
+leveled dome rises high above you. On the first level of the dome a
+painting of a massive library can be seen, and the upper dome is adorned
+with portraits of unknown elves that seem to look down upon you. Pillars
+sculpted to resemble tree branches reach high above you supporting the
+domes. Circular doorways are positioned in the four cardinal directions of
+the room.
+~
+0 8 0
+E
+UP U~
+A massive double leveled dome rises up overhead. It is covered with 
+paintings of unknown elves and a massive library.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+A circlular doorway is set against the wall here.
+~
+~
+0 0 4245
+D1
+A circlular doorway is set against the wall here.
+~
+~
+0 0 4207
+D2
+A circlular doorway is set against the wall here.
+~
+~
+0 0 4203
+D3
+A circlular doorway is set against the wall here.
+~
+~
+0 0 4233
+S
+#4207
+A Hallway Outside of the Grand Hall~
+This wide hallway is lined with brass lanterns that causes the shadows to
+dance about merrily. Wreaths and bouquets of wildflowers decorate the wall
+inbetween the lanterns. The smells of food and incense wafts down the hall.
+The smells and light look a bit brighter down the hallway to the east.
+~
+0 8 0
+E
+NORTH N~
+Beautiful wildflowers are placed inbetween the lanterns on the the wall 
+here.
+~
+E
+SOUTH S~
+Beautiful wildflowers are placed inbetween the lanterns on the the wall 
+here.
+~
+E
+UP U~
+A beautiful white marble covers the ceiling here.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D1
+A doorway leads into a grand hall.
+~
+~
+1 0 4208
+D3
+~
+~
+0 0 4206
+S
+#4208
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4209
+D1
+The hall continues in this direction.
+~
+~
+0 0 4212
+D2
+The hall continues in this direction.
+~
+~
+0 0 4210
+D3
+A doorway leads out to the hallway.
+~
+~
+1 0 4207
+S
+#4209
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+WEST W~
+The wall here is made of a beautifull dark wood covered in wildflowers and 
+lanterns.
+~
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4220
+D1
+The hall continues in this direction.
+~
+~
+0 0 4213
+D2
+The hall continues in this direction.
+~
+~
+0 0 4208
+S
+#4210
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+WEST W~
+The wall here is made of a beautifull dark wood covered in wildflowers and 
+lanterns.
+~
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4208
+D1
+The hall continues in this direction.
+~
+~
+0 0 4211
+D2
+The hall continues in this direction.
+~
+~
+0 0 4232
+S
+#4211
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4212
+D1
+The hall continues in this direction.
+~
+~
+0 0 4216
+D2
+The hall continues in this direction.
+~
+~
+0 0 4231
+D3
+The hall continues in this direction.
+~
+~
+0 0 4210
+S
+#4212
+The Center of the Grand Hall~
+All about you song and dance flow in harmony. The floors shine brightly
+from the many feet that have danced across it. Encircling this dancing area
+the musicians play merrily. Above your head the ceiling is a bit taller and
+you can see that a host of fireflys has made it thier home. Thier tiny
+lights twinkle and give the ceiling the appearance of a beautiful night 
+sky.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4213
+D1
+The hall continues in this direction.
+~
+~
+0 0 4215
+D2
+The hall continues in this direction.
+~
+~
+0 0 4211
+D3
+The hall continues in this direction.
+~
+~
+0 0 4208
+S
+#4213
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4221
+D1
+The hall continues in this direction.
+~
+~
+0 0 4214
+D2
+The hall continues in this direction.
+~
+~
+0 0 4212
+D3
+The hall continues in this direction.
+~
+~
+0 0 4209
+S
+#4214
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4222
+D1
+The hall continues in this direction.
+~
+~
+0 0 4219
+D2
+The hall continues in this direction.
+~
+~
+0 0 4215
+D3
+The hall continues in this direction.
+~
+~
+0 0 4213
+S
+#4215
+The Center of the Grand Hall~
+All about you song and dance flow in harmony. The floors shine brightly
+from the many feet that have danced across it. Encircling this dancing area
+the musicians play merrily. Above your head the ceiling is a bit taller and
+you can see that a host of fireflys has made it thier home. Thier tiny
+lights twinkle and give the ceiling the appearance of a beautiful night 
+sky.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4214
+D1
+The hall continues in this direction.
+~
+~
+0 0 4218
+D2
+The hall continues in this direction.
+~
+~
+0 0 4216
+D3
+The hall continues in this direction.
+~
+~
+0 0 4212
+S
+#4216
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4215
+D1
+The hall continues in this direction.
+~
+~
+0 0 4217
+D2
+The hall continues in this direction.
+~
+~
+0 0 4230
+D3
+The hall continues in this direction.
+~
+~
+0 0 4211
+S
+#4217
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4218
+D1
+The hall continues in this direction.
+~
+~
+0 0 4227
+D2
+The hall continues in this direction.
+~
+~
+0 0 4229
+D3
+The hall continues in this direction.
+~
+~
+0 0 4216
+S
+#4218
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4219
+D1
+The hall continues in this direction.
+~
+~
+0 0 4219
+D2
+The hall continues in this direction.
+~
+~
+0 0 4217
+D3
+The hall continues in this direction.
+~
+~
+0 0 4215
+S
+#4219
+The Grand Hall~
+You are in the massive hall known best for its merrymaking. Huge wooden
+tables line the main floor of this room. Near the very center you can see
+an area cleared out for dancing, and a small place where musicicians play.
+Waiters and servants can be seen bringing trays of food and glasses of fine
+wine back and forth to the guests.
+~
+0 8 0
+E
+UP U~
+A tall wooden ceiling hung with flowers and herbs is above you.
+~
+E
+DOWN D~
+Smooth marble covers the floor beneath you.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4223
+D1
+The hall continues in this direction.
+~
+~
+0 0 4225
+D2
+The hall continues in this direction.
+~
+~
+0 0 4218
+D3
+The hall continues in this direction.
+~
+~
+0 0 4214
+S
+#4220
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the 
+Elven Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D1
+The hall continues in this direction.
+~
+~
+0 0 4221
+D2
+The hall continues in this direction.
+~
+~
+0 0 4209
+S
+#4221
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+D1
+The hall continues in this direction.
+~
+~
+0 0 4222
+D2
+The hall continues in this direction.
+~
+~
+0 0 4213
+D3
+The hall continues in this direction.
+~
+~
+0 0 4221
+S
+#4222
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D1
+The hall continues in this direction.
+~
+~
+0 0 4223
+D2
+The hall continues in this direction.
+~
+~
+0 0 4214
+D3
+The hall continues in this direction.
+~
+~
+0 0 4221
+S
+#4223
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D1
+The hall continues in this direction.
+~
+~
+0 0 4224
+D2
+The hall continues in this direction.
+~
+~
+0 0 4219
+D3
+The hall continues in this direction.
+~
+~
+0 0 4222
+S
+#4224
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D2
+The hall continues in this direction.
+~
+~
+0 0 4225
+D3
+The hall continues in this direction.
+~
+~
+0 0 4223
+S
+#4225
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4224
+D2
+The hall continues in this direction.
+~
+~
+0 0 4226
+D3
+The hall continues in this direction.
+~
+~
+0 0 4219
+S
+#4226
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4225
+D2
+The hall continues in this direction.
+~
+~
+0 0 4227
+D3
+The hall continues in this direction.
+~
+~
+0 0 4218
+S
+#4227
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearings their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4026
+D2
+The hall continues in this direction.
+~
+~
+0 0 4228
+D3
+The hall continues in this direction.
+~
+~
+0 0 4217
+S
+#4228
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+Table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4227
+D3
+The hall continues in this direction.
+~
+~
+0 0 4229
+S
+#4229
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the 
+Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions with their mouths open.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4217
+D1
+The hall continues in this direction.
+~
+~
+0 0 4228
+D3
+The hall continues in this direction.
+~
+~
+0 0 4230
+S
+#4230
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4216
+D1
+The hall continues in this direction.
+~
+~
+0 0 4229
+D3
+The hall continues in this direction.
+~
+~
+0 0 4231
+S
+#4231
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4211
+D1
+The hall continues in this direction.
+~
+~
+0 0 4230
+D3
+The hall continues in this direction.
+~
+~
+0 0 4232
+S
+#4232
+The Upper Gallery~
+This entire gallery is set several feet above the rest of the hall,
+giving it a spectacular view. All of the dancing and feasting can be seen
+in clear view from here. A continuous oak table lines the entire upper
+gallery. These seats are reserved for the distinguished guests of the Elven
+Lord.
+~
+0 8 0
+E
+table~
+This massive table is covered with delicacies of every kind. Silver
+goblets filled with the finest red wine wait to be tasted. The tables legs
+are carvings of fierce lions bearing their teeth.
+~
+D0
+The hall continues in this direction.
+~
+~
+0 0 4210
+D1
+The hall continues in this direction.
+~
+~
+0 0 4231
+S
+#4233
+An Ornate Hallway~
+This hallway is extremely extravegant. The walls and floors have been
+polished and buffed to a bright shine, and intricate designs have been
+carved across them. The floor is covered in a beautiful rug, and chairs and
+tall golden lampstands line the halls.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4234
+D1
+A massive domed room lies in this direction.
+~
+~
+0 0 4206
+S
+#4234
+An Ornate Hallway~
+This hallway is extremely extravegant. The walls and floors have been
+polished and buffed to a bright shine, and intricate designs have been
+carved across them. The floor is covered in a beautiful rug, and chairs and
+tall golden lampstands line the halls.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4237
+D1
+A small room lies in this direction.
+~
+~
+0 0 4236
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4233
+D3
+A small room lies in this direction.
+~
+~
+0 0 4235
+S
+#4235
+A Guest Room~
+A large bed dominates this room. Large silk sheets hang down above the
+bed and a mass of pillows lies at the head. One large lamp stands in the
+corner next to a ornate wooden dresser and mirror. A fine rug covers the
+floor and the ceiling is stensiled with wildflowers.
+~
+0 8 0
+D1
+~
+~
+0 0 4234
+S
+#4236
+A Guest Room~
+A large bed dominates this room. Large silk sheets hang down above the
+bed and a mass of pillows lies at the head. One large lamp stands in the
+corner next to a ornate wooden dresser and mirror. A fine rug covers the
+floor and the ceiling is stensiled with wildflowers.
+~
+0 8 0
+D3
+~
+~
+0 0 4234
+S
+#4237
+An Ornate Hallway~
+This hallway is extremely extravegant. The walls and floors have been
+polished and buffed to a bright shine, and intricate designs have been
+carved across them. The floor is covered in a beautiful rug, and chairs and
+tall golden lampstands line the halls.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4240
+D1
+A small room lies in this direction.
+~
+~
+0 0 4239
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4234
+D3
+A small room lies in this direction.
+~
+~
+0 0 4238
+S
+#4238
+A Guest Room~
+A large bed dominates this room. Large silk sheets hang down above the
+bed and a mass of pillows lies at the head. One large lamp stands in the
+corner next to a ornate wooden dresser and mirror. A fine rug covers the
+floor and the ceiling is stensiled with wildflowers.
+~
+0 8 0
+D1
+~
+~
+0 0 4237
+S
+#4239
+A Guest Room~
+A large bed dominates this room. Large silk sheets hang down above the
+bed and a mass of pillows lies at the head. One large lamp stands in the
+corner next to a ornate wooden dresser and mirror. A fine rug covers the
+floor and the ceiling is stensiled with wildflowers.
+~
+0 8 0
+D3
+~
+~
+0 0 4237
+S
+#4240
+An Ornate Hallway~
+This hallway is extremely extravegant. The walls and floors have been
+polished and buffed to a bright shine, and intricate designs have been
+carved across them. The floor is covered in a beautiful rug, and chairs and
+tall golden lampstands line the halls.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4243
+D1
+A small room lies in this direction.
+~
+~
+0 0 4242
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4237
+D3
+A small room lies in this direction.
+~
+~
+0 0 4241
+S
+#4241
+A Guest Room~
+A large bed dominates this room. Large silk sheets hang down above the
+bed and a mass of pillows lies at the head. One large lamp stands in the
+corner next to a ornate wooden dresser and mirror. A fine rug covers the
+floor and the ceiling is stensiled with wildflowers.
+~
+0 8 0
+D1
+~
+~
+0 0 4240
+S
+#4242
+A Guest Room~
+A large bed dominates this room. Large silk sheets hang down above the
+bed and a mass of pillows lies at the head. One large lamp stands in the
+corner next to a ornate wooden dresser and mirror. A fine rug covers the
+floor and the ceiling is stensiled with wildflowers.
+~
+0 8 0
+D3
+~
+~
+0 0 4240
+S
+#4243
+An Ornate Hallway~
+This hallway is extremely extravegant. The walls and floors have been
+polished and buffed to a bright shine, and intricate designs have been
+carved across them. The floor is covered in a beautiful rug, and chairs and
+tall golden lampstands line the halls.
+~
+0 8 0
+D1
+The hallway continues in this direction.
+~
+~
+0 0 4244
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4240
+S
+#4244
+An Arched Hallway~
+This floor of this hallway is a beautiful black and white marble. The
+torches that line either side of the hall send the light dancing across the
+marble. The ceiling in ths room is arched and is supported by old looking
+beams of wood that form an elaborate design because of thier formation.
+~
+0 8 0
+D0
+A beautiful marble covers the wall here.
+~
+~
+0 0 4249
+D1
+The hallway continues in this direction.
+~
+~
+0 0 4250
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4247
+D3
+The hallway continues in this direction.
+~
+~
+0 0 4243
+S
+#4245
+An Arched Hallway~
+This floor of this hallway is a beautiful black and white marble. The
+torches that line either side of the hall send the light dancing across the
+marble. The ceiling in ths room is arched and is supported by old looking
+beams of wood that form an elaborate design because of thier formation.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4246
+D2
+A massive domed room lies in this direction.
+~
+~
+0 0 4206
+S
+#4246
+An Arched Hallway~
+This floor of this hallway is a beautiful black and white marble. The
+torches that line either side of the hall send the light dancing across the
+marble. The ceiling in ths room is arched and is supported by old looking
+beams of wood that form an elaborate design because of thier formation.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4247
+D1
+A spiral staircase can be seen in the next room.
+~
+~
+0 0 4248
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4245
+S
+#4247
+An Arched Hallway~
+This floor of this hallway is a beautiful black and white marble. The
+torches that line either side of the hall send the light dancing across the
+marble. The ceiling in ths room is arched and is supported by old looking
+beams of wood that form an elaborate design because of thier formation.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4244
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4246
+S
+#4248
+The Bottom of a Spiral Staircase~
+This small alcove contains a large spiral staircase comprised of slabs of
+grey stone. The stairway spirals high above your head leading to the
+floors above. Occasional torches are positioned on the way up the stairs,
+giving off small ammounts of light.
+~
+0 8 0
+D3
+~
+~
+0 0 4246
+D4
+A massive spiral staircase rises overhead.
+~
+~
+0 0 4253
+S
+#4249
+Entrance to Gwenidill~
+The only source of light in this barren room is a single candle that
+burns in the center. The light from the candle causes shadows to dance
+across the room. You notice a large rune inscribeD4on the floor near the
+candle.
+~
+0 12 0
+E
+writing~
+As you look more closely at the writing you notice the phrase "HAKRI
+GWENIDILL MAFRE FINAE" is repeated around the entire rune.
+~
+E
+rune~
+A massive rune has been inscribeD4on the floor here. Around the rune 
+something has been written in a forgotten language.
+~
+D2
+~
+~
+0 0 4244
+D5
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4304
+S
+#4250
+Hall of the Elven Lords~
+This is the old hall leading to the chambers of the Elven Lord. Various
+symbols and runes line the hallway here, to declare the glory of the elven
+race. A long rug woven with gold lines the hall here, along with different
+portraits of the latest Elven Lords.
+~
+0 8 0
+D1
+~
+~
+0 0 4251
+D3
+~
+~
+0 0 4244
+S
+#4251
+Before the Chambers of the Elven Lord~
+A large door of gold stands here embossed with a large dragon. Vines
+grow all about the walls near the door and beautiful flowers are in full
+bloom among the vines.
+~
+0 8 0
+D1
+A large golden door embossed with a massive dragon is set in the wall 
+here.
+~
+~
+2 4201 4252
+D3
+~
+~
+0 0 4250
+S
+#4252
+The Bed Chambers of the Elven Lord~
+A spectacular and spacious rooms surrounds you. A breathtaking bed lies
+in the rear of the room. The bed posts have been carved to look like the
+trunks of a tree which leaD4 to branches that mingle above the bed. A
+massive chest sits at the foot of the bed, and a beautiful dresser sits
+against the wall. Upon the ceiling there is a wonderous scene depicting an
+ancient temple. Upon the floor an elaborate symbol is carved into the 
+stone
+itself.
+~
+0 8 0
+E
+writing~
+The key to past lies in the present. Only when the five stars have been
+united will the way be seen. When the five stars of the Chiliad are
+together then will the key be revealed.
+~
+E
+symbol~
+The symbol here is in the form of a five pointed star. At the tip of
+each star there is a slight indentation as if somthing was meant to be
+placed there. As you look closer at the star itself, you notice there is
+some writing in the center.
+~
+D3
+A doorway leads back out to the hallway.
+~
+~
+2 4201 4251
+S
+#4253
+On a Spiral Staircase~
+This staircase is comprised of large slabs of grey stone. Occasional
+torches are positioned on the wall and give off a small ammount of light.
+The smell of dirt and the moisture in the air give the stairwell an earthy
+feeling.
+~
+0 8 0
+D2
+The hallway starts in this direction.
+~
+~
+0 0 4254
+D4
+The staircase continues up to the next level.
+~
+~
+0 0 4280
+D5
+The staircase spirals down beneath you.
+~
+~
+0 0 4248
+S
+#4254
+A Wide Hallway~
+The floor in this hall is made of packed dirt, but it is nearly rock from
+the ammount of traffic this hallway recieves. The walls are made of
+fieldstone and there are torches hanging from the ceiling. The smells of
+fire and metal pervade the area, there is also a fair ammount of heat
+comming from the walls to the east.
+~
+0 8 0
+D0
+A staircase lies in this direction.
+~
+~
+0 0 4253
+D2
+The hall continues in this direction.
+~
+~
+0 0 4255
+S
+#4255
+A Split in the Hallway~
+The floor in this hall is made of packed dirt, but it is nearly rock from
+the ammount of traffic this hallway recieves. The walls are made of
+fieldstone and there are torches hanging from the ceiling. The smells of
+fire and metal pervade the area, there is also a fair ammount of heat
+comming from the east.
+~
+0 8 0
+D0
+~
+~
+0 0 4254
+D1
+The hall continues in this direction.
+~
+~
+0 0 4256
+D3
+The hall continues in this direction.
+~
+~
+0 0 4263
+S
+#4256
+A Wide Hallway~
+The floor in this hall is made of packed dirt, but it is nearly rock from
+the ammount of traffic this hallway recieves. The walls are made of
+fieldstone and there are torches hanging from the ceiling. The smells of
+fire and metal pervade the area, there is also a fair ammount of heat
+comming from the east.
+~
+0 8 0
+D1
+A massive forge can be seen in this direction.
+~
+~
+0 0 4257
+D3
+The hall continues in this direction.
+~
+~
+0 0 4255
+S
+#4257
+The Elven Forge~
+The heat in this room is incredible, dozens of fiery forges are positioned
+throughout this room. Large ventilation shafts are over each forge leading,
+to the outside. Countless racks of weapons and armor line the walls. Piles
+of ignots of every type of metal are near each forge. The light in this
+room is provided completely by the hot embers in the forge, which send an
+orange glow throughout the room.
+~
+0 8 0
+D0
+The forge continues in this direction.
+~
+~
+0 0 4258
+D1
+The forge continues in this direction.
+~
+~
+0 0 4261
+D2
+The forge continues in this direction.
+~
+~
+0 0 4259
+D3
+A hallway can be seen in this direction.
+~
+~
+0 0 4256
+S
+#4258
+The Elven Forge~
+The heat in this room is incredible, dozens of fiery forges are positioned
+throughout this room. Large ventilation shafts are over each forge leading,
+to the outside. Countless racks of weapons and armor line the walls. Piles
+of ignots of every type of metal are near each forge. The light in this
+room is provided completely by the hot embers in the forge, which send an
+orange glow throughout the room.
+~
+0 8 0
+D1
+The forge continues in this direction.
+~
+~
+0 0 4262
+D2
+The forge continues in this direction.
+~
+~
+0 0 4257
+S
+#4259
+The Elven Forge~
+The heat in this room is incredible, dozens of fiery forges are positioned
+throughout this room. Large ventilation shafts are over each forge leading,
+to the outside. Countless racks of weapons and armor line the walls. Piles
+of ignots of every type of metal are near each forge. The light in this
+room is provided completely by the hot embers in the forge, which send an
+orange glow throughout the room.
+~
+0 8 0
+D0
+The forge continues in this direction.
+~
+~
+0 0 4257
+D1
+The forge continues in this direction.
+~
+~
+0 0 4260
+S
+#4260
+The Elven Forge~
+The heat in this room is incredible, dozens of fiery forges are positioned
+throughout this room. Large ventilation shafts are over each forge leading,
+to the outside. Countless racks of weapons and armor line the walls. Piles
+of ignots of every type of metal are near each forge. The light in this
+room is provided completely by the hot embers in the forge, which send an
+orange glow throughout the room.
+~
+0 8 0
+D0
+The forge continues in this direction.
+~
+~
+0 0 4261
+D3
+The forge continues in this direction.
+~
+~
+0 0 4259
+S
+#4261
+The Elven Forge~
+The heat in this room is incredible, dozens of fiery forges are positioned
+throughout this room. Large ventilation shafts are over each forge leading,
+to the outside. Countless racks of weapons and armor line the walls. Piles
+of ignots of every type of metal are near each forge. The light in this
+room is provided completely by the hot embers in the forge, which send an
+orange glow throughout the room.
+~
+0 8 0
+D0
+The forge continues in this direction.
+~
+~
+0 0 4262
+D2
+The forge continues in this direction.
+~
+~
+0 0 4260
+D3
+The forge continues in this direction.
+~
+~
+0 0 4257
+S
+#4262
+The Elven Forge~
+The heat in this room is incredible, dozens of fiery forges are positioned
+throughout this room. Large ventilation shafts are over each forge leading,
+to the outside. Countless racks of weapons and armor line the walls. Piles
+of ignots of every type of metal are near each forge. The light in this
+room is provided completely by the hot embers in the forge, which send an
+orange glow throughout the room.
+~
+0 8 0
+D2
+The forge continues in this direction.
+~
+~
+0 0 4261
+D3
+The forge continues in this direction.
+~
+~
+0 0 4258
+S
+#4263
+A Wide Hallway~
+The floor in this hall is made of packed dirt, but it is nearly rock from
+the ammount of traffic this hallway recieves. The walls are made of
+fieldstone and there are torches hanging from the ceiling. The smells of
+fire and metal pervade the area, there is also a fair ammount of heat
+comming from the east.
+~
+0 8 0
+D1
+The hall continues in this direction.
+~
+~
+0 0 4255
+D3
+Barracks can be seen in this direction.
+~
+~
+0 0 4264
+S
+#4264
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds are
+lined in rows with a single chest at the foot of each bed. The smell of
+sweat and war is strong here, from the many soldier who call this their
+home.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4266
+D1
+A hallway can be seen in this direction.
+~
+~
+0 0 4263
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4265
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4270
+S
+#4265
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable Looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. Rough hewn walls lies to the east and west.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4264
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4271
+S
+#4266
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the east.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4267
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4264
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4269
+S
+#4267
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. Rough hewn walls lie to the north and west.
+~
+0 8 0
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4266
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4268
+S
+#4268
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the north.
+~
+0 8 0
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4267
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4269
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4275
+S
+#4269
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds are
+lined in rows with a single chest at the foot of each bed. The smell of
+sweat and war is strong here, from the many soldier who call this their
+home.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4268
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4266
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4270
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4274
+S
+#4270
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds are
+lined in rows with a single chest at the foot of each bed. The smell of
+sweat and war is strong here, from the many soldier who call this their
+home.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4269
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4264
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4271
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4273
+S
+#4271
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the south.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4270
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4265
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4272
+S
+#4272
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the south.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4273
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4271
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4279
+S
+#4273
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds are
+lined in rows with a single chest at the foot of each bed. The smell of
+sweat and war is strong here, from the many soldier who call this their
+home.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4274
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4270
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4272
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4278
+S
+#4274
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds are
+lined in rows with a single chest at the foot of each bed. The smell of
+sweat and war is strong here, from the many soldier who call this their
+home.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4275
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4269
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4273
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4277
+S
+#4275
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the north.
+~
+0 8 0
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4268
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4274
+D3
+The barracks continue in this direction.
+~
+~
+0 0 4276
+S
+#4276
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the foot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. Rough hewn walls lie to the west and to the north.
+~
+0 8 0
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4275
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4277
+S
+#4277
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the fot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the west.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4276
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4274
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4278
+S
+#4278
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the fot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. A rough hewn wall lies to the west.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4277
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4273
+D2
+The barracks continue in this direction.
+~
+~
+0 0 4279
+S
+#4279
+The Guard Barracks~
+This massive room is filled only with beds. Uncomfortable looking beds
+are lined in rows with a single chest at the fot of each bed. The smell
+of sweat and war is strong here, from the many soldier who call this their
+home. Rough hewn walls lies to the west anD2.
+~
+0 8 0
+D0
+The barracks continue in this direction.
+~
+~
+0 0 4278
+D1
+The barracks continue in this direction.
+~
+~
+0 0 4272
+S
+#4280
+The Top of a Spiral Staircase~
+This staircase is comprised of large slabs of grey stone. Occasional
+torches are positioned on the wall that give off a small ammount of light.
+The smell of dirt and the moisture in the air give the stairwell an earthy
+feeling. Below you, you can see the staircase winding down to the floors
+below.
+~
+0 8 0
+D2
+The leads in this direction.
+~
+~
+0 0 4281
+D5
+The stairs spiral down beneath you.
+~
+~
+0 0 4253
+S
+#4281
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+A staircase can be seen in this directoin.
+~
+~
+0 0 4280
+D1
+The hallway continues in this direction.
+~
+~
+0 0 4284
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4286
+D3
+The hallway continues in this direction.
+~
+~
+0 0 4282
+S
+#4282
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4300
+D1
+The hallway continues in this direction.
+~
+~
+0 0 4281
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4288
+D3
+The hallway continues in this direction.
+~
+~
+0 0 4283
+S
+#4283
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4302
+D1
+The hallway continues in this direction.
+~
+~
+0 0 4282
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4290
+S
+#4284
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the halls for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4298
+D1
+The hallway continues in this direction.
+~
+~
+0 0 4285
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4292
+D3
+The hallway continues in this direction.
+~
+~
+0 0 4281
+S
+#4285
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the halls for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4296
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4294
+D3
+The hallway continues in this direction.
+~
+~
+0 0 4284
+S
+#4286
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. 
+Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4281
+D2
+~
+~
+0 0 4287
+S
+#4287
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4286
+S
+#4288
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4282
+D2
+~
+~
+0 0 4289
+S
+#4289
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4288
+S
+#4290
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4283
+D2
+~
+~
+0 0 4291
+S
+#4291
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4290
+S
+#4292
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the halls for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4284
+D2
+~
+~
+0 0 4293
+S
+#4293
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4292
+S
+#4294
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the halls for use by the
+archers.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4285
+D2
+~
+~
+0 0 4295
+S
+#4295
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the 
+smells
+of the forest waft in though the opening.
+~
+0 8 0
+D0
+The hallway continues in this direction.
+~
+~
+0 0 4294
+S
+#4296
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the halls for use by the
+archers.
+~
+0 8 0
+D0
+~
+~
+0 0 4297
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4285
+S
+#4297
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4296
+S
+#4298
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the halls for use by the
+archers.
+~
+0 8 0
+D0
+~
+~
+0 0 4299
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4284
+S
+#4299
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4298
+S
+#4300
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+~
+~
+0 0 4301
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4282
+S
+#4301
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4300
+S
+#4302
+A Small Hallway~
+A fresh breeze flows through the hallway. Light can be seen at the end
+of the hallway. The walls and floors of the hall are all dirt. The roots
+of different trees and plants can be seen running through the dirt. 
+Baskets
+full of arrows are set here and there about the hallway for use by the
+archers.
+~
+0 8 0
+D0
+~
+~
+0 0 4303
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4283
+S
+#4303
+An Archer's Post~
+This small area is where the archers take their post. A small window of
+sorts has been dug through the soil and much of the forest before the
+stronghold can be seen. Sunlight pours in through the window and the smells
+of the forest waft in though the opening.
+~
+0 8 0
+D2
+The hallway continues in this direction.
+~
+~
+0 0 4302
+S
+#4304
+Entrance to the Ancient Halls of Gwenidill~
+A strange glow seems to eminate from the walls here, giving light to the
+halls. The air is heavy with age, and the absolute silence of these halls
+is devastating. An inch of dust covers the floor, and the eyes of a
+thousand years seems to bare down on you. A identical rune to the one in
+the upper room is inscribeD4on the floor, although it seems to be
+inverted.
+~
+0 8201 0
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4305
+D4
+A thick haze prevents seeing the way ahead of you.
+~
+~
+1 0 4249
+S
+#4305
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence is devastating. An inch of
+dust covers the floor, and the eyes of a thousand years seems to bearD5
+on you.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4304
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4306
+S
+#4306
+Hall of the Elven Chiliad~
+This massive rectangular room contains six life like statues of elven
+warriors and mages in full armor or garb. The ceiling has a slight dome to
+it and golden runes are written across the entire space. Five arched
+doorways lead out from this room, each doorway containing at least one
+symbol engraved next to it.
+~
+0 8201 0
+E
+statue~
+Looking a bit closer you notice the statues hand is clenched, as if it
+had been once holding a weapon.
+~
+E
+arch~
+The symbol of the Elven Chiliad has been carved into the archway here.
+~
+D0
+~
+~
+0 0 4305
+D1
+~
+~
+0 0 4307
+D2
+~
+~
+0 0 4310
+D3
+~
+~
+0 0 4308
+S
+#4307
+Hall of the Elven Chiliad~
+This massive rectangular room contains six life like statues of elven
+warriors and mages in full armor or garb. The ceiling has a slight dome to
+it and golden runes are written across the entire space. Five arched
+doorways lead out from this room, each doorway containing at least one
+symbol engraved next to it.
+~
+0 8201 0
+E
+statue~
+Looking a bit closer you notice the statues hand is clenched, as if it
+had been once holding a weapon.
+~
+D2
+~
+~
+0 0 4311
+D3
+~
+~
+0 0 4306
+S
+#4308
+Hall of the Elven Chiliad~
+This massive rectangular room contains six life like statues of elven
+warriors and mages in full armor or garb. The ceiling has a slight dome to
+it and golden runes are written across the entire space. Five arched
+doorways lead out from this room, each doorway containing at least one
+symbol engraved next to it.
+~
+0 8201 0
+E
+statue~
+Looking a bit closer you notice the statues hand is clenched, as if it
+had been once holding a weapon.
+~
+E
+arch~
+A beautiful symbol depicting a crecent moon is carved into the archway
+here.
+~
+D1
+~
+~
+0 0 4306
+D2
+~
+~
+0 0 4309
+D3
+~
+~
+0 0 4312
+S
+#4309
+Hall of the Elven Chiliad~
+This massive rectangular room contains six life like statues of elven
+warriors and mages in full armor or garb. The ceiling has a slight dome to
+it and golden runes are written across the entire space. Five arched
+doorways lead out from this room, each doorway containing at least one
+symbol engraved next to it.
+~
+0 8201 0
+E
+statue~
+Looking a bit closer you notice the statues hand is clenched, as if it
+had been once holding a weapon.
+~
+E
+arch~
+A symbol of three interlocking rings is carved into the archway here.
+~
+D0
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4308
+D1
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4310
+D3
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4384
+S
+#4310
+Hall of the Elven Chiliad~
+This massive rectangular room contains six life like statues of elven
+warriors and mages in full armor or garb. The ceiling has a slight dome to
+it and golden runes are written across the entire space. Five arched
+doorways lead out from this room, each doorway containing at least one
+symbol engraved next to it.
+~
+0 8201 0
+E
+symbol~
+A small coin has been etched near the doorway to the south.
+~
+E
+statue~
+Looking a bit closer you notice the statues hand is clenched, as if it
+had been once holding a weapon.
+~
+E
+arch~
+A symbol depicting a golden coin has been chisled into the archway.
+~
+D0
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4306
+D1
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4311
+D2
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4320
+D3
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4309
+S
+#4311
+Hall of the Elven Chiliad~
+This massive rectangular room contains six life like statues of elven
+warriors and mages in full armor or garb. The ceiling has a slight dome to
+it and golden runes are written across the entire space. Five arched
+doorways lead out from this room, each doorway containing at least one
+symbol engraved next to it.
+~
+0 8201 0
+E
+statue~
+Looking a bit closer you notice the statues hand is clenched, as if it
+had been once holding a weapon.
+~
+E
+arch~
+A tome, crown, and a night sky have been carved into the archway overhead.
+~
+D0
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4307
+D1
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4333
+D3
+A thick haze prevents you from seeing to far ahead of you.
+~
+~
+0 0 4310
+S
+#4312
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4308
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4313
+S
+#4313
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4314
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4312
+S
+#4314
+Before a Strange Doorway~
+You are before a small doorway made of a strange wood. There is quite a
+bit of static electricity in near this doorway, and a cool breeze flows from
+underneath the doorway.
+~
+0 8201 0
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4313
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+2 4257 4315
+S
+#4315
+A Large Laboratory~
+Every sort of bottle, and instruments of exotic make lie all about in
+this room. Tables stacked with jars of strange powerds and shavings of
+metal stand against the back wall. A large counter runs nearly the entire
+walls space. Diagrams and notes are scribbled on peices of parchment and
+attached to the walls. The floors are made of a smooth non-descript stone,
+and scorch marks can be seen here and there. The smell of sulfer still
+hangs about in the air as if it was used only moments ago.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4318
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+1 0 4314
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4316
+S
+#4316
+A Large Laboratory~
+Every sort of bottle, and instruments of exotic make lie all about in
+this room. Tables stacked with jars of strange powerds and shavings of
+metal stand against the back wall. A large counter runs nearly the entire
+walls space. Diagrams and notes are scribbled on peices of parchment and
+attached to the walls. The floors are made of a smooth non-descript stone,
+and scorch marks can be seen here and there. The smell of sulfer still
+hangs about in the air as if it was used only moments ago.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4317
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4315
+S
+#4317
+A Large Laboratory~
+Every sort of bottle, and instruments of exotic make lie all about in
+this room. Tables stacked with jars of strange powerds and shavings of
+metal stand against the back wall. A large counter runs nearly the entire
+walls space. Diagrams and notes are scribbled on peices of parchment and
+attached to the walls. The floors are made of a smooth non-descript stone,
+and scorch marks can be seen here and there. The smell of sulfer still
+hangs about in the air as if it was used only moments ago.
+~
+0 8201 0
+D1
+~
+~
+0 0 4318
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4316
+D3
+~
+~
+0 0 4319
+S
+#4318
+A Large Laboratory~
+Every sort of bottle, and instruments of exotic make lie all about in
+this room. Tables stacked with jars of strange powerds and shavings of
+metal stand against the back wall. A large counter runs nearly the entire
+walls space. Diagrams and notes are scribbled on peices of parchment and
+attached to the walls. The floors are made of a smooth non-descript stone,
+and scorch marks can be seen here and there. The smell of sulfer still
+hangs about in the air as if it was used only moments ago.
+~
+0 8201 0
+D2
+~
+~
+0 0 4315
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4317
+S
+#4319
+A Hidden Alcove~
+This small alcove contains only one desc with several journals upon it.
+A candle covered in dust is melted to the desk, and random reagents are
+scattered on the floor. A scorched shelf dominates the wall to the west.
+~
+0 9 0
+D1
+~
+~
+0 0 4317
+S
+#4320
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4310
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4321
+S
+#4321
+Before a Scorched Gate~
+A massive blackened gate stands in the south wall here. Scorch marks
+line all the edges of the gates, and the floor is burnt as well. The gate
+itself is inscribed with symbols of warning, and a large crown is embossed
+upon the center.
+~
+0 8201 0
+E
+symbol~
+You notice a line of writing underneath the embossed crown it reads 'To pass 
+through these gates unwelcome is to welcome almost certain death. '
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4320
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+2 4255 4322
+S
+#4322
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4321
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4330
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4326
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4324
+S
+#4324
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4322
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4325
+S
+#4325
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4324
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4326
+S
+#4326
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4322
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4327
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4325
+S
+#4327
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4330
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4328
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4326
+S
+#4328
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4331
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4329
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4327
+S
+#4329
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4332
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4328
+S
+#4330
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4331
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4327
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4322
+S
+#4331
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4332
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4328
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4330
+S
+#4332
+The Elven Coffers~
+Several torches are lit on the walls of this massive coffer. Incredible
+ammounts of gold and riches of every kind are piled high from corner to
+corner of this room. The ceiling is covered in deadly metal spikes that
+hang down menacingly. The light from the torches dances upon the treasure,
+making it look like the remnants of a shattered sun.
+~
+0 8201 0
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4329
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4331
+S
+#4333
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 9 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4334
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4311
+S
+#4334
+A Large Rotunda~
+This circular room lies under a large dome. The ceiling of the dome is
+covered in stars that glow with an inner light. The walls are made of an
+obsidian that seems to suck up the light around it. Arched doorways lead
+off in all directions each baring a different symbol above it.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+Looking up at the archway you notice two concentric circles etched into 
+the 
+keystone.
+~
+~
+0 0 4335
+D1
+A thick haze prevents seeing the way ahead of you.
+Looking up at the archway you notice a star etched into the keystone.
+~
+~
+0 0 4364
+D2
+A thick haze prevents seeing the way ahead of you.
+Looking up at the archway you notice a crown etched into the keystone.
+~
+~
+0 0 4375
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4333
+S
+#4335
+Before a Set of Ornate Doors~
+A large set of oaken doors stand fifthteen feet high in the northern
+walls. Vines and trees have been carved ornately into the face of the
+doors. To lanterns containing candles lie on either side of the door 
+frame, and a strange rune is cut into the stone beneath your feet.
+~
+0 8201 0
+E
+rune~
+A strange rune made of two concentric circles is etched into the floor 
+here.
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+2 4252 4336
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4334
+S
+#4336
+The Ancient Gallery~
+You are on the upper level of a two story room. All along the walls here
+portraits of the Lords of this stronghold hang with candles on either side.
+A smooth wood railing runs the edge of the balcony and you can see a massive
+library on the floor below you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4347
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+1 0 4335
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4337
+S
+#4337
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+E
+portrait~
+A stout elven man in green robes stands with his harm resting on the hilt
+of a magnificent scimitar.
+
+A brass plate on the frame of the painting says:
+"Lord Hrenifen the Lover of Nature"
+~
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4336
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4338
+S
+#4338
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+E
+portrait~
+A jolly looking elf is posed leaning against an old oak tree.
+
+A brass plate on the frame of the painting says:
+"Lord Fyndin the Laugher"
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4339
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4337
+S
+#4339
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you. A spiral
+stairway comes up through the floor here, leading down to the library.
+~
+0 8201 0
+E
+portrait~
+A slender elf standing in the midst of the forest with a small finch upon
+his finger.
+
+A brass plate on the frame of the painting says:
+"Lord Jinladron the Bird Friend"
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4340
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4338
+D5
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4363
+S
+#4340
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+E
+portrait~
+A rather portly elf is portrayed sitting at the head of a table amongst a
+massive feast.
+
+A brass plate on the frame of the painting says:
+"Lord Krynmir the Generous"
+~
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4341
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4339
+S
+#4341
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4342
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4340
+S
+#4342
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4343
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4341
+S
+#4343
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4344
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4342
+S
+#4344
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4345
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4343
+S
+#4345
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you. A spiral
+staircase rises up through the floor here, leading down to the library.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4344
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4346
+D5
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4348
+S
+#4346
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4345
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4347
+S
+#4347
+The Ancient Gallery~
+A large walkway leads around the edge of this balcony. All along the
+walls elegant portraits of the past Elven Lords hang with candles on either
+side of the frame. A smooth wood railing runs the edge of the balcony and
+you can see a massive library opening up on the floor below you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4346
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4336
+S
+#4348
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection. A large spiral staircase leads up to the gallery here.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4349
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4350
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4352
+D4
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4345
+S
+#4349
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4348
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4353
+S
+#4350
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4348
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4351
+S
+#4351
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4352
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4350
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4356
+S
+#4352
+The Center of the Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+torn~
+Description: Gareesh, the mass of of white stars forming a magnificent 
+lion.
+~
+E
+journal~
+As you open the journal you notice the pages seem to be blank. You see a
+torn piece of paper sticking out from between the pages.
+~
+E
+table~
+An immense oak table with intricate carvings rests here peacefully. You
+notice a small journal sitting upon the edge of the table.
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4353
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4348
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4351
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4355
+S
+#4353
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4349
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4352
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4354
+S
+#4354
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4353
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4355
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4359
+S
+#4355
+The Center of the Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4354
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4352
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4356
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4358
+S
+#4356
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4355
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4351
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4357
+S
+#4357
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4358
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4356
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4361
+S
+#4358
+The Center of the Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4359
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4355
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4357
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4363
+S
+#4359
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4354
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4358
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4362
+S
+#4361
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+virinahn~
+The god of the night sky, often depicted using simply the crecent moon.
+It is said he has also gone by the name "Wyntran".
+~
+E
+hjinikin~
+Lord of the frozen wastes, who would often take the form of a weary
+traveller.
+~
+E
+jyritonomy~
+Often depicted as a dragon clutching a scroll, to represent his strength
+and diplomatic nature.
+~
+E
+grinith~
+Depicted as a three headed hydra to represent the aid he lent thrice upon
+the battlefield of Baratook.
+~
+E
+faewry~
+The sable god of fire, patron of Gwenidill during it's conception.
+~
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+The Pantheon of Gwenidill
+~
+E
+pantheon~
+An account of the known traits of the gods of the Chilliadian Pantheon:
+
+  It had occured to me not only that there was no record of
+the known gods, but also no great wealth of knowlege about them. 
+Therefore,
+I have decided to write this small discourse on the known traits of the 
+pantheon.
+
+CONTENTS:
+
+1.FAEWRY
+2.GRINITH
+3.JYRITONOMY
+4.HJINIKIN
+5.VIRINAHN
+
+These traits have been compiled and scribed by,
+
+'Vynith Fawentod' the eternally bound.
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4363
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4357
+S
+#4362
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection.
+~
+0 8201 0
+E
+gwenid~
+Description: The five brightest stars in the night sky.
+~
+E
+pricipis~
+Description: The largest constellation known, Pricipis is a massive
+formation of red stars forming a stallion.
+~
+E
+jivinah~
+Description: A tight formation of stars forming a great horn.
+~
+E
+leoniq~
+Description: A cluster of white stars which have been named 'Leoniq' or 
+'White Fist'.
+~
+E
+haroe~
+Description: Eight young yellow stars forming a five pointed crown.
+~
+E
+epslin~
+Description: A mass of ten white stars forming a charging bull.
+~
+E
+documentation~
+The collective works of the observers of the night sky.
+
+Within this book lies the detailed descriptions of constellations and 
+there 
+given names.
+
+CONTENTS:
+
+1.EPSLIN
+2.HAROE
+3.LEONIQ
+4.JIVINAH
+5.PRICIPIS
+6.GWENID
+
+The page has been torn off after the six entry.....
+~
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+
+Documentation of the Night Sky
+~
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4359
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4363
+S
+#4363
+A Massive Library~
+Bookshelves rise high up towards the balcony, filled with rows and rows
+of books, journals, and the recordings of history. Wooden ladders lean up
+against the shelves so that the higher shelves can be reached. Tall
+lampstands are placed here and there throughout the room, next to tables and
+benches. The floor is made of a beautiful black granite, smoothed to
+perfection. A spiral staircase leads up to the gallery here.
+~
+0 8201 0
+E
+bookshelf~
+Looking upon the bookshelf you notice the titles:
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4362
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4358
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4361
+D4
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4339
+S
+#4364
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4365
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4334
+S
+#4365
+Before a Door Embossed with Stars~
+A smaller door occupies the eastern wall here. Single stars are
+embossed on this door that seems to be made of alabaster. Two strange 
+torches burn with a dim blue light on either side of the door frame.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+2 4253 4366
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4364
+S
+#4366
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps of constellations and even single stars line the entire outer
+wall of this room, and small candles sit unlit on stands around the 
+walkway
+of the observatory.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4367
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4374
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4368
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+1 0 4365
+S
+#4367
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the 
+center of this room a large contraption rises up to the very top of the 
+dome. Maps and constellations and even single stars line the enitre outer 
+wall of this room, and small candles sit unlit on stands around the walkway 
+of the observatory.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4373
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4366
+S
+#4368
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps and constellations and even single stars line the enitre outer
+wall of this room, and small candles sit unlit on stands around the 
+walkway
+of the observatory.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4366
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4369
+S
+#4369
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps and constellations and even single stars line the enitre outer
+wall of this room, and small candles sit unlit on stands around the walkway
+of the observatory.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4374
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4370
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4368
+S
+#4370
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps and constellations and even single stars line the enitre outer
+wall of this room, and small candles sit unlit on stands around the walkway
+of the observatory.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4371
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4369
+S
+#4371
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps and constellations and even single stars line the enitre outer
+wall of this room, and small candles sit unlit on stands around the walkway
+of the observatory.
+~
+0 8201 0
+D0
+~
+~
+0 0 4372
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4370
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4374
+S
+#4372
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps and constellations and even single stars line the enitre outer
+wall of this room, and small candles sit unlit on stands around the walkway
+of the observatory.
+~
+0 8201 0
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4371
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4373
+S
+#4373
+Inside the Observatory~
+A massive dome rises at least one hundred feet above your head. In the
+center of this room a large contraption rises up to the very top of the
+dome. Maps and constellations and even single stars line the enitre outer
+wall of this room, and small candles sit unlit on stands around the walkway
+of the observatory.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4372
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4374
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4367
+S
+#4374
+Under a Massive Telescope~
+A massive contraption of brass rises mightily over your head. Gear,
+wheels, and pullies command your attention at every glance. A beautiful
+silver chair embossed with stars sits facing the telescope.
+~
+0 8201 0
+E
+chair~
+This beautiful silver chair seems to beckon for you to sit.
+~
+E
+telescope~
+An extremely large telescope made of brass is before you. Wheels, and
+gears unmoved for centuries lie in waiting. This contraption holds a
+strange beauty which begs to be used.
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4373
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4371
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4369
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4366
+S
+#4375
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4334
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4376
+S
+#4376
+Before a Door Depicting a Large Constellation~
+Two large doors of guilded gold dominate the eastern wall. A large
+constellation in the shape of a lion is embossed on the doors face. A
+crystal chandelier hangs down from the ceiling, and strange candles within
+it burn with a golden light. Two tapestries depicting grand feasts hang
+upon the southern an western walls.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4375
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+2 4254 4377
+S
+#4377
+Throne Room of the First Elven Lord~
+A spectacular hall spreads out before you. Large tapestries and curtains
+are draped from the walls next to beautiful paintings and scuptures. The
+ceiling is high and painted with elaborate designs. In each corner of the
+ceiling the bust of a lions head faces down towards you in silent vigil.
+The floors are white marble and covered with beautiful rugs.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4380
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4378
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+1 0 4376
+S
+#4378
+Throne Room of the First Elven Lord~
+A spectacular hall spreads out before you. Large tapestries and curtains
+are draped from the walls next to beautiful paintings and scuptures. The
+ceiling is high and painted with elaborate designs. In each corner of the
+ceiling the bust of a lions head faces down towards you in silent vigil.
+The floors are white marble and covered with beautiful rugs.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4377
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4379
+S
+#4379
+Throne Room of the First Elven Lord~
+A spectacular hall spreads out before you. Large tapestries and curtains
+are draped from the walls next to beautiful paintings and scuptures. The
+ceiling is high and painted with elaborate designs. In each corner of the
+ceiling the bust of a lions head faces down towards you in silent vigil.
+The floors are white marble and covered with beautiful rugs.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4380
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4382
+D2
+A beautiful mithril throne commands your attention upon the southern wall.
+~
+~
+1 0 4383
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4378
+S
+#4380
+Throne Room of the First Elven Lord~
+A spectacular hall spreads out before you. Large tapestries and curtains
+are draped from the walls next to beautiful paintings and scuptures. The
+ceiling is high and painted with elaborate designs. In each corner of the
+ceiling the bust of a lions head faces down towards you in silent vigil.
+The floors are white marble and covered with beautiful rugs.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4381
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4379
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4377
+S
+#4381
+Throne Room of the First Elven Lord~
+A spectacular hall spreads out before you. Large tapestries and curtains
+are draped from the walls next to beautiful paintings and scuptures. The
+ceiling is high and painted with elaborate designs. In each corner of the
+ceiling the bust of a lions head faces down towards you in silent vigil.
+The floors are white marble and covered with beautiful rugs.
+~
+0 8201 0
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4382
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4380
+S
+#4382
+Throne Room of the First Elven Lord~
+A spectacular hall spreads out before you. Large tapestries and curtains
+are draped from the walls next to beautiful paintings and scuptures. The
+ceiling is high and painted with elaborate designs. In each corner of the
+ceiling the bust of a lions head faces down towards you in silent vigil.
+The floors are white marble and covered with beautiful rugs.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4381
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4379
+S
+#4383
+Behind the Throne~
+You have stumbled into the secret room behind the massive throne.
+Lifeless stone walls suround you completely. The only thing that catches
+your eye is a carving of a lion upon the back wall.
+~
+0 1 0
+E
+carving~
+A beautiful lion in full stride has been etched into the wall here. The
+lion's mouth is open and there is a small crevice that looks as if
+somthing could be placed in the mouth.
+~
+E
+lion~
+A beautiful lion in full stride has been etched into the wall here. The
+lion's mouth is open and there is a small crevice that looks as if
+somthing could be placed in the mouth.
+~
+D0
+You see the back of the throne.
+~
+~
+1 0 4379
+S
+#4384
+A Hallway through Gwenidill~
+The walls here are made of some form of smooth metal. A strange glow
+seems to eminate from the walls themselves, giving light to the halls. The
+air is heavy with age, and the absolute silence of these halls is
+devastating. An inch of dust covers the floor , and the eyes of a thousand
+years seems to bear down on you.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4309
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4385
+S
+#4385
+Before a Door Carved with Ancient Runes~
+A large door covered in the runes of ancient dieties commands attention
+at the southern wall. All along the walls near the doors small prayers are
+written to remind others. The floor here is a black marble mixed with veins
+of gold running throughout. Large golden stands are postioned at either end
+of the doorway.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4384
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+2 4256 4386
+S
+#4386
+The Pantheon of Gwenidill~
+Huge ceilings rise above your head. Massive arches made of stone cross
+back and forth across the roof, and large murals cover the spaces between.
+Depictions of gods and thier works have been painted to pay tribute to the
+them. The entire pantheon is devoid of furnature. In the southern end of
+the Pantheon a giant alter to the gods is erected. It contains portraits 
+of the gods, or what they are known for, and thier names. Torches burn
+eternally upon the walls here in the Pantheon.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4385
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4387
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4391
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4388
+S
+#4387
+The Pantheon of Gwenidill~
+Huge ceilings rise above your head. Massive arches made of stone cross
+back and forth across the roof, and large murals cover the spaces between.
+Depictions of gods and thier works have been painted to pay tribute to the
+them. The entire pantheon is devoid of furnature. In the southern end of
+the Pantheon a giant alter to the gods is erected. It contains portraits of
+the gods, or what they are known for, and thier names. Torches burn
+eternally upon the walls here in the Pantheon.
+~
+0 8201 0
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4386
+S
+#4388
+The Pantheon of Gwenidill~
+Huge ceilings rise above your head. Massive arches made of stone cross
+back and forth across the roof, and large murals cover the spaces between.
+Depictions of gods and thier works have been painted to pay tribute to the
+them. The entire pantheon is devoid of furnature. In the southern end of
+the Pantheon a giant alter to the gods is erected. It contains portraits of
+the gods, or what they are known for, and thier names. Torches burn
+eternally upon the walls here in the Pantheon.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4386
+D2
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4390
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4389
+S
+#4389
+The Pantheon of Gwenidill~
+Huge ceilings rise above your head. Massive arches made of stone cross
+back and forth across the roof, and large murals cover the spaces between.
+Depictions of gods and thier works have been painted to pay tribute to the
+them. The entire pantheon is devoid of furnature. In the southern end of
+the Pantheon a giant alter to the gods is erected. It contains portraits of
+the gods, or what they are known for, and thier names. Torches burn
+eternally upon the walls here in the Pantheon.
+~
+0 8201 0
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4388
+S
+#4390
+The Pantheon of Gwenidill~
+Huge ceilings rise above your head. Massive arches made of stone cross
+back and forth across the roof, and large murals cover the spaces between.
+Depictions of gods and thier works have been painted to pay tribute to the
+them. The entire pantheon is devoid of furnature. In the southern end of
+the Pantheon a giant alter to the gods is erected. It contains portraits of
+the gods, or what they are known for, and thier names. Torches burn
+eternally upon the walls here in the Pantheon.
+~
+0 8201 0
+E
+altar~
+A beautiful altar made of guilded gold rests before you. Small portaits
+depicting the gods of old hang from the walls of the altar.
+~
+E
+portraits~
+Looking closer at the portraits you notice the names of the gods etched
+underneath.
+FAEWRY
+GRINITH
+JYRITONIMY
+HJINIKIN
+VIRINAHN
+~
+E
+faewry~
+A portrait of an elf like figure engulfed in flames hangs upon the wall
+of the altar.
+~
+E
+grinith~
+A portrait of three headed hydra rising up out of the water hangs upon
+the wall of the altar.
+~
+E
+jyritonimy~
+A portrait of a dragon like figure holding a scroll in his right claw
+hangs upon the wall of the altar here.
+~
+E
+hjinikin~
+A portrait of a strange figure shrowded by driving snow hangs upon the
+wall of the altar here.
+~
+E
+virinahn~
+A portrait of a crecent moon hangs upon the wall of the altar here. The
+portrait itself seems to be hanging a bit crooked.
+~
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4388
+D1
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4391
+S
+#4391
+The Pantheon of Gwenidill~
+Huge ceilings rise above your head. Massive arches made of stone cross
+back and forth across the roof, and large murals cover the spaces between.
+Depictions of gods and thier works have been painted to pay tribute to the
+them. The entire pantheon is devoid of furnature. In the southern end of
+the Pantheon a giant alter to the gods is erected. It contains portraits of
+the gods, or what they are known for, and thier names. Torches burn
+eternally upon the walls here in the Pantheon.
+~
+0 8201 0
+D0
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4386
+D3
+A thick haze prevents seeing the way ahead of you.
+~
+~
+0 0 4390
+S
+#4392
+The Inner Sanctum of Virinahn~
+An infinate plane stretches out in all directions. The ground as far as
+the eye can see is sand as white as snow. The sky is black and formless
+with only a single star in the sky above. A constant breeze blows across
+the plane, but without sound, leaving the impression of an infinite void.
+~
+0 8197 9
+D2
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 13818
+D4
+~
+~
+0 0 11521
+D5
+~
+~
+0 0 20273
+S
+#4393
+Dummy Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 4231 0 4202
+P 0 4200 1 4231 1
+M 0 4221 10 4204 1
+E 0 4204 0 6
+E 0 4203 0 10
+E 0 4202 0 5
+E 0 4205 0 8
+E 0 4206 0 7
+E 0 4207 0 9
+E 0 4208 0 16
+E 0 4208 0 16
+M 0 4221 10 4205 1
+E 0 4207 0 9
+E 0 4206 0 7
+E 0 4205 0 8
+E 0 4202 0 5
+E 0 4203 0 10
+E 0 4204 0 6
+E 0 4208 0 16
+E 0 4208 0 16
+M 0 4221 10 4206 1
+E 0 4202 0 5
+E 0 4203 0 10
+E 0 4204 0 6
+E 0 4208 0 16
+E 0 4208 0 16
+E 0 4205 0 8
+E 0 4206 0 7
+E 0 4207 0 9
+M 0 4221 10 4207 1
+M 0 4205 10 4208 1
+M 0 4204 10 4208 1
+M 0 4203 10 4208 1
+M 0 4205 10 4209 1
+M 0 4204 10 4209 1
+M 0 4203 10 4209 1
+M 0 4205 10 4210 1
+M 0 4204 10 4210 1
+M 0 4203 10 4210 1
+M 0 4205 10 4211 1
+M 0 4203 10 4211 1
+M 0 4204 10 4211 1
+M 0 4221 10 4213 1
+M 0 4205 10 4213 1
+M 0 4204 10 4213 1
+M 0 4203 10 4213 1
+M 0 4205 10 4214 1
+M 0 4204 10 4214 1
+M 0 4203 10 4214 1
+M 0 4221 10 4215 1
+M 0 4205 10 4216 1
+M 0 4204 10 4216 1
+M 0 4203 10 4216 1
+M 0 4205 10 4217 1
+M 0 4204 10 4217 1
+M 0 4203 10 4217 1
+M 0 4205 10 4218 1
+M 0 4204 10 4218 1
+M 0 4203 10 4218 1
+M 0 4205 10 4219 1
+M 0 4204 10 4219 1
+M 0 4203 10 4219 1
+M 0 4212 13 4220 1
+M 0 4211 13 4220 1
+M 0 4212 13 4221 1
+M 0 4211 13 4221 1
+M 0 4212 13 4222 1
+M 0 4211 13 4222 1
+M 0 4212 13 4223 1
+M 0 4211 13 4223 1
+M 0 4212 13 4224 1
+M 0 4211 13 4224 1
+M 0 4212 13 4225 1
+M 0 4211 13 4225 1
+M 0 4212 13 4226 1
+M 0 4211 13 4226 1
+M 0 4212 13 4227 1
+M 0 4211 13 4227 1
+M 0 4212 13 4228 1
+M 0 4211 13 4228 1
+M 0 4212 13 4229 1
+M 0 4211 13 4229 1
+O 0 4233 0 4229
+P 0 4234 1 4233 1
+M 0 4212 13 4230 1
+M 0 4211 13 4230 1
+M 0 4212 13 4231 1
+M 0 4211 13 4231 1
+M 0 4212 13 4232 1
+M 0 4211 13 4232 1
+M 0 4223 1 4235 1
+E 0 4235 0 7
+E 0 4236 0 16
+M 0 4216 1 4236 1
+E 0 4219 0 13
+E 0 4220 0 16
+M 0 4221 10 4237 1
+E 0 4204 0 6
+E 0 4203 0 10
+E 0 4202 0 5
+E 0 4207 0 9
+E 0 4206 0 7
+E 0 4205 0 8
+M 0 4217 1 4238 1
+E 0 4213 0 5
+E 0 4214 0 16
+M 0 4218 1 4239 1
+E 0 4216 0 16
+E 0 4215 0 6
+M 0 4219 1 4241 1
+E 0 4209 0 16
+E 0 4210 0 12
+M 0 4220 1 4242 1
+E 0 4211 0 16
+E 0 4212 0 6
+M 0 4221 10 4244 1
+E 0 4205 0 8
+E 0 4204 0 6
+E 0 4203 0 10
+E 0 4202 0 5
+E 0 4207 0 9
+E 0 4206 0 7
+E 0 4208 0 16
+E 0 4208 0 16
+M 0 4221 10 4247 1
+E 0 4208 0 16
+E 0 4208 0 16
+E 0 4202 0 5
+E 0 4203 0 10
+E 0 4204 0 6
+E 0 4205 0 8
+E 0 4206 0 7
+E 0 4207 0 9
+M 0 4221 10 4250 1
+E 0 4206 0 7
+E 0 4207 0 9
+E 0 4202 0 5
+E 0 4205 0 8
+E 0 4204 0 6
+E 0 4203 0 10
+E 0 4208 0 16
+E 0 4208 0 16
+M 0 4221 10 4251 1
+E 0 4205 0 8
+E 0 4204 0 6
+E 0 4203 0 10
+E 0 4202 0 5
+E 0 4206 0 7
+E 0 4207 0 9
+E 0 4208 0 16
+E 0 4208 0 16
+M 0 4222 1 4252 1
+E 0 4222 0 16
+E 0 4221 0 1
+M 0 4201 10 4257 1
+E 0 4230 0 16
+M 0 4201 10 4258 1
+E 0 4230 0 16
+M 0 4201 10 4259 1
+E 0 4230 0 16
+M 0 4201 10 4260 1
+E 0 4230 0 16
+M 0 4201 10 4261 1
+E 0 4230 0 16
+M 0 4201 10 4262 1
+E 0 4230 0 16
+M 0 4202 30 4264 3
+E 0 4202 0 5
+E 0 4203 0 10
+E 0 4208 0 16
+M 0 4202 30 4265 2
+E 0 4202 0 5
+E 0 4203 0 10
+E 0 4208 0 16
+M 0 4202 30 4266 3
+E 0 4202 0 5
+E 0 4204 0 6
+E 0 4208 0 16
+M 0 4202 30 4266 2
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4267 3
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4267 2
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4268 2
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4269 2
+E 0 4202 0 5
+E 0 4204 0 6
+E 0 4208 0 16
+M 0 4202 30 4269 2
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4204 0 6
+M 0 4202 30 4269 2
+E 0 4208 0 16
+E 0 4202 0 5
+M 0 4202 30 4270 2
+E 0 4202 0 5
+E 0 4205 0 8
+E 0 4208 0 16
+M 0 4202 30 4270 2
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4205 0 8
+M 0 4202 30 4270 2
+E 0 4208 0 16
+E 0 4202 0 5
+E 0 4205 0 8
+M 0 4202 30 4271 2
+E 0 4202 0 5
+E 0 4206 0 7
+E 0 4208 0 16
+M 0 4202 30 4271 2
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4206 0 7
+M 0 4202 30 4272 3
+E 0 4202 0 5
+E 0 4206 0 7
+E 0 4208 0 16
+E 0 4203 0 10
+M 0 4202 30 4272 2
+E 0 4202 0 5
+E 0 4206 0 7
+E 0 4208 0 16
+M 0 4202 30 4273 3
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4273 2
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4274 3
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4203 0 10
+M 0 4202 30 4275 3
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4275 2
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4276 2
+E 0 4202 0 5
+E 0 4208 0 16
+M 0 4202 30 4277 3
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4207 0 9
+M 0 4202 30 4278 3
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4207 0 9
+M 0 4202 30 4278 2
+E 0 4208 0 16
+E 0 4202 0 5
+E 0 4207 0 9
+M 0 4202 30 4279 3
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4207 0 9
+E 0 4206 0 7
+M 0 4202 30 4279 2
+E 0 4202 0 5
+E 0 4208 0 16
+E 0 4207 0 9
+M 0 4200 9 4287 1
+E 0 4232 0 12
+M 0 4200 9 4289 1
+E 0 4232 0 12
+M 0 4200 9 4291 1
+E 0 4232 0 12
+M 0 4200 9 4293 1
+E 0 4232 0 12
+M 0 4200 9 4295 1
+E 0 4232 0 12
+M 0 4200 9 4297 1
+E 0 4232 0 12
+M 0 4200 9 4299 1
+E 0 4232 0 12
+M 0 4200 9 4301 1
+E 0 4232 0 12
+M 0 4200 9 4303 1
+E 0 4232 0 12
+M 0 4214 10 4305 1
+O 0 4229 0 4306
+O 0 4228 0 4307
+O 0 4225 0 4308
+O 0 4224 0 4309
+O 0 4226 0 4310
+O 0 4227 0 4311
+M 0 4214 10 4312 1
+O 0 4248 0 4316
+P 0 4247 1 4248 1
+O 0 4245 0 4317
+P 0 4246 1 4245 1
+O 0 4243 0 4319
+P 0 4242 1 4243 1
+P 0 4244 1 4243 1
+M 0 4213 1 4321 1
+O 0 4260 0 4322
+O 0 4260 0 4324
+O 0 4260 0 4325
+M 0 4214 10 4325 1
+O 0 4260 0 4326
+O 0 4259 0 4327
+P 0 4258 1 4259 1
+O 0 4260 0 4328
+O 0 4260 0 4329
+O 0 4260 0 4330
+O 0 4260 0 4331
+O 0 4260 0 4332
+M 0 4214 10 4333 1
+M 0 4214 10 4334 1
+O 0 4250 0 4352
+O 0 4250 0 4355
+O 0 4250 0 4358
+M 0 4226 1 4358 1
+M 0 4214 10 4364 1
+O 0 4223 0 4374
+M 0 4214 10 4375 1
+M 0 4225 1 4379 1
+O 0 4264 0 4379
+O 0 4267 0 4383
+P 0 4268 1 4267 1
+M 0 4214 10 4384 1
+O 0 4251 0 4390
+O 0 4261 0 4392
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

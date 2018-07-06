@@ -1,0 +1,2489 @@
+Tumtum | Hecuba | The bend in the trail in the dwarf forest | Fri Oct 25 08:40:56 2002
+Nickers | Maelgwn | Village road | Fri Oct 25 13:22:42 2002
+Nickers | Maelgwn | At a muddy track | Fri Oct 25 13:33:03 2002
+Darkren | Maelgwn | On the Southeast Bridge | Fri Oct 25 13:54:35 2002
+Grellion | Maelgwn | Along a Windy Trail on the Rim of the Valley | Fri Oct 25 15:29:04 2002
+Grellion | Maelgwn | At a bend on the wooden walkway | Fri Oct 25 15:51:03 2002
+Maelgwn | Razag | Standing in the Courtyard | Fri Oct 25 16:12:13 2002
+Gilmore | Gilmore | The Temple Of Mota | Fri Oct 25 16:16:20 2002
+Togrul | Darkren | Inside the Great Hall | Fri Oct 25 18:21:50 2002
+Darkren | Icarus | Inside the Great Hall | Fri Oct 25 18:22:48 2002
+Brindinos | Sadlick | A Dark Hallway | Fri Oct 25 19:36:03 2002
+Togrul | Entreri | The Dragon Chamber | Fri Oct 25 19:55:38 2002
+Entreri | Adrosener | A Dark Hallway | Fri Oct 25 20:16:03 2002
+Togrul | Adrosener | The Entrance | Fri Oct 25 20:22:48 2002
+Kenthi | Entreri | Wall Road | Fri Oct 25 20:26:23 2002
+Togrul | Adrosener | The Big Intersection | Fri Oct 25 20:31:05 2002
+Togrul | Kenthi | Market Square | Fri Oct 25 20:34:46 2002
+Toktamrsh | Zauvolt | Mountainside Tombs | Fri Oct 25 22:12:59 2002
+Thomas | Entreri | By the Temple Altar | Sat Oct 26 17:23:26 2002
+Kenthi | Entreri | The Main Street | Sat Oct 26 18:23:28 2002
+Kenthi | Entreri | On a road | Sat Oct 26 18:30:40 2002
+Kenthi | Mike | Before the Gates of Midgaard | Sat Oct 26 19:29:44 2002
+Kenthi | Zauvolt | The Main Street | Sat Oct 26 19:34:18 2002
+Mike | Entreri | By the Temple Altar | Sat Oct 26 19:42:10 2002
+Lythine | Kaerk | By the Temple Altar | Sat Oct 26 21:15:58 2002
+Risca | Kaerk | By the Temple Altar | Sat Oct 26 21:17:29 2002
+Lograhm | Kaerk | By the Temple Altar | Sat Oct 26 21:26:00 2002
+Kenthi | Nerazul | Inside the West Gate of Midgaard | Sat Oct 26 21:52:02 2002
+Tyril | Malanduis | Beneath a wooden battlement | Sat Oct 26 23:07:42 2002
+Tyril | Raog | Outside the West Gate of New Thalos | Sun Oct 27 00:33:09 2002
+Joash | Raog | The Void | Sun Oct 27 01:11:20 2002
+Bluee | Raog | The Void | Sun Oct 27 01:14:08 2002
+Tyril | Erith | Wall Road | Sun Oct 27 01:32:35 2002
+Joash | Grish | The Void | Sun Oct 27 01:43:31 2002
+Joash | Virinahn | The Void | Sun Oct 27 01:47:19 2002
+Rith | Krollos | The Entrance | Sun Oct 27 12:51:43 2002
+Thomas | Raog | Town Square | Sun Oct 27 14:11:13 2002
+Raog | Zauvolt | Dragon Road | Sun Oct 27 14:21:38 2002
+Icarus | Raog | Southwest Corner of the Sanctuary | Sun Oct 27 14:43:46 2002
+Raog | Nadraz | A Dark Hallway | Sun Oct 27 15:04:56 2002
+Ghraag | Raog | Northern Section of the Sanctuary | Sun Oct 27 15:09:48 2002
+Thomas | Raog | Eldritch Lane | Sun Oct 27 16:24:03 2002
+Raog | Nadraz | The Mouth of a Cave | Sun Oct 27 16:30:47 2002
+Fazed | Krollos | By the Temple Altar | Sun Oct 27 16:47:36 2002
+Fazed | Malanduis | The Entrance | Sun Oct 27 16:54:13 2002
+Soke | Malanduis | Black Hole | Sun Oct 27 16:56:51 2002
+Fazed | Nadraz | The Dark Road | Sun Oct 27 17:02:07 2002
+Thomas | Krollos | The ancient path | Sun Oct 27 17:22:15 2002
+Raog | Nerazul | Bend in Hector Street | Sun Oct 27 19:13:58 2002
+Selfren | Kaerk | The Main Street | Mon Oct 28 01:17:52 2002
+Grish | Wrath | The Dark Road | Mon Oct 28 17:52:59 2002
+Penz | Nadraz | At a muddy track | Mon Oct 28 18:49:48 2002
+Nadraz | Toktamrsh | A dim trail in the dwarf forest | Mon Oct 28 18:53:16 2002
+Erith | Malanduis | West Main Street | Mon Oct 28 20:40:44 2002
+Icarus | Erith | The steep foothills | Mon Oct 28 21:03:49 2002
+Joash | Krollos | Central main area of the Mausoleum. | Mon Oct 28 23:27:10 2002
+Joash | Krollos | By the Temple Altar | Tue Oct 29 00:08:06 2002
+Joash | Krollos | By the Temple Altar | Tue Oct 29 00:11:38 2002
+Farticus | Kaerk | By the Temple Altar | Tue Oct 29 00:53:50 2002
+Penz | Nadraz | By the Temple Altar | Tue Oct 29 01:06:13 2002
+Bleeder | Xarius | Second Level | Tue Oct 29 12:18:03 2002
+cloaked figure | Orduno | Inside the Eastern Gate of New Thalos | Tue Oct 29 12:20:27 2002
+Xarius | Orduno | Market Square | Tue Oct 29 12:31:05 2002
+Penz | Ghraag | The Temple Of Mota | Tue Oct 29 13:03:50 2002
+Penz | Gracklin | By the Temple Altar | Tue Oct 29 13:11:18 2002
+Gracklin | Ghraag | Pig pen | Tue Oct 29 13:20:21 2002
+Xarius | Ghraag | Before the Gates of Midgaard | Tue Oct 29 13:25:52 2002
+Penz | Nadraz | The Common Square | Tue Oct 29 14:28:51 2002
+Penz | Rinaldi | At a muddy track | Tue Oct 29 14:58:48 2002
+Denglod | Ghraag | Village road | Tue Oct 29 15:51:21 2002
+Orduno | Ghraag | At a muddy track | Tue Oct 29 17:02:30 2002
+Denglod | Ghraag | At a muddy track | Tue Oct 29 17:02:36 2002
+Denglod | Ghraag | At a muddy track | Tue Oct 29 17:06:02 2002
+Malanduis | Penz | Upon the Grassy Hills of the Downs | Tue Oct 29 18:57:02 2002
+Penz | Bluee | The Temple Of Mota | Tue Oct 29 19:07:17 2002
+Penz | Bluee | The Temple Of Mota | Tue Oct 29 19:10:46 2002
+Penz | Ghraag | The Cross Roads | Tue Oct 29 19:17:29 2002
+Penz | Ghraag | Market Square | Tue Oct 29 19:23:27 2002
+Penz | Ghraag | The Cross Roads | Tue Oct 29 19:34:01 2002
+Penz | Malanduis | The Cross Roads | Tue Oct 29 19:37:38 2002
+Kalystr | Ghraag | Before the Gates of Midgaard | Tue Oct 29 19:39:15 2002
+Penz | Bluee | Main Street | Tue Oct 29 19:41:11 2002
+Kalystr | Bluee | A Dirt Path Through the Downs | Tue Oct 29 19:44:13 2002
+Kalystr | Malanduis | Inside the West Gate of Midgaard | Tue Oct 29 19:48:32 2002
+Kalystr | Malanduis | Market Square | Tue Oct 29 19:54:29 2002
+Kalystr | Zauvolt | Market Square | Tue Oct 29 20:01:19 2002
+Kalystr | Bluee | Market Square | Tue Oct 29 20:08:15 2002
+Penz | Erith | A hallway in the castle | Wed Oct 30 01:00:28 2002
+Grumb | Rinaldi | The Entrance | Wed Oct 30 10:53:35 2002
+Bastiche | Xarius | Dragon Sea | Wed Oct 30 12:33:41 2002
+Denglod | Ghraag | The Temple Square | Wed Oct 30 16:21:13 2002
+Twist | Ghraag | At a muddy track | Wed Oct 30 16:23:27 2002
+Twist | Twist | At a muddy track | Wed Oct 30 16:51:50 2002
+Twist | Griffiths | The village shrine | Wed Oct 30 16:59:31 2002
+Griffiths | Penz | Grassy fields | Wed Oct 30 17:04:24 2002
+Penz | Ghraag | At a muddy track | Wed Oct 30 17:26:24 2002
+Twist | Ghraag | At a muddy track | Wed Oct 30 17:27:14 2002
+Aurelius | Griffiths | Outside the Entrance to the Golden Citadel | Wed Oct 30 17:40:25 2002
+Arielle | Griffiths | A Hallway | Wed Oct 30 17:53:38 2002
+Toktamrsh | Malanduis | The Mouth of a Cave | Wed Oct 30 18:34:38 2002
+Corvus | Ghraag | Cave Entrance | Wed Oct 30 18:37:31 2002
+Toktamrsh | Ghraag | The Mouth of a Cave | Wed Oct 30 18:38:21 2002
+Ghraag | Toktamrsh | By the beautiful waterfall | Wed Oct 30 18:46:03 2002
+Ghraag | Penz | By the beautiful waterfall | Wed Oct 30 18:52:25 2002
+cloaked figure | Penz | At a muddy track | Wed Oct 30 18:53:18 2002
+Toktamrsh | Ghraag | At a muddy track | Wed Oct 30 19:00:56 2002
+Corvus | Nadraz | A Trail | Wed Oct 30 19:03:10 2002
+Panoquin | Ghraag | The Dark Road | Wed Oct 30 19:07:36 2002
+Toktamrsh | Ghraag | The Mouth of a Cave | Wed Oct 30 19:07:54 2002
+Corvus | Malanduis | The Mystical Path | Wed Oct 30 19:15:38 2002
+Forsilith | Penz | At a muddy track | Wed Oct 30 20:04:33 2002
+Lasher | Sylkorian | The village shrine | Wed Oct 30 20:09:33 2002
+Mishraan | Penz | The Temple Of Mota | Wed Oct 30 22:25:51 2002
+Mishraan | Thomas | By the Temple Altar | Wed Oct 30 22:33:23 2002
+Penz | Ghraag | The dwarf forest | Wed Oct 30 23:10:00 2002
+Denglod | Razag | The Cross Roads | Thu Oct 31 09:30:02 2002
+Corvus | Crenshaw | Deep in the quagmire | Thu Oct 31 14:36:00 2002
+Corvus | Terax | The Library | Thu Oct 31 18:05:35 2002
+Terax | Kaerk | A wet and damp trail | Thu Oct 31 18:19:54 2002
+Corvus | Terax | Outside the Tower | Thu Oct 31 18:40:03 2002
+Corvus | Ghraag | The Mouth of a Cave | Thu Oct 31 18:55:05 2002
+Corvus | Ghraag | The Dark Road | Thu Oct 31 18:56:24 2002
+Corvus | Ghraag | The Tower | Thu Oct 31 18:57:55 2002
+Corvus | Ghraag | The Mouth of a Cave | Thu Oct 31 19:00:49 2002
+Thomas | Toktamrsh | A valley in the dark dwarf forest | Thu Oct 31 19:27:04 2002
+Kaerk | Narzalius | The Inner Gates | Thu Oct 31 20:05:02 2002
+Ilaffatu | Toktamrsh | Grassy fields | Thu Oct 31 21:42:24 2002
+Duff | Twist | Village road | Thu Oct 31 21:42:48 2002
+Ilaffatu | Toktamrsh | The village shrine | Thu Oct 31 21:43:49 2002
+Twist | Duff | Village road | Thu Oct 31 21:47:32 2002
+Duff | Twist | Grime's forge | Thu Oct 31 21:51:51 2002
+Duff | Ghraag | The Temple Of Mota | Thu Oct 31 21:56:15 2002
+Toktamrsh | Terax | A Mossy Trail Through the Thick Underwood | Thu Oct 31 23:25:55 2002
+Joash | Terax | Central main area of the Mausoleum. | Thu Oct 31 23:37:51 2002
+Joash | Toktamrsh | Main Street | Thu Oct 31 23:55:20 2002
+Toktamrsh | Terax | Main Street | Thu Oct 31 23:57:58 2002
+Joash | Terax | By the Temple Altar | Fri Nov  1 00:00:17 2002
+Beer | Terax | The Library | Fri Nov  1 00:02:47 2002
+Toktamrsh | Razag | Standing in the Courtyard | Fri Nov  1 15:07:09 2002
+Sylkorian | Razag | Standing in the Courtyard | Fri Nov  1 15:07:21 2002
+Toktamrsh | Razag | The Inner Gates | Fri Nov  1 15:19:59 2002
+Sycho | Razag | Standing in the Courtyard | Fri Nov  1 15:20:39 2002
+Toktamrsh | Razag | Standing in the Courtyard | Fri Nov  1 15:31:19 2002
+Toktamrsh | Razag | The Inner Gates | Fri Nov  1 15:35:47 2002
+Toktamrsh | Aino | At a muddy track | Fri Nov  1 15:42:50 2002
+Benius | Beer | Steep slope | Fri Nov  1 20:08:56 2002
+Beer | Zrialynith | The Inner Gates | Fri Nov  1 20:36:16 2002
+Gawaaiin | Zrialynith | Inside the East Gate of Midgaard | Fri Nov  1 20:40:14 2002
+Beer | Rinaldi | The Big Intersection | Fri Nov  1 21:17:51 2002
+Griffiths | Toktamrsh | In the air... | Fri Nov  1 21:48:39 2002
+Toktamrsh | Zrialynith | Before the Imperial Road | Fri Nov  1 23:18:33 2002
+Laearrist | Laearrist | At a muddy track | Sat Nov  2 03:04:36 2002
+Chaz | Zrialynith | Fourth Level | Sat Nov  2 10:45:34 2002
+Toktamrsh | Crenshaw | The village shrine | Sat Nov  2 14:20:23 2002
+Crenshaw | Toktamrsh | By the beautiful waterfall | Sat Nov  2 14:21:47 2002
+Zrialynith | Toktamrsh | Grassy fields | Sat Nov  2 14:21:58 2002
+Toktamrsh | Ghraag | A Mountain Path | Sat Nov  2 14:45:04 2002
+Laearrist | Ghraag | A Rocky Trail Through the Highlands | Sat Nov  2 14:58:24 2002
+Zealan | Ghraag | Labyrinth of the Underworld | Sat Nov  2 15:00:46 2002
+Tybalt | Laearrist | Main Street | Sat Nov  2 15:15:40 2002
+Nesquick | Zrialynith | The Inner Gates | Sat Nov  2 16:25:46 2002
+Nesquick | Zrialynith | Standing in the Courtyard | Sat Nov  2 16:32:00 2002
+Endus | Toktamrsh | Entering the village | Sat Nov  2 17:08:05 2002
+Endus | Zrialynith | Wall Road | Sat Nov  2 17:17:06 2002
+Endus | Zrialynith | The Inner Gates | Sat Nov  2 17:27:14 2002
+Endus | Zrialynith | The Inner Gates | Sat Nov  2 17:55:36 2002
+Beer | Ghraag | The Entrance | Sat Nov  2 18:14:33 2002
+Beer | Endus | The Entrance | Sat Nov  2 19:02:48 2002
+Endus | Krollos | The dwarf forest | Sat Nov  2 19:09:53 2002
+Beer | Krollos | In the Shaft from the Dragon Chamber | Sat Nov  2 19:16:27 2002
+Endus | Krollos | A rough trail | Sat Nov  2 19:19:45 2002
+Zrialynith | Endus | The village shrine | Sat Nov  2 19:26:37 2002
+Beer | Endus | Grassy fields | Sat Nov  2 19:33:25 2002
+Zrialynith | Endus | Grassy fields | Sat Nov  2 19:34:05 2002
+Zrialynith | Endus | A dusty path | Sat Nov  2 19:37:52 2002
+Endus | Krollos | A valley in the dark dwarf forest | Sat Nov  2 19:41:34 2002
+Radish | Krollos | On a windy walkway | Sat Nov  2 19:48:05 2002
+Radish | Radish | The fireplace | Sat Nov  2 20:12:56 2002
+Radish | Radish | By the Temple Altar | Sat Nov  2 20:13:04 2002
+Radish | Radish | By the Temple Altar | Sat Nov  2 20:13:13 2002
+Radish | Radish | By the Temple Altar | Sat Nov  2 20:13:29 2002
+Radish | Radish | By the Temple Altar | Sat Nov  2 20:13:44 2002
+Radish | Endus | By the Temple Altar | Sat Nov  2 20:18:36 2002
+Volgrath | Endus | The Temple Of Mota | Sat Nov  2 20:34:03 2002
+Laearrist | Endus | A bend in the dim trail in the dwarf forest | Sat Nov  2 20:38:49 2002
+Thyntos | Thyntos | The Mouth of a Cave | Sat Nov  2 20:40:07 2002
+Laearrist | Endus | At a muddy track | Sat Nov  2 20:41:07 2002
+Laearrist | Znerob | The village shrine | Sat Nov  2 20:42:20 2002
+Laearrist | Znerob | Village road | Sat Nov  2 20:44:30 2002
+Laearrist | Endus | Village road | Sat Nov  2 20:45:27 2002
+Laearrist | Endus | The village shrine | Sat Nov  2 20:47:18 2002
+Laearrist | Znerob | Grassy fields | Sat Nov  2 20:48:47 2002
+Laearrist | Zauvolt | By the beautiful waterfall | Sat Nov  2 20:51:39 2002
+Znerob | Ghraag | Village road | Sat Nov  2 20:53:13 2002
+Endus | Zauvolt | At a muddy track | Sat Nov  2 20:53:47 2002
+Znerob | Radish | The Tournament and Practice Yard | Sat Nov  2 20:57:52 2002
+Laearrist | Jiscile | A Narrow Trail Through the Foothills | Sat Nov  2 21:06:20 2002
+Beer | Jiscile | The Entrance | Sat Nov  2 21:08:45 2002
+Laearrist | Toktamrsh | Dark hallway | Sat Nov  2 21:10:43 2002
+Laearrist | Beer | The bend in the trail in the dwarf forest | Sat Nov  2 21:16:30 2002
+Toktamrsh | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:18:02 2002
+Beer | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:18:20 2002
+Toktamrsh | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:18:55 2002
+Laearrist | Ghraag | The Mouth of a Cave | Sat Nov  2 21:19:15 2002
+Beer | Jiscile | Village street | Sat Nov  2 21:19:20 2002
+Toktamrsh | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:19:52 2002
+Laearrist | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:20:42 2002
+Beer | Zauvolt | The Dark Road | Sat Nov  2 21:21:40 2002
+Laearrist | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:23:20 2002
+Laearrist | Zauvolt | The Mouth of a Cave | Sat Nov  2 21:25:10 2002
+Laearrist | Toktamrsh | Village road | Sat Nov  2 21:27:59 2002
+Endus | Zornar | By the Temple Altar | Sat Nov  2 21:32:52 2002
+Laearrist | Toktamrsh | The Weapon Shop | Sat Nov  2 21:35:57 2002
+Laearrist | Toktamrsh | Before the Gates of Midgaard | Sat Nov  2 21:41:49 2002
+Laearrist | Endus | Market Square | Sat Nov  2 21:44:44 2002
+Laearrist | Endus | Market Square | Sat Nov  2 21:48:19 2002
+Gash | Zrialynith | Entrance to the Palace | Sun Nov  3 00:11:34 2002
+Corvus | Thynor | The steep foothills | Sun Nov  3 11:51:10 2002
+Taylor | Zrialynith | Inside the HQ | Sun Nov  3 12:08:55 2002
+Zrialynith | Taylor | The Entrance | Sun Nov  3 12:10:28 2002
+Taylor | Razag | Mayor's Room | Sun Nov  3 12:14:06 2002
+Razag | Grikthoran | Kitchen | Sun Nov  3 12:59:28 2002
+Gracklin | Razag | The Inner Gates | Sun Nov  3 13:16:44 2002
+Meurk | Razag | The Stairwell | Sun Nov  3 13:18:34 2002
+Gracklin | Zrialynith | Before the Imperial Road | Sun Nov  3 13:19:13 2002
+Gracklin | Zrialynith | The Inner Gates | Sun Nov  3 13:20:57 2002
+Gracklin | Zrialynith | The Inner Gates | Sun Nov  3 13:21:56 2002
+Jiscile | Zrialynith | The Inner Gates | Sun Nov  3 13:31:53 2002
+Jiscile | Razag | The Imperial Road | Sun Nov  3 13:40:12 2002
+Laearrist | Benius | Terror Chamber | Sun Nov  3 13:56:08 2002
+Laearrist | Benius | At a muddy track | Sun Nov  3 13:58:23 2002
+Benius | Endus | Entering the village | Sun Nov  3 14:01:22 2002
+Benius | Twist | Entering the village | Sun Nov  3 14:06:12 2002
+Laea | Endus | At a muddy track | Sun Nov  3 14:07:52 2002
+Mendel | Twist | A trail in the dwarf forest | Sun Nov  3 14:11:18 2002
+Mendel | Endus | By the beautiful waterfall | Sun Nov  3 14:14:58 2002
+Laea | Endus | By the beautiful waterfall | Sun Nov  3 14:18:23 2002
+Laea | Endus | Grassy fields | Sun Nov  3 14:29:47 2002
+Endus | Laea | By the beautiful waterfall | Sun Nov  3 14:43:23 2002
+Grlath | Zrialynith | Market Square | Sun Nov  3 14:51:23 2002
+Toktamrsh | Laea | The Overlook | Sun Nov  3 15:05:36 2002
+Laea | Toktamrsh | At a muddy track | Sun Nov  3 15:07:28 2002
+Toktamrsh | Laea | At a muddy track | Sun Nov  3 15:09:34 2002
+Laea | Toktamrsh | At a muddy track | Sun Nov  3 15:14:15 2002
+Grlath | Toktamrsh | At a muddy track | Sun Nov  3 15:17:00 2002
+Laea | Toktamrsh | Grassy fields | Sun Nov  3 15:27:52 2002
+Endus | Grlath | At a muddy track | Sun Nov  3 15:35:18 2002
+Grlath | Zrialynith | By the beautiful waterfall | Sun Nov  3 15:37:40 2002
+Grlath | Endus | At a muddy track | Sun Nov  3 15:39:10 2002
+Laea | Zrialynith | Wall Road | Sun Nov  3 15:49:38 2002
+Grlath | Zrialynith | Wall Road | Sun Nov  3 15:49:41 2002
+Endus | Laea | Eastern end of Alley | Sun Nov  3 16:28:42 2002
+Thyntos | Laea | Entrance to the Grunting Boar Inn | Sun Nov  3 16:35:45 2002
+Laea | Nadraz | Entrance to the Grunting Boar Inn | Sun Nov  3 16:36:24 2002
+Conrad | Laea | The Eastern Yard | Sun Nov  3 16:51:33 2002
+Laea | Nadraz | Dark hallway | Sun Nov  3 16:56:50 2002
+Laea | Conrad | The Grand Hall | Sun Nov  3 17:02:36 2002
+Laea | Conrad | Within a Dark Clearing | Sun Nov  3 17:12:38 2002
+Conrad | Laea | A Small Trail | Sun Nov  3 18:12:02 2002
+Nesquick | Zrialynith | The Northwest Corner | Sun Nov  3 18:15:14 2002
+Nesquick | Zrialynith | The Inner Gates | Sun Nov  3 18:21:07 2002
+Nesquick | Zrialynith | Entrance to the Palace | Sun Nov  3 18:35:12 2002
+Laea | Bluee | The Secret Yard | Sun Nov  3 18:51:34 2002
+Beer | Bluee | The Entrance | Sun Nov  3 18:56:10 2002
+Thomas | Bluee | The Mouth of a Cave | Sun Nov  3 19:07:30 2002
+Morgoth | Morgoth | The eastern halls | Sun Nov  3 19:43:25 2002
+Morgoth | Morgoth | The Void | Sun Nov  3 19:48:58 2002
+Yuggle | Erith | The Hallway of Giants | Sun Nov  3 20:41:53 2002
+Corvus | Bluee | Forest Road | Sun Nov  3 21:17:14 2002
+Amalgameriar | Beer | Outside the East Gate of Midgaard | Sun Nov  3 21:44:47 2002
+Amalgameriar | Nadraz | On a dock | Sun Nov  3 21:55:21 2002
+Beer | Zrialynith | Ogier Grove | Sun Nov  3 22:01:36 2002
+Raekwon | Beer | Inside the Great Hall | Sun Nov  3 22:21:52 2002
+Zrialynith | Nadraz | The Mouth of a Cave | Sun Nov  3 22:31:20 2002
+Feroph | Derrek | A Path from the Plains | Mon Nov  4 13:40:14 2002
+Laea | Nadraz | Zeus Street | Mon Nov  4 14:55:30 2002
+Laea | Nadraz | Zeus Street | Mon Nov  4 14:59:30 2002
+Kalorian | Penz | The Armoury | Mon Nov  4 15:46:10 2002
+Datya | Icarus | WAY Far Down into the Valley | Mon Nov  4 17:33:43 2002
+Entreri | Zrialynith | Outside the East Gate of Midgaard | Mon Nov  4 19:17:41 2002
+Behhulisi | Zrialynith | The Dark Alley | Mon Nov  4 19:33:40 2002
+Zrialynith | Erith | The Temple Of Mota | Mon Nov  4 19:35:07 2002
+Zrialynith | Erith | Arena | Mon Nov  4 19:40:25 2002
+Navein | Malanduis | Kreegan's Hole in the Wall | Mon Nov  4 19:40:41 2002
+Erith | Zauvolt | In the depths of the swamp | Mon Nov  4 19:44:47 2002
+Quezphiel | Laea | The Plains | Mon Nov  4 20:52:58 2002
+Juste | Laea | The darker dwarf forest | Mon Nov  4 22:14:07 2002
+Juste | Yuggle | The dwarf forest | Mon Nov  4 22:22:28 2002
+Juste | Yuggle | The Cross Roads | Mon Nov  4 22:29:05 2002
+Laear | Terax | By the Temple Altar | Mon Nov  4 23:53:02 2002
+Laear | Quezphiel | By the Temple Altar | Tue Nov  5 00:22:56 2002
+Laear | Penz | Inside the Great Hall | Tue Nov  5 00:59:30 2002
+Quezphiel | Laear | Inside the Great Hall | Tue Nov  5 01:04:43 2002
+Penz | Laear | Inside the Great Hall | Tue Nov  5 01:05:01 2002
+Quezphiel | Laear | Inside the Great Hall | Tue Nov  5 01:11:40 2002
+Laear | Penz | Inside the Great Hall | Tue Nov  5 01:14:41 2002
+Laear | Penz | In the Shaft from the Dragon Chamber | Tue Nov  5 01:24:23 2002
+Laear | Penz | In the Shaft from the Dragon Chamber | Tue Nov  5 01:30:21 2002
+Laear | Penz | The Entrance | Tue Nov  5 01:38:16 2002
+Laear | Quezphiel | Inside the Great Hall | Tue Nov  5 01:47:22 2002
+Quezphiel | Laear | The Entrance | Tue Nov  5 01:56:06 2002
+Thomas | Thomas | The Entrance | Tue Nov  5 11:11:36 2002
+Razag | Gracklin | On the banks of a misty river | Tue Nov  5 13:07:40 2002
+Razag | Gracklin | Grubby Inn | Tue Nov  5 13:23:19 2002
+Laear | Penz | Door Before the End | Tue Nov  5 14:57:05 2002
+Palamor | Duhsmasher | City Entrance | Tue Nov  5 15:02:49 2002
+Walker | Laear | A hallway in the castle | Tue Nov  5 17:35:48 2002
+Corvus | Laear | Temple Of Stupid | Tue Nov  5 18:11:49 2002
+Thomas | Corvus | The Cross Roads | Tue Nov  5 18:23:30 2002
+Razag | Maelgwn | Standing in the Courtyard | Tue Nov  5 19:31:41 2002
+Panoquin | Haven | By the Temple Altar | Tue Nov  5 19:58:07 2002
+Nickers | Haven | The Main Street | Tue Nov  5 20:08:46 2002
+Nickers | Haven | Archway before the Temple of Chaos | Tue Nov  5 20:14:10 2002
+Nickers | Haven | Dark hallway | Tue Nov  5 20:22:32 2002
+Haven | Maelgwn | The subconscious | Tue Nov  5 20:34:39 2002
+Entreri | Ghraag | Archway before the Temple of Chaos | Tue Nov  5 20:38:19 2002
+Razag | Maelgwn | The Inner Gates | Tue Nov  5 21:54:21 2002
+Azuth | Maelgwn | Upon the Grassy Hills of the Downs | Tue Nov  5 22:38:43 2002
+Azuth | Maelgwn | Inside the Crystal Ball | Tue Nov  5 22:45:48 2002
+Corvus | Maelgwn | Black Hole | Tue Nov  5 23:00:48 2002
+Ethrix | Maelgwn | The Dark Road | Tue Nov  5 23:17:38 2002
+Quezphiel | Ethrix | The darker dwarf forest | Tue Nov  5 23:42:59 2002
+Quezphiel | Ethrix | At a muddy track | Tue Nov  5 23:50:33 2002
+Razag | Quezphiel | Market Square | Tue Nov  5 23:57:16 2002
+Quezphiel | Razag | Market Square | Wed Nov  6 00:01:13 2002
+Feroph | Haven | Melancholy's Room | Wed Nov  6 13:56:27 2002
+Laearrist | Razag | Inside the East Gate of Midgaard | Wed Nov  6 14:57:19 2002
+Zrialynith | Penz | At a muddy track | Wed Nov  6 16:27:21 2002
+Raekwon | Zrialynith | Inside the East Gate of Midgaard | Wed Nov  6 18:32:22 2002
+Bluee | Raekwon | Main Street | Wed Nov  6 18:36:52 2002
+Raekwon | Zrialynith | The Bakery | Wed Nov  6 18:38:39 2002
+Raekwon | Juste | The Bakery | Wed Nov  6 18:52:37 2002
+Juste | Zrialynith | The Bakery | Wed Nov  6 18:53:42 2002
+Raekwon | Bluee | The Bakery | Wed Nov  6 18:55:40 2002
+Juste | Bluee | The Bakery | Wed Nov  6 18:56:07 2002
+Bluee | Zrialynith | At a muddy track | Wed Nov  6 19:02:17 2002
+Raekwon | Zrialynith | At a muddy track | Wed Nov  6 19:02:31 2002
+Bluee | Zrialynith | At a muddy track | Wed Nov  6 19:04:28 2002
+Bluee | Zrialynith | At a muddy track | Wed Nov  6 19:04:59 2002
+Juste | Penz | By the beautiful waterfall | Wed Nov  6 19:11:57 2002
+Juste | Penz | The dwarf forest | Wed Nov  6 19:16:12 2002
+Laearrist | Zrialynith | Eastern Wing of the 2nd Level | Wed Nov  6 20:53:02 2002
+Razag | Zrialynith | Southeast Corner of the 3rd Level | Wed Nov  6 20:54:35 2002
+Razag | Zrialynith | Merchant's row | Wed Nov  6 21:03:52 2002
+Walker | Razag | At a muddy track | Wed Nov  6 21:50:50 2002
+Quezphiel | Razag | Inside the East Gate of Midgaard | Wed Nov  6 22:29:53 2002
+Endus | Razag | The Northeast Corner | Wed Nov  6 22:30:54 2002
+Iomas | Endus | Inside the East Gate of Midgaard | Wed Nov  6 22:44:23 2002
+Iomas | Endus | Inside the East Gate of Midgaard | Wed Nov  6 22:47:59 2002
+Endus | Razag | Inside the East Gate of Midgaard | Wed Nov  6 22:50:30 2002
+Endus | Razag | The Main Street | Wed Nov  6 22:54:32 2002
+Iomas | Endus | Inside the West Gate of Midgaard | Wed Nov  6 22:58:50 2002
+Iomas | Razag | The Main Street | Wed Nov  6 23:03:54 2002
+Endus | Razag | Upon the Grassy Hills of the Downs | Wed Nov  6 23:07:32 2002
+Razag | Endus | Main Street | Wed Nov  6 23:11:53 2002
+Endus | Razag | Wall Road | Wed Nov  6 23:16:11 2002
+Endus | Razag | The Stairwell | Wed Nov  6 23:22:46 2002
+Walker | Zrialynith | At a muddy track | Wed Nov  6 23:46:13 2002
+Razag | Zrialynith | At a muddy track | Wed Nov  6 23:46:33 2002
+Corvus | Zrialynith | The Mystical Path | Thu Nov  7 16:24:46 2002
+Desharin | Zrialynith | Along the Eastern Road | Thu Nov  7 17:07:28 2002
+Zrialynith | Duhsmasher | Entering the village | Thu Nov  7 17:16:46 2002
+Duhsmasher | Zrialynith | The village shrine | Thu Nov  7 17:25:38 2002
+Sifi | Zrialynith | By the Temple Altar | Thu Nov  7 19:22:52 2002
+Bubbagump | Bubbagump | Death Row | Thu Nov  7 21:14:45 2002
+Bubbagump | Bubbagump | Death Row | Fri Nov  8 11:19:48 2002
+Bubbagump | Bubbagump | Death Row | Fri Nov  8 11:32:30 2002
+Bubbagump | Bubbagump | Death Row | Fri Nov  8 11:39:03 2002
+Laearr | Zrialynith | The Overlook | Fri Nov  8 15:36:55 2002
+Laearr | Diobi | The Pet Shop | Fri Nov  8 16:05:52 2002
+Xzever | Xzever | Death Row | Fri Nov  8 16:15:08 2002
+Laearr | Deco | By the Temple Altar | Fri Nov  8 17:44:19 2002
+Laearr | Deco | By the Temple Altar | Fri Nov  8 17:49:42 2002
+Gralyk | Adrosener | Traveller's Crescent | Fri Nov  8 21:07:21 2002
+Zhrybian | Xenor | Upon the Grassy Hills of the Downs | Sat Nov  9 09:27:41 2002
+Zhrybian | Xenor | The Dragon Sea | Sat Nov  9 09:41:49 2002
+Raekwon | Xenor | The Holy Chamber of Air | Sat Nov  9 13:40:33 2002
+Elemtreeist | Sadlick | Priest's Bar | Sat Nov  9 15:31:59 2002
+Yhorian | Yhorian | Inside the East Gate of Midgaard | Sat Nov  9 17:30:10 2002
+Laearrist | Deco | Hector Street | Sat Nov  9 17:33:50 2002
+Viscious | Deco | The Dump | Sat Nov  9 17:38:36 2002
+Icarus | Deco | The Temple Of Mota | Sat Nov  9 17:42:38 2002
+Icarus | Deco | Back corner of the mind | Sat Nov  9 17:50:11 2002
+Essobi | Ucker | The Pet Shop | Sat Nov  9 19:45:22 2002
+Ucker | Laear | By the Temple Altar | Sat Nov  9 20:32:32 2002
+Ucker | Laear | In the Shaft from the Dragon Chamber | Sat Nov  9 21:01:15 2002
+Sheeit | Zrialynith | On a woodland trail | Sat Nov  9 22:04:53 2002
+Essobi | Rhyzzyn | The Dark Alley | Sat Nov  9 22:05:48 2002
+Essobi | Rhyzzyn | By the Temple Altar | Sat Nov  9 22:11:37 2002
+Essobi | Rhyzzyn | By the Temple Altar | Sat Nov  9 22:15:23 2002
+Essobi | Rhyzzyn | By the Temple Altar | Sat Nov  9 22:22:48 2002
+Essobi | Joash | The Dark Alley | Sat Nov  9 22:37:33 2002
+Quezphiel | Deco | The Fountain of Youth Apothecary | Sat Nov  9 23:34:16 2002
+Zrialynith | Deco | The Fountain of Youth Apothecary | Sat Nov  9 23:34:39 2002
+Zrialynith | Deco | Inside the East Gate of Midgaard | Sat Nov  9 23:43:48 2002
+Zrialynith | Quezphiel | Outside the East Gate of Midgaard | Sat Nov  9 23:58:07 2002
+Quezphiel | Nadraz | The bend in the trail in the dwarf forest | Sun Nov 10 00:01:35 2002
+Quezphiel | Deco | The Throne Room of the Nebula King | Sun Nov 10 00:14:47 2002
+Deco | Nadraz | The Throne Room of the Nebula King | Sun Nov 10 00:16:46 2002
+Sharmerlin | Zemqruba | The General Store | Sun Nov 10 01:11:03 2002
+Xenor | Adrosener | Market Square | Sun Nov 10 10:53:16 2002
+Sharmerlin | Nadraz | A closet | Sun Nov 10 14:51:16 2002
+Diobi | Nadraz | A corridor before the Hall | Sun Nov 10 14:56:33 2002
+Essobi | Diobi | The Pet Shop | Sun Nov 10 15:10:02 2002
+Essobi | Ethrix | The Pet Shop | Sun Nov 10 16:45:15 2002
+Hubbley | Maelgwn | The Cross Roads | Sun Nov 10 19:30:17 2002
+Hubbley | Zauvolt | The Cross Roads | Sun Nov 10 19:35:14 2002
+Hubbley | Ghraag | At a muddy track | Sun Nov 10 20:49:54 2002
+Hubbley | Ghraag | A dim trail in the dwarf forest | Sun Nov 10 20:58:32 2002
+Maelgwn | Dustyn | Grassy fields | Sun Nov 10 21:25:40 2002
+cloaked figure | Sharmerlin | At a muddy track | Sun Nov 10 21:26:20 2002
+cloaked figure | Dustyn | At a muddy track | Sun Nov 10 21:27:01 2002
+Viscious | Zrialynith | Alley at Levee | Sun Nov 10 21:28:02 2002
+Corvus | Bluee | Market Square | Sun Nov 10 21:35:00 2002
+Sharmerlin | Toktamrsh | The Chamber of Holiness | Sun Nov 10 21:39:15 2002
+Corvus | Bluee | Market Square | Sun Nov 10 21:40:43 2002
+Essobi | Laearrist | The Dark Alley | Sun Nov 10 22:23:18 2002
+Sharmerlin | Laearrist | The bend in the trail in the dwarf forest | Sun Nov 10 22:27:15 2002
+Zichlych | Laearrist | The Temple Gates | Sun Nov 10 22:36:23 2002
+Essobi | Laearrist | Alley at Levee | Sun Nov 10 22:42:49 2002
+Sharmerlin | Laearrist | At a muddy track | Sun Nov 10 22:51:24 2002
+Essobi | Laearrist | The Pet Shop | Sun Nov 10 23:07:24 2002
+Zichlych | Laearrist | The small alley | Sun Nov 10 23:28:28 2002
+Sharmerlin | Laearrist | The castle dungeon | Sun Nov 10 23:33:55 2002
+Xenor | Laearrist | The Overlook | Sun Nov 10 23:47:55 2002
+Mirkon | Laearrist | The General Store | Sun Nov 10 23:51:27 2002
+Zemqruba | Laear | Before the Tower | Mon Nov 11 00:19:31 2002
+Gradelave | Ghraag | Inside the Great Hall | Mon Nov 11 05:54:26 2002
+Kaahrag | Benius | Dark hallway | Mon Nov 11 16:20:01 2002
+Kaahrag | Benius | Market Square | Mon Nov 11 16:29:15 2002
+Kaahrag | Benius | The Hallway of Giants | Mon Nov 11 16:37:56 2002
+Kaahrag | Benius | The Hallway of Giants | Mon Nov 11 16:41:34 2002
+Benius | Ghraag | At a muddy track | Mon Nov 11 16:48:54 2002
+Esobi | Dustyn | The Temple Of Mota | Mon Nov 11 17:48:21 2002
+Dustyn | Ghraag | The village shrine | Mon Nov 11 19:50:40 2002
+Diedrich | Nadraz | Inside the Great Hall | Mon Nov 11 21:39:45 2002
+Diedrich | Nadraz | The Altar | Mon Nov 11 21:55:54 2002
+Diedrich | Nadraz | The Holy of Holy's | Mon Nov 11 22:07:49 2002
+Zemqruba | Diedrich | A waiting room | Mon Nov 11 22:12:54 2002
+Ucker | Gash | Market Square | Mon Nov 11 23:19:40 2002
+Ucker | Gash | Market Square | Mon Nov 11 23:24:39 2002
+Ucker | Hubbley | Market Square | Mon Nov 11 23:28:38 2002
+Esobi | Hubbley | Market Square | Mon Nov 11 23:32:03 2002
+Ucker | Hubbley | Main Street | Mon Nov 11 23:32:25 2002
+Gash | Hubbley | Main Street | Mon Nov 11 23:33:01 2002
+Ucker | Quezphiel | The Main Street | Mon Nov 11 23:36:24 2002
+Ucker | Quezphiel | Market Square | Mon Nov 11 23:42:38 2002
+Ucker | Quezphiel | Inside the East Gate of Midgaard | Mon Nov 11 23:46:19 2002
+Quezphiel | Hubbley | Village road | Mon Nov 11 23:49:51 2002
+Gash | Viscious | Entrance to the Grunting Boar Inn | Mon Nov 11 23:52:29 2002
+Hubbley | Quezphiel | Village road | Mon Nov 11 23:55:29 2002
+Quezphiel | Hubbley | Village road | Tue Nov 12 00:01:15 2002
+Ucker | Gash | Before a pool of blood | Tue Nov 12 00:04:34 2002
+Quezphiel | Viscious | Village road | Tue Nov 12 00:15:53 2002
+Feroph | Laear | Too Bright to Tell | Tue Nov 12 14:51:09 2002
+Ghraag | Sharmerlin | By the beautiful waterfall | Tue Nov 12 15:12:14 2002
+Aspikler | Laear | The Common Square | Tue Nov 12 15:27:50 2002
+Aspikler | Duhsmasher | The Common Square | Tue Nov 12 15:53:54 2002
+Viscious | Adrosener | At a muddy track | Tue Nov 12 17:45:18 2002
+Diego | Adrosener | Inside the Great Hall | Tue Nov 12 18:15:13 2002
+Asmodeus | Adrosener | Inside the Great Hall | Tue Nov 12 18:15:38 2002
+Wijke | Adrosener | The Mouth of a Cave | Tue Nov 12 18:29:31 2002
+Kaahrag | Adrosener | Along the Eastern Road | Tue Nov 12 18:36:57 2002
+Diego | Wijke | By the beautiful waterfall | Tue Nov 12 18:56:48 2002
+Diego | Wijke | At a muddy track | Tue Nov 12 18:58:38 2002
+Diego | Adrosener | The Entrance | Tue Nov 12 19:04:28 2002
+Diego | Sharmerlin | At a muddy track | Tue Nov 12 19:14:49 2002
+Diego | Sharmerlin | At a muddy track | Tue Nov 12 19:15:45 2002
+Diego | Wijke | At a muddy track | Tue Nov 12 19:16:59 2002
+Diego | Sharmerlin | At a muddy track | Tue Nov 12 19:18:04 2002
+Diego | Sharmerlin | By the beautiful waterfall | Tue Nov 12 19:21:11 2002
+Diego | Sharmerlin | At a muddy track | Tue Nov 12 19:22:06 2002
+Diego | Wijke | At a muddy track | Tue Nov 12 19:24:46 2002
+Diego | Wijke | At a muddy track | Tue Nov 12 19:28:59 2002
+Zhoraag | Laear | Eastern end of Alley | Tue Nov 12 19:32:35 2002
+Diego | Wijke | At a muddy track | Tue Nov 12 19:32:41 2002
+Asmodeus | Sharmerlin | The Chat Room | Tue Nov 12 20:04:32 2002
+Wijke | Zichlych | A trail in the dwarf forest | Tue Nov 12 20:05:11 2002
+Beer | Adrosener | The Entrance | Tue Nov 12 20:07:23 2002
+Derintal | Asmodeus | The Entrance | Tue Nov 12 20:23:39 2002
+Derintal | Asmodeus | The Entrance | Tue Nov 12 20:27:43 2002
+Asmodeus | Sharmerlin | A Top Chamber of the Golden Citadel | Tue Nov 12 20:28:38 2002
+Sharmerlin | Wijke | Village road | Tue Nov 12 20:39:55 2002
+Asmodeus | Laearrist | At a muddy track | Tue Nov 12 21:19:08 2002
+Asmodeus | Laearrist | By the beautiful waterfall | Tue Nov 12 21:19:41 2002
+Laea | Asmodeus | {YCorner of Grehyton Road and Calinth Way{x | Tue Nov 12 21:30:16 2002
+Xenor | Asmodeus | the base of the High Tower | Tue Nov 12 21:49:44 2002
+Xenor | Asmodeus | the bone-filled Chamber | Tue Nov 12 21:57:11 2002
+Orduno | Xenor | A trail in the dwarf forest | Wed Nov 13 00:01:12 2002
+Peloquin | Gradelave | By the Temple Altar | Wed Nov 13 01:51:21 2002
+Aranamus | Xenor | By the Temple Altar | Wed Nov 13 19:24:05 2002
+Xenor | Brenbardo | Northeast corner of the Courtyard | Wed Nov 13 19:45:51 2002
+Brenbardo | Adrosener | The Mystical Path | Wed Nov 13 20:17:55 2002
+Asmodeus | Adrosener | The Mystical Path | Wed Nov 13 20:19:43 2002
+Brenbardo | Adrosener | The Throne Room of the Nebula King | Wed Nov 13 20:21:34 2002
+Laear | Adrosener | A Small Clearing | Wed Nov 13 20:23:26 2002
+Brenbardo | Adrosener | The Throne Room of the Nebula King | Wed Nov 13 20:28:15 2002
+Laear | Adrosener | At the Undeveloped Part of the Galaxy | Wed Nov 13 20:33:45 2002
+Asmodeus | Adrosener | Inside the Tower of the Eternal Collective. | Wed Nov 13 20:36:17 2002
+Asmodeus | Adrosener | Inside the Tower of the Eternal Collective. | Wed Nov 13 20:39:51 2002
+Asmodeus | Adrosener | By the Temple Altar | Wed Nov 13 20:50:28 2002
+Xenor | Laearrist | The Overlook | Wed Nov 13 20:51:11 2002
+Asmodeus | Adrosener | In the southern swamps | Wed Nov 13 20:57:26 2002
+Tybalt | Asmodeus | In a dark forest | Wed Nov 13 21:20:15 2002
+Asmodeus | Laearrist | Dark hallway | Wed Nov 13 21:27:13 2002
+Brenbardo | Laearrist | Dark hallway | Wed Nov 13 21:27:19 2002
+Asmodeus | Laearrist | Archway before the Temple of Chaos | Wed Nov 13 21:44:48 2002
+Asmodeus | Adrosener | The Entrance | Wed Nov 13 21:53:15 2002
+Brenbardo | Adrosener | A prison room | Wed Nov 13 21:53:46 2002
+Asmodeus | Adrosener | By the Temple Altar | Wed Nov 13 22:03:15 2002
+Asmodeus | Adrosener | By the Temple Altar | Wed Nov 13 22:07:49 2002
+Koefl | Adrosener | A Gloomy Secluded Path | Wed Nov 13 22:14:58 2002
+Nouran | Zemqruba | Main Street | Wed Nov 13 22:45:43 2002
+Quezphiel | Nouran | Inside the West Gate of Midgaard | Wed Nov 13 23:20:56 2002
+Peloquin | Corvus | By the Temple Altar | Thu Nov 14 00:07:33 2002
+Nouran | Peloquin | By the Temple Altar | Thu Nov 14 00:13:58 2002
+Corvus | Nouran | The Temple Of Mota | Thu Nov 14 00:17:25 2002
+Nouran | Xarius | Outside the Tower | Thu Nov 14 00:26:41 2002
+Peloquin | Nouran | the street of Varggin Shih | Thu Nov 14 00:31:44 2002
+Nouran | Feroph | Market Square | Thu Nov 14 00:47:48 2002
+Corvus | Koefl | Market Square | Thu Nov 14 00:51:15 2002
+Derintal | Laear | Entrance to Mud School | Thu Nov 14 02:17:07 2002
+Benbardo | Benbardo | The Inner Gates | Thu Nov 14 15:03:19 2002
+Benbardo | Laear | The Main Chamber of the Palace of the Sky | Thu Nov 14 17:00:07 2002
+Wijke | Laear | By the Temple Altar | Thu Nov 14 18:10:04 2002
+Toktamrsh | Laear | The Temple Of Mota | Thu Nov 14 18:35:49 2002
+Pollo | Laear | Archway before the Temple of Chaos | Thu Nov 14 20:41:02 2002
+Diedrich | Derintal | By the Temple Altar | Thu Nov 14 20:51:11 2002
+Belzebuth | Laear | On the Bridge of Nebulae | Thu Nov 14 20:55:03 2002
+Pollo | Laear | Archway before the Temple of Chaos | Thu Nov 14 21:02:26 2002
+Nouran | Zrialynith | The Edge of the Valley | Thu Nov 14 21:05:46 2002
+Pollo | Laearrist | By the Temple Altar | Thu Nov 14 21:17:54 2002
+Benius | Laearrist | By the Temple Altar | Thu Nov 14 21:20:33 2002
+Koefl | Laearrist | The Grunting Boar | Thu Nov 14 21:22:56 2002
+Pollo | Entreri | The Grunting Boar | Thu Nov 14 21:23:48 2002
+Messugha | Benbardo | The Pet Shop | Thu Nov 14 22:02:28 2002
+Benbardo | Derintal | The Temple Of Mota | Thu Nov 14 22:05:57 2002
+Pollo | Derintal | Market Square | Thu Nov 14 22:29:25 2002
+Laear | Derintal | By the Temple Altar | Thu Nov 14 22:30:10 2002
+Pollo | Quezphiel | Market Square | Thu Nov 14 22:32:28 2002
+Benbardo | Laear | Asgard | Thu Nov 14 22:45:50 2002
+Pollo | Quezphiel | Wall Road | Thu Nov 14 22:47:51 2002
+Krunk | Pollo | By the Temple Altar | Thu Nov 14 23:54:45 2002
+Quezphiel | Eleena | The Temple Of Mota | Thu Nov 14 23:55:49 2002
+Aspikler | Ethrix | Archway before the Temple of Chaos | Fri Nov 15 00:50:44 2002
+Ethrix | Eleena | A triple junction | Fri Nov 15 11:34:38 2002
+Brenbardo | Eleena | The Mystical Path | Fri Nov 15 11:43:25 2002
+Belcarz | Brenbardo | Before a guard's tent | Fri Nov 15 13:02:42 2002
+Swifty | Laearrist | Grassy plains | Fri Nov 15 13:51:10 2002
+Xarius | Koefl | A Hallway | Fri Nov 15 15:10:06 2002
+Koefl | Eleena | WAY Far Down into the Valley | Fri Nov 15 15:11:26 2002
+Xarius | Sharmerlin | At a muddy track | Fri Nov 15 15:43:07 2002
+Messugha | Zrialynith | In the Shaft from the Dragon Chamber | Fri Nov 15 17:04:15 2002
+Messugha | Adrosener | The Entrance | Fri Nov 15 18:01:03 2002
+Adrosener | Brenbardo | The Anteroom to the Temple of Ofcol | Fri Nov 15 18:01:40 2002
+Adrosener | Brenbardo | The Entrance | Fri Nov 15 18:09:45 2002
+Koefl | Koefl | Barn | Fri Nov 15 18:12:53 2002
+Xarius | Brenbardo | The Temple Of Mota | Fri Nov 15 18:22:06 2002
+Joash | Brenbardo | Fourth Level | Fri Nov 15 18:28:09 2002
+Messugha | Sharmerlin | Market Square | Fri Nov 15 18:52:22 2002
+Brenbardo | Eleena | Second Level | Fri Nov 15 18:59:03 2002
+Brenbardo | Eleena | Black Hole | Fri Nov 15 19:19:05 2002
+Eleena | Brenbardo | Outside the Tower | Fri Nov 15 19:25:23 2002
+Kythia | Kythia | Lost in the Mist | Fri Nov 15 21:41:41 2002
+Kythia | Messugha | The darker dwarf forest | Fri Nov 15 21:47:35 2002
+Brenbardo | Rhyzzyn | The Mystical Path | Fri Nov 15 22:09:09 2002
+Artren | Rhyzzyn | Inside the West Gate of Midgaard | Fri Nov 15 22:13:53 2002
+Pollo | Messugha | Inside the HQ | Fri Nov 15 22:50:11 2002
+Eleena | Messugha | Outside the Tower | Fri Nov 15 23:18:47 2002
+Pollo | Eleena | The Entrance | Fri Nov 15 23:28:56 2002
+Wijke | Pollo | At a muddy track | Sat Nov 16 00:15:27 2002
+Belcarz | Eulb | Market Square | Sat Nov 16 01:26:12 2002
+Belcarz | Eulb | Market Square | Sat Nov 16 01:29:07 2002
+Pollo | Eleena | City Hall | Sat Nov 16 11:20:31 2002
+Brenbardo | Aspikler | Outside the Tower | Sat Nov 16 11:42:48 2002
+Pollo | Eleena | Main Street | Sat Nov 16 11:53:48 2002
+Zarrabia | Zrialynith | Grubby Inn | Sat Nov 16 14:47:17 2002
+Laear | Eleena | Outside the Tower | Sat Nov 16 15:52:37 2002
+Quezphiel | Koefl | Market Square | Sat Nov 16 17:48:08 2002
+Quezphiel | Koefl | Market Square | Sat Nov 16 17:53:54 2002
+Gradelave | Endus | By the Temple Altar | Sat Nov 16 20:03:01 2002
+Messugha | Messugha | Death Row | Sun Nov 17 16:40:27 2002
+Meurk | Messugha | Upstairs | Sun Nov 17 17:06:01 2002
+Messugha | Messugha | Graelik's Lair | Sun Nov 17 17:21:51 2002
+Gigantus | Meurk | Melancholy's Room | Sun Nov 17 18:26:16 2002
+Gigantus | Meurk | Inside the East Gate of Midgaard | Sun Nov 17 18:30:34 2002
+Gigantus | Meurk | Melancholy's Maps | Sun Nov 17 18:40:38 2002
+Zrialynith | Wang | By the Temple Altar | Sun Nov 17 21:01:13 2002
+Messugha | Laearrist | Market Square | Sun Nov 17 21:59:34 2002
+Swifty | Swifty | By the Temple Altar | Mon Nov 18 02:14:01 2002
+Dante | Dante | By the Temple Altar | Mon Nov 18 06:19:02 2002
+Xantallis | Wijke | Grassy fields | Mon Nov 18 13:24:13 2002
+Aspikler | Nadraz | North Wall of Arena | Mon Nov 18 16:44:21 2002
+Meurk | Nadraz | Wall Road | Mon Nov 18 16:54:09 2002
+Taylor | Nadraz | The Woodsman Inn | Mon Nov 18 17:15:53 2002
+Messugha | Nadraz | The Entrance | Mon Nov 18 17:28:57 2002
+Brenbardo | Raog | A Dank Tunnel | Mon Nov 18 17:34:08 2002
+Raekwon | Zemqruba | Before the Tower | Mon Nov 18 17:41:09 2002
+Raog | Nadraz | Ringkeeper's Room | Mon Nov 18 17:41:55 2002
+Zemqruba | Laear | By the Temple Altar | Mon Nov 18 18:41:39 2002
+Messugha | Zrialynith | By the Temple Altar | Mon Nov 18 18:58:10 2002
+Laear | Rinaldi | By the Temple Altar | Mon Nov 18 18:58:28 2002
+Massadi | Laear | The Temple Of Mota | Mon Nov 18 19:04:35 2002
+Massadi | Rinaldi | The Temple Of Mota | Mon Nov 18 19:38:57 2002
+Meurk | Nadraz | The Mouth of a Cave | Mon Nov 18 20:41:49 2002
+Meurk | Quezphiel | Melancholy's Room | Mon Nov 18 22:51:14 2002
+Koefl | Pollo | By the Temple Altar | Mon Nov 18 23:02:28 2002
+Metuli | Eulb | Grassy plains | Mon Nov 18 23:15:40 2002
+Pollo | Eulb | The chapel | Mon Nov 18 23:24:18 2002
+Quezphiel | Eulb | Village road | Mon Nov 18 23:36:42 2002
+Lokratz | Grish | The Temple Of Mota | Tue Nov 19 11:35:53 2002
+Ioberai | Nadraz | The Temple Of Mota | Tue Nov 19 12:49:18 2002
+Massadi | Grerk | Traversing the Astral Plane | Tue Nov 19 14:35:12 2002
+Xanthius | Grerk | A Coral Reef | Tue Nov 19 14:37:21 2002
+Messugha | Messugha | Through the deep forest | Tue Nov 19 19:22:28 2002
+Feroph | Feroph | The turn in the swampy path | Tue Nov 19 19:37:07 2002
+Metuli | Metuli | Water Chamber | Tue Nov 19 19:47:06 2002
+Metuli | Feroph | By the Temple Altar | Tue Nov 19 20:05:14 2002
+Dante | Metuli | The Temple Of Mota | Tue Nov 19 20:22:41 2002
+Dante | Benius | The Northwest Corner | Tue Nov 19 20:37:16 2002
+Derintal | Nouran | Inside the East Gate of Midgaard | Tue Nov 19 20:56:17 2002
+Benius | Pollo | By the Temple Altar | Tue Nov 19 21:02:20 2002
+Nouran | Adrosener | An Upper Chamber of the Golden Citadel | Tue Nov 19 21:02:57 2002
+Benius | Dante | By the Temple Altar | Tue Nov 19 21:18:30 2002
+Dante | Nadraz | Fourth Level | Tue Nov 19 21:24:20 2002
+Dante | Dante | By the Temple Altar | Tue Nov 19 21:31:03 2002
+Derintal | Kaerk | Wall Road | Tue Nov 19 21:46:04 2002
+Reaper | Dante | The Throne Room | Wed Nov 20 01:22:49 2002
+cloaked figure | cloaked figure | By the Temple Altar | Wed Nov 20 01:25:39 2002
+Massadi | Dante | Third Level | Wed Nov 20 01:29:04 2002
+Hulios | Viscious | The Temple Of Mota | Wed Nov 20 16:05:20 2002
+Meurk | Viscious | Wall Road | Wed Nov 20 21:19:19 2002
+Meurk | Viscious | Wall Road | Wed Nov 20 21:23:40 2002
+Artren | Meurk | A trail in the dwarf forest | Wed Nov 20 21:29:43 2002
+Endus | Viscious | Entering the village | Wed Nov 20 21:41:42 2002
+Endus | Adrosener | The Temple Square | Wed Nov 20 21:47:23 2002
+Dante | Nadraz | Cave Entrance | Wed Nov 20 22:56:39 2002
+Jharalan | Pollo | The Entrance | Wed Nov 20 23:19:53 2002
+Cador | Dante | On the second floor | Thu Nov 21 00:30:25 2002
+Meurk | Swifty | The Mystical Path | Thu Nov 21 15:48:22 2002
+Swifty | Meurk | The Temple Of Mota | Thu Nov 21 15:52:28 2002
+Swifty | Meurk | By the Temple Altar | Thu Nov 21 15:57:45 2002
+Meurk | Viscious | By the Temple Altar | Thu Nov 21 15:59:25 2002
+Cador | Eleena | By the Temple Altar | Thu Nov 21 20:05:45 2002
+Thrawn | Cador | The Dracolich's Lair | Thu Nov 21 20:15:46 2002
+Zarrabia | Adrosener | Black Hole | Thu Nov 21 20:16:04 2002
+Thrawn | Kaerk | By the beautiful waterfall | Thu Nov 21 20:51:14 2002
+Cador | Adrosener | Market Square | Thu Nov 21 21:11:21 2002
+Aranamus | Toktamrsh | At a muddy track | Thu Nov 21 21:58:00 2002
+Lars | Thrawn | At a muddy track | Thu Nov 21 21:58:13 2002
+Aranamus | Toktamrsh | At a muddy track | Thu Nov 21 21:58:40 2002
+Kacela | Laear | Abdul's Armor | Thu Nov 21 23:27:19 2002
+Iltrilnon | Laear | By the Temple Altar | Thu Nov 21 23:28:59 2002
+Cador | Quezphiel | By the beautiful waterfall | Thu Nov 21 23:54:58 2002
+Dante | Cador | Too Bright to Tell | Fri Nov 22 00:20:58 2002
+Daemonicus | Vladmir | The Library | Fri Nov 22 02:12:53 2002
+Thrawn | Meurk | Melancholy's Room | Fri Nov 22 17:08:51 2002
+Elylia | Eleena | The Dragon Chamber | Fri Nov 22 17:21:17 2002
+Aurion | Aurion | By the Temple Altar | Fri Nov 22 17:36:29 2002
+Laear | Aurion | The Inner Gates | Fri Nov 22 18:02:20 2002
+Elylia | Laear | A long hallway | Fri Nov 22 18:13:05 2002
+Laear | Meurk | The Mystical Path | Fri Nov 22 18:16:21 2002
+Laear | Meurk | Outside the Tower | Fri Nov 22 18:21:29 2002
+Laear | Meurk | The Mystical Path | Fri Nov 22 18:27:49 2002
+Meurk | Kaerk | The Mystical Path | Fri Nov 22 18:52:28 2002
+Vladmir | Sandra | In a room with a green fountain | Fri Nov 22 19:12:26 2002
+Aurion | Sandra | By the Temple Altar | Fri Nov 22 19:16:40 2002
+Pollo | Sandra | Black Hole | Fri Nov 22 19:28:47 2002
+Yuber | Sandra | Alley at Levee | Fri Nov 22 19:31:11 2002
+Vladmir | Kaerk | By the Temple Altar | Fri Nov 22 19:32:58 2002
+Pollo | Eleena | The Mystical Path | Fri Nov 22 19:36:10 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 19:40:20 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 19:44:37 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 19:45:03 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 19:50:12 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 19:50:45 2002
+Eleena | Entreri | Inside the West Gate of Midgaard | Fri Nov 22 19:52:10 2002
+Entreri | Eleena | Inside the West Gate of Midgaard | Fri Nov 22 19:52:10 2002
+Kaerk | Eleena | Inside the West Gate of Midgaard | Fri Nov 22 19:52:10 2002
+Entreri | Grerk | Inside the West Gate of Midgaard | Fri Nov 22 19:56:19 2002
+Pollo | Sandra | By the Temple Altar | Fri Nov 22 20:04:12 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:06:46 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:07:33 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:08:49 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:09:26 2002
+Kaerk | Eleena | Standing in the Courtyard | Fri Nov 22 20:09:32 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:10:36 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:11:49 2002
+Pollo | Sandra | Outside the Tower | Fri Nov 22 20:12:29 2002
+Pollo | Eleena | The Mystical Path | Fri Nov 22 20:14:43 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:15:57 2002
+Pollo | Eleena | The Mystical Path | Fri Nov 22 20:16:58 2002
+Pollo | Eleena | The Mystical Path | Fri Nov 22 20:19:06 2002
+Pollo | Sandra | The Mystical Path | Fri Nov 22 20:20:13 2002
+Pollo | Eleena | The Mystical Path | Fri Nov 22 20:20:59 2002
+Pollo | Eleena | The Mystical Path | Fri Nov 22 20:21:59 2002
+Sandra | Kaerk | On the Bridge of Nebulae | Fri Nov 22 20:23:19 2002
+Eleena | Sharmerlin | By the beautiful waterfall | Fri Nov 22 20:27:56 2002
+Eleena | Dustyn | At a muddy track | Fri Nov 22 20:28:19 2002
+Pollo | Dustyn | At a muddy track | Fri Nov 22 20:29:32 2002
+Eleena | Sharmerlin | At a muddy track | Fri Nov 22 20:29:43 2002
+Eleena | Sycho | By the beautiful waterfall | Fri Nov 22 20:35:04 2002
+Dustyn | Eleena | By the beautiful waterfall | Fri Nov 22 20:39:41 2002
+Zauvolt | Kaerk | The Inner Gates | Fri Nov 22 21:22:38 2002
+Darrien | Nadraz | On the Bridge | Sun Nov 24 00:47:17 2002
+Aurion | Darrien | The Entrance | Sun Nov 24 01:11:39 2002
+Aurion | Darrien | Inside the HQ | Sun Nov 24 01:12:57 2002
+Aurion | Darrien | Inside the HQ | Sun Nov 24 01:13:48 2002
+Darrien | Zrialynith | The Entrance | Sun Nov 24 01:15:51 2002
+Quezphiel | Dante | In the air... | Sun Nov 24 01:49:41 2002
+Zemqruba | Dante | On the second floor | Sun Nov 24 02:17:43 2002
+Chaiz | Yuber | The Dark Alley | Sun Nov 24 13:47:08 2002
+Hulios | Yuber | The Inner Gates | Sun Nov 24 13:54:47 2002
+Hulios | Sharmerlin | Captain's Quarters | Sun Nov 24 14:01:53 2002
+Messugha | Ethrix | Within a Dark Clearing | Sun Nov 24 19:13:27 2002
+Nourdul | Adrosener | The Entrance | Sun Nov 24 19:37:23 2002
+Messugha | Adrosener | Above the Dragon Chamber | Sun Nov 24 19:37:38 2002
+Trustin | Kaerk | The Temple Square | Sun Nov 24 20:11:18 2002
+Corvus | Cador | Outside the Tower | Sun Nov 24 22:34:36 2002
+Nouran | Viscious | The Dark Alley | Mon Nov 25 13:03:05 2002
+Nourdul | Penz | Wall Road | Mon Nov 25 13:09:14 2002
+Sharmerlin | Penz | Village road | Mon Nov 25 15:42:50 2002
+Aurion | Adrosener | A turn in the hallway | Mon Nov 25 16:12:57 2002
+Lokratz | Lokratz | The Throne Room | Mon Nov 25 16:25:49 2002
+Adrosener | Ioberai | Fourth Level | Mon Nov 25 17:03:35 2002
+Ioberai | Grerk | Down to the Death Walk | Mon Nov 25 17:10:19 2002
+Sandra | Ethrix | Terror Chamber | Mon Nov 25 17:51:01 2002
+Trustin | Toktamrsh | At a muddy track | Mon Nov 25 19:55:01 2002
+Cador | Sandra | The Tomb of Ramses | Tue Nov 26 17:32:07 2002
+Pollo | Sandra | A stream of consciousness | Tue Nov 26 19:52:57 2002
+Pollo | Xarius | Melancholy's Room | Tue Nov 26 20:21:49 2002
+Brutys | Pollo | The steep foothills | Tue Nov 26 23:28:46 2002
+Norsus | Dell | In the Arkham swamps | Wed Nov 27 13:52:30 2002
+Pariah | Ganedyren | Upon the Grassy Hills of the Downs | Wed Nov 27 16:23:20 2002
+Trustin | Grerk | By the Temple Altar | Wed Nov 27 16:48:30 2002
+Trustin | Sycho | The Throne Room of the Nebula King | Wed Nov 27 20:49:17 2002
+Meurk | Sharmerlin | Grassy fields | Wed Nov 27 21:11:47 2002
+Lirel | Trustin | By the Temple Altar | Wed Nov 27 21:49:28 2002
+Artren | Adrosener | A rough trail | Wed Nov 27 22:18:42 2002
+Raog | Nourdul | The Temple Of Mota | Wed Nov 27 22:42:29 2002
+Lanceweiser | Sycho | Market Square | Thu Nov 28 03:13:10 2002
+Derintal | Meurk | At a muddy track | Thu Nov 28 09:34:11 2002
+Mazell | Pollo | A dark hallway | Thu Nov 28 15:03:55 2002
+Akuma | Sycho | At a muddy track | Thu Nov 28 15:46:32 2002
+Akuma | Pollo | The Temple Square | Thu Nov 28 16:05:03 2002
+Akuma | Pollo | The Temple Square | Thu Nov 28 16:13:02 2002
+Vladmir | Penz | Main Street | Thu Nov 28 16:39:19 2002
+Vladmir | Penz | The General Store | Thu Nov 28 16:45:35 2002
+Vladmir | Derrek | The Magic Shop | Thu Nov 28 16:53:56 2002
+Nilan | Vladmir | The Main Street | Thu Nov 28 17:14:53 2002
+Penz | Nadraz | The Cross Roads | Thu Nov 28 17:37:05 2002
+Pariah | Zdenka | Grassy fields | Thu Nov 28 18:12:26 2002
+Mazell | Zdenka | The Dark Room | Thu Nov 28 18:20:34 2002
+Pariah | Benius | The Hallway of Giants | Thu Nov 28 18:27:54 2002
+Akuma | Benius | By the Temple Altar | Thu Nov 28 18:30:16 2002
+Akuma | Nadraz | By the Temple Altar | Thu Nov 28 18:33:31 2002
+Zdenka | Nadraz | Entrance to Mud School | Thu Nov 28 18:38:03 2002
+Akuma | Nadraz | By the Temple Altar | Thu Nov 28 18:41:06 2002
+Sanch | Mazell | By the Temple Altar | Thu Nov 28 18:45:46 2002
+Chaiz | Mazell | Market Square | Thu Nov 28 18:46:38 2002
+Nourdul | Nadraz | Entrance to Mud School | Thu Nov 28 18:48:03 2002
+Zdenka | Nadraz | By the Temple Altar | Thu Nov 28 18:53:17 2002
+Mazell | Sanch | Dragon Sea | Thu Nov 28 18:59:10 2002
+Monica | Xarius | The dwarf forest | Thu Nov 28 20:49:59 2002
+Monica | Grerk | The dwarf forest | Thu Nov 28 20:56:30 2002
+Xarius | Grerk | A Shadowy Room | Fri Nov 29 00:02:03 2002
+Sanch | Xarius | An Oozing Bog | Fri Nov 29 00:49:39 2002
+Trustin | Derintal | The village shrine | Fri Nov 29 00:55:12 2002
+Sanch | Xarius | An Oozing Bog | Fri Nov 29 00:56:43 2002
+Sanch | Xarius | An Oozing Bog | Fri Nov 29 00:59:58 2002
+Sanch | Xarius | An Oozing Bog | Fri Nov 29 01:06:28 2002
+Trustin | Nadraz | A Safe Room | Fri Nov 29 16:12:36 2002
+Trustin | Nadraz | The Pond | Fri Nov 29 16:21:41 2002
+Cador | Trustin | A Rock Shelf Overlooking the Downs | Fri Nov 29 16:58:37 2002
+Monica | Trustin | The village shrine | Fri Nov 29 18:21:00 2002
+Antonius | Kaerk | The Imperial Road | Fri Nov 29 18:23:27 2002
+Drusellam | Meurk | Main Street | Fri Nov 29 19:56:48 2002
+Nhordurn | Antonius | Priest's Inner Sanctum | Fri Nov 29 20:21:29 2002
+Drusellam | Antonius | The Common Square | Fri Nov 29 20:26:01 2002
+Drusellam | Meurk | The Common Square | Fri Nov 29 20:30:28 2002
+Drusellam | Meurk | The Leather Shop | Fri Nov 29 20:34:41 2002
+Antonius | Trustin | The Inner Gates | Fri Nov 29 20:53:30 2002
+Thomas | Sandra | Just inside the Castle | Sat Nov 30 16:12:47 2002
+Nhordurn | Sandra | The Armoury | Sat Nov 30 16:34:18 2002
+Zdenka | Sandra | The Main Street | Sat Nov 30 16:39:55 2002
+Thomas | Sandra | The Main Street | Sat Nov 30 16:40:11 2002
+Drusellam | Sandra | The General Store | Sat Nov 30 16:40:29 2002
+Nhordurn | Zemqruba | The Bakery | Sat Nov 30 16:44:17 2002
+Zemqruba | Sandra | The Holy of Holy's | Sat Nov 30 16:48:05 2002
+Thomas | Sandra | The Holy of Holy's | Sat Nov 30 16:48:11 2002
+Nhordurn | Zemqruba | The Bakery | Sat Nov 30 17:00:59 2002
+Raekwon | Drusellam | Inside the East Gate of Midgaard | Sat Nov 30 17:16:58 2002
+Raekwon | Penz | The dwarf forest | Sat Nov 30 17:23:49 2002
+Zdenka | Zdenka | The Temple Of Mota | Sun Dec  1 00:31:01 2002
+Penz | Kaerk | At a muddy track | Sun Dec  1 00:50:18 2002
+Penz | Kaerk | At a muddy track | Sun Dec  1 01:09:01 2002
+Zdenka | Zdenka | At a muddy track | Sun Dec  1 01:14:17 2002
+Drusellam | Penz | Grassy fields | Sun Dec  1 01:17:33 2002
+Drusellam | Kaerk | The bend in the trail in the dwarf forest | Sun Dec  1 01:27:08 2002
+Drusellam | Kaerk | The village shrine | Sun Dec  1 01:38:08 2002
+Zdenka | Kaerk | The village shrine | Sun Dec  1 01:38:57 2002
+Sharmerlin | Kaerk | The bend in the trail in the dwarf forest | Sun Dec  1 01:46:04 2002
+Karak | Kaerk | The Temple Of Mota | Sun Dec  1 11:16:42 2002
+Muntinel | Muntinel | By the Temple Altar | Sun Dec  1 11:50:59 2002
+Muntinel | Muntinel | By the Temple Altar | Sun Dec  1 11:52:45 2002
+Manicore | Viscious | The Temple Square | Sun Dec  1 13:48:36 2002
+Manicore | Sandra | Down the path into a dead end | Sun Dec  1 14:28:16 2002
+Taylor | Sandra | Down the path into a dead end | Sun Dec  1 14:28:43 2002
+Meurk | Zghern | The Mystical Path | Sun Dec  1 15:04:57 2002
+Mazell | Mazell | A small hallway | Sun Dec  1 15:16:00 2002
+Nhordurn | Penz | The Armoury | Sun Dec  1 17:56:13 2002
+Karak | Penz | Alley at Levee | Sun Dec  1 18:10:56 2002
+Karak | Narin | The Pet Shop | Sun Dec  1 18:21:32 2002
+Lanceweiser | Penz | Park Entrance | Sun Dec  1 18:26:55 2002
+Karak | Penz | Park Cafe | Sun Dec  1 18:27:32 2002
+Lanceweiser | Penz | The Common Square | Sun Dec  1 18:30:22 2002
+Karak | Penz | At a muddy track | Sun Dec  1 18:40:38 2002
+Karak | Penz | At a muddy track | Sun Dec  1 18:42:22 2002
+Karak | Penz | At a muddy track | Sun Dec  1 18:42:58 2002
+Karak | Penz | The village shrine | Sun Dec  1 18:43:39 2002
+Karak | Penz | The village shrine | Sun Dec  1 18:44:47 2002
+Karak | Penz | At a muddy track | Sun Dec  1 18:45:24 2002
+Mazell | Sandra | A Small Home | Sun Dec  1 19:48:41 2002
+Massadi | Sandra | By the Temple Altar | Sun Dec  1 20:01:28 2002
+Sincere | Sandra | The Temple Of Mota | Sun Dec  1 20:03:04 2002
+Sincere | Sandra | The Temple Square | Sun Dec  1 20:19:00 2002
+Sincere | Meurk | Market Square | Sun Dec  1 20:25:26 2002
+Sincere | Meurk | The Common Square | Sun Dec  1 20:32:25 2002
+Radeon | Mazell | Market Square | Sun Dec  1 23:03:20 2002
+Mazell | Drusellam | Small path in the park | Sun Dec  1 23:16:08 2002
+Zdenka | Vladmir | Inside the HQ | Mon Dec  2 04:08:16 2002
+Vladmir | Zdenka | The chapel | Mon Dec  2 04:14:44 2002
+Thorifin | Zghern | Inside the East Gate of Midgaard | Mon Dec  2 15:16:34 2002
+Thorifin | Kaerk | By the Temple Altar | Mon Dec  2 19:57:11 2002
+Penz | Zghern | By the Temple Altar | Mon Dec  2 20:23:16 2002
+Akuma | Zghern | Inside the East Gate of Midgaard | Mon Dec  2 20:32:58 2002
+Sanch | Zghern | Inside the East Gate of Midgaard | Mon Dec  2 20:37:21 2002
+Karak | Zghern | The Throne Room | Mon Dec  2 21:35:19 2002
+Ispep | Kaerk | The Void | Mon Dec  2 22:01:44 2002
+Karak | Penz | By the Temple Altar | Mon Dec  2 22:07:02 2002
+Karak | Penz | By the Temple Altar | Mon Dec  2 22:10:05 2002
+Ispep | Penz | Main Street | Mon Dec  2 22:10:47 2002
+Mirkon | Zrialynith | Impy Way | Mon Dec  2 22:48:20 2002
+Grerk | Zrialynith | Path in the plains | Mon Dec  2 22:59:52 2002
+Mazell | Grerk | Squire Barracks | Mon Dec  2 23:01:26 2002
+Grerk | Zrialynith | Storage Room | Mon Dec  2 23:08:35 2002
+Mazell | Dante | By the Temple Altar | Tue Dec  3 00:23:42 2002
+Darrien | Darrien | The Temple Of Mota | Tue Dec  3 02:55:50 2002
+Darrien | Darrien | The Temple Of Mota | Tue Dec  3 02:56:38 2002
+Mazell | Penz | The General Store | Tue Dec  3 11:56:05 2002
+Mazell | Xarius | Archway before the Temple of Chaos | Tue Dec  3 12:12:32 2002
+Inouye | Wijke | A bend in the dim trail in the dwarf forest | Tue Dec  3 17:48:10 2002
+Inouye | Zdenka | A valley in the dark dwarf forest | Tue Dec  3 17:53:16 2002
+Artren | Mazell | The dwarf forest | Tue Dec  3 17:55:38 2002
+Mazell | Tertalith | Terror Chamber | Tue Dec  3 18:04:09 2002
+Zghern | Tertalith | The Entrance | Tue Dec  3 18:14:01 2002
+cloaked figure | Tertalith | In the Shaft from the Dragon Chamber | Tue Dec  3 18:15:00 2002
+Narin | Tertalith | Inside the Great Hall | Tue Dec  3 19:01:37 2002
+Tertalith | Penz | Above the Dragon Chamber | Tue Dec  3 19:13:14 2002
+Richard | Kaerk | Inside the East Gate of Midgaard | Tue Dec  3 19:29:18 2002
+Tertalith | Kaerk | By the Temple Altar | Tue Dec  3 19:49:22 2002
+Zdenka | Kaerk | The Throne Room | Tue Dec  3 19:53:01 2002
+Artren | Kaerk | By the beautiful waterfall | Tue Dec  3 19:59:24 2002
+Artren | Kaerk | A dim trail in the dwarf forest | Tue Dec  3 20:05:36 2002
+Monica | Kaerk | By the beautiful waterfall | Tue Dec  3 20:08:12 2002
+Artren | Zghern | A Dank Tunnel | Tue Dec  3 20:17:31 2002
+Artren | Kaerk | The Temple Of Mota | Tue Dec  3 20:28:05 2002
+Ravna | Zghern | A rough trail | Tue Dec  3 20:43:32 2002
+Drew | Inouye | The Main Street | Tue Dec  3 21:14:48 2002
+Oogarhar | Tertalith | Inside the East Gate of Midgaard | Tue Dec  3 22:50:45 2002
+Inouye | Tertalith | The castle dungeon | Tue Dec  3 22:59:41 2002
+Zemqruba | Sycho | The bend in the trail in the dwarf forest | Wed Dec  4 17:52:02 2002
+Oogarhar | Nadraz | The bend in the trail in the dwarf forest | Wed Dec  4 17:52:11 2002
+Drusellam | Kaerk | At a muddy track | Wed Dec  4 17:52:20 2002
+Sycho | Nadraz | The Common Square | Wed Dec  4 17:55:01 2002
+Zemqruba | Zemqruba | Before a massive cave, on the mountainside | Wed Dec  4 18:01:06 2002
+Sycho | Zemqruba | A Dank Tunnel | Wed Dec  4 18:04:29 2002
+Gnat | Trustin | NO MAN'S LAND | Wed Dec  4 18:06:28 2002
+Oogarhar | Allanon | Levee | Wed Dec  4 18:53:24 2002
+Drew | Drusellam | By the Temple Altar | Wed Dec  4 19:34:08 2002
+Drusellam | Zghern | Entrance to the Grunting Boar Inn | Wed Dec  4 19:35:32 2002
+Drusellam | Mazell | Market Square | Wed Dec  4 19:45:31 2002
+Oogarhar | Gnat | Alley at Levee | Wed Dec  4 21:04:10 2002
+Gnat | Quezphiel | Wall Road | Wed Dec  4 21:05:56 2002
+Quezphiel | Thorifin | Market Square | Wed Dec  4 21:09:27 2002
+Oogarhar | Zemqruba | Grebe's Tavern | Wed Dec  4 21:29:42 2002
+Zemqruba | Penz | Entering the village | Wed Dec  4 21:38:09 2002
+Inouye | Penz | Along the Eastern Road | Wed Dec  4 21:56:59 2002
+Nepthys | Nepthys | The Temple Of Mota | Wed Dec  4 21:58:58 2002
+Penz | Drew | Third Level | Thu Dec  5 12:28:00 2002
+Drew | Penz | The bend in the trail in the dwarf forest | Thu Dec  5 13:30:37 2002
+Allanon | Pollo | The Inner Gates | Thu Dec  5 13:31:05 2002
+Drew | Penz | By the beautiful waterfall | Thu Dec  5 13:31:46 2002
+Allanon | Penz | Market Square | Thu Dec  5 13:38:07 2002
+Allanon | Penz | The Temple Square | Thu Dec  5 13:41:19 2002
+Penz | Tertalith | The Main Street | Thu Dec  5 13:46:20 2002
+Drusellam | Tertalith | Entering the village | Thu Dec  5 14:46:50 2002
+Corvus | Oogarhar | By the Temple Altar | Thu Dec  5 15:29:43 2002
+Trustin | Oogarhar | By the beautiful waterfall | Thu Dec  5 15:34:39 2002
+Corvus | Oogarhar | At a muddy track | Thu Dec  5 15:39:16 2002
+Cyphilis | Oogarhar | Market Square | Thu Dec  5 16:44:55 2002
+cloaked figure | Penz | By the beautiful waterfall | Thu Dec  5 17:14:53 2002
+Trustin | Xarius | The Gate Before the Tower | Thu Dec  5 21:16:36 2002
+Tilrith | Xarius | Market Square | Thu Dec  5 21:23:19 2002
+Tilrith | Xarius | Market Square | Thu Dec  5 21:26:35 2002
+Cyphilis | Xarius | Levee | Thu Dec  5 21:41:52 2002
+Cyphilis | Penz | Market Square | Thu Dec  5 21:50:22 2002
+Tilrith | Penz | The Entrance | Thu Dec  5 21:52:31 2002
+Datya | Penz | By the Temple Altar | Thu Dec  5 21:59:11 2002
+Datya | Xarius | Melancholy's Room | Thu Dec  5 22:04:17 2002
+Cyphilis | Zghern | On the River | Thu Dec  5 22:24:13 2002
+Zghern | Pollo | Entrance to the Fire Giant Village | Fri Dec  6 18:29:31 2002
+Norsus | Zghern | By the Temple Altar | Fri Dec  6 18:34:50 2002
+Tilrith | Zghern | By the Temple Altar | Fri Dec  6 18:36:43 2002
+Allanon | Zghern | By the Temple Altar | Fri Dec  6 18:38:24 2002
+Norsus | Zghern | The Temple Of Mota | Fri Dec  6 18:38:36 2002
+Monica | Meurk | Entrance to Priest's Guild | Fri Dec  6 18:48:48 2002
+Mosby | Trustin | Nearing a Stone Bridge | Fri Dec  6 20:16:22 2002
+Mosby | Nadraz | A Four-Way Junction | Fri Dec  6 20:26:30 2002
+Mosby | Nadraz | The Outskirts of the Village | Fri Dec  6 20:35:40 2002
+Mosby | Nadraz | The Mouth of a Cave | Fri Dec  6 20:38:04 2002
+Mosby | Nadraz | The Flickering Tunnel | Fri Dec  6 20:41:14 2002
+Mosby | Nadraz | Cave Entrance | Fri Dec  6 20:44:53 2002
+Krackin | Meurk | By the Temple Altar | Fri Dec  6 21:37:48 2002
+Krackin | Meurk | The Mouth of a Cave | Fri Dec  6 21:41:30 2002
+Oogarhar | Kaerk | Standing in the Courtyard | Fri Dec  6 21:45:04 2002
+Tilrith | Meurk | Near the Sands of Sorrow | Fri Dec  6 21:54:00 2002
+Tilrith | Meurk | By the Temple Altar | Fri Dec  6 21:58:25 2002
+Tilrith | Meurk | Melancholy's Room | Fri Dec  6 22:07:36 2002
+Norsus | Allanon | By the Temple Altar | Fri Dec  6 22:13:43 2002
+Oogarhar | Allanon | By the Temple Altar | Fri Dec  6 22:16:30 2002
+Norsus | Allanon | By the Temple Altar | Fri Dec  6 22:18:55 2002
+Norsus | Allanon | Inside a study | Fri Dec  6 22:24:47 2002
+Oogarhar | Meurk | Melancholy's Maps | Fri Dec  6 22:25:41 2002
+Norsus | Meurk | The Mystical Path | Fri Dec  6 22:30:29 2002
+Meurk | Grerk | The Inner Gates | Fri Dec  6 23:05:18 2002
+Cyphilis | Norsus | Market Square | Sat Dec  7 00:02:43 2002
+Stevenson | Norsus | Market Square | Sat Dec  7 00:02:51 2002
+Zane | Drusellam | Inside the East Gate of Midgaard | Sat Dec  7 00:14:20 2002
+Drusellam | Meurk | The Mystical Path | Sat Dec  7 00:30:45 2002
+Norsus | Drusellam | By the Temple Altar | Sat Dec  7 00:34:43 2002
+Adrosener | Drusellam | By the beautiful waterfall | Sat Dec  7 00:44:36 2002
+Meurk | Drusellam | Entering the village | Sat Dec  7 00:46:48 2002
+Meurk | Zdenka | Entering the village | Sat Dec  7 00:47:41 2002
+Meurk | Zdenka | Entering the village | Sat Dec  7 00:48:46 2002
+Cyphilis | Drusellam | Inside the East Gate of Midgaard | Sat Dec  7 00:57:52 2002
+Hulios | Zdenka | The Common Square | Sat Dec  7 00:58:16 2002
+Drusellam | Meurk | On the Bridge of Nebulae | Sat Dec  7 01:22:21 2002
+Morgren | Meurk | A Small Clearing | Sat Dec  7 01:24:09 2002
+Drusellam | Meurk | The Temple Square | Sat Dec  7 01:42:56 2002
+Morgren | Adrosener | At a muddy track | Sat Dec  7 01:44:31 2002
+Morgren | Meurk | By the Temple Altar | Sat Dec  7 02:01:47 2002
+Meurk | Tertalith | Forest Road | Sat Dec  7 09:23:06 2002
+Meurk | Tertalith | The Mystical Path | Sat Dec  7 10:10:41 2002
+Meurk | Tertalith | Along the Milky Way | Sat Dec  7 10:23:13 2002
+Zghern | Tertalith | The Mouth of a Cave | Sat Dec  7 10:49:43 2002
+Allanon | Tertalith | Before the Tower | Sat Dec  7 11:33:22 2002
+Morgren | Tertalith | In the air ... | Sat Dec  7 11:54:47 2002
+Krackin | Trustin | By the beautiful waterfall | Sat Dec  7 17:28:14 2002
+Morgren | Dustyn | At a muddy track | Sat Dec  7 18:43:51 2002
+Oogarhar | Kaerk | Village road | Sat Dec  7 19:45:42 2002
+Krackin | Meurk | Landing | Sat Dec  7 19:53:19 2002
+Harvey | Allanon | A small room. | Sun Dec  8 02:14:25 2002
+Allanon | Penz | Fourth Level | Sun Dec  8 02:44:55 2002
+Penz | Sandra | A bend in the dim trail in the dwarf forest | Sun Dec  8 13:09:59 2002
+Harvey | Sandra | A bend in the dim trail in the dwarf forest | Sun Dec  8 13:10:02 2002
+Harvey | Sandra | By the beautiful waterfall | Sun Dec  8 13:13:00 2002
+Morgren | Sandra | At a muddy track | Sun Dec  8 13:39:50 2002
+Morgren | Kaerk | The Inner Gates | Sun Dec  8 13:54:54 2002
+Harvey | Heiskler | The Cross Roads | Sun Dec  8 14:47:23 2002
+Allanon | Heiskler | The General Store | Sun Dec  8 15:10:43 2002
+Kaerk | Morgren | A bend in the dim trail in the dwarf forest | Sun Dec  8 15:56:06 2002
+Harvey | Brutys | The Temple Square | Sun Dec  8 16:06:51 2002
+Harvey | Harvey | The Temple Square | Sun Dec  8 16:13:56 2002
+Kaerk | Morgren | The bend in the trail in the dwarf forest | Sun Dec  8 16:52:30 2002
+Krackin | Tertalith | The Crossroads | Sun Dec  8 16:59:34 2002
+Brogg | Tertalith | A trail in the dwarf forest | Sun Dec  8 17:07:49 2002
+Brutys | Morgren | A trail in the dwarf forest | Sun Dec  8 17:12:34 2002
+Zghern | Morgren | The village shrine | Sun Dec  8 17:28:41 2002
+Zghern | Morgren | At a muddy track | Sun Dec  8 17:41:12 2002
+Valerik | Taylor | At a muddy track | Sun Dec  8 17:41:20 2002
+Valerik | Morgren | At a muddy track | Sun Dec  8 17:45:05 2002
+Rezaf | Penz | Village road | Sun Dec  8 18:19:47 2002
+Morgren | Penz | Village road | Sun Dec  8 18:24:13 2002
+Rezaf | Penz | Village road | Sun Dec  8 18:27:47 2002
+Rezaf | Sandra | Outside the Tower | Sun Dec  8 18:33:41 2002
+Penz | Sandra | Beneath the Archway | Sun Dec  8 18:46:36 2002
+Morgren | Sandra | At a muddy track | Sun Dec  8 18:47:58 2002
+Ceidak | Morgren | The Mystical Path | Sun Dec  8 19:08:18 2002
+Ceidak | Morgren | The Mystical Path | Sun Dec  8 19:12:10 2002
+Ceidak | Morgren | The village shrine | Sun Dec  8 19:26:55 2002
+Ceidak | Morgren | The Throne Room of the Nebula King | Sun Dec  8 19:39:19 2002
+Brutys | Ceidak | At a muddy track | Sun Dec  8 19:48:21 2002
+Corvus | Oogarhar | At a muddy track | Sun Dec  8 21:05:26 2002
+Ceidak | Morgren | By the beautiful waterfall | Sun Dec  8 21:11:31 2002
+Ceidak | Morgren | At a muddy track | Sun Dec  8 21:14:21 2002
+Corvus | Oogarhar | The dwarf forest | Sun Dec  8 21:18:15 2002
+Penz | Oogarhar | The Mouth of a Cave | Sun Dec  8 21:40:43 2002
+Brutys | Allanon | By the Temple Altar | Sun Dec  8 23:32:11 2002
+Allanon | Brutys | Main Street | Sun Dec  8 23:37:15 2002
+Allanon | Tertalith | Market Square | Sun Dec  8 23:43:57 2002
+Akuma | Tertalith | By the beautiful waterfall | Sun Dec  8 23:59:43 2002
+Akuma | Grerk | Market Square | Mon Dec  9 00:03:49 2002
+Drew | Grerk | Market Square | Mon Dec  9 00:07:13 2002
+Drew | Brutys | The Grunting Boar | Mon Dec  9 00:10:12 2002
+Quezphiel | Tertalith | Market Square | Mon Dec  9 00:16:40 2002
+Brogg | Tertalith | Entering the village | Mon Dec  9 02:26:24 2002
+Zandar | Brogg | Inside the East Gate of Midgaard | Mon Dec  9 02:33:47 2002
+Zandar | Tertalith | Western side of the Grand Tent | Mon Dec  9 03:55:19 2002
+Corvus | Darrien | Outside the Tower | Mon Dec  9 13:16:16 2002
+Corvus | Xarius | Market Square | Mon Dec  9 13:37:19 2002
+Xarius | Zghern | Archway before the Temple of Chaos | Mon Dec  9 13:41:38 2002
+Corvus | Xarius | Archway before the Temple of Chaos | Mon Dec  9 13:46:32 2002
+Celest | Denglod | By the Temple Altar | Mon Dec  9 15:01:45 2002
+Zghern | Oogarhar | The village shrine | Mon Dec  9 15:30:36 2002
+Corvus | Brogg | The Hallway of Giants | Mon Dec  9 15:45:45 2002
+Corvus | Kaerk | By the beautiful waterfall | Mon Dec  9 15:53:07 2002
+Brogg | Kaerk | At a muddy track | Mon Dec  9 15:54:34 2002
+Corvus | Oogarhar | At a muddy track | Mon Dec  9 15:56:55 2002
+Panir | Morgren | The village shrine | Mon Dec  9 16:19:10 2002
+Sycho | Panir | A dim trail in the dwarf forest | Mon Dec  9 16:35:04 2002
+Morgren | Zghern | A stairwell | Mon Dec  9 16:37:49 2002
+Zanidar | Panir | Altar of the Damned | Mon Dec  9 16:44:24 2002
+Corvus | Oogarhar | A dim trail in the dwarf forest | Mon Dec  9 18:17:19 2002
+Ceesha | Morgren | The Cross Roads | Mon Dec  9 18:23:30 2002
+Nadraz | Morgren | At a muddy track | Mon Dec  9 18:52:23 2002
+Ceesha | Morgren | By the beautiful waterfall | Mon Dec  9 18:54:11 2002
+Ceesha | Harvey | By the beautiful waterfall | Mon Dec  9 18:57:52 2002
+Trustin | Morgren | By the beautiful waterfall | Mon Dec  9 19:04:17 2002
+Corvus | Harvey | By the Temple Altar | Mon Dec  9 19:08:40 2002
+Duff | Oogarhar | At a muddy track | Mon Dec  9 19:13:59 2002
+Allanon | Nadraz | The Grunting Boar | Mon Dec  9 19:15:35 2002
+Akuma | Trustin | The bend in the trail in the dwarf forest | Mon Dec  9 19:27:25 2002
+Duff | Rezaf | At a muddy track | Mon Dec  9 19:27:39 2002
+Rezaf | Nadraz | The bend in the trail in the dwarf forest | Mon Dec  9 19:31:24 2002
+Duff | Nadraz | The bend in the trail in the dwarf forest | Mon Dec  9 19:31:44 2002
+Akuma | Trustin | The bend in the trail in the dwarf forest | Mon Dec  9 19:44:34 2002
+Akuma | Boren | Outside the East Gate of Midgaard | Mon Dec  9 19:58:13 2002
+Akuma | Trustin | The Main Street | Mon Dec  9 20:01:42 2002
+Boren | Trustin | Inside the East Gate of Midgaard | Mon Dec  9 20:02:00 2002
+Doren | Morgren | At a muddy track | Mon Dec  9 20:31:45 2002
+Doren | Morgren | By the beautiful waterfall | Mon Dec  9 20:32:25 2002
+Trustin | Oogarhar | A trail in the dwarf forest | Mon Dec  9 20:39:07 2002
+Trustin | Morgren | The Valley in the dark dwarf forest | Mon Dec  9 20:47:57 2002
+Duff | Morgren | At a muddy track | Mon Dec  9 21:01:15 2002
+Trustin | Oogarhar | Small path in the park | Mon Dec  9 21:08:50 2002
+Benius | Zghern | A dim trail in the dwarf forest | Mon Dec  9 21:28:00 2002
+Drakon | Tertalith | Along the Eastern Road | Mon Dec  9 21:38:38 2002
+Horvath | Tertalith | By the Temple Altar | Mon Dec  9 21:52:14 2002
+cloaked figure | Tertalith | By the Temple Altar | Mon Dec  9 22:07:47 2002
+Dalvin | Tertalith | By the Temple Altar | Mon Dec  9 22:09:58 2002
+Drakon | Tertalith | Market Square | Mon Dec  9 22:15:56 2002
+Narin | Zdenka | A dim trail in the dwarf forest | Mon Dec  9 22:38:34 2002
+Rezaf | Darrien | A trail in the dwarf forest | Mon Dec  9 22:51:07 2002
+Rezaf | Darrien | By the beautiful waterfall | Mon Dec  9 22:53:59 2002
+Rezaf | Trustin | Small path in the park | Mon Dec  9 22:58:38 2002
+Narin | Grerk | A trail in the dwarf forest | Mon Dec  9 23:04:28 2002
+Rezaf | Grerk | A trail in the dwarf forest | Mon Dec  9 23:04:53 2002
+Grerk | Rezaf | At a muddy track | Mon Dec  9 23:07:11 2002
+Rezaf | Grerk | At a muddy track | Mon Dec  9 23:07:11 2002
+Trustin | Grerk | At a muddy track | Mon Dec  9 23:07:11 2002
+Grerk | Grerk | A Large Hall | Mon Dec  9 23:14:15 2002
+Derrek | Dante | Inside the East Gate of Midgaard | Mon Dec  9 23:32:42 2002
+Raekwon | Trustin | By the Temple Altar | Mon Dec  9 23:35:20 2002
+Trustin | Narin | By the Temple Altar | Mon Dec  9 23:36:57 2002
+Narin | Grerk | At a muddy track | Mon Dec  9 23:41:56 2002
+Trustin | Nilan | At a muddy track | Mon Dec  9 23:44:13 2002
+Grerk | Nilan | Grassy fields | Mon Dec  9 23:45:24 2002
+Nilan | Grerk | A hallway in the castle | Mon Dec  9 23:47:18 2002
+Raekwon | Brutys | The Entrance | Mon Dec  9 23:50:50 2002
+Doren | Klandevu | By the Temple Altar | Tue Dec 10 00:45:26 2002
+Darrien | Darrien | The Tomb of Ramses | Tue Dec 10 02:20:50 2002
+Nordath | Dante | The Armoury | Tue Dec 10 07:12:45 2002
+Guherf | Doren | A triple junction | Tue Dec 10 13:52:07 2002
+Trustin | Nadraz | The Hallway | Tue Dec 10 16:27:42 2002
+Guherf | Doren | The Quadruple Junction Under the Dump | Tue Dec 10 17:34:22 2002
+Guherf | Doren | The Quadruple Junction Under the Dump | Tue Dec 10 17:35:48 2002
+Drakon | Alaine | Inside the Slave Pens | Tue Dec 10 17:36:07 2002
+Guherf | Doren | The Quadruple Junction Under the Dump | Tue Dec 10 17:38:25 2002
+Doren | Doren | Market Square | Tue Dec 10 18:08:23 2002
+Tilrith | Nadraz | The Entrance | Tue Dec 10 18:26:35 2002
+Tilrith | Nadraz | By the Temple Altar | Tue Dec 10 18:34:38 2002
+Sharmerlin | Alaine | At a muddy track | Tue Dec 10 19:37:21 2002
+Xarius | Meurk | Melancholy's Room | Tue Dec 10 20:12:13 2002
+Louko | Alaine | Archway before the Temple of Chaos | Tue Dec 10 20:12:59 2002
+Horvath | Alaine | The Shadow Grove | Tue Dec 10 20:18:31 2002
+Xarius | Meurk | Melancholy's Room | Tue Dec 10 20:18:46 2002
+Xarius | Pollo | Entrance to the Grunting Boar Inn | Tue Dec 10 20:34:51 2002
+Morgren | Alaine | The village shrine | Tue Dec 10 21:25:44 2002
+Doren | Alaine | Penguin Room | Tue Dec 10 23:29:16 2002
+Doren | Dante | Fourth Level | Tue Dec 10 23:44:04 2002
+Doren | Atari | The Void | Wed Dec 11 00:39:40 2002
+Zanidar | Alaine | Market Square | Wed Dec 11 01:21:18 2002
+Zanidar | Dante | Market Square | Wed Dec 11 01:25:33 2002
+Zandar | Alaine | Corridor in the Barracks | Wed Dec 11 01:26:53 2002
+Zandar | Dante | Market Square | Wed Dec 11 01:29:58 2002
+Mirkon | Dante | Entrance to the Palace | Thu Dec 12 00:35:18 2002
+Duff | Alaine | Main Street | Thu Dec 12 15:16:26 2002
+Duff | Alaine | The Main Street | Thu Dec 12 15:20:35 2002
+Brutys | Dante | The Grunting Boar | Thu Dec 12 16:57:16 2002
+Drusellam | Sandra | Entrance to the Grunting Boar Inn | Thu Dec 12 17:01:47 2002
+Tilrith | Sandra | The Temple Of Mota | Thu Dec 12 17:19:03 2002
+Tilrith | Sandra | The Temple Square | Thu Dec 12 17:21:53 2002
+Sandra | Dante | The Mystical Path | Thu Dec 12 17:24:23 2002
+Drusellam | Dante | Austral Square | Thu Dec 12 17:40:55 2002
+Drazn | Morgren | The dwarf forest | Thu Dec 12 17:48:59 2002
+Drazn | Morgren | Under the Dark Pit | Thu Dec 12 17:59:42 2002
+Drazn | Morgren | By the beautiful waterfall | Thu Dec 12 18:06:13 2002
+Duff | Morgren | By the beautiful waterfall | Thu Dec 12 18:10:32 2002
+Trustin | Morgren | By the beautiful waterfall | Thu Dec 12 18:16:50 2002
+Drazn | Morgren | At a muddy track | Thu Dec 12 18:17:01 2002
+Trustin | Morgren | The bend in the trail in the dwarf forest | Thu Dec 12 18:25:20 2002
+Morgren | Kaerk | Grassy fields | Thu Dec 12 18:48:16 2002
+Kryth | Trustin | At a muddy track | Thu Dec 12 18:51:29 2002
+Kryth | Nordath | At a muddy track | Thu Dec 12 20:12:55 2002
+Kryth | Kryth | The Eastern Market Square | Thu Dec 12 20:30:06 2002
+Pollo | Kaerk | By the Temple Altar | Thu Dec 12 20:38:05 2002
+Pollo | Dante | Outside the Tower | Thu Dec 12 21:57:09 2002
+Pollo | Dante | Outside the Tower | Thu Dec 12 21:58:46 2002
+Pollo | Dante | Outside the Tower | Thu Dec 12 22:09:22 2002
+Kryth | Heiskler | At a muddy track | Thu Dec 12 22:17:59 2002
+Heiskler | Dante | The Altar | Thu Dec 12 22:25:06 2002
+Horvath | Toktamrsh | Main Street | Thu Dec 12 22:26:04 2002
+Tydus | Grim | Market Square | Fri Dec 13 16:47:06 2002
+Benius | Vladmir | The Entrance | Fri Dec 13 17:01:41 2002
+Atari | Tydus | The dwarf forest | Fri Dec 13 17:24:02 2002
+Atari | Morgren | The Temple Of Mota | Fri Dec 13 18:06:37 2002
+Adrosener | Tydus | By the Temple Altar | Fri Dec 13 18:08:39 2002
+Allanon | Tydus | The dwarf forest | Fri Dec 13 18:09:40 2002
+Kryth | Atari | The Main Street | Fri Dec 13 18:16:06 2002
+Morgren | Kaerk | The bend in the trail in the dwarf forest | Fri Dec 13 18:17:05 2002
+Allanon | Kaerk | The Throne Room of the Nebula King | Fri Dec 13 18:26:59 2002
+Allanon | Kaerk | By the Temple Altar | Fri Dec 13 18:31:38 2002
+Kryth | Kaerk | The dwarf forest | Fri Dec 13 18:33:07 2002
+Morgren | Grizerk | At a muddy track | Fri Dec 13 18:38:36 2002
+Tydus | Grizerk | By the Temple Altar | Fri Dec 13 18:40:25 2002
+Atari | Grizerk | The Common Square | Fri Dec 13 18:42:24 2002
+Morgren | Meurk | Outside the East Gate of Midgaard | Fri Dec 13 18:51:22 2002
+Horvath | Alaine | Southeastern Corner of the Sanctuary | Sat Dec 14 00:29:09 2002
+Atari | Illven | Fourth Level | Sat Dec 14 11:59:48 2002
+Atari | Morgren | The Mystical Path | Sat Dec 14 13:11:59 2002
+Atari | Morgren | Outside the Tower | Sat Dec 14 13:15:50 2002
+Doren | Grizerk | The Temple Square | Sat Dec 14 13:18:07 2002
+Atari | Morgren | The Mystical Path | Sat Dec 14 13:19:44 2002
+Atari | Morgren | Near the Sands of Sorrow | Sat Dec 14 13:25:04 2002
+Doren | Morgren | On the Edge of the Downs | Sat Dec 14 13:30:31 2002
+Horvath | Grim | By the Temple Altar | Sat Dec 14 13:50:11 2002
+Tydus | Meurk | Market Square | Sun Dec 15 00:33:10 2002
+Meurk | Morgren | By the Temple Altar | Sun Dec 15 00:36:05 2002
+Meurk | Morgren | At a muddy track | Sun Dec 15 00:41:41 2002
+Meurk | Tydus | The dwarf forest | Sun Dec 15 00:49:49 2002
+Meurk | Morgren | By the Temple Altar | Sun Dec 15 00:54:51 2002
+Meurk | Morgren | Melancholy's Room | Sun Dec 15 01:00:39 2002
+Doren | Oogarhar | Outside the East Gate of Midgaard | Sun Dec 15 01:03:13 2002
+Meurk | Vile | The Main Street | Sun Dec 15 01:05:42 2002
+Meurk | Morgren | On the Bridge of Nebulae | Sun Dec 15 01:17:36 2002
+Meurk | Morgren | The Common Square | Sun Dec 15 01:21:15 2002
+Meurk | Morgren | The Main Street | Sun Dec 15 01:25:01 2002
+Morgren | Alaine | Market Square | Sun Dec 15 01:26:10 2002
+Meurk | Grizerk | Market Square | Sun Dec 15 01:28:42 2002
+Meurk | Tydus | Outside the East Gate of Midgaard | Sun Dec 15 01:33:13 2002
+Salem | Morgren | The Pet Shop | Sun Dec 15 01:34:47 2002
+Vile | Oogarhar | By the beautiful waterfall | Sun Dec 15 01:50:55 2002
+Meurk | Morgren | By the beautiful waterfall | Sun Dec 15 01:51:45 2002
+Meurk | Vile | By the Temple Altar | Sun Dec 15 01:57:46 2002
+Vile | Benius | The village shrine | Sun Dec 15 02:10:51 2002
+Karak | Dante | Black Hole | Sun Dec 15 02:22:15 2002
+Antari | Grizerk | By the Temple Altar | Sun Dec 15 11:23:07 2002
+Valerik | Vile | The chapel | Sun Dec 15 11:46:52 2002
+Doren | Morgren | By the Temple Altar | Sun Dec 15 12:58:42 2002
+Doren | Morgren | By the Temple Altar | Sun Dec 15 13:05:36 2002
+Doren | Grizerk | Inside the East Gate of Midgaard | Sun Dec 15 13:22:27 2002
+Meurk | Illven | Market Square | Sun Dec 15 16:08:27 2002
+Meurk | Illven | Market Square | Sun Dec 15 16:16:05 2002
+Meurk | Grizerk | Market Square | Sun Dec 15 16:26:24 2002
+Benius | Grizerk | Market Square | Sun Dec 15 16:37:19 2002
+Axtrilianes | Kaerk | Outside the East Gate of Midgaard | Sun Dec 15 18:30:33 2002
+Brutys | Maryjane | By the Temple Altar | Sun Dec 15 18:52:06 2002
+Meurk | Axtrilianes | The Jeweller's Shop | Sun Dec 15 19:15:47 2002
+Axtrilianes | Meurk | Market Square | Sun Dec 15 19:18:37 2002
+Maryjane | Morgren | Within the Palace of Dominace | Sun Dec 15 20:27:58 2002
+Doren | Meurk | A Dirt Path through the Downs | Sun Dec 15 21:08:21 2002
+Meurk | Doren | Market Square | Sun Dec 15 21:11:26 2002
+Meurk | Kryth | By the Temple Altar | Sun Dec 15 21:26:43 2002
+Meurk | Doren | The Main Street | Sun Dec 15 21:39:12 2002
+Marcus | Meurk | The Main Street | Sun Dec 15 21:46:18 2002
+Meurk | Tertalith | Market Square | Sun Dec 15 21:50:13 2002
+Marcus | Tertalith | Before the Tower | Sun Dec 15 21:51:02 2002
+Doren | Meurk | The Temple Square | Sun Dec 15 21:57:09 2002
+Horvath | Tertalith | Entrance to the Palace | Sun Dec 15 21:59:01 2002
+Tertalith | Kaerk | By the Temple Altar | Sun Dec 15 22:07:37 2002
+Harvey | Kaerk | The dwarf forest | Sun Dec 15 22:55:11 2002
+Harvey | Kaerk | Entrance to the Palace | Sun Dec 15 23:01:42 2002
+Doren | Tydus | Inside the East Gate of Midgaard | Sun Dec 15 23:18:38 2002
+Tydus | Kaerk | The dwarf forest | Sun Dec 15 23:29:00 2002
+Doren | Grerk | Mid-air | Mon Dec 16 00:19:52 2002
+cloaked figure | Grerk | Main Street | Mon Dec 16 00:24:11 2002
+Tydus | Dante | In the air... | Mon Dec 16 00:27:23 2002
+Doren | Tydus | The Common Square | Mon Dec 16 00:42:10 2002
+Dante | Kaerk | The dwarf forest | Mon Dec 16 00:46:46 2002
+Drew | Drew | Western Summoning Chamber | Mon Dec 16 02:04:00 2002
+Morgren | Alaine | At a muddy track | Mon Dec 16 16:49:48 2002
+Morgren | Meurk | Fourth Level | Mon Dec 16 16:58:32 2002
+Morgren | Meurk | The Mystical Path | Mon Dec 16 17:09:24 2002
+Meurk | Vile | By the Temple Altar | Mon Dec 16 17:12:39 2002
+Meurk | Morgren | At a muddy track | Mon Dec 16 17:16:10 2002
+Morgren | Meurk | At a muddy track | Mon Dec 16 17:17:24 2002
+Meurk | Morgren | Grassy fields | Mon Dec 16 17:24:34 2002
+Morgren | Meurk | Village road | Mon Dec 16 17:34:30 2002
+Oogarhar | Kaerk | Market Square | Mon Dec 16 17:48:07 2002
+Aoslar | Felted | At a muddy track | Mon Dec 16 18:09:19 2002
+Morgren | Kaerk | The dwarf forest | Mon Dec 16 18:25:31 2002
+Corvus | Kaerk | Market Square | Mon Dec 16 18:49:53 2002
+Kryth | Kaerk | At a muddy track | Mon Dec 16 19:17:21 2002
+Morgren | Kaerk | At a muddy track | Mon Dec 16 19:18:14 2002
+Felted | Kaerk | The village shrine | Mon Dec 16 19:19:31 2002
+Kryth | Trustin | Near the Sands of Sorrow | Mon Dec 16 20:04:21 2002
+Aurion | Kaerk | By the Temple Altar | Mon Dec 16 20:05:43 2002
+Aurion | Kaerk | Market Square | Mon Dec 16 20:06:46 2002
+Aurion | Kaerk | Market Square | Mon Dec 16 20:07:36 2002
+Aurion | Kaerk | By the Temple Altar | Mon Dec 16 20:08:25 2002
+Aurion | Maryjane | The Cross Roads | Mon Dec 16 20:09:19 2002
+Aurion | Kryth | The Cross Roads | Mon Dec 16 20:10:59 2002
+Kryth | Maryjane | The Cross Roads | Mon Dec 16 20:12:57 2002
+Aurion | Trustin | The Cross Roads | Mon Dec 16 20:14:36 2002
+Aurion | Trustin | The Cross Roads | Mon Dec 16 20:15:41 2002
+Kryth | Maryjane | The Cross Roads | Mon Dec 16 20:19:08 2002
+Aoslar | Maryjane | The wet maze | Mon Dec 16 20:24:42 2002
+Desciple | Maryjane | On the Concourse | Mon Dec 16 20:30:25 2002
+Horvath | Nadraz | Before a grand bridge | Mon Dec 16 21:08:07 2002
+Horvath | Zrialynith | A Hallway | Mon Dec 16 21:16:33 2002
+Maryjane | Nadraz | A Winding Trail Through the Downs | Mon Dec 16 21:20:08 2002
+Glum | Zrialynith | Market Square | Mon Dec 16 21:29:46 2002
+Doren | Kaerk | The Dark Road | Mon Dec 16 21:39:56 2002
+Overlord | Maryjane | Market Square | Mon Dec 16 21:43:00 2002
+Salem | Kaerk | The Temple Square | Mon Dec 16 21:43:26 2002
+Curanthor | Overlord | Dragon Road | Mon Dec 16 21:50:31 2002
+Baetron | Maryjane | Market Square | Mon Dec 16 21:52:37 2002
+Baetron | Kaerk | The Temple Square | Mon Dec 16 21:57:49 2002
+Overlord | Maryjane | The Inner Gates | Mon Dec 16 22:21:48 2002
+Valbon | Vile | The Inner Gates | Mon Dec 16 22:48:57 2002
+Felted | Vile | The Temple Square | Mon Dec 16 22:51:07 2002
+Felted | Axtrilianes | Grassy fields | Mon Dec 16 23:01:22 2002
+Felted | Vile | Entering the village | Mon Dec 16 23:12:30 2002
+Doren | Drusellam | The Main Street | Tue Dec 17 13:47:02 2002
+Doren | Felted | A peaceful clearing | Tue Dec 17 16:52:59 2002
+Salem | Zrialynith | Entrance Hall to the Guild of Swordsmen | Tue Dec 17 17:18:19 2002
+Felted | Vile | By the Temple Altar | Tue Dec 17 17:23:23 2002
+Salem | Vile | By the Temple Altar | Tue Dec 17 17:24:38 2002
+Felted | Vile | Inside the East Gate of Midgaard | Tue Dec 17 17:44:52 2002
+Benius | Zrialynith | Grassy fields | Tue Dec 17 19:25:37 2002
+Maryjane | Felted | At a muddy track | Tue Dec 17 19:38:48 2002
+Felted | Zrialynith | At a muddy track | Tue Dec 17 19:42:44 2002
+Felted | Zrialynith | Grassy fields | Tue Dec 17 20:01:15 2002
+Marcus | Maryjane | By the Temple Altar | Tue Dec 17 20:17:30 2002
+Maryjane | Marcus | By the Temple Altar | Tue Dec 17 20:29:26 2002
+Keoii | Eleena | The Cross Roads | Tue Dec 17 20:49:20 2002
+Corvus | Maryjane | The Temple Of Mota | Tue Dec 17 21:02:13 2002
+Rezaf | Vile | The Inner Gates | Tue Dec 17 21:06:07 2002
+Keoii | Meurk | Blacksmith | Tue Dec 17 21:07:32 2002
+Pooponastick | Maryjane | Alley | Tue Dec 17 22:15:27 2002
+Bremm | Darrien | By the Temple Altar | Wed Dec 18 01:17:54 2002
+Corvus | Nadraz | The Mystical Path | Wed Dec 18 18:19:31 2002
+Meurk | Nadraz | The Mystical Path | Wed Dec 18 18:27:05 2002
+Corvus | Zrialynith | The Mystical Path | Wed Dec 18 18:27:12 2002
+Grerk | Kaerk | The Altar | Wed Dec 18 18:56:39 2002
+Zrialynith | Bremm | In the air... | Wed Dec 18 21:53:45 2002
+Rual | Bremm | Inside the tent | Thu Dec 19 00:55:37 2002
+Nordiran | Bremm | The Main Street | Thu Dec 19 05:48:35 2002
+Karak | Bremm | Abandoned General Store | Thu Dec 19 08:52:25 2002
+Nero | Grizerk | By the Temple Altar | Thu Dec 19 13:37:30 2002
+Nero | Nordiran | Deathknight guild | Thu Dec 19 13:41:30 2002
+Nero | Nordiran | Torture Chamber | Thu Dec 19 13:45:48 2002
+Meurk | Bremm | By the Temple Altar | Thu Dec 19 14:50:26 2002
+Zandar | Bremm | Mesa East | Thu Dec 19 15:53:19 2002
+Corvus | Sharmerlin | By the beautiful waterfall | Thu Dec 19 17:32:11 2002
+Felted | Kaerk | At a muddy track | Thu Dec 19 17:40:37 2002
+Kojeh | Felted | Entering the village | Thu Dec 19 21:43:20 2002
+Pariah | Vile | The Temple Of Mota | Fri Dec 20 17:38:36 2002
+Felted | Kaerk | At a muddy track | Fri Dec 20 22:28:34 2002
+Felted | Meurk | By the beautiful waterfall | Fri Dec 20 22:31:53 2002
+Sycho | Bremm | Prison Entrance | Sat Dec 21 17:53:22 2002
+Pariah | Bremm | A Road | Sat Dec 21 17:57:10 2002
+Corvus | Kaerk | Village road | Sun Dec 22 13:02:04 2002
+Drakon | Sycho | Market Square | Sun Dec 22 14:57:54 2002
+Nephetz | Pariah | The Throne Room | Sun Dec 22 17:17:44 2002
+Lithran | Pariah | Within the Dying Forest | Sun Dec 22 17:32:15 2002
+Sharzak | Meurk | Entrance to Mage's Guild | Sun Dec 22 17:56:42 2002
+Tilrith | Meurk | Melancholy's Room | Sun Dec 22 18:14:59 2002
+Tilrith | Pariah | Market Square | Sun Dec 22 18:18:42 2002
+Meurk | Pariah | Market Square | Sun Dec 22 18:19:00 2002
+Sharzak | Pariah | Eastern end of Alley | Sun Dec 22 18:21:42 2002
+Meurk | Pariah | Eastern end of Alley | Sun Dec 22 18:22:38 2002
+Sharzak | Meurk | The Main Street | Sun Dec 22 18:28:25 2002
+Meurk | Tilrith | The Weapon Shop | Sun Dec 22 18:28:41 2002
+Tilrith | Tydus | The Common Square | Sun Dec 22 19:08:50 2002
+Yavamayos | Kaerk | The Main Street | Sun Dec 22 20:11:36 2002
+Gordank | Bremm | On the Concourse | Sun Dec 22 20:34:35 2002
+Kitran | Kojeh | Inside the tent | Sun Dec 22 22:59:40 2002
+Kojeh | Elmo | Shadar Lunn's coffin room | Sun Dec 22 23:42:32 2002
+Kitran | Meurk | The Mystical Path | Mon Dec 23 00:24:07 2002
+Kitran | Meurk | The Common Square | Mon Dec 23 00:34:52 2002
+Dante | Dante | The Pantheon of Gwenidill | Mon Dec 23 01:05:08 2002
+Desciple | Kaerk | By the Temple Altar | Mon Dec 23 13:04:53 2002
+Sharzak | Bremm | The Flickering Tunnel | Mon Dec 23 14:24:41 2002
+Kitran | Bremm | The Bakery | Mon Dec 23 14:32:51 2002
+Kitran | Bremm | An Upper Chamber of the Golden Citadel | Mon Dec 23 16:04:19 2002
+Kitran | Desciple | In the Shaft from the Dragon Chamber | Mon Dec 23 18:57:07 2002
+Nordiran | Meurk | Black Hole | Mon Dec 23 19:04:12 2002
+Kitran | Desciple | By the Temple Altar | Mon Dec 23 19:08:00 2002
+Wigga | Meurk | Inside the East Gate of Midgaard | Mon Dec 23 19:52:47 2002
+Nekarak | Meurk | The Armoury | Mon Dec 23 21:11:35 2002
+Gordank | Meurk | By the Temple Altar | Mon Dec 23 22:11:08 2002
+Takith | Meurk | In the southern swamps | Mon Dec 23 22:16:04 2002
+Meurk | Bremm | A Dank Tunnel | Tue Dec 24 09:19:19 2002
+Kaerk | Bremm | A Dank Tunnel | Tue Dec 24 09:26:38 2002
+Marcus | Kaerk | The Flickering Tunnel | Tue Dec 24 14:45:12 2002
+Rothgar | Shardin | Kreegan's Hole in the Wall | Tue Dec 24 14:49:26 2002
+Salem | Marcus | Before the Tower | Tue Dec 24 15:04:16 2002
+Celest | Salem | Grassy fields | Tue Dec 24 15:26:54 2002
+cloaked figure | Salem | At a muddy track | Tue Dec 24 15:27:40 2002
+Celest | Salem | A trail in the dwarf forest | Tue Dec 24 15:29:58 2002
+cloaked figure | Salem | At a muddy track | Tue Dec 24 15:31:58 2002
+Celest | Salem | Grassy fields | Tue Dec 24 15:33:49 2002
+cloaked figure | Salem | The bend in the trail in the dwarf forest | Tue Dec 24 15:39:35 2002
+Salem | Desciple | The dwarf forest | Tue Dec 24 20:43:23 2002
+Teflin | Desciple | By the Temple Altar | Tue Dec 24 21:44:24 2002
+Teflin | Meurk | Alley at Levee | Tue Dec 24 22:36:12 2002
+Teflin | Delimarov | Before the gates of the kingdom | Tue Dec 24 22:43:22 2002
+Lanceweiser | Pariah | Prison Entrance | Wed Dec 25 14:18:47 2002
+Kelaheobr | Tydus | The Cross Roads | Thu Dec 26 01:12:02 2002
+Vladmir | Desciple | The Common Square | Thu Dec 26 07:49:54 2002
+Vladmir | Desciple | The Temple Of Mota | Thu Dec 26 08:00:49 2002
+Delimarov | Kelaheobr | By the Temple Altar | Thu Dec 26 13:44:29 2002
+Kelaheobr | Kelaheobr | By the Temple Altar | Thu Dec 26 14:24:18 2002
+Franz | Oogarhar | At a muddy track | Thu Dec 26 22:04:09 2002
+Roth | Desciple | Sailor Way | Fri Dec 27 01:44:39 2002
+Wigga | Meurk | The dwarf forest | Fri Dec 27 10:53:53 2002
+Tydus | Desciple | By the Temple Altar | Fri Dec 27 15:02:59 2002
+Gordank | Kaerk | By the Temple Altar | Fri Dec 27 15:14:46 2002
+Kalorian | Gordank | Mid-air | Fri Dec 27 15:27:59 2002
+cloaked figure | Elmo | By the Temple Altar | Fri Dec 27 16:41:09 2002
+Elmo | Ethel | The Realm of the Dead | Fri Dec 27 16:52:46 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:54:45 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:54:49 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:56:35 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:56:37 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:57:16 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:57:53 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:58:44 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:58:57 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:01 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:05 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:08 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:10 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:12 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:14 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:16 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:18 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:19 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:27 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:29 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:32 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:35 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:37 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:45 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:47 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:49 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:51 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:52 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:54 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 16:59:59 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:01 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:03 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:05 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:07 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:09 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:11 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:21 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:23 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:24 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:26 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:28 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:30 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:32 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:34 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:35 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:37 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:39 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:42 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:44 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:46 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:49 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:00:50 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:09 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:17 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:20 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:23 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:27 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:29 2002
+Elmo | Ethel | The Mystical Path | Fri Dec 27 17:01:32 2002
+Sycho | Kaerk | Alley at Levee | Fri Dec 27 18:43:34 2002
+Drusellam | Kaerk | The village shrine | Fri Dec 27 19:05:32 2002
+Sycho | Kaerk | Grassy fields | Fri Dec 27 19:06:52 2002
+Sycho | Kaerk | The village shrine | Fri Dec 27 19:10:48 2002
+Drusellam | Kaerk | A large wooden hut | Fri Dec 27 19:11:46 2002
+Sycho | Kaerk | Grassy fields | Fri Dec 27 19:14:41 2002
+Kaerk | Tydus | By the beautiful waterfall | Fri Dec 27 19:21:23 2002
+Kaerk | Sycho | By the beautiful waterfall | Fri Dec 27 19:24:17 2002
+Sylkorian | Sylkorian | At a muddy track | Fri Dec 27 19:28:00 2002
+Drusellam | Grim | A Safe Room | Fri Dec 27 19:37:37 2002
+Sylkorian | Kaerk | At a muddy track | Fri Dec 27 19:38:24 2002
+Drusellam | Grim | Market Square | Fri Dec 27 19:42:44 2002
+Sycho | Kaerk | Grassy fields | Fri Dec 27 19:43:23 2002
+Sharzak | Kaerk | By the Temple Altar | Sat Dec 28 00:48:07 2002
+Baelnor | Ethel | Death walk | Sat Dec 28 01:07:59 2002
+Kaerk | Kaerk | Room Beyond Barney | Sat Dec 28 02:01:41 2002
+Valedrin | Kaerk | By the Temple Altar | Sat Dec 28 02:07:10 2002
+Salem | Kaerk | By the Temple Altar | Sat Dec 28 11:25:54 2002
+Verdael | Xarius | The Common Square | Sat Dec 28 12:54:00 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:40 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:42 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:44 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:45 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:47 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:49 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:53 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:56 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:12:58 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:01 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:03 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:05 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:07 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:08 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:10 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:12 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:14 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:16 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:19 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:20 2002
+Elmo | Ethel | The Realm of the Dead | Sat Dec 28 20:13:22 2002
+Tydus | Ethel | The Mouth of a Cave | Sat Dec 28 22:37:54 2002
+Stoned | Sharzak | A rough trail | Sun Dec 29 01:18:42 2002
+Stoned | Desciple | Cave Entrance | Sun Dec 29 01:32:54 2002
+Sycho | Desciple | The Dark Road | Sun Dec 29 01:35:45 2002
+Sycho | Desciple | The Crossroads | Sun Dec 29 01:45:40 2002
+Notorious | Desciple | The Main Street | Sun Dec 29 02:38:02 2002
+Meurk | Ethel | The Main Street | Sun Dec 29 12:44:37 2002
+Dimdim | Meurk | East Main Street | Sun Dec 29 12:51:12 2002
+Baledon | Meurk | The Pet Shop | Sun Dec 29 12:52:34 2002
+Baledon | Meurk | The Altar | Sun Dec 29 13:05:03 2002
+Baledon | Meurk | Squire Barracks | Sun Dec 29 13:17:08 2002
+Corvus | Desciple | The Underhalls | Sun Dec 29 14:26:02 2002
+Oogarhar | Kaerk | The village shrine | Sun Dec 29 14:57:11 2002
+Kelaheobr | Kelaheobr | By the Temple Altar | Sun Dec 29 15:35:29 2002
+Gradelave | Ethel | The Entrance | Sun Dec 29 20:27:07 2002
+Krunk | Meurk | At a muddy track | Sun Dec 29 22:14:00 2002
+Vhenkamta | Nordiran | the Hallway | Mon Dec 30 05:16:44 2002
+Atraen | Penz | The Dragon Chamber | Mon Dec 30 19:39:38 2002
+Atraen | Meurk | The Dragon Chamber | Mon Dec 30 19:54:12 2002
+Katistrofik | Desciple | Top of the Lord's Stairwell | Mon Dec 30 23:12:09 2002
+Vhenkamta | Derintal | The bend in the trail in the dwarf forest | Tue Dec 31 07:22:23 2002
+Sharmerlin | Kaerk | The village shrine | Tue Dec 31 15:17:45 2002
+Agony | Vhenkamta | Inside the East Gate of Midgaard | Tue Dec 31 17:45:19 2002
+Katistrofik | Ethel | Vast Corridor | Wed Jan  1 16:25:07 2003
+Sycho | Kaerk | By the Temple Altar | Wed Jan  1 18:56:02 2003
+Sycho | Ethel | The darker dwarf forest | Wed Jan  1 19:12:42 2003
+Sycho | Ethel | The bend in the trail in the dwarf forest | Wed Jan  1 19:18:45 2003
+Gringo | Ethel | The bend in the trail in the dwarf forest | Wed Jan  1 19:21:02 2003
+Sycho | Ethel | Grassy fields | Wed Jan  1 19:28:30 2003
+Atraen | Maryjane | In the Shaft from the Dragon Chamber | Thu Jan  2 00:43:23 2003
+Synthia | Ethel | On the Sea of Agape | Thu Jan  2 00:52:55 2003
+Synthia | Synthia | Southwest main area of the Mausoleum. | Thu Jan  2 01:20:03 2003
+Penz | Synthia | An Acolyte's Chambers | Thu Jan  2 01:25:38 2003
+Penz | Grerk | Cathedral of the Elder Gods | Thu Jan  2 01:53:46 2003
+Nordiran | Erith | In the depths of the swamp | Thu Jan  2 06:50:44 2003
+Atraen | Ethel | A bloody corner of the apprentice necromancer room | Thu Jan  2 17:07:26 2003
+Oogarhar | Kraerox | The fireplace | Thu Jan  2 17:53:03 2003
+Grim | Kaerk | By the Temple Altar | Fri Jan  3 15:02:38 2003
+Corvus | Alctinco | The Mystical Path | Fri Jan  3 16:19:12 2003
+Alctinco | Wigga | At a muddy track | Fri Jan  3 19:45:31 2003
+Synthia | Alctinco | The Shadow Grove | Fri Jan  3 20:04:17 2003
+Vhenkamta | Alctinco | On the Plains | Sat Jan  4 06:23:30 2003
+Antonius | Alctinco | Steep slope | Sat Jan  4 08:59:09 2003
+Duff | Alctinco | By the Temple Altar | Sat Jan  4 09:42:10 2003
+Duff | Alctinco | Market Square | Sat Jan  4 09:49:02 2003
+Thrawn | Baledon | The Inner Gates | Sat Jan  4 15:09:28 2003
+Jokae | Jokae | Market Square | Sat Jan  4 15:12:48 2003
+Jokie | Baledon | By the Temple Altar | Sat Jan  4 15:13:00 2003
+Gringo | Allanon | The General Store | Sat Jan  4 19:57:42 2003
+Synthia | Synthia | The Main Hall | Sat Jan  4 20:33:16 2003
+Allanon | Alctinco | Before the Tower | Sat Jan  4 21:24:30 2003
+Jimbo | Jimbo | Construction Area | Sat Jan  4 22:04:07 2003
+Jimbo | Jimbo | By the Temple Altar | Sat Jan  4 22:09:42 2003
+Jimbo | Jimbo | Kitiara's Seat | Sat Jan  4 22:15:35 2003
+Jimbo | Allanon | By the Temple Altar | Sat Jan  4 22:18:52 2003
+Jimbo | Allanon | By the Temple Altar | Sat Jan  4 22:33:01 2003
+Jimbo | Jimbo | A Guest Room | Sat Jan  4 22:38:54 2003
+Allanon | Alctinco | Fourth Level | Sat Jan  4 22:42:31 2003
+Jimbo | Alctinco | Entrance to Mud School | Sat Jan  4 22:47:22 2003
+Maryjane | Baelnor | Steep slope | Sun Jan  5 00:54:59 2003
+Meurk | Kraerox | Outside the Tower | Sun Jan  5 14:27:11 2003
+Adrosener | Kraerox | By the Temple Altar | Sun Jan  5 14:44:13 2003
+Gringo | Kraerox | The Temple Square | Sun Jan  5 15:59:46 2003
+Shank | Thrawn | The Temple Of Mota | Sun Jan  5 17:18:44 2003
+Ventril | Kraerox | The Temple Of Mota | Sun Jan  5 17:18:45 2003
+Thrawn | Kraerox | The Temple Of Mota | Sun Jan  5 17:18:48 2003
+Thrawn | Kraerox | The Temple Of Mota | Sun Jan  5 17:22:05 2003
+Ventril | Kraerox | The Temple Square | Sun Jan  5 17:22:38 2003
+Thrawn | Kraerox | Altar of the Damned | Sun Jan  5 17:31:11 2003
+Thrawn | Marcus | The Mouth of a Cave | Sun Jan  5 17:32:20 2003
+Shank | Kaerk | The Mouth of a Cave | Sun Jan  5 17:32:26 2003
+Thrawn | Kraerox | The Mouth of a Cave | Sun Jan  5 17:33:27 2003
+Sativa | Vhazaraag | A turn in the hall | Sun Jan  5 18:49:01 2003
+AntiDrow | Lanceweiser | By the Temple Altar | Mon Jan  6 12:05:41 2003
+Kelaheobr | Alctinco | Inside the Observatory | Mon Jan  6 17:30:20 2003
+Kelaheobr | Vhazaraag | By the Temple Altar | Mon Jan  6 17:50:04 2003
+Wigga | Bremm | By the Temple Altar | Mon Jan  6 18:14:39 2003
+Maelstrom | Kaerk | Inside the Temple | Mon Jan  6 23:57:21 2003
+Kydan | Aelhor | Tower Road | Tue Jan  7 01:02:51 2003
+Kydan | Aelhor | By the Temple Altar | Tue Jan  7 01:34:57 2003
+Telmir | Maryjane | By the Temple Altar | Tue Jan  7 01:46:28 2003
+Aelhor | Telmir | The Altar Room | Tue Jan  7 04:30:20 2003
+Aelhor | Alctinco | A path through the Mountains of Dhoom | Tue Jan  7 17:30:06 2003
+Vhazaraag | Wigga | At a muddy track | Tue Jan  7 17:59:15 2003
+Viscious | Lynthic | A valley in the dark dwarf forest | Tue Jan  7 18:11:11 2003
+Viscious | Dalton | Wall Road | Tue Jan  7 18:30:37 2003
+Rithgar | Marcus | Outside the East Gate of Midgaard | Tue Jan  7 19:30:42 2003
+Xarius | Marcus | A hallway in the castle | Tue Jan  7 19:40:49 2003
+Aelhor | Vhazaraag | A landing | Tue Jan  7 21:23:12 2003
+Lynthic | Vhazaraag | Archway before the Temple of Chaos | Tue Jan  7 21:27:52 2003
+Thrawn | Ioberai | Outside the East Gate of Midgaard | Wed Jan  8 13:08:50 2003
+Stanton | Kraid | By the Temple Altar | Wed Jan  8 17:04:11 2003
+Rithgar | Desciple | Small path in the park | Wed Jan  8 18:37:17 2003
+Medivh | Dresith | The Cross Roads | Wed Jan  8 19:26:53 2003
+Desciple | Dresith | Entering the village | Wed Jan  8 19:30:47 2003
+Medivh | Dresith | At a muddy track | Wed Jan  8 19:36:40 2003
+Jakith | Vhazaraag | A valley in the dark dwarf forest | Wed Jan  8 21:40:28 2003
+Yuvien | Vhenkamta | On the Bridge | Wed Jan  8 22:23:10 2003
+Thrawn | Vhazaraag | A House | Wed Jan  8 22:32:13 2003
+Vhazaraag | Thrawn | Cave Entrance | Wed Jan  8 22:40:34 2003
+Harman | Vhenkamta | At a muddy track | Wed Jan  8 22:54:56 2003
+Harman | Vhenkamta | Market Square | Wed Jan  8 22:59:42 2003
+Harman | Yuvien | The Mouth of a Cave | Wed Jan  8 23:12:17 2003
+Vhenkamta | Teryx | Fourth Level | Wed Jan  8 23:42:37 2003
+Harman | Teryx | Western Summoning Chamber | Wed Jan  8 23:51:54 2003
+Korid | Dresith | Inside the East Gate of Midgaard | Thu Jan  9 16:53:48 2003
+Harman | Thrawn | The Temple Square | Thu Jan  9 20:31:54 2003
+Jakith | Kraerox | Outside the East Gate of Midgaard | Thu Jan  9 20:32:56 2003
+Ridley | Kraerox | An ancient dining hall | Thu Jan  9 20:34:33 2003
+Harman | Kraerox | Inside the East Gate of Midgaard | Thu Jan  9 20:36:28 2003
+Jakith | Kaerk | The Cross Roads | Thu Jan  9 20:41:05 2003
+Harman | Kaerk | The Cross Roads | Thu Jan  9 20:43:14 2003
+Harman | Kaerk | The Main Street | Thu Jan  9 20:47:41 2003
+Harman | Kraerox | At a muddy track | Thu Jan  9 20:51:29 2003
+Niggerbeater | Kraerox | Outside the East Gate of Midgaard | Thu Jan  9 21:29:31 2003
+Lyric | Tertalith | The Main Street | Thu Jan  9 21:42:31 2003
+Teiratiz | Tertalith | A small ugly cave | Thu Jan  9 21:45:29 2003
+Teiratiz | Thrawn | Sultan's Walk | Thu Jan  9 22:02:38 2003
+Tertalith | Thrawn | The Temple Square | Thu Jan  9 22:05:11 2003
+Lyric | Ethel | A small ugly cave | Thu Jan  9 22:19:13 2003
+Hvetlin | Ethel | The Dracolich's Lair | Fri Jan 10 00:01:59 2003
+Teiratiz | Kelaheobr | The sewer junction | Fri Jan 10 00:29:13 2003
+Teiratiz | Teryx | The Grand Sewer | Fri Jan 10 04:08:26 2003
+Vhazaraag | Teryx | Cave Entrance | Fri Jan 10 05:14:21 2003
+Lyric | Thrawn | In the air... | Fri Jan 10 18:35:05 2003
+Scrotum | Garaen | The Temple Square | Fri Jan 10 22:47:46 2003
+Scrotum | Thrawn | The Common Square | Fri Jan 10 22:52:45 2003
+Thrawn | Lyric | At a muddy track | Sat Jan 11 01:33:15 2003
+Thrawn | Lyric | At a muddy track | Sat Jan 11 01:34:57 2003
+Baelnor | Meurk | At a muddy track | Sat Jan 11 11:18:08 2003
+Gnat | Thrawn | The Dracolich's Lair | Sat Jan 11 14:12:13 2003
+Icarus | Thrawn | Edge of the Blight | Sat Jan 11 14:47:44 2003
+Icarus | Dresith | Inside the Eastern Gate of New Thalos | Sat Jan 11 15:07:22 2003
+Dresith | Thrawn | On the Edge of the Downs | Sat Jan 11 15:26:03 2003
+Richter | Dresith | Outside the East Gate of Midgaard | Sat Jan 11 15:33:09 2003
+Kydan | Dresith | By the Temple Altar | Sat Jan 11 15:35:53 2003
+Richter | Dresith | By the Temple Altar | Sat Jan 11 15:42:01 2003
+Kydan | Thrawn | A Narrow Trail Through the Foothills | Sat Jan 11 15:42:44 2003
+Richter | Kydan | The Tournament and Practice Yard | Sat Jan 11 15:49:54 2003
+Teiratiz | Thrawn | Dark hallway | Sat Jan 11 17:19:37 2003
+Kydan | Dresith | At a muddy track | Sat Jan 11 18:40:37 2003
+Lyric | Dresith | The Main Street | Sat Jan 11 19:26:11 2003
+Teiratiz | Thrawn | Steep slope | Sun Jan 12 00:18:27 2003
+Fenjah | Thrawn | By the Temple Altar | Sun Jan 12 00:27:21 2003
+Lyric | Thrawn | At a muddy track | Sun Jan 12 00:58:08 2003
+Roythlar | Lyric | Inside the tent | Sun Jan 12 01:08:33 2003
+Vhenkamta | Thrawn | The Jail | Sun Jan 12 02:40:55 2003
+Lyric | Thrawn | In the air... | Sun Jan 12 14:27:06 2003
+Lyric | Thrawn | At a muddy track | Sun Jan 12 14:40:57 2003
+Tiririr | Dresith | The Northeast Corner | Sun Jan 12 16:17:30 2003
+Tiririr | Dresith | Archway before the Temple of Chaos | Sun Jan 12 16:24:01 2003
+Tiririr | Thrawn | Archway before the Temple of Chaos | Sun Jan 12 17:17:51 2003
+Rothgar | Tiririr | The Center of Market Square | Sun Jan 12 17:39:42 2003
+Tiririr | Thrawn | The Temple Of Mota | Sun Jan 12 17:51:56 2003
+Teiratiz | Synthia | Steep slope | Mon Jan 13 18:32:55 2003
+Belrag | Adrosener | The Inner Gates | Mon Jan 13 19:16:00 2003
+Gringo | Dresith | At a muddy track | Mon Jan 13 21:14:55 2003
+Gringo | Dresith | At a muddy track | Mon Jan 13 21:19:43 2003
+Dresith | Gringo | At a muddy track | Mon Jan 13 21:25:39 2003
+Belrag | Thrawn | Grassy fields | Mon Jan 13 22:57:28 2003
+Tydus | Belrag | Grassy fields | Mon Jan 13 23:04:30 2003
+Vhenkamta | Tertalith | On the Plains | Tue Jan 14 03:27:08 2003
+Grim | Onyxx | A dark encampment | Tue Jan 14 13:40:49 2003
+Ebin | Synthia | Melancholy's Room | Tue Jan 14 15:08:58 2003
+Ebin | Synthia | The Throne Room of the Nebula King | Tue Jan 14 15:34:12 2003
+Richter | Synthia | West Main Street | Tue Jan 14 15:48:47 2003
+Richter | Dalton | Market Square | Tue Jan 14 15:53:53 2003
+Karak | Synthia | Southwest Corner of the Courtyard | Tue Jan 14 15:53:58 2003
+Synthia | Thrawn | Main Hall | Tue Jan 14 16:08:19 2003
+Ebin | Xerxxerzlar | An Office | Tue Jan 14 17:35:11 2003
+Xerxxerzlar | Illven | The Pet Shop | Tue Jan 14 17:46:51 2003
+Belrag | Thrawn | At a muddy track | Tue Jan 14 18:26:47 2003
+Xerxxerzlar | Thrawn | The Holy of Holy's | Tue Jan 14 18:28:01 2003
+Icarus | Thrawn | The spellbinder's cache | Wed Jan 15 15:57:35 2003
+Thrawn | Viscious | At a muddy track | Wed Jan 15 16:08:52 2003
+Penz | Grizerk | The Magic Shop | Wed Jan 15 17:21:38 2003
+Prithe | Faerwy | Within the Dying Forest | Thu Jan 16 14:11:15 2003
+Antonius | Faerwy | By the Temple Altar | Thu Jan 16 17:09:50 2003
+Komoros | Zandar | Before the Tower | Thu Jan 16 18:05:33 2003
+Zanidar | Antonius | The Sewer Room | Thu Jan 16 18:25:22 2003
+Zandar | Antonius | Melancholy's Room | Thu Jan 16 18:27:34 2003
+Antonius | Ebin | Eastern End of Poor Alley | Fri Jan 17 14:59:12 2003
+Ebin | Desciple | By the Temple Altar | Fri Jan 17 16:12:54 2003
+Ebin | Desciple | Main Street | Fri Jan 17 16:26:09 2003
+Marcus | Desciple | An ancient dining hall | Fri Jan 17 17:33:42 2003
+Harman | Adrosener | Within the Palace of Dominace | Fri Jan 17 19:49:50 2003
+Harman | Desciple | By the Temple Altar | Fri Jan 17 20:01:50 2003
+Harman | Desciple | By the Temple Altar | Fri Jan 17 20:15:19 2003
+Ebin | Feroph | The Mystical Path | Fri Jan 17 20:58:59 2003
+Ebin | Feroph | The Mystical Path | Fri Jan 17 21:15:01 2003
+Zandar | Mordith | Wyrm street | Sat Jan 18 13:57:08 2003
+Allanon | Dresith | By the Temple Altar | Sat Jan 18 18:07:02 2003
+Allanon | Dresith | The Main Street | Sat Jan 18 18:12:31 2003
+Allanon | Dresith | The Main Street | Sat Jan 18 18:20:27 2003
+Gringo | Mordith | Wall Road | Sat Jan 18 18:32:46 2003
+Teiratir | Mordith | A Dark Hallway | Sat Jan 18 18:37:38 2003
+Teiratir | Mordith | A hallway in the castle | Sat Jan 18 18:59:11 2003
+Antonius | Villizar | The Inner Gates | Sat Jan 18 19:04:36 2003
+Teiratir | Nepenthe | The Dark Room | Sat Jan 18 19:12:10 2003
+Jarmel | Teiratir | Market Square | Sat Jan 18 19:42:33 2003
+Teiratir | Teryx | The Triple Junction | Sat Jan 18 19:44:47 2003
+Jarmel | Adrosener | Sepulchure | Sat Jan 18 19:49:33 2003
+Teiratir | Adrosener | Top of the Lord's Stairwell | Sat Jan 18 19:53:42 2003
+Jarmel | Villizar | Market Square | Sat Jan 18 20:02:08 2003
+Dresith | Adrosener | Market Square | Sat Jan 18 20:11:22 2003
+Teiratir | Nepenthe | Nabil's Back Room | Sat Jan 18 20:21:15 2003
+Dresith | Kraenesk | Market Square | Sat Jan 18 20:27:31 2003
+Adolf | Dante | The Magic Shop | Sun Jan 19 02:05:22 2003
+Dante | Azuth | Outside the Tower | Sun Jan 19 02:31:25 2003
+Dante | Azuth | The Void | Sun Jan 19 02:38:33 2003
+Adolf | Azuth | By the Temple Altar | Sun Jan 19 02:41:11 2003
+Azuth | Dante | Melancholy's Room | Sun Jan 19 02:44:15 2003
+Ethrix | Dante | On the second floor | Sun Jan 19 04:40:18 2003
+Dante | Teryx | In a dried out clearing | Sun Jan 19 05:02:48 2003
+Dante | Dante | Before a Door Depicting a Large Constellation | Sun Jan 19 05:12:16 2003
+Desciple | Marcus | The Throne Room | Sun Jan 19 13:36:41 2003
+Xarius | Azuth | Melancholy's Room | Mon Jan 20 01:12:05 2003
+Viscious | Ebin | On the Edge of the Downs | Tue Jan 21 11:03:52 2003
+Viscious | Ebin | On the Edge of the Downs | Tue Jan 21 11:09:20 2003
+Raekwon | Ebin | Outside the Tower | Tue Jan 21 11:15:15 2003
+Viscious | Ebin | Before the Gates of Midgaard | Tue Jan 21 11:17:31 2003
+Icarus | Ebin | Market Square | Tue Jan 21 13:48:48 2003
+Viscious | Ebin | On the Edge of the Downs | Tue Jan 21 13:50:52 2003
+Aviset | Sincere | Solomon Street | Tue Jan 21 18:19:37 2003
+Sycho | Synthia | The Mystical Path | Wed Jan 22 14:42:38 2003
+Sincere | Synthia | Too Bright to Tell | Wed Jan 22 14:46:05 2003
+Teiratir | Graiken | Below the stagnant pool | Thu Jan 23 23:57:00 2003
+Wrath | Pahrker | By the Temple Altar | Fri Jan 24 06:00:09 2003
+Aalandir | Pahrker | The Temple Square | Fri Jan 24 06:30:39 2003
+Essobi | Synthia | The Shed | Fri Jan 24 13:47:44 2003
+Kholadrin | BigJay | The Main Street | Fri Jan 24 17:43:20 2003
+Synthia | Synthia | A Hallway | Fri Jan 24 17:43:21 2003
+BigJay | Adrosener | The Entrance Hall | Fri Jan 24 17:45:53 2003
+Khladrin | Adrosener | The Temple Square | Fri Jan 24 17:50:49 2003
+GayKin | Adrosener | The Temple Of Mota | Sat Jan 25 12:33:39 2003
+GayKin | Adrosener | The Common Square | Sat Jan 25 12:38:10 2003
+Illven | Adrosener | The Common Square | Sat Jan 25 12:38:17 2003
+GayKin | Adrosener | The Common Square | Sat Jan 25 12:41:06 2003
+GayKin | Adrosener | The Common Square | Sat Jan 25 12:44:42 2003
+Gaykin | Dustyn | By the Temple Altar | Sat Jan 25 12:56:07 2003
+GayRolland | Dustyn | By the Temple Altar | Sun Jan 26 17:21:39 2003
+Sucerian | Korid | Market Square | Sun Jan 26 17:58:15 2003
+Korid | Adrosener | The Entrance | Sun Jan 26 18:02:27 2003
+Sucerian | Adrosener | The Temple Of Mota | Sun Jan 26 18:23:45 2003
+Korid | Adrosener | By the Temple Altar | Sun Jan 26 18:32:38 2003
+Korid | Adrosener | By the Temple Altar | Sun Jan 26 18:38:01 2003
+Kelset | Graiken | On the Bridge of Nebulae | Mon Jan 27 01:52:13 2003
+Feroph | Graiken | Black Hole | Mon Jan 27 01:55:22 2003
+Raekwon | Kelset | A small room. | Mon Jan 27 16:58:11 2003
+Rothgar | Graiken | On a small wooden watch-tower | Mon Jan 27 23:23:09 2003
+Teiratir | Graiken | Market Square | Tue Jan 28 00:48:43 2003
+Dahmer | Teiratir | Swamp's Edge | Tue Jan 28 00:53:31 2003
+Teiratir | Graiken | Swamp's Edge | Tue Jan 28 00:54:17 2003
+Teiratir | Dahmer | Wall Road | Tue Jan 28 01:28:59 2003
+Bleeder | Dahmer | The Temple Square | Tue Jan 28 03:19:46 2003
+Pahrker | Graiken | Lich's Study | Tue Jan 28 06:19:39 2003
+Ezyntari | Ezyntari | The Temple Square | Tue Jan 28 06:50:50 2003
+Sarane | Sarane | Bloody fields | Tue Jan 28 15:17:13 2003
+Teleport | Teleport | On the Neck of Draco | Sun Feb  9 16:06:12 2003
+Rinaldi | Aalandir | By the Temple Altar | Mon Feb 10 23:12:12 2003
+Rinaldi | Elrith | Main Street | Mon Feb 10 23:36:56 2003
+Kensiko | Kensiko | By the Temple Altar | Tue Feb 18 15:12:40 2003
+Kensiko | Solidus | The Blight | Tue Feb 18 15:21:06 2003
+Kelset | Synthia | Melancholy's Room | Tue Feb 18 19:26:22 2003
+Kelset | Destilnon | By the Temple Altar | Tue Feb 18 20:06:33 2003
+Sycho | Kelset | Market Square | Tue Feb 18 20:31:42 2003
+Gibberd | Kelset | Market Square | Tue Feb 18 20:32:18 2003
+Kelset | Bylak | Market Square | Tue Feb 18 20:37:20 2003
+Bylak | Banderos | Pushing your way into the forest | Tue Feb 18 21:00:47 2003
+Brakken | Banderos | Labyrinth of the Underworld | Tue Feb 18 22:13:49 2003
+Allanon | Solidus | By the Temple Altar | Tue Feb 18 22:37:18 2003
+Testing | Testing | Detlef's Pot House | Tue Feb 18 23:26:42 2003
+Testing | Testing | Detlef's Pot House | Tue Feb 18 23:42:46 2003
+Testing | Testing | Detlef's Pot House | Tue Feb 18 23:44:58 2003
+Testing | Testing | Detlef's Pot House | Tue Feb 18 23:45:23 2003
+Testing | Testing | Detlef's Pot House | Tue Feb 18 23:45:48 2003
+Testing | Testing | Detlef's Pot House | Tue Feb 18 23:48:08 2003
+Fhaed | Zornath | Main Street | Wed Feb 19 01:35:39 2003
+Katis | Zornath | The sewer junction | Wed Feb 19 01:38:55 2003
+Katis | Fhaed | The Cross Roads | Wed Feb 19 01:50:14 2003
+Trofik | Fhaed | Market Square | Wed Feb 19 01:56:18 2003
+Trofik | Zornath | Market Square | Wed Feb 19 01:58:47 2003
+MierdaMuerta | Graiken | The Main Street | Wed Feb 19 02:06:19 2003
+Fhaed | Graiken | The Main Street | Wed Feb 19 02:06:28 2003
+Fhaed | Graiken | Market Square | Wed Feb 19 02:11:12 2003
+Griltarn | Zornath | Inside the East Gate of Midgaard | Wed Feb 19 02:13:50 2003
+Testing | Testing | First Room To The Begining Of Your New Life | Wed Feb 19 08:26:06 2003
+Testing | Testing | First Room To The Begining Of Your New Life | Wed Feb 19 08:48:01 2003
+Testing | Testing | First Room To The Begining Of Your New Life | Wed Feb 19 09:04:23 2003
+Tester | Tester | Inside the Temple | Wed Feb 19 09:13:16 2003
+Torin | Solidus | An Acolyte's Chambers | Wed Feb 19 12:55:38 2003
+Tumark | Cyric | The Temple Square | Wed Feb 19 15:32:23 2003
+Cyric | Tumark | The Temple Square | Wed Feb 19 15:32:39 2003
+Allanon | Banderos | Room | Wed Feb 19 17:34:51 2003
+Xarius | Solidus | Market Square | Wed Feb 19 20:07:53 2003
+Tumark | Solidus | Market Square | Wed Feb 19 20:25:18 2003
+Korran | Banderos | In the air... | Wed Feb 19 20:26:50 2003
+Gamache | Solidus | The south gate | Wed Feb 19 20:44:04 2003
+Korran | Tumark | By the Temple Altar | Wed Feb 19 20:45:16 2003
+Ezyntari | Banderos | Deep in the Arkham swamps | Wed Feb 19 20:55:52 2003
+Korran | Banderos | Entrance to Mud School | Wed Feb 19 21:00:23 2003
+Fhaed | Fordus | Small path in the park | Wed Feb 19 21:00:37 2003
+Gamache | Ezyntari | Small path in the park | Wed Feb 19 21:00:46 2003
+Ezyntari | Banderos | By the Temple Altar | Wed Feb 19 21:01:42 2003
+Slarith | Korran | Market Square | Wed Feb 19 21:57:57 2003
+Slarith | Fordus | Market Square | Wed Feb 19 22:13:53 2003
+Calir | Banderos | The Temple Of Mota | Wed Feb 19 22:25:49 2003
+Ezyntari | Fordus | By the Temple Altar | Wed Feb 19 22:42:55 2003
+Korran | Mierdamuerta | Common Square | Wed Feb 19 22:52:04 2003
+Calir | Banderos | Market Square | Wed Feb 19 23:09:22 2003
+Slarith | Fordus | Market Square | Wed Feb 19 23:53:27 2003
+Thomas | Slarith | Inside the Northern Gate of New Thalos | Thu Feb 20 00:15:11 2003
+Slarith | Banderos | Nabil's Back Room | Thu Feb 20 00:20:44 2003
+Mierdamuerta | Banderos | Nabil's Back Room | Thu Feb 20 00:28:23 2003
+Slarith | Zposlasfinas | The Grand Gate of Thalos | Thu Feb 20 00:36:03 2003
+Zposlasfinas | Slarith | By the Temple Altar | Thu Feb 20 00:38:35 2003
+Mierdamuerta | Slarith | Harem | Thu Feb 20 00:58:33 2003
+Clovis | Slarith | On the Threshold of the Foothills of Mount Cim | Thu Feb 20 01:12:56 2003
+Julien | Zposlasfinas | In a dark forest | Thu Feb 20 05:48:24 2003
+Clovis | Zposlasfinas | A waiting room | Thu Feb 20 06:06:05 2003
+Graiken | Graiken | East Wall of Arena | Thu Feb 20 06:20:52 2003
+Gankie | Zposlasfinas | By the Temple Altar | Thu Feb 20 06:51:39 2003
+Zposlasfinas | Zposlasfinas | By the Temple Altar | Thu Feb 20 07:23:44 2003
+Gankie | Zposlasfinas | By the Temple Altar | Thu Feb 20 07:25:50 2003
+Gamache | Ilnait | By the Temple Altar | Thu Feb 20 16:49:02 2003
+Gamache | Ilnait | By the Temple Altar | Thu Feb 20 17:00:05 2003
+Ilnait | Ilnait | A stream of consciousness | Thu Feb 20 17:04:51 2003
+Syther | Paku | the mountain trail | Thu Feb 20 17:12:28 2003
+Syther | Fordus | Market Square | Thu Feb 20 17:58:56 2003
+Destilnon | Syther | A trail in the dwarf forest | Thu Feb 20 18:14:29 2003
+Mierdamuerta | Kardon | Above a Pit | Thu Feb 20 19:41:31 2003
+Fordus | Fordus | Rough Path Between the Hills | Thu Feb 20 20:07:34 2003
+Opopas | Opopas | The Lane | Thu Feb 20 20:15:06 2003
+Calir | Fordus | By the Temple Altar | Thu Feb 20 23:43:27 2003
+Zornath | Banderos | The city streets | Fri Feb 21 00:18:10 2003
+Treggar | Slarith | By the Temple Altar | Fri Feb 21 00:29:13 2003
+Treggar | Banderos | The Cross Roads | Fri Feb 21 00:35:16 2003
+Slarith | Zornath | The Cross Roads | Fri Feb 21 00:40:48 2003
+Treggar | Zornath | Village road | Fri Feb 21 00:43:12 2003
+Treggar | Zornath | Village road | Fri Feb 21 00:43:39 2003
+Treggar | Karok | Grassy fields | Fri Feb 21 00:45:28 2003
+Delm | Delm | A Large Hall | Fri Feb 21 00:59:49 2003
+Delm | Zornath | The Cross Roads | Fri Feb 21 01:09:15 2003
+Slarith | Slarith | Diamond Street | Fri Feb 21 01:13:04 2003
+Musfasa | Karok | A Storage Room | Fri Feb 21 01:38:27 2003
+Illtrastin | Zornath | The Kitchen | Fri Feb 21 01:47:17 2003
+Musfasa | Zornath | The Kitchen | Fri Feb 21 01:48:21 2003
+Zornath | Zornath | The Main Street | Fri Feb 21 01:51:40 2003
+Grertzi | Grertzi | Entering the village | Fri Feb 21 02:14:43 2003
+Berintal | Berintal | The village shrine | Fri Feb 21 02:27:34 2003
+Grertzi | Slarith | By the beautiful waterfall | Fri Feb 21 02:34:43 2003
+Berintal | Firinath | At a muddy track | Fri Feb 21 02:55:58 2003
+Slarith | Zornath | Grassy fields | Fri Feb 21 02:56:31 2003
+Grertzi | Slarith | A trail in the dwarf forest | Fri Feb 21 02:57:53 2003
+Firinath | Zornath | On the second floor | Fri Feb 21 03:11:11 2003
+Karok | Karok | The village shrine | Fri Feb 21 03:55:47 2003
+Bonza | Hodorie | Grassy fields | Fri Feb 21 03:59:49 2003
+Xarius | Karok | At a muddy track | Fri Feb 21 04:02:39 2003
+Darnel | Karok | By the beautiful waterfall | Fri Feb 21 04:28:58 2003
+Katistrofik | Katistrofik | The Mystical Path | Fri Feb 21 12:56:21 2003
+Paku | Kardon | The dwarf forest | Fri Feb 21 13:06:16 2003
+Katistrofik | Shalbane | By the Temple Altar | Fri Feb 21 13:30:29 2003
+Carlos | Carlos | A small alcove | Fri Feb 21 14:51:23 2003
+Katistrofik | Slarith | An Edge of the Galaxy | Fri Feb 21 15:51:19 2003
+Kincaid | Banderos | Inside the East Gate of Midgaard | Fri Feb 21 16:35:04 2003
+Syther | Banderos | On the second floor | Fri Feb 21 17:11:56 2003
+Jahrewl | Banderos | On the second floor | Fri Feb 21 17:14:28 2003
+Fuhrman | Banderos | The Grunting Boar | Fri Feb 21 18:04:59 2003
+Shalbane | Zornath | The dwarf forest | Fri Feb 21 20:08:53 2003
+Kardon | Banderos | Standing on a beach. | Fri Feb 21 20:56:24 2003
+Gauvan | Vaerzlithar | The Western Market Square | Fri Feb 21 22:21:33 2003
+Gamache | Gamache | West Main Street | Fri Feb 21 22:23:04 2003
+Musfasa | Zornath | The Temple Of Mota | Fri Feb 21 23:50:03 2003
+Musfasa | Karok | The Cross Roads | Fri Feb 21 23:55:32 2003
+Malcius | Zornath | The Cross Roads | Fri Feb 21 23:56:41 2003
+Musfasa | Zornath | The Cross Roads | Fri Feb 21 23:58:24 2003
+Zornath | Vaerzlithar | The chapel | Fri Feb 21 23:59:25 2003
+Musfasa | Faunus | By the beautiful waterfall | Sat Feb 22 00:00:32 2003
+Faunus | Faunus | By the beautiful waterfall | Sat Feb 22 00:01:20 2003
+Gilbert | Gamache | Entering the village | Sat Feb 22 00:10:17 2003
+Musfasa | Zornath | The dwarf forest | Sat Feb 22 00:10:30 2003
+Zornath | Vaerzlithar | The dwarf forest | Sat Feb 22 00:11:18 2003
+Musfasa | Karok | At a muddy track | Sat Feb 22 00:18:56 2003
+Gamache | Gamache | The dwarf forest | Sat Feb 22 00:20:16 2003
+Musfasa | Karok | At a muddy track | Sat Feb 22 00:21:42 2003
+Musfasa | Zornath | At a muddy track | Sat Feb 22 00:22:34 2003
+Musfasa | Karok | Grassy fields | Sat Feb 22 00:24:09 2003
+Musfasa | Karok | The brawling balcony | Sat Feb 22 00:29:12 2003
+Musfasa | Gamache | Grassy fields | Sat Feb 22 00:29:51 2003
+Musfasa | Zornath | Room of Laws | Sat Feb 22 00:48:25 2003
+Malcius | Gamache | By the Temple Altar | Sat Feb 22 00:53:53 2003
+Musfasa | Zornath | Grassy fields | Sat Feb 22 01:04:32 2003
+Mogar | Gamache | In the air... | Sat Feb 22 01:13:05 2003
+Zornath | Karok | Entering the village | Sat Feb 22 01:38:46 2003
+Hodorie | Karok | Outside the West Gate of New Thalos | Sat Feb 22 01:41:35 2003
+Gankie | Gamache | At a muddy track | Sat Feb 22 01:45:11 2003
+Zornath | Karok | Entering the village | Sat Feb 22 02:17:34 2003
+Vejure | Vejure | The Misty Room | Sat Feb 22 04:27:24 2003
+Faunus | Vaerzlithar | The Temple Square | Sat Feb 22 06:39:00 2003
+Faunus | Vaerzlithar | A large wooden hut | Sat Feb 22 06:54:45 2003
+Bonza | Vaerzlithar | At a muddy track | Sat Feb 22 07:13:12 2003
+Gankie | Gankie | Wall Road | Sat Feb 22 07:22:34 2003
+Destilnon | Vaerzlithar | Small path in the park | Sat Feb 22 07:34:45 2003
+Hodorie | Hodorie | Near the Sands of Sorrow | Sat Feb 22 08:14:28 2003
+Gamache | Venristo | The village shrine | Sat Feb 22 13:18:29 2003
+Seindal | Gamache | By the beautiful waterfall | Sat Feb 22 13:27:55 2003
+Vladamir | Sycho | Fourth Level | Sat Feb 22 13:33:34 2003
+Kardon | Seindal |  | Sat Feb 22 14:14:50 2003
+Cerophin | Seindal | The Arena | Sat Feb 22 14:31:38 2003
+Cerophin | Kardon | At a muddy track | Sat Feb 22 15:03:17 2003
+Gamache | Banner | The dwarf forest | Sat Feb 22 15:34:21 2003
+Gamache | Gamache | Village road | Sat Feb 22 15:59:56 2003
+Darantin | Venristo | The Dark Alley | Sat Feb 22 16:26:27 2003
+Darantin | Shalbane | A valley in the dark dwarf forest | Sat Feb 22 16:36:56 2003
+Magnum | Marijuana | The village shrine | Sat Feb 22 16:53:02 2003
+Daedelex | Banderos | Nabil's Back Room | Sat Feb 22 17:20:56 2003
+Firinath | Darantin | The Valley in the dark dwarf forest | Sat Feb 22 17:39:04 2003
+Darantin | Kardon | At a muddy track | Sat Feb 22 17:58:23 2003
+Eldgrim | Manga | The dwarf forest | Sat Feb 22 19:06:15 2003
+Zornath | Banderos | A hallway in the castle | Sat Feb 22 20:27:31 2003
+Slarith | Gamache | Forge entrance | Sat Feb 22 20:30:54 2003
+Bruce | Zornath | A trail in the dwarf forest | Sat Feb 22 20:45:47 2003
+Fhaed | Banderos | Inside the Great Hall | Sat Feb 22 23:45:47 2003
+Darnel | Banderos | Market Square | Sun Feb 23 00:57:47 2003
+Darnel | Zornath | The Flickering Tunnel | Sun Feb 23 01:13:45 2003
+Banner | Zornath | A Dank Tunnel | Sun Feb 23 01:15:59 2003
+Banner | Zornath | Entering the village | Sun Feb 23 01:26:33 2003
+Seindal | Gamache | By the beautiful waterfall | Sun Feb 23 11:28:56 2003
+Eldgrim | Gamache | The bend in the trail in the dwarf forest | Sun Feb 23 11:45:20 2003
+Kincaid | Gamache | The bend in the trail in the dwarf forest | Sun Feb 23 11:45:23 2003
+Zondra | Larin | By the Temple Altar | Sun Feb 23 15:59:19 2003
+Remmshokena | Kardon | The village shrine | Sun Feb 23 16:07:48 2003
+Larin | Zornath | By the Temple Altar | Sun Feb 23 16:27:39 2003
+Zornath | Zornath | Up the rocky hillside | Sun Feb 23 16:42:29 2003
+Kardon | Faunus | The village shrine | Sun Feb 23 16:42:38 2003
+Zondra | Gamache | A Narrow Trail Through the Foothills | Sun Feb 23 16:52:07 2003
+Vladamir | Larin | Fourth Level | Sun Feb 23 17:37:52 2003
+Vladamir | Banderos | The Mystical Path | Sun Feb 23 18:10:12 2003
+Setekha | Banderos | Inside the Tower of the Eternal Collective. | Sun Feb 23 18:15:06 2003
+Vladamir | Marijuana | The Mystical Path | Sun Feb 23 18:22:20 2003
+Zondra | Darantin | Inside the East Gate of Midgaard | Sun Feb 23 19:05:20 2003
+Vladamir | Darantin | At a muddy track | Sun Feb 23 19:06:43 2003
+Tanulran | Gamache | Dragon Sea | Sun Feb 23 19:16:07 2003
+Remmshokena | Banderos | Above the Dragon Chamber | Sun Feb 23 20:49:07 2003
+Zondra | Faunus | A dim trail in the dwarf forest | Sun Feb 23 20:50:55 2003
+Tanulran | Rodd | Wall Road | Sun Feb 23 21:48:02 2003
+Zondra | Rodd | On the Threshold of the Foothills of Mount Cim | Sun Feb 23 21:52:38 2003
+Rodd | Banderos | By the Temple Altar | Sun Feb 23 22:04:06 2003
+Darantin | Dre | At a muddy track | Sun Feb 23 23:13:42 2003
+Dre | Darantin | By the beautiful waterfall | Sun Feb 23 23:16:54 2003
+Darantin | Banderos | By the beautiful waterfall | Sun Feb 23 23:40:00 2003
+Darantin | Banderos | By the beautiful waterfall | Sun Feb 23 23:46:06 2003
+Darnel | Banderos | The Quadruple Junction Under the Dump | Mon Feb 24 00:26:59 2003
+Vladamir | Callad | At a muddy track | Mon Feb 24 01:57:53 2003
+Callad | Eminem | The Entrance | Mon Feb 24 02:18:43 2003
+Illtrastin | Eminem | By the Temple Altar | Mon Feb 24 07:49:55 2003
+Vladamir | Gamache | A path in the park | Mon Feb 24 13:12:52 2003
+Rodd | Mzerd | The Common Square | Mon Feb 24 13:23:41 2003
+Norathar | Hrishgrin | Before the Imperial Road | Mon Feb 24 15:35:01 2003
+Norathar | Hrishgrin | The Inner Gates | Mon Feb 24 15:37:55 2003
+Norathar | Hrishgrin | The Mouth of a Cave | Mon Feb 24 15:51:10 2003
+Norathar | Hrishgrin | The Mouth of a Cave | Mon Feb 24 15:54:58 2003
+Hrishgrin | Hrishgrin | Barn | Mon Feb 24 16:00:04 2003
+Callad | Banderos | Entrance to the Grunting Boar Inn | Mon Feb 24 18:33:09 2003
+Argon | Gamache | By the beautiful waterfall | Mon Feb 24 19:04:51 2003
+Darantin | Banderos | By the beautiful waterfall | Mon Feb 24 19:17:30 2003
+Banderos | Gamache | By the Temple Altar | Mon Feb 24 19:20:20 2003
+Argon | Bobby | At a muddy track | Mon Feb 24 19:30:09 2003
+Argon | Gamache | By the beautiful waterfall | Mon Feb 24 19:40:00 2003
+Tanulran | Sycho | The Temple Of Mota | Mon Feb 24 20:15:03 2003
+Faunus | Gamache | Entering the village | Mon Feb 24 20:23:00 2003
+Tanulran | Illtrastin | By the Temple Altar | Mon Feb 24 21:31:35 2003
+Argon | Slarith | The Guest Room | Mon Feb 24 21:40:49 2003
+Acmeicedtea | Illtrastin | The Guest Room | Mon Feb 24 21:41:25 2003
+Acmeicedtea | Slarith | End of the eastern wing | Mon Feb 24 21:55:32 2003
+Slarith | Kardon | By the Temple Altar | Mon Feb 24 21:57:47 2003
+Destilnon | Kardon | By the Temple Altar | Mon Feb 24 21:58:16 2003
+Argon | Slarith | The hidden room | Mon Feb 24 22:16:00 2003
+Argon | Argon | The Temple Of Mota | Mon Feb 24 22:29:55 2003
+Tanulran | Slarith | By the Temple Altar | Mon Feb 24 22:39:46 2003
+Marxist | Slarith | {YIntersection of Dungeon Drive and Colton Circle{x | Mon Feb 24 22:53:26 2003
+Faunus | Canceraus | The Grunting Boar | Mon Feb 24 23:04:21 2003
+Canceraus | Sycho | The village shrine | Mon Feb 24 23:55:54 2003
+Faunus | Eminem | Grassy fields | Tue Feb 25 00:02:09 2003
+Shalbane | Trylartin | Southern end of the undead roaming grounds | Tue Feb 25 00:34:39 2003
+Theablar | Trylartin | Inside a tent | Tue Feb 25 04:35:43 2003
+Argon | Snoopy | The Captain's room | Tue Feb 25 12:58:18 2003
+Snoopy | Gamache | By the beautiful waterfall | Tue Feb 25 13:22:36 2003
+Argon | Sylus | Entrance to the Prison Courtyard | Tue Feb 25 14:47:11 2003
+Fordus | Sylus | The bottom of a stairwell | Tue Feb 25 15:05:43 2003
+Zokzak | Sincere | The village shrine | Tue Feb 25 16:08:49 2003
+Raisin | Sycho | Main Street | Tue Feb 25 18:20:05 2003
+Chuckers | Darantin | Market Square | Tue Feb 25 18:52:37 2003
+Chuckers | Darantin | Market Square | Tue Feb 25 18:56:07 2003
+Rinaldi | Fordus | The Valley of the Elves | Tue Feb 25 19:04:00 2003
+Callad | Legiar | City Hall | Tue Feb 25 19:18:28 2003
+Katja | Katja | Necromancer Sanctum | Tue Feb 25 20:25:38 2003
+Sincere | Slarith | Swiftest Way | Tue Feb 25 21:38:19 2003
+Drothan | Sincere | Inside the East Gate of Midgaard | Tue Feb 25 21:50:38 2003
+Tanulran | Mehendais | The Pet Shop | Tue Feb 25 21:59:14 2003
+Callad | Slarith | At a muddy track | Tue Feb 25 22:01:12 2003
+Callad | Slarith | The Sands of Sorrow | Tue Feb 25 22:34:47 2003
+Marijuana | Eminem | At a muddy track | Tue Feb 25 23:20:20 2003
+Slarith | Eminem | The Cross Roads | Tue Feb 25 23:42:42 2003
+Trylartin | Marijuana | The Lane | Wed Feb 26 01:04:12 2003
+Fuhrman | Marijuana | The Lane | Wed Feb 26 01:04:30 2003
+Illtrastin | Illtrastin | In the air ... | Wed Feb 26 01:17:59 2003
+Vasq | Marijuana | At a muddy track | Wed Feb 26 04:37:05 2003
+Vasq | Marijuana | Inside the East Gate of Midgaard | Wed Feb 26 04:40:44 2003
+Vasq | Marijuana | Village road | Wed Feb 26 04:47:25 2003
+Vasq | Marijuana | Village road | Wed Feb 26 05:00:04 2003
+Illiet | Vasq | Entrance Hall to the Guild of Swordsmen | Wed Feb 26 05:15:10 2003
+Tael | Tael | The Temple Of Mota | Wed Feb 26 05:45:27 2003
+Sillior | Vasq | The Temple Of Mota | Wed Feb 26 06:27:35 2003
+Sillior | Hedaya | Entrance to Mud School | Wed Feb 26 06:28:54 2003
+Sillior | Geshae | By the Temple Altar | Wed Feb 26 06:47:50 2003
+Sillior | Illiet | By the Temple Altar | Wed Feb 26 06:54:52 2003
+Sillior | Illiet | The Temple Of Mota | Wed Feb 26 06:55:48 2003
+Tael | Illiet | By the Temple Altar | Wed Feb 26 07:18:19 2003
+Jalli | Illiet | By the Temple Altar | Wed Feb 26 07:19:27 2003
+Tael | Illiet | On the Concourse at Elm Street | Wed Feb 26 07:24:40 2003
+Vasq | Sillior | The Temple Square | Wed Feb 26 07:45:54 2003
+Vasq | Sillior | Market Square | Wed Feb 26 07:54:17 2003
+Nodrin | Illiet | Market Square | Wed Feb 26 08:01:41 2003
+Vaelkryn | Illiet | Wall Road | Wed Feb 26 08:19:33 2003
+Sillior | Sillior | By the Temple Altar | Wed Feb 26 08:36:50 2003
+Alezath | Alezath | The Cross Roads | Wed Feb 26 08:46:39 2003
+Vasq | Eminem | The Temple Square | Wed Feb 26 08:47:40 2003
+Zokzak | Zokzak | By the Temple Altar | Wed Feb 26 08:47:47 2003
+Gababa | Vasq | The Temple Square | Wed Feb 26 08:51:20 2003
+Vasq | Vasq | Graelik's Lair | Wed Feb 26 08:55:07 2003
+Nodrin | Eminem | The Temple Square | Wed Feb 26 09:02:16 2003
+Jalli | Eminem | The Cross Roads | Wed Feb 26 09:20:36 2003
+Tissel | Eminem | Market Square | Wed Feb 26 09:30:42 2003
+Tissel | Illiet | A small ugly cave | Wed Feb 26 09:51:34 2003
+Raider | Eminem | City street | Wed Feb 26 09:53:38 2003
+MenimE | Krevindar | By the Temple Altar | Wed Feb 26 10:09:05 2003
+Krevindar | Zokzak | By the Temple Altar | Wed Feb 26 10:09:08 2003
+Tissel | Krevindar | Outside the East Gate of Midgaard | Wed Feb 26 10:11:12 2003
+Khaor | Krevindar | The dwarf forest | Wed Feb 26 10:24:51 2003
+ErD | ErD | Inside the East Gate of Midgaard | Wed Feb 26 10:26:21 2003
+Illiet | Jalli | Along the Eastern Road | Wed Feb 26 10:27:53 2003
+Livien | Krevindar | The Temple Of Mota | Wed Feb 26 10:30:06 2003
+Makatika | Krevindar | Outside the Entrance to the Golden Citadel | Wed Feb 26 10:39:41 2003
+Makatika | Eminem | The Common Square | Wed Feb 26 10:46:02 2003
+Tissel | Vensharin | The dwarf forest | Wed Feb 26 11:02:50 2003
+Vensharin | Gamache | Within the Dead Woodlands | Wed Feb 26 11:38:49 2003
+Niennah | Srakopuz | Within the Dead Forest | Wed Feb 26 11:39:50 2003
+Vensharin | Gamache | Grassy fields | Wed Feb 26 11:42:19 2003
+Kortwayn | Krevindar | The Common Square | Wed Feb 26 11:50:04 2003
+Tissel | Niennah | Beneath the Archway | Wed Feb 26 11:58:15 2003
+Gamache | Eminem | The chapel | Wed Feb 26 11:58:49 2003
+Srakopuz | Niennah | The Hallway of Giants | Wed Feb 26 12:01:39 2003
+Tissel | Tissel | The darker dwarf forest | Wed Feb 26 12:13:52 2003
+Tissel | Khaor | Grassy fields | Wed Feb 26 12:22:02 2003
+Tissel | Kurdan | The bend in the trail in the dwarf forest | Wed Feb 26 12:47:32 2003
+Tasu | Niennah | At the top of a guard tower | Wed Feb 26 12:58:49 2003
+Reak | Xzar | Big House | Wed Feb 26 13:13:05 2003
+Faunus | Niennah | A dim trail in the dwarf forest | Wed Feb 26 13:21:42 2003
+Xzar | Remmshokena | Grassy fields | Wed Feb 26 13:31:32 2003
+Khaor | Xzar | Grassy fields | Wed Feb 26 13:40:31 2003
+Faunus | Faunus | Entering the village | Wed Feb 26 14:33:09 2003
+Raider | Krevindar | The Cross Roads | Wed Feb 26 14:43:36 2003
+Krevindar | Krevindar | At the top of a short staircase | Wed Feb 26 14:59:55 2003
+Niennah | Gamache | The Temple Square | Wed Feb 26 15:21:39 2003
+Shalbane | Shalbane | Within the Dead Forest | Wed Feb 26 15:28:41 2003
+Niennah | Shalbane | In the air ... | Wed Feb 26 15:47:26 2003
+Lalait | Livien | By the Temple Altar | Wed Feb 26 16:15:21 2003
+Okinazi | Reak | The Hallway of Giants | Wed Feb 26 16:23:55 2003
+Raider | Seindal | N/S hallway | Wed Feb 26 16:43:20 2003
+Livien | Reak | Market Square | Wed Feb 26 16:54:51 2003
+Sillior | Marijuana | The Main Street | Wed Feb 26 17:05:21 2003
+Sillior | Marijuana | Market Square | Wed Feb 26 17:16:14 2003
+Livien | Fordus | Before the Tower | Wed Feb 26 17:26:10 2003
+Korbu | Livien | Wall Road | Wed Feb 26 17:52:52 2003
+Livien | Fordus | City Entrance | Wed Feb 26 18:07:13 2003
+Korbu | Kurdan | The Cross Roads | Wed Feb 26 18:08:08 2003
+Volgrath | Volgrath | Library | Wed Feb 26 18:08:18 2003
+Fordus | Kurdan | The village shrine | Wed Feb 26 18:18:05 2003
+Berro | Gamache | At a muddy track | Wed Feb 26 18:24:02 2003
+Laliene | Gamache | Inside the East Gate of Midgaard | Wed Feb 26 18:27:18 2003
+Livien | Gamache | Inside the East Gate of Midgaard | Wed Feb 26 18:31:02 2003
+Anlodda | Gamache | Market Square | Wed Feb 26 18:36:22 2003
+Fierath | Korsh | Market Square | Wed Feb 26 18:46:05 2003
+Korsh | Fierath | {YCommon Room{x | Wed Feb 26 19:07:41 2003
+Maelgwn | Ckruthen | By the beautiful waterfall | Wed Feb 26 19:51:10 2003
+Ckruthen | Gamache | By the beautiful waterfall | Wed Feb 26 19:55:49 2003
+Vensharin | Gamache | A large wooden hut | Wed Feb 26 19:56:47 2003
+Ckruthen | Desciple | In a small darkened cell | Wed Feb 26 20:55:20 2003
+Okinazi | Eminem | At a muddy track | Wed Feb 26 22:53:20 2003
+Ckruthen | Jayla | By the Temple Altar | Wed Feb 26 23:38:59 2003
+Jayla | Jayla | An Oozing Bog | Wed Feb 26 23:41:01 2003
+Razmos | Yaeth | Market Square | Thu Feb 27 00:15:40 2003
+Ckruthen | Yaeth | The Temple Square | Thu Feb 27 00:19:04 2003
+Razmos | Razmos | Outside the Entrance to the Golden Citadel | Thu Feb 27 01:32:22 2003
+Strealk | Strealk | The dwarf forest | Thu Feb 27 05:45:55 2003
+Gillasn | Alezath | Outside the East Gate of Midgaard | Thu Feb 27 06:29:48 2003
+Strealk | Alezath | A small ugly cave | Thu Feb 27 06:33:49 2003
+Alezath | Alezath | Outside the East Gate of Midgaard | Thu Feb 27 06:42:56 2003
+Remmshokena | Xzar | The Dark Room | Thu Feb 27 09:24:53 2003
+Nodrin | Trylartin | A Muddy Path Through the Waterlogged Timber | Thu Feb 27 09:37:30 2003
+Magaga | Xzar | The Dungeon | Thu Feb 27 10:15:06 2003
+Strealk | Sylus | A valley in the dark dwarf forest | Thu Feb 27 10:51:27 2003
+Strealk | Kilagor | The Cross Roads | Thu Feb 27 11:51:28 2003
+Razmos | Jalli | The Cross Roads | Thu Feb 27 11:54:39 2003
+Maelgwn | Strealk | The Dragon Sea | Thu Feb 27 12:20:54 2003
+Strealk | Gamache | The village shrine | Thu Feb 27 12:27:03 2003
+Kurdan | Gamache | The bend in the trail in the dwarf forest | Thu Feb 27 12:28:01 2003
+Faunus | Niennah | Grassy fields | Thu Feb 27 14:26:34 2003
+Urunivo | Raider | The Southern Side of the Village Square | Thu Feb 27 14:29:39 2003
+Niennah | Raider | The Southeastern Corner of the Village Square | Thu Feb 27 14:36:17 2003
+Urunivo | Raider | Lost in a misty field | Thu Feb 27 14:41:32 2003
+Berro | Niennah | A Dank Hallway | Thu Feb 27 14:53:08 2003
+Haerleah | Raider | Fourth Level | Thu Feb 27 15:02:52 2003
+Dagnor | Desciple | It is very dark here... | Thu Feb 27 15:29:12 2003
+Gamache | Xzar | Grubby Inn | Thu Feb 27 15:50:54 2003
+Dagnor | Gamache | By the beautiful waterfall | Thu Feb 27 16:01:15 2003
+Gamache | Eminem | The bend in the trail in the dwarf forest | Thu Feb 27 16:02:32 2003
+Amarie | Eminem | By the Temple Altar | Thu Feb 27 16:10:49 2003
+Gamache | Eminem | The Temple Square | Thu Feb 27 16:16:25 2003
+Livien | Jackstrap | The Temple Square | Thu Feb 27 16:20:33 2003
+Azmodan | Raider | The main living room | Thu Feb 27 16:39:17 2003
+Amarie | Eminem | Inside the West Gate of Midgaard | Thu Feb 27 16:41:26 2003
+Allanon | Fuhrman | By the Temple Altar | Thu Feb 27 16:44:41 2003
+Yaeth | Fuhrman | The dwarf forest | Thu Feb 27 16:52:03 2003
+Darantin | Eminem | By the Temple Altar | Thu Feb 27 17:05:22 2003
+Yaeth | Fuhrman | Village street | Thu Feb 27 17:09:49 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:11:49 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:13:50 2003
+Yaeth | Fuhrman | The Entrance | Thu Feb 27 17:15:18 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:16:59 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:18:45 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:19:55 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:21:33 2003
+Yaeth | Eminem | The Entrance | Thu Feb 27 17:23:22 2003
+Dornier | Seindal | Market Square | Thu Feb 27 18:05:15 2003
+Livien | Kardon | Entrance to the Grunting Boar Inn | Thu Feb 27 18:11:40 2003
+Slarith | Xzar | A hallway in the castle | Thu Feb 27 18:23:08 2003
+Draken | Raider | By the beautiful waterfall | Thu Feb 27 18:41:50 2003
+Maelgwn | Venristo | By the Temple Altar | Thu Feb 27 18:51:38 2003
+Norve | Venristo | The Temple Of Mota | Thu Feb 27 18:56:07 2003
+Maelgwn | Norve | Market Square | Thu Feb 27 19:04:46 2003
+Zyrd | Raider | Outside the East Gate of Midgaard | Thu Feb 27 19:12:54 2003
+Maelgwn | Zyrd | The Cross Roads | Thu Feb 27 19:23:09 2003
+Zyrd | Zyrd | Northwest corner of dusty trail. | Thu Feb 27 19:27:54 2003
+Treggar | Norve | Big House | Thu Feb 27 19:35:15 2003
+Norve | Eminem | By the Temple Altar | Thu Feb 27 19:38:15 2003
+Treggar | Eminem | By the Temple Altar | Thu Feb 27 19:38:40 2003
+Treggar | Jalli | Entrance to the Dead Forest | Thu Feb 27 19:42:25 2003
+Samrik | Raider | A Large Cavern | Thu Feb 27 19:42:35 2003
+Norve | Eminem | The Common Square | Thu Feb 27 19:43:54 2003
+Norve | Eminem | Market Square | Thu Feb 27 19:48:58 2003
+Norve | Eminem | The Common Square | Thu Feb 27 20:18:55 2003
+Norve | Sylus | By the beautiful waterfall | Thu Feb 27 20:28:24 2003
+Darantin | Eminem | By the Temple Altar | Thu Feb 27 21:23:19 2003
+Alezath | Desciple | By the Temple Altar | Thu Feb 27 22:30:18 2003
+Alezath | Tyrakiel | By the Temple Altar | Thu Feb 27 22:31:44 2003
+Arowyth | Maelgwn | The Void | Thu Feb 27 23:23:52 2003
+Maelgwn | Maelgwn | A rough trail | Fri Feb 28 00:09:31 2003
+Irqenvu | Eminem | Outside the North Gate of Midgaard | Fri Feb 28 00:16:46 2003
+Nodrin | Eminem | Outside the North Gate of Midgaard | Fri Feb 28 00:17:47 2003
+Maelgwn | Eminem | A Dank Tunnel | Fri Feb 28 00:22:58 2003
+Samrik | Trylartin | The Long Sands | Fri Feb 28 00:44:01 2003
+Kaerk | Eminem | The Entrance | Fri Feb 28 00:46:00 2003
+Maelgwn | Maelgwn | Small House | Fri Feb 28 00:56:45 2003
+Remmshokena | Shalbane | At a muddy track | Fri Feb 28 01:46:55 2003
+Trylartin | Desciple | The Dark Road | Fri Feb 28 03:28:32 2003
+Duonar | Desciple | The Crossroads | Fri Feb 28 03:37:35 2003
+Barabas | Samrik | A trail in the dwarf forest | Fri Feb 28 03:54:07 2003
+Trayner | Blobqirt | {YStorm Crest Avenue 500 Block{x | Fri Feb 28 06:21:08 2003
+Destilnon | Blobqirt | A Safe Room | Fri Feb 28 07:47:25 2003
+Tyrakiel | Xzar | Third Level | Fri Feb 28 08:59:08 2003
+Maelgwn | Raider | A Middle-aged templar's room | Fri Feb 28 09:53:14 2003
+Barabas | Vensharin | The village shrine | Fri Feb 28 09:55:47 2003
+Maelgwn | Xzar | The Serpent's cage | Fri Feb 28 10:20:25 2003
+Maelgwn | Hedaya | By the Temple Altar | Fri Feb 28 10:56:51 2003
+Hedaya | Maelgwn | By the Temple Altar | Fri Feb 28 11:00:06 2003
+Grunklar | Niennah | By the Temple Altar | Fri Feb 28 11:03:51 2003
+Niennah | Grunklar | The Triple Junction | Fri Feb 28 11:07:19 2003
+Grunklar | Raider | A dark encampment | Fri Feb 28 11:14:04 2003
+Hedaya | Sincere | Under the pit | Fri Feb 28 11:24:59 2003
+Grunklar | Sincere | Freefall | Fri Feb 28 11:28:04 2003
+Aswein | Sincere | Entrance to Priest's Guild | Fri Feb 28 12:01:00 2003
+Hedaya | Darphang | By the Temple Altar | Fri Feb 28 13:07:06 2003
+Niennah | Niennah | By the Temple Altar | Fri Feb 28 13:35:41 2003
+Niennah | Jeronimo | The Entrance | Fri Feb 28 13:56:45 2003
+Shalbane | Shalbane | Along the Eastern Road | Fri Feb 28 14:03:31 2003
+Thomas | Raider | Entrance Hall to the Guild of Thieves | Fri Feb 28 15:03:46 2003
+RageCage | Simon | By the Temple Altar | Fri Feb 28 15:17:01 2003
+Maelgwn | Maelgwn | Cave Entrance | Fri Feb 28 15:21:13 2003
+Tyrakiel | Zornath | The village shrine | Fri Feb 28 16:42:05 2003
+Simon | Fordus | By the Temple Altar | Fri Feb 28 17:46:47 2003
+Sincere | Sincere | Outside the Tower | Fri Feb 28 17:58:32 2003
+Erty | Maelgwn | By the Temple Altar | Fri Feb 28 18:01:00 2003
+Simon | Zornath | By the Temple Altar | Fri Feb 28 18:04:28 2003
+Simon | Fordus | At a muddy track | Fri Feb 28 18:14:52 2003
+Maelgwn | Fordus | At a muddy track | Fri Feb 28 18:15:07 2003
+Simon | Zornath | By the beautiful waterfall | Fri Feb 28 18:15:39 2003
+Maelgwn | Zornath | By the beautiful waterfall | Fri Feb 28 18:15:53 2003
+Kyouchen | Zornath | At a muddy track | Fri Feb 28 18:18:57 2003
+Zornath | Simon | Inside the HQ | Fri Feb 28 18:24:52 2003
+Samrik | Samrik | In the depths of the swamp | Fri Feb 28 18:56:17 2003
+Samrik | Maelgwn | The Stairs | Fri Feb 28 19:42:59 2003
+Kolbien | Zornath | By the Temple Altar | Fri Feb 28 20:11:43 2003
+Tikki | Zornath | Entrance to Priest's Guild | Fri Feb 28 20:14:17 2003
+Kolbien | Zornath | Market Square | Fri Feb 28 20:28:08 2003
+Mondell | Fordus | The Quadruple Junction Under the Dump | Fri Feb 28 20:32:00 2003
+Tikki | Maelgwn | A Steep Trail Winding Down Towards a Meadow | Fri Feb 28 20:46:59 2003
+Opopas | Zornath | The bend in the trail in the dwarf forest | Fri Feb 28 22:12:11 2003
+Opopas | Zornath | At a muddy track | Fri Feb 28 22:12:45 2003
+Opopas | Zornath | At a muddy track | Fri Feb 28 22:13:15 2003
+Opopas | Zornath | At a muddy track | Fri Feb 28 22:13:47 2003
+Opopas | Zornath | Entering the village | Fri Feb 28 22:21:40 2003
+Opopas | Zornath | Entering the village | Fri Feb 28 22:22:56 2003
+Opopas | Fordus | At a muddy track | Fri Feb 28 22:24:18 2003
+Manga | Manga | Graelik's Lair | Fri Feb 28 22:27:34 2003
+Zondra | Maelgwn | By the Temple Altar | Fri Feb 28 22:45:31 2003
+Iceman | Iceman | The swampy path | Fri Feb 28 23:15:27 2003
+Iceman | Maelgwn | A turn in the hallway | Fri Feb 28 23:33:38 2003
+Maelgwn | Nosilla | By the Temple Altar | Fri Feb 28 23:44:00 2003
+Nosilla | Maelgwn | In the southern swamps | Fri Feb 28 23:59:04 2003
+Maelgwn | Maelgwn | Altar of the Damned | Sat Mar  1 00:02:17 2003
+Emerath | Emerath | Northeastern corridor | Sat Mar  1 00:11:44 2003
+Amin | Maelgwn | The Lane | Sat Mar  1 00:12:08 2003
+Zornath | Maelgwn | The Main Street | Sat Mar  1 00:36:18 2003
+Amin | Nosilla | In the air... | Sat Mar  1 00:37:54 2003
+Maelgwn | Maelgwn | Slave Cage | Sat Mar  1 00:42:28 2003
+Nosilla | Zornath | By the beautiful waterfall | Sat Mar  1 00:49:27 2003
+Ragecage | Maelgwn | Chamber in the Assassin's Guild | Sat Mar  1 01:08:50 2003
+Zornath | Maelgwn | The Mouth of a Cave | Sat Mar  1 02:05:39 2003
+Zornath | Maelgwn | The Flickering Tunnel | Sat Mar  1 02:08:03 2003
+Trylartin | Raider | Black Hole | Sat Mar  1 04:25:49 2003
+Barabas | Eclypse | Room of Laws | Sat Mar  1 05:25:38 2003
+Barabas | Eminem | The Entrance | Sat Mar  1 05:33:38 2003
+Barabas | Eclypse | The Entrance | Sat Mar  1 05:37:28 2003
+Barabas | Eclypse | The Entrance | Sat Mar  1 05:40:31 2003
+Bonza | Eminem | Village street | Sat Mar  1 05:54:16 2003
+Zyrd | Sylus | By the Temple Altar | Sat Mar  1 07:01:14 2003
+Eclypse | Eclypse | A Dirt Path Through the Downs | Sat Mar  1 07:07:25 2003
+Eminem | Karabas | By the beautiful waterfall | Sat Mar  1 07:22:55 2003
+Gryndis | Karabas | By the beautiful waterfall | Sat Mar  1 07:29:26 2003
+Jalli | Eminem | The Entrance | Sat Mar  1 07:37:38 2003
+Jalli | Eminem | Inside the HQ | Sat Mar  1 07:38:42 2003
+Nodrin | Vaerzlithar | The village shrine | Sat Mar  1 07:40:22 2003
+Jalli | Eminem | At a muddy track | Sat Mar  1 07:44:25 2003
+Karabas | Karabas | At a muddy track | Sat Mar  1 07:44:30 2003
+Jalli | Vaerzlithar | The Entrance | Sat Mar  1 07:58:05 2003
+Nodrin | Eminem | The Entrance | Sat Mar  1 07:58:34 2003
+Nodrin | Vaerzlithar | The Entrance | Sat Mar  1 08:06:36 2003
+Karabas | Vaerzlithar | The Entrance | Sat Mar  1 08:06:43 2003
+Jalli | Eminem | The Entrance | Sat Mar  1 08:06:48 2003
+Nodrin | Eminem | The Entrance | Sat Mar  1 08:10:30 2003
+Jalli | DrDre | The Entrance | Sat Mar  1 08:10:45 2003
+Karabas | Vaerzlithar | The Entrance | Sat Mar  1 08:10:48 2003
+Jalli | Eminem | The Entrance | Sat Mar  1 08:13:46 2003
+Jalli | Eminem | The Entrance | Sat Mar  1 08:23:10 2003
+Karabas | Vaerzlithar | The Entrance | Sat Mar  1 08:24:09 2003
+Jalli | DrDre | The Entrance | Sat Mar  1 08:25:05 2003
+Niennah | DrDre | The Entrance | Sat Mar  1 08:38:10 2003
+Sirflfea | Xzar | the hallway | Sat Mar  1 10:02:29 2003
+Kjiuvnir | Xzar | Grassy fields | Sat Mar  1 11:34:41 2003
+Emerath | Emerath | By the Temple Altar | Sat Mar  1 12:09:03 2003
+Tael | Zornath | By the Temple Altar | Sat Mar  1 12:23:01 2003
+Tael | Maelgwn | The Main Street | Sat Mar  1 12:26:56 2003
+Kjiuvnir | Maelgwn | The Main Street | Sat Mar  1 12:34:42 2003
+Ainill | Zornath | Market Square | Sat Mar  1 12:39:22 2003
+Maelgwn | Maelgwn | Altar of the Damned | Sat Mar  1 12:50:38 2003
+Maelgwn | Musfasa | The Entrance | Sat Mar  1 12:54:49 2003
+Maelgwn | Zornath | Inside the HQ | Sat Mar  1 13:01:30 2003
+Musfasa | Maelgwn | The Entrance | Sat Mar  1 13:02:23 2003
+Musfasa | Maelgwn | The Village Altar | Sat Mar  1 15:30:37 2003
+Musfasa | Sylus | In a quiet swampy part of the ruins | Sat Mar  1 15:37:30 2003
+Ailirr | Maelgwn | North Gate | Sat Mar  1 15:42:09 2003
+Musfasa | Kjiuvnir | The bend in the trail in the dwarf forest | Sat Mar  1 15:48:07 2003
+Musfasa | Kjiuvnir | The bend in the trail in the dwarf forest | Sat Mar  1 15:50:28 2003
+Musfasa | Gamache | The brawling balcony | Sat Mar  1 15:54:28 2003
+Delwin | Samrik | The Goblin Headquarters | Sat Mar  1 16:05:52 2003
+Nosilla | Gamache | The bend in the trail in the dwarf forest | Sat Mar  1 16:05:55 2003
+Fordus | Gamache | The village shrine | Sat Mar  1 16:10:04 2003
+Katja | Maelgwn | A Path in the Garden | Sat Mar  1 17:14:18 2003
+Sylus | Amin | Village road | Sat Mar  1 17:23:15 2003
+Kbleddon | Sylus | The village shrine | Sat Mar  1 17:40:39 2003
+Sylus | Amin | Village road | Sat Mar  1 17:44:13 2003
+Amin | Sylus | A trail in the dwarf forest | Sat Mar  1 18:00:20 2003
+Maelgwn | Darphang | The Dark Road | Sat Mar  1 18:39:27 2003
+Kbleddon | Sincere | The village shrine | Sat Mar  1 18:51:51 2003
+Rodd | Banderos | The Center of the Dungeon | Sat Mar  1 20:04:06 2003
+Maelgwn | Banderos | Black Hole | Sat Mar  1 20:28:07 2003
+Simon | Maelgwn | The Hallway | Sat Mar  1 22:50:10 2003
+Maelgwn | Kbleddon | Grassy fields | Sat Mar  1 22:57:33 2003
+Maelgwn | Kbleddon | At a muddy track | Sat Mar  1 23:01:28 2003
+Maelgwn | Kbleddon | At a muddy track | Sat Mar  1 23:02:05 2003
+Nodrin | Banderos | At a muddy track | Sat Mar  1 23:31:00 2003
+Banderos | Maelgwn | In the air... | Sat Mar  1 23:39:39 2003
+Mzerd | Maelgwn | Inside the Great Hall | Sun Mar  2 00:21:29 2003
+Rohhekedon | Eminem | Inside the HQ | Sun Mar  2 02:35:06 2003
+Shushak | Shushak | A grey tiled hallway | Sun Mar  2 02:54:44 2003
+Shushak | Durpan | Fourth floor landing | Sun Mar  2 07:19:59 2003
+Rohhekedon | Xzar | The Main Street | Sun Mar  2 18:42:27 2003
+Zornath | Vensharin | By the Temple Altar | Sun Mar  2 19:05:30 2003
+Tael | Iceman | Market Square | Sun Mar  2 19:14:29 2003
+Ujehirra | Onho | Entering the village | Sun Mar  2 19:28:39 2003
+Rinaldi | Zornath | By the beautiful waterfall | Sun Mar  2 19:40:50 2003
+Vensharin | Rohhekedon | The brawling balcony | Sun Mar  2 19:44:30 2003
+Onho | Iceman | The village shrine | Sun Mar  2 19:45:01 2003
+Bonza | Iceman | Entering the village | Sun Mar  2 19:55:32 2003
+Rohhekedon | Alezath | The Temple Of Mota | Sun Mar  2 19:58:05 2003
+Gaspar | Samrik | The secret room | Sun Mar  2 20:01:27 2003
+Vensharin | Samrik | The dwarf forest | Sun Mar  2 20:11:04 2003
+Onho | Maelgwn | High Above the Rushing River | Sun Mar  2 20:14:56 2003
+Darantin | Alezath | The dwarf forest | Sun Mar  2 20:20:17 2003
+Alezath | Samrik | By the Temple Altar | Sun Mar  2 20:22:47 2003
+Alezath | Samrik | Entrance to Mud School | Sun Mar  2 20:31:39 2003
+Ochakovo | Selfren | In a bare room filled with rubble | Sun Mar  2 20:47:38 2003
+Iceman | Maelgwn | Cave Entrance | Sun Mar  2 20:48:24 2003
+Samrik | Zornath | The Temple Square | Sun Mar  2 21:09:04 2003
+Tael | Maelgwn | In the air... | Sun Mar  2 21:17:36 2003
+Tael | Zornath | A Winding Trail Through the Downs | Sun Mar  2 21:33:42 2003
+Bobby | Maelgwn | The bend in the trail in the dwarf forest | Sun Mar  2 21:43:20 2003
+Maelgwn | Bobby | The village shrine | Sun Mar  2 21:48:55 2003
+Tael | Amin | Forge entrance | Sun Mar  2 22:25:32 2003
+Tertalith | Desciple | The dwarf forest | Mon Mar  3 03:06:18 2003
+Durpan | Drdre | Outside the Entrance to the Golden Citadel | Mon Mar  3 04:11:33 2003
+Korbu | Samrik | West Main Street | Mon Mar  3 07:37:45 2003
+Norve | Samrik | A Garden Path | Mon Mar  3 07:44:28 2003
+Niennah | Hru | By the Temple Altar | Mon Mar  3 08:26:54 2003
+Illiet | Hru | The Quadruple Junction Under the Dump | Mon Mar  3 08:31:46 2003
+Norve | Vensharin | Entrance to Priest's Guild | Mon Mar  3 09:42:28 2003
+Vensharin | Tael | Wall Road | Mon Mar  3 10:10:04 2003
+Tael | Raider | The Southern border | Mon Mar  3 10:18:03 2003
+Tael | Zokzak | At a muddy track | Mon Mar  3 10:36:23 2003
+Hru | Hru | Village road | Mon Mar  3 10:38:43 2003
+Tael | Hedaya | Down the path into a dead end | Mon Mar  3 10:49:45 2003
+Vensharin | Zokzak | By the Temple Altar | Mon Mar  3 10:55:22 2003
+Zokzak | Vensharin | The Quadruple Junction Under the Dump | Mon Mar  3 11:03:27 2003
+Vensharin | Zokzak | Grebe's Tavern | Mon Mar  3 11:10:58 2003
+Tael | Hru | Common Square | Mon Mar  3 11:14:50 2003
+Zokzak | Vensharin | Market Square | Mon Mar  3 11:17:02 2003
+Zokzak | Tael | The bend in the trail in the dwarf forest | Mon Mar  3 11:25:58 2003
+Vensharin | Zokzak | The bend in the trail in the dwarf forest | Mon Mar  3 11:27:55 2003
+Sincere | Hru | By the beautiful waterfall | Mon Mar  3 11:38:47 2003
+Tael | Kardon | On the Dark River | Mon Mar  3 13:23:25 2003
+Kardon | Zokzak | By the Temple Altar | Mon Mar  3 13:24:36 2003
+Laliene | Zokzak | By the Temple Altar | Mon Mar  3 13:25:25 2003
+Geshae | Iceman | The village shrine | Mon Mar  3 15:31:16 2003
+Geshae | Mzerd | Along the Eastern Road | Mon Mar  3 15:33:58 2003
+Faunus | Fierath | The Temple Of Mota | Mon Mar  3 15:48:33 2003
+Livien | Fierath | Outside the East Gate of Midgaard | Mon Mar  3 15:52:37 2003
+Solan | Xzar | Mage's Bar | Mon Mar  3 16:38:28 2003
+Raider | Rohhekedon | On the second floor | Mon Mar  3 16:46:53 2003
+Rohhekedon | Rohhekedon | On the second floor | Mon Mar  3 16:48:09 2003
+Rohhekedon | Raider | The darker dwarf forest | Mon Mar  3 17:01:00 2003
+Iceman | Xzar | Mid-air | Mon Mar  3 17:08:44 2003
+Titanthius | Xzar | Entrance Hall to the Guild of Swordsmen | Mon Mar  3 17:19:33 2003
+Elyndor | Raider | The Temple Square | Mon Mar  3 17:25:55 2003
+Rohhekedon | Xzar | City Entrance | Mon Mar  3 18:04:41 2003
+Faunus | Xzar | At a muddy track | Mon Mar  3 18:28:23 2003
+Darantin | Moby | At a muddy track | Mon Mar  3 19:45:58 2003
+Iliila | Moby | A Road | Mon Mar  3 19:49:34 2003
+Desciple | Moby | Dragon Road | Mon Mar  3 20:46:50 2003
+Vensharin | Maelgwn | By the beautiful waterfall | Mon Mar  3 20:51:47 2003
+Tael | Samrik | Grime's forge | Mon Mar  3 20:58:06 2003
+Tael | Maelgwn | The dwarf forest | Mon Mar  3 21:05:19 2003
+Moby | Desciple | The Temple Of Mota | Mon Mar  3 21:18:59 2003
+Nosilla | Hrishgrin | Melancholy's Maps | Mon Mar  3 21:34:56 2003
+Tael | Moby | Melancholy's Maps | Mon Mar  3 21:35:17 2003
+Tael | Moby | The Temple Square | Mon Mar  3 21:40:02 2003
+Hrishgrin | Zornath | A trail in the dwarf forest | Mon Mar  3 22:05:00 2003
+Rayden | Hrishgrin | The Mouth of a Cave | Mon Mar  3 22:10:51 2003
+Hrishgrin | Zornath | A rough trail | Mon Mar  3 22:12:41 2003
+Sincere | Zornath | A rough trail | Mon Mar  3 22:13:10 2003
+Nosilla | Moby | The Eastern Market Square | Mon Mar  3 22:37:39 2003
+Rayden | Maelgwn | The end of Elm Street | Mon Mar  3 22:38:44 2003
+Duonar | Maelgwn | City Hall | Mon Mar  3 22:45:20 2003
+Kbleddon | Zornath | At a muddy track | Mon Mar  3 22:48:19 2003
+Hru | Maelgwn | Lost in Space | Mon Mar  3 23:35:27 2003
+Trylartin | Maelgwn | The Northeast Corner | Tue Mar  4 00:09:21 2003
+Trylartin | Iceman | By the Temple Altar | Tue Mar  4 00:20:22 2003
+Trylartin | Iceman | By the Temple Altar | Tue Mar  4 00:21:02 2003
+Moby | Hru | Altar of the Damned | Tue Mar  4 00:51:34 2003
+Hru | Desciple | Market Square | Tue Mar  4 01:24:30 2003
+Hru | Desciple | Entrance to Mud School | Tue Mar  4 03:31:12 2003
+Fierath | Raman | Inside the West Gate of Midgaard | Tue Mar  4 04:12:58 2003
+Raman | Executioner | The steep foothills | Tue Mar  4 06:02:13 2003
+Darphang | Hru | The village shrine | Tue Mar  4 10:57:42 2003
+Mothrak | Hru | The Green Vines | Tue Mar  4 11:03:47 2003
+Reak | Hru | The Jeweller's Shop | Tue Mar  4 11:45:13 2003
+Amigas | Desciple | By the Temple Altar | Tue Mar  4 13:59:19 2003
+Morly | Darantin | Bridge before the Imperial Palace | Tue Mar  4 17:19:12 2003
+Gaspar | Maelgwn | Second Level | Tue Mar  4 22:03:58 2003
+Bigelow | Bigelow | The village shrine | Tue Mar  4 22:14:16 2003
+Tertalith | Maelgwn | A dusty path | Tue Mar  4 22:17:23 2003
+Bigelow | Selfren | At the top of a short staircase | Tue Mar  4 22:49:09 2003
+Kbleddon | Quentin | Before the gates of the kingdom | Tue Mar  4 23:09:28 2003
+Quentin | Bigelow | By the Temple Altar | Tue Mar  4 23:09:39 2003
+Durpan | Vanlain | By the Temple Altar | Wed Mar  5 00:50:56 2003
+Gaspar | Stigladvir | The Catacombs | Wed Mar  5 01:46:08 2003
+Kalebellan | Hru | The Temple Of Mota | Wed Mar  5 02:06:30 2003
+Illiet | Hru | The Temple Of Mota | Wed Mar  5 03:57:35 2003
+Illiet | Stigladvir | A Large Cavern | Wed Mar  5 04:05:48 2003
+Illiet | Stigladvir | By the Temple Altar | Wed Mar  5 04:20:35 2003
+Swobl | Hedaya | A triple junction | Wed Mar  5 04:48:08 2003
+Hedaya | Stigladvir | The Main Street | Wed Mar  5 04:56:49 2003
+Niennah | Stigladvir | The Main Street | Wed Mar  5 05:00:25 2003
+Stigladvir | Niennah | Cell | Wed Mar  5 05:13:56 2003
+Darantin | Khaor | The dwarf forest | Wed Mar  5 13:00:54 2003
+Darantin | Khaor | The Cross Roads | Wed Mar  5 13:13:07 2003
+Khaor | Samrik | By the beautiful waterfall | Wed Mar  5 14:03:45 2003
+Faunus | Maelgwn | At a muddy track | Wed Mar  5 14:22:10 2003
+Maelgwn | Xzar | {YColton Circle 300 Block{x | Wed Mar  5 14:35:18 2003
+Maelgwn | Xzar | The Northwestern Corner of the Village Square | Wed Mar  5 14:49:17 2003
+Sincere | Mendakarian | The Northwestern Corner of the Village Square | Wed Mar  5 14:50:40 2003
+Vanlain | Khaor | By the Temple Altar | Wed Mar  5 17:05:12 2003
+Khaor | Nosilla | Standing in the Courtyard | Wed Mar  5 17:10:22 2003
+Khaor | Onho | On a road | Wed Mar  5 17:16:42 2003
+Mendakarian | Raider | On the Concourse near the park | Wed Mar  5 18:14:17 2003
+Dexter | Sincere | The Mystical Path | Wed Mar  5 22:16:43 2003
+Darantin | Duonar | A hallway in the castle | Wed Mar  5 23:35:53 2003
+Darantin | Bigelow | Entering the village | Thu Mar  6 00:00:43 2003
+Bigelow | Iliila | Mountain | Thu Mar  6 00:31:20 2003
+Bonza | Bigelow | The Temple Of Mota | Thu Mar  6 02:15:46 2003
+Bonza | Mendakarian | Inside the West Gate of Midgaard | Thu Mar  6 02:36:19 2003
+Khaor | Hru | Market Square | Thu Mar  6 04:09:12 2003
+Kezz | Hru | By the Temple Altar | Thu Mar  6 04:48:27 2003
+Bonza | Hru | Inside the Eastern Gate of New Thalos | Thu Mar  6 05:20:30 2003
+Kezz | Bigelow | Market Square | Thu Mar  6 05:54:33 2003
+Durpan | Mendakarian | Main Street | Thu Mar  6 06:03:41 2003
+Blobqurt | Mendakarian | The Temple Of Mota | Thu Mar  6 06:19:32 2003
+Mendakarian | Mendakarian | Entering the village | Thu Mar  6 06:27:14 2003
+Mendakarian | Bigelow | Entering the village | Thu Mar  6 06:28:07 2003
+Durpan | Kilagor | A Dirt Path Through the Downs | Thu Mar  6 06:34:18 2003
+Kilagor | Kilagor | A Dirt Path Through the Downs | Thu Mar  6 06:37:24 2003
+Dranitnon | Kilagor | The Temple Of Mota | Thu Mar  6 08:31:38 2003
+Vanlain | Kilagor | The Main Street | Thu Mar  6 08:35:58 2003
+Moby | Kilagor | By the Temple Altar | Thu Mar  6 09:10:53 2003
+Dranitnon | Hru | A dressing room | Thu Mar  6 10:21:24 2003
+Faunus | Hru | Grassy fields | Thu Mar  6 10:51:25 2003
+Morly | Hru | Inside the West Gate of New Thalos | Thu Mar  6 12:31:24 2003
+Morly | Kilagor | Market Square | Thu Mar  6 13:02:53 2003
+Morly | Desciple | West Main Street | Thu Mar  6 13:30:08 2003
+Sukanah | Samrik | The Temple Of Mota | Thu Mar  6 14:15:18 2003
+Kilagor | Desciple | The Mystical Path | Thu Mar  6 14:36:05 2003
+Faunus | Bigelow | Entering the village | Thu Mar  6 15:02:44 2003
+Darantin | Faunus | The dwarf forest | Thu Mar  6 16:52:51 2003
+Nosilla | Zornath | The Inner Gates | Thu Mar  6 16:59:59 2003
+Manga | Loser | Through the deep forest | Thu Mar  6 17:28:12 2003
+Faunus | Faunus | Through the deep forest | Thu Mar  6 17:34:27 2003
+Zornath | Loser | A Muddy Path Through the Waterlogged Timber | Thu Mar  6 17:35:41 2003
+Kobe | Bigelow | Entering the village | Thu Mar  6 18:37:02 2003
+Kobe | Bigelow | Entering the village | Thu Mar  6 18:37:41 2003
+Kobe | Bigelow | The bend in the trail in the dwarf forest | Thu Mar  6 18:39:01 2003
+Jagar | Fordus | The dwarf forest | Thu Mar  6 19:28:27 2003
+Jagar | Fordus | A trail in the dwarf forest | Thu Mar  6 19:32:36 2003
+Jagar | Fordus | At a muddy track | Thu Mar  6 19:33:54 2003
+Jagar | Fordus | At a muddy track | Thu Mar  6 19:34:33 2003
+Jagar | Fordus | At a muddy track | Thu Mar  6 19:35:07 2003
+Jagar | Bigelow | By the beautiful waterfall | Thu Mar  6 19:35:44 2003
+Jagar | Bigelow | By the beautiful waterfall | Thu Mar  6 19:36:17 2003
+Jagar | Fordus | At a muddy track | Thu Mar  6 19:47:43 2003
+Vanlain | Bigelow | Grassy fields | Thu Mar  6 19:57:44 2003
+Iliila | Samrik | Sunrise | Thu Mar  6 21:05:34 2003
+Khetard | Vanlain | Wall Road | Thu Mar  6 21:12:10 2003
+Hrishgrin | Zornath | At a muddy track | Thu Mar  6 21:20:26 2003
+Nilan | Vanlain | A trail at the end of the dwarf forest | Thu Mar  6 21:57:46 2003
+Pashin | Fordus | The bend in the trail in the dwarf forest | Thu Mar  6 23:13:34 2003
+Morgion | Hru | By the Temple Altar | Thu Mar  6 23:53:51 2003
+Morgion | Hru | By the Temple Altar | Fri Mar  7 00:00:42 2003
+Morgion | Hru | By the Temple Altar | Fri Mar  7 00:05:22 2003
+Nosilla | Vanlain | Grassy fields | Fri Mar  7 00:13:16 2003
+Morgion | Hru | By the Temple Altar | Fri Mar  7 00:25:38 2003
+Hru | Slander | The Inner Gates | Fri Mar  7 00:52:25 2003
+Carrok | Hru | By the Temple Altar | Fri Mar  7 03:09:24 2003
+Kilagor | Samrik | Bell Tower | Fri Mar  7 03:15:02 2003
+Carrok | Samrik | By the Temple Altar | Fri Mar  7 03:24:54 2003
+Carrok | Hru | By the Temple Altar | Fri Mar  7 04:10:16 2003
+Mazurek | Onho | At a muddy track | Fri Mar  7 10:06:02 2003
+Iceman | Hrishgrin | Steep slope | Fri Mar  7 11:06:14 2003
+Remmshokena | Vanlain | Grassy fields | Fri Mar  7 16:52:49 2003
+Sincere | Bigelow | At a muddy track | Fri Mar  7 17:18:39 2003
+Sincere | Vanlain | By the beautiful waterfall | Fri Mar  7 17:19:24 2003
+Remmshokena | Mendakarian | Entrance Hall to the Guild of Swordsmen | Fri Mar  7 17:39:41 2003
+Mendakarian | Bigelow | Entrance Hall to the Guild of Swordsmen | Fri Mar  7 17:40:11 2003
+Theablar | Bigelow | The Temple Of Mota | Fri Mar  7 17:56:36 2003
+Theablar | Onho | Inside the HQ | Fri Mar  7 18:07:52 2003
+Shralar | Shralar | A Hallway in the Mansion | Fri Mar  7 18:57:18 2003
+Darantin | Kilagor | Market Square | Fri Mar  7 19:05:19 2003
+Sincere | Vanlain | By the beautiful waterfall | Fri Mar  7 19:35:14 2003
+Darantin | Kilagor | The bend in the trail in the dwarf forest | Fri Mar  7 19:36:33 2003
+Shralar | Vanlain | By the beautiful waterfall | Fri Mar  7 19:36:39 2003
+Kithran | Shralar | By the Temple Altar | Fri Mar  7 19:51:21 2003
+Shralar | Durpan | The Northern Arch | Fri Mar  7 19:57:19 2003
+Kithran | Bigelow | Entrance to Mud School | Fri Mar  7 20:06:36 2003
+Shralar | Bigelow | Entrance to the Grunting Boar Inn | Fri Mar  7 20:12:14 2003
+Morgion | Vanlain | By the Temple Altar | Fri Mar  7 20:17:42 2003
+Executioner | Kilagor | City Entrance | Fri Mar  7 20:32:51 2003
+Kilagor | Kilagor | The Throne Room of the Nebula King | Fri Mar  7 20:38:04 2003
+Executioner | Bigelow | The path intersection | Fri Mar  7 20:41:58 2003
+Bigelow | Bigelow | Entrance to the Grunting Boar Inn | Fri Mar  7 20:49:06 2003
+Myartin | Executioner | Market Square | Fri Mar  7 20:55:19 2003
+Monica | Executioner | Market Square | Fri Mar  7 20:55:59 2003
+Fordus | Executioner | The village shrine | Fri Mar  7 20:59:30 2003
+Bigelow | Bigelow | The path intersection | Fri Mar  7 21:06:32 2003
+Zornath | Vanlain | Entering the village | Fri Mar  7 22:40:22 2003
+Morgion | Morgion | Bridge before the Imperial Palace | Fri Mar  7 22:42:51 2003
+Morgion | Desciple | The Stairwell | Fri Mar  7 22:44:50 2003
+Zornath | Fordus | Entering the village | Fri Mar  7 22:56:46 2003
+Nosilla | Fordus | At a muddy track | Fri Mar  7 23:27:20 2003
+Nosilla | Fordus | At a muddy track | Fri Mar  7 23:29:29 2003
+Fordus | Desciple | By the beautiful waterfall | Fri Mar  7 23:30:26 2003
+Nosilla | Samrik | Within the Palace of Dominace | Sat Mar  8 01:12:34 2003
+Samrik | Desciple | The Mouth of a Cave | Sat Mar  8 01:23:44 2003
+Vasikar | Desciple | The Pet Shop | Sat Mar  8 01:59:34 2003
+Nosilla | Samrik | The Temple Square | Sat Mar  8 02:07:50 2003
+Desciple | Einil | Market Square | Sat Mar  8 02:19:17 2003
+Tael | Hru | By the Temple Altar | Sat Mar  8 06:05:52 2003
+Jalli | Einil | A Dirt Path Through the Downs | Sat Mar  8 07:14:37 2003
+Pashin | Vanlain | A trail in the dwarf forest | Sat Mar  8 15:06:04 2003
+Pashin | Vanlain | At a muddy track | Sat Mar  8 15:08:47 2003
+Ark | Ark | A stream of consciousness | Sat Mar  8 16:28:48 2003
+Kithran | Bigelow | Main Street | Sat Mar  8 16:37:32 2003
+Sincere | Bigelow | The dwarf forest | Sat Mar  8 16:53:10 2003
+Executioner | Bigelow | The Overlook | Sat Mar  8 22:01:38 2003
+Bigelow | Tahn | The darker dwarf forest | Sat Mar  8 23:04:02 2003
+Bigelow | Bigelow | Village road | Sat Mar  8 23:30:11 2003
+Tahn | Vanlain | At a muddy track | Sat Mar  8 23:35:13 2003
+Tvar | Stigladvir | A dark encampment | Sun Mar  9 00:47:00 2003
+Fhaed | Brutmin | The South Wall of the Dungeon | Sun Mar  9 00:47:22 2003
+Brutmin | Fhaed | The South East Corner of the Dungeon | Sun Mar  9 00:51:19 2003
+Zornath | Xzar | The village shrine | Sun Mar  9 02:45:18 2003
+Shralar | Niennah | An Oozing Bog | Sun Mar  9 07:45:59 2003
+Byshard | Niennah | The Common Square | Sun Mar  9 08:14:10 2003
+Shralar | Hru | By the Temple Altar | Sun Mar  9 08:26:13 2003
+Stigladvir | Stigladvir | A hole in the southern wall. | Sun Mar  9 11:12:57 2003
+Akhar | Xzar | The Temple Square | Sun Mar  9 11:28:41 2003
+Brutmin | Jesus | By the Temple Altar | Sun Mar  9 14:39:15 2003
+Jesus | Shralar | Main Street | Sun Mar  9 15:05:45 2003
+Jesus | Swawil | Main Street | Sun Mar  9 15:11:44 2003
+Sorbe | Shralar | By the Temple Altar | Sun Mar  9 15:16:02 2003
+Jesus | Swawil | The Temple Of Mota | Sun Mar  9 15:26:45 2003
+Sorbe | Swawil | The Temple Of Mota | Sun Mar  9 15:27:24 2003
+Niennah | Vhenkiratz | The Temple Of Mota | Sun Mar  9 15:30:50 2003
+Vhenkiratz | Shralar | Inside the West Gate of Midgaard | Sun Mar  9 15:59:06 2003
+Tertalith | Vhenkiratz | the clearing | Sun Mar  9 17:27:53 2003
+Tertalith | Samrik | In a torture room | Sun Mar  9 17:50:13 2003
+Kilagor | Samrik | Grebe's Tavern | Sun Mar  9 18:00:45 2003
+Vhenkiratz | Khetard | By the Temple Altar | Sun Mar  9 18:19:19 2003
+Rakk | Samrik | The Hay Loft | Sun Mar  9 18:32:09 2003
+Khetard | Samrik | Cell | Sun Mar  9 18:45:21 2003

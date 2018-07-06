@@ -1,0 +1,310 @@
+#AREADATA
+Name Arcana Cabal~
+Builders None~
+VNUMs 5800 5899
+Credits {CABAL} Deomanix     Tower of the Eternal Collective~
+Security 9
+End
+
+
+
+#MOBILES
+#5800
+Seneschal master guardian~
+The Seneschal~
+The Seneschal of magic is here.
+~
+A ghostly figure floats above you, ready to unleash magical death on all
+that are against his lords.
+~
+elf~
+ABRVde DFHJNPVb 1000 0
+55 30 2d500+8000 1d1+3999 19d13+10 magic
+-9 -9 -9 -20
+I ABR BCH Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5801
+healer adept~
+an adept~
+An adept and healer of the Eternal Collective is here.
+~
+He is an old, wise cleric giving aid to those of the Eternal Collective.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#5802
+fiery red demon~
+a fiery demon~
+A red, fiery demon is looking around very angry.
+~
+A big red demon, you feel like it is flaming.
+~
+unique~
+AB J -1000 0
+40 30 1d1+1 1d1+1 2d4+20 slash
+-15 -15 -15 -15
+FHI 0 0 0
+stand stand male 0
+0 0 medium 0
+#0
+
+
+
+#OBJECTS
+#5800
+tome large~
+A huge tome floats above the symbol of infinity~
+A huge Tome floats above the symbol of Infinity.~
+ivory~
+container AORY P
+10 ABCD 5802 15 100
+60 1 20 P
+#5801
+orb magic arcana~
+Orb of Magic~
+Orb of magic is here.~
+ebony~
+staff AOT A
+0 0 0 '(null)' 0
+60 1 100000 P
+C
+3
+L
+1
+#5802
+key~
+a spider shaped key~
+A spider shaped  key is on the ground.~
+steel~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#5803
+potion crimson~
+a bloody crimson potion~
+A small crimson potion overflows with what seems to be blood.~
+glass~
+potion G AO
+55 'curse' 'armor' 'giant strength' 'bless'
+51 10 2000 P
+E
+potion crimson~
+A small crimson potion overflows with what seems to be blood.
+~
+#5850
+phylactery tactics~
+phylactery of tactics~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion tactics' 0
+50 20 0 P
+#5851
+phylactery sanctuary~
+phylactery of sanctuary~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion sanc' 0
+50 20 0 P
+#5852
+phylactery flight~
+phylactery of flight~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion flight' 0
+50 20 0 P
+#5853
+phylactery silence~
+phylactery of silence~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion sneak' 0
+50 20 0 P
+#5854
+phylactery recall~
+phylactery of recall~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion recall' 0
+50 20 0 P
+#5855
+phylactery quickness~
+phylactery of quickness~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion haste' 0
+50 20 0 P
+#5856
+phylactery transparency~
+phylactery of transparency~
+An ancient symbol of evil hovers here.~
+oldstyle~
+staff ABEHPYZ AO
+50 1 1 'minion trans' 0
+50 20 0 P
+#0
+
+
+
+#ROOMS
+#5800
+Fourth Level~
+You are standing in the top of the tower. A large pointed ceiling rises 
+above you. Pilars line the outside of this circular tower, and between 
+each is only air. You can see far out into the galaxy planets and stars 
+orbit nearby seeming close enough to touch. The tower it self was forged 
+by the will of Deomanix form the purest crystal. The air about you seems 
+to hum and vibrate with magical energies. In the middle of the room there 
+is a large Tome, where the findings of the students are constantly 
+cataloged.
+~
+0 8 0
+D5
+~
+~
+0 -1 5801
+S
+#5801
+Third Level~
+You are standing in the third floor of the crystal tower. This floor 
+seems to be used solely for the practice of incantions and and other 
+magical arts. The air about you seems to hum and vibrate with magical 
+energies. The tower continues above you and below you. 
+~
+0 8 0
+D4
+~
+~
+0 -1 5800
+D5
+~
+~
+0 -1 5802
+S
+#5802
+Second Level~
+The whole circumfrance of this room is lined with bookshelves. Fellow 
+students bustle about with books in thier hands reading books on spells 
+and repeating incantions as they walk about. Different chairs and couches 
+fill the center of the room where students can sit and discuss different 
+spells with one another.
+~
+0 8 0
+D4
+~
+~
+0 -1 5801
+D5
+~
+~
+0 -1 5803
+S
+#5803
+Inside the Tower of the Eternal Collective.~
+You stand in the lowest level of the Tower.  All around you walk those 
+who seek audience with the archmages of the tower. They all one day wish 
+to study within the crystal walls of this arcane tower. A large spiral 
+staircase leads up into the higher levels of the tower.
+~
+0 8 0
+D2
+~
+~
+0 -1 5804
+D4
+~
+~
+0 -1 5802
+S
+#5804
+Outside the Tower~
+You stand outside a tower wrought of pure magic.  Large crystal spires 
+pierce into the dark sky high above you. Power seems to radiate from this 
+place and flashes of light and rumblings seem to constantly flow from the 
+towers walls. To the north you can enter the tower.  
+~
+0 8 0
+D0
+~
+~
+0 -1 5803
+D2
+~
+~
+0 -1 5805
+S
+#5805
+The Mystical Path~
+You are standing at the entrance to a large crystal gate. Mages can be 
+seen passing in and out of the gates.  Up ahead you see the Tower of the 
+Eternal Collective.
+~
+0 8 0
+D0
+~
+~
+0 -1 5804
+D1
+~
+~
+0 -1 9310
+S
+#5809
+The Source Of Magic~
+You are in a limitless area of white. The essence of pure magic surrounds you,
+and your power knows no limits in this sea of magic. You feel as though you are
+one with all magic.
+~
+0 8716 1
+E
+skeletons~
+The skeletons looks like they had suffered the death of hunger.
+One of them looks like he has written something at the wall.
+~
+E
+writing wall~
+The writing says 'A pray to the GODS will not be heard, though
+the only exit is death..... Mother, I love you'.
+~
+S
+#0
+
+
+
+#SPECIALS
+M 5800 spec_seneschal
+S
+
+
+
+#RESETS
+M 0 5801 1 5800 1
+G 0 5803 0
+O 0 5800 0 5800
+M 0 5800 1 5805 1
+G 0 5801 0
+S
+
+
+
+#SHOPS
+5801 0 0 0 0 0 100 15 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

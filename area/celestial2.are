@@ -1,0 +1,1832 @@
+#AREADATA
+Name Celestial Area~
+Builders None~
+VNUMs 10100 10199
+Credits {31 51} Deomanix Celestial Area~
+Security 9
+End
+
+
+
+#MOBILES
+#10100
+angel~
+an angel~
+An angel bathed in a holy aura stands here.
+~
+An angel in flowing robes as white as snow glares at you sternly.
+~
+human~
+ABGT DFHN 1000 0
+30 0 6d12+853 0d0+0 4d6+8 pound
+-9 -9 -9 -9
+EJKQ 0 N 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#10101
+man warmaster~
+the WarMaster~
+Clad in shining armor, the warmaster grits his teeth and flares his nostrils.
+~
+The WarMaster glares at you with an air of superiority.
+~
+human~
+ABGT DFHN 1000 0
+50 0 50d10+4500 0d0+0 5d8+15 pound
+-20 -20 -20 -20
+ACDEFJKNOQ AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK large 0
+#10102
+student warrior~
+a warrior student~
+A somewhat clumsy being practices here.
+~
+This young warrior snarls and tries to look mean.
+~
+human~
+AGT DFHN 1000 0
+25 0 5d10+550 0d0+0 2d8+5 punch
+-4 -4 -4 -4
+JKQ 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#10103
+librarian woman~
+the old librarian~
+An old shriveled librarian sits here, looking around suspisiously.
+~
+The old ladies eyes seem to make your blood freeze.
+~
+human~
+AGT DFHN 0 0
+50 0 50d10+5500 0d0+0 5d8+19 pierce
+-20 -20 -20 -20
+ABDEFIJKN 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK small 0
+#10104
+wisp~
+a wisp~
+A glowing ball of light hovers here.
+~
+The wisp seems to crackle softly.
+~
+human~
+AGR DFHN 0 0
+30 0 6d12+853 0d0+0 4d6+12 suction
+-9 -9 -9 -9
+0 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK small 0
+#10105
+keeper man~
+the Keeper~
+The guardian of the great amethyst cavern is here.
+~
+He glares at you and screams challenges.
+~
+human~
+ABFGT DFHN 0 0
+51 0 50d10+5000 0d0+0 5d8+20 whip
+-21 -21 -21 -21
+ACDEFIJKNO AB 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK large 0
+#10106
+serpent ancient~
+the Ancient Serpent~
+A giant snake with purpe scales is coiled here.
+~
+He flicks his tounge disdainfully.
+~
+snake~
+ABFGS DFHNQ -1000 0
+58 0 50d10+5500 0d0+0 6d7+20 bite
+-22 -22 -22 -22
+AEFIJKM AB L I
+stand stand none 10
+AGHMVXYc ABCDEFKLQVX huge 0
+#10107
+dragon amethyst~
+the Amethyst Dragon~
+The mightiest of the dragons crouches here, with smoke flowing from his nostrils.
+~
+The dragons eyes flare a brilliant red.
+~
+human~
+ABFGT DFHNQ 0 0
+55 0 50d10+7000 0d0+0 10d4+23 slice
+-25 -25 -25 -25
+ABCDEFIJKMN ABHL 0 I
+stand stand male 100
+AHMV ABCDEFGHIJK giant 0
+#10108
+priest man~
+the priest~
+A priest clothed in the traditional garb of the priesthood.
+~
+The priest smiles at you warmly.
+~
+human~
+ABFGQ DFHN 1000 0
+45 0 25d10+3000 0d0+0 8d4+16 pound
+-15 -15 -15 -15
+DEIJK AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#10109
+woman mourning~
+a mourning woman~
+A hunched over woman kneels here, sobbing quietly to herself.
+~
+She looks at you with despair in her eyes.
+~
+human~
+ABFGQ DFHN 1000 0
+25 0 5d10+550 0d0+0 2d10+7 beating
+-7 -7 -7 -7
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#10110
+archangel michael~
+the archangel Michael~
+The great archangel Michael hovers here bathed in light.
+~
+Michael stares right through you.
+~
+human~
+ABFGT DFHNO 1000 0
+57 0 50d10+8000 0d0+0 6d8+24 divine
+-27 -27 -27 -27
+ACDEFIJKNO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#10111
+archangel gabriel~
+the archangel Gabriel~
+The might Gabriel hovers here borne in a bright light.
+~
+Gabriel stares right through you.
+~
+human~
+ABFGT DFHNO 1000 0
+57 0 50d10+8000 0d0+0 6d8+24 divine
+-27 -27 -27 -27
+ACDEFIJKNO AB M 0
+stand stand male 100
+AHMV ABCDEFGHIJK giant 0
+#10112
+spirit holy vapor~
+a holy spirit~
+A bright vaport floats in the center of the room.
+~
+The vapor flares angrily.
+~
+human~
+ABFGT DFHNOTb 1000 0
+50 0 50d10+4500 0d0+0 5d8+19 divine
+-20 -20 -20 -20
+ADEFJKMNO ABLQ D 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium 0
+#10113
+holiness holy incarnate~
+the Holiness Incarnate~
+An overwhelming sence of holiness seems to be concentrated in this room.
+~
+The entity seems to pass through you.
+~
+human~
+ABFGT DFHNOT 1000 0
+60 0 50d10+9500 0d0+0 8d6+28 divine
+-30 -30 -30 -30
+ACDEFHIJKMNO ABLMNQ C 0
+stand stand male 100
+AHMV ABCDEFGHIJK giant 0
+#10114
+man herbalist~
+the Herbalist~
+A man in a muddy apron wanders around the shop doing different things.
+~
+He stares at you blankly.
+~
+human~
+ABFGQ DFHNU 0 0
+50 0 50d10+4500 0d0+0 5d8+19 slap
+-20 -20 -20 -20
+ACDEKN ABCDEFGHIJKLMNOPQRS 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#10100
+broadsword gleaming~
+a gleaming broadsword~
+A beautiful sword of polished titanium rests here.~
+~
+weapon AEK AN
+sword 5 6 slice 0
+0 5 0 P
+A
+19 2
+A
+18 1
+L
+75
+#10101
+halo~
+a halo~
+A circlet of pure energy hovers above the ground.~
+~
+armor ABGK AEN
+12 10 9 10 0
+0 5 0 P
+A
+19 3
+A
+18 4
+A
+24 4
+L
+25
+#10102
+maul mace warmaster~
+the WarMaster's maul~
+A maul covered with runes and shines brightly.~
+~
+weapon ABGHKMTY AN
+mace 10 6 smash DH
+0 5 0 P
+A
+19 7
+A
+18 6
+A
+14 -40
+L
+4
+#10103
+plate warmaster~
+the WarMaster's plate~
+A beautiful black plate that reflects a metallic purple when held up to the light.~
+~
+armor ABGKTY ADN
+20 20 20 20 0
+0 5 0 P
+A
+19 2
+A
+18 3
+A
+24 -6
+L
+6
+#10104
+ruler sharp librarian~
+the Librarian's ruler~
+A sharp metal ruler with serrated edges.~
+~
+weapon ABEG AN
+dagger 10 6 pierce BC
+0 80 0 P
+A
+19 8
+A
+18 4
+A
+5 -2
+L
+8
+#10105
+shawl wool~
+a wool shawl~
+A woven shawl of grey wool.~
+~
+armor A ACN
+10 10 10 12 0
+0 5 0 P
+A
+13 100
+A
+19 3
+A
+14 -40
+L
+15
+#10106
+shield light~
+a shield of light~
+A shield rests here that seems to be made purely of light.~
+~
+armor ABGKL AJ
+9 9 9 9 0
+0 5 0 P
+A
+19 6
+A
+23 -7
+L
+7
+#10107
+key large~
+a Large key~
+A large golden key with a red ribbon on the end, rests here.~
+~
+key A AO
+0 0 0 0 0
+0 5 0 P
+#10108
+sofa~
+a lush velvet sofa.~
+An ornate purple velvet couch with golden tassels is in the middle of the room.~
+~
+furniture 0 0
+1 100 EHK 500 500
+0 5 0 P
+#10109
+gloves keeper~
+the Keeper's gloves~
+Some amethyst encrusted gloves rest here.~
+~
+armor ABGTY AH
+16 19 18 17 0
+0 5 0 P
+A
+13 0
+A
+14 30
+A
+19 4
+A
+18 3
+L
+8
+#10110
+whip keeper~
+the Keeper's whip~
+A whip glowing with power lies here.~
+~
+weapon ABGTY AN
+whip 10 6 thwack BCE
+0 150 0 P
+A
+19 7
+A
+18 3
+A
+24 -4
+L
+4
+#10111
+fang ancient~
+an ancient fang~
+A large and very sharp fang is sticking out of the ground.~
+~
+weapon ABGJTY AN
+dagger 10 5 pierce ADH
+0 90 0 P
+A
+1 1
+A
+19 5
+A
+18 8
+A
+13 -20
+L
+5
+#10112
+hide amethyst dragon~
+the hide of the Amethyst Dragon~
+A shimmering hide of amethyst rests here.~
+~
+armor ABFGHMTY AD
+21 22 21 20 0
+0 5 0 P
+A
+13 100
+A
+18 4
+A
+23 -6
+A
+19 2
+L
+6
+#10113
+crusifix cross~
+a wooden crusifix~
+A stout wooden crusifix hums here.~
+~
+wand AB AO
+51 2 2 'sanctuary' 0
+0 5 0 P
+A
+19 3
+A
+12 50
+L
+15
+#10114
+beads rosary~
+a pile of wooden beads~
+Some wooden rosary beads you believe belong to the mourning woman lie here.~
+~
+armor ABK AC
+15 13 10 3 0
+0 5 0 P
+A
+24 0
+A
+19 2
+A
+18 1
+#10115
+belt white leather~
+a white leather belt~
+A strong belt made of white leather hums with power.~
+~
+armor ABGKTY AL
+17 15 13 11 0
+0 5 0 P
+A
+19 3
+A
+18 4
+A
+24 -5
+L
+10
+#10116
+key~
+A shiny key~
+A key fashoned with gold is here.~
+~
+key A AO
+0 0 0 0 0
+0 5 0 P
+#10117
+key~
+an emerald key~
+A key carved from emerald is here.~
+~
+key A AO
+0 0 0 0 0
+0 5 0 P
+#10118
+key~
+a ruby key~
+A key carved from ruby rests here.~
+~
+key A AO
+0 0 0 0 0
+0 5 0 P
+#10119
+key~
+a diamond key~
+A key carved from diamond hums here.~
+~
+key A AO
+0 0 0 0 0
+0 5 0 P
+#10120
+pure wrath sword~
+pure wrath~
+Holy wrath has been forged into a weapon!~
+~
+weapon ABFGHKMTY AN
+sword 10 6 divine CDEGH
+0 90 0 P
+A
+13 10
+A
+19 8
+A
+18 7
+A
+24 -3
+L
+5
+#10121
+bracelet band light~
+a band of light~
+A sheild rests here that seems to be made purely of light.~
+~
+armor ABGKY AM
+18 19 17 10 0
+0 5 0 P
+A
+18 2
+A
+2 3
+A
+3 -1
+A
+19 3
+L
+25
+#10122
+dummy~
+a practice dummy~
+This dummy made from wood, hase been carved to look like some kind of a demon.~
+~
+furniture 0 0
+0 0 0 0 0
+0 5 0 P
+#10123
+fountain drink fount~
+the Golden Fount~
+This beautiful fountain brings forth crystal clear water.~
+~
+fountain A 0
+0 0 'water' 0 0
+0 5 0 P
+#10124
+ancient scales~
+the ancient scales~
+A pile of purple serpent scales lies here.~
+~
+armor ABJTY AL
+9 8 9 10 0
+0 5 0 P
+A
+24 -5
+A
+18 1
+F
+A 0 0 Q
+F
+R 0 0 L
+A
+19 2
+#10125
+bracer ancient scale~
+an ancient scale bracer~
+An ancient bracer from the serpent lies here.~
+~
+armor ABJTY AM
+8 3 6 9 0
+0 5 0 P
+A
+1 -1
+A
+18 1
+F
+A 0 0 a
+A
+19 4
+L
+8
+#0
+
+
+
+#ROOMS
+#10100
+Jacob's Ladder~
+You are at the bottom of what seems to be an endless ladder. This large golden ladder reaches up into the clouds as far as the eye can see.
+~
+0 4 9
+D2
+~
+~
+0 -1 10179
+D3
+~
+~
+0 0 623
+D4
+~
+~
+0 -1 10101
+S
+#10101
+Jabob's Ladder~
+As you climb the ladder a cloud floats by lazily. You try not to look down for fear of falling, but do anyways. As you look down you can only see clouds and as you look upward only the ladder continuing.
+~
+0 4 9
+D4
+~
+~
+0 -1 10102
+D5
+~
+~
+0 -1 10100
+S
+#10102
+Jacob's Ladder~
+As you continue to climb the ladder you notice something very large comming into view. You cannot quite make out what it is because the clouds cover it for the most part.
+~
+0 4 9
+D4
+~
+~
+0 -1 10103
+D5
+~
+~
+0 -1 10101
+S
+#10103
+Before the pearly gates~
+Before you stands a massive pearly gate. Light reflects in every direction making a beautify display. You can detect the sweet smell of incense as it wafts through the air.
+~
+0 0 9
+D0
+~
+~
+1 -1 10104
+D5
+~
+~
+0 -1 10102
+S
+#10104
+The courtyard~
+No man has beheld such a beautiful sight as this. As you enter the courtyard you notice you are standing on pure crystal. Lush greens surround you on all sides. Six golden stands burn incense constantly makeing you feel very calm. To the North a spectacular temple rises above the other buildings. To the east is a library. To the west is an academy, and behind you lies the gates.
+~
+0 8 1
+D0
+~
+~
+0 -1 10107
+D1
+~
+~
+1 -1 10106
+D2
+~
+~
+1 -1 10103
+D3
+~
+~
+1 -1 10105
+S
+#10105
+The Academy~
+You are in a large war room with practice dummies and sparing weapons dispersed throughout the room. No doubt this is where the celestial beings prepare themselves to combat evil, and protect the righteous.
+~
+0 8 1
+D1
+~
+~
+1 -1 10104
+S
+#10106
+The Library~
+It is quite a bit darker in here because of the lack of windows. Torches lining the walls between the bookcases cause shadows to dance across the room. There are several tables piled high with papers and books that seem to be in no particular order.
+~
+0 8 1
+D3
+~
+~
+1 -1 10104
+S
+#10107
+Road to the Temple~
+You are walking down a road composed of solid gold bricks. As you head closer to the temple you can hear beautiful voices singing. There seems to be a aura of radiant light surrounding the whole temple. To the east there is a small shop.
+~
+0 8 1
+D0
+~
+~
+0 -1 10108
+D1
+~
+~
+1 -1 10178
+D2
+~
+~
+0 -1 10104
+S
+#10108
+Steps before the Temple gates~
+You are standing at the bottom of a large flight of stairs leading up to the temple gates.The gate is made completely of jasper that refracts light in every direction. There is a large key hole in the middle of the gate.
+~
+0 8 1
+D0
+~
+~
+2 10107 10109
+D2
+~
+~
+0 -1 10107
+S
+#10109
+The Temple's Foyer~
+You are standing in a spacious room adorned with colorful tapestrys and rugs. The walls are made of gold, and the arches that lead in all directions are lined with emerald. You feel the floor undulate with waves seeming to come from the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 10156
+D1
+~
+~
+0 -1 10148
+D2
+~
+~
+2 -1 10108
+D3
+~
+~
+0 -1 10110
+S
+#10110
+A hallway lined with torches~
+The torches in this hall flicker, causing golden light to reflect off of the walls giving it a breathtaking appearence.
+~
+0 8 1
+D1
+~
+~
+0 -1 10109
+D3
+~
+~
+0 -1 10111
+S
+#10111
+A hallway lined with torches~
+The torches in this hall flicker, causing golden light to reflect off of the walls giving it a breathtaking appearence.
+~
+0 8 0
+D1
+~
+~
+0 -1 10110
+D3
+~
+~
+0 -1 10112
+S
+#10112
+A hallway lined with torches~
+The torches in this hall flicker, causing golden light to reflect off of the walls giving it a breathtaking appearence.
+~
+0 8 0
+D1
+~
+~
+0 -1 10111
+D3
+~
+~
+0 -1 10113
+S
+#10113
+A bend in the hallway~
+The torches in this hall flicker causing golden light to reflect off of the walls giving it a breathtaking appearence.The hall makes a turn to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 10114
+D1
+~
+~
+0 -1 10112
+S
+#10114
+A hallway lined with torches~
+The torches in this hall flicker causing golden light to reflect off of the walls giving it a breathtaking appearence.
+~
+0 8 0
+D0
+~
+~
+0 -1 10115
+D2
+~
+~
+0 -1 10113
+D3
+~
+~
+1 -1 10119
+S
+#10115
+A hallway lined with torches~
+The torches in this hall flicker causing golden light to reflect off of the walls giving it a breathtaking appearence.
+~
+0 8 0
+D0
+~
+~
+0 -1 10116
+D2
+~
+~
+0 -1 10114
+S
+#10116
+A hallway lined with torches~
+The torches in this hall flicker causing golden light to reflect off of the walls giving it a breathtaking appearence. There a small rooms to the east and west.
+~
+0 8 0
+D1
+~
+~
+1 -1 10118
+D2
+~
+~
+0 -1 10115
+D3
+~
+~
+1 -1 10117
+S
+#10117
+A prayer room.~
+You have entered a very plain room with only a kneeling bench and a small window looking outdoors.
+~
+0 8 0
+D1
+~
+~
+1 -1 10116
+S
+#10118
+A prayer room~
+You have entered a very plain room with only a kneeling bench and a small window looking outdoors.
+~
+0 8 0
+D3
+~
+~
+1 -1 10116
+S
+#10119
+A storage room~
+A small cramped storage room filled with odds and ends. There are some shelfs against the back wall stacked with cleaning supplies. There is also a grating on the floor large enough to fit through.
+~
+0 8 0
+D1
+~
+~
+1 -1 10114
+D5
+~
+~
+1 -1 10120
+S
+#10120
+A musty shaft~
+You are climbing down a rusty ladder toward an strange purple light below.
+~
+0 9 0
+D4
+~
+~
+1 -1 10119
+D5
+~
+~
+0 -1 10121
+S
+#10121
+Entrance to the Amethyst cavern~
+You now stand at the bottom of the shaft. Before you is a purple crystaline arch radiating light and and emitting a faint humming noise.
+~
+0 8 0
+D0
+~
+~
+0 -1 10122
+D4
+~
+~
+0 -1 10120
+S
+#10122
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10140
+D1
+~
+~
+0 -1 10132
+D2
+~
+~
+0 -1 10121
+D3
+~
+~
+0 -1 10123
+S
+#10123
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10122
+D3
+~
+~
+0 -1 10124
+S
+#10124
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10123
+D3
+~
+~
+0 -1 10125
+S
+#10125
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10124
+D2
+~
+~
+0 -1 10126
+S
+#10126
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10125
+D2
+~
+~
+0 -1 10127
+S
+#10127
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10126
+D3
+~
+~
+0 -1 10128
+S
+#10128
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10127
+D2
+~
+~
+0 -1 10129
+S
+#10129
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10128
+D2
+~
+~
+1 -1 10130
+S
+#10130
+Before an obsidian door~
+A large obsidian door with glowing runes inscribed upon it blocks the way south.
+~
+0 8 0
+D0
+~
+~
+1 -1 10129
+D2
+~
+~
+1 -1 10131
+S
+#10131
+The Keeper's room~
+You are in a large room that seems to have been carved out of the amethyst. There is a bookshelf against the back wall, and a cot to the the left. In the middle of the room the Keeper of the cavern sits at his desk.
+~
+0 8 0
+D0
+~
+~
+1 -1 10130
+S
+#10132
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10133
+D3
+~
+~
+0 -1 10122
+S
+#10133
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10134
+D3
+~
+~
+0 -1 10132
+S
+#10134
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10135
+D3
+~
+~
+0 -1 10133
+S
+#10135
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10136
+D3
+~
+~
+0 -1 10134
+S
+#10136
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10137
+D2
+~
+~
+0 -1 10135
+S
+#10137
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10138
+D3
+~
+~
+0 -1 10136
+S
+#10138
+In front of a cage~
+You stand before a large iron cage. You cannot quite see into the cage but you hear a soft hissing. Perhaps you should go back the way you came.
+~
+0 8 0
+D1
+~
+~
+1 -1 10139
+D3
+~
+~
+0 -1 10137
+S
+#10139
+The Serpent's cage~
+There are bones scatered about in the cage. You feel very uneasy. Just as you are about to leave. HSssssss!
+~
+0 9 0
+D3
+~
+~
+1 -1 10138
+S
+#10140
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10141
+D2
+~
+~
+0 -1 10122
+S
+#10141
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10142
+D2
+~
+~
+0 -1 10140
+S
+#10142
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D2
+~
+~
+0 -1 10141
+D3
+~
+~
+0 -1 10143
+S
+#10143
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D1
+~
+~
+0 -1 10142
+D3
+~
+~
+0 -1 10144
+S
+#10144
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10145
+D1
+~
+~
+0 -1 10143
+S
+#10145
+The Amethyst cavern~
+The walls of this cavern are encrusted with gorgeous purple gems. All around you the cavern glows and hums softly. The cavern winds off in several directions.
+~
+0 8 0
+D0
+~
+~
+0 -1 10146
+D2
+~
+~
+0 -1 10144
+S
+#10146
+Before the Great Portal~
+You have come to a dead end in the cavern. Before you lies a great amethyst portal. The humming is much stronger here, and the walls are quite a bit brighter.
+~
+0 8 0
+D0
+~
+~
+1 -1 10147
+D2
+~
+~
+0 -1 10145
+S
+#10147
+A dragon's lair~
+You have entered the lair of the Amethyst Dragon. You cannot even see the floor through the mounds of human bones lying everywhere. The humming in this room seems ro resonate in your skull, and the light is so bright you have to shield your eyes.
+~
+0 8 0
+D2
+~
+~
+1 -1 10146
+S
+#10148
+A slender hallway~
+This hallway is quite a bit smaller than the others, its floors are a beautiful black marble, and all along the hallway there are beautiful stained glass windows depicting different scenes.
+~
+0 8 0
+D1
+~
+~
+0 -1 10149
+D3
+~
+~
+0 -1 10109
+S
+#10149
+A slender hallway~
+This hallway is quite a bit smaller than the others, its floors are a beautiful black marble, and all along the hallway there are beautiful stained glass windows depicting different scenes.
+~
+0 8 0
+D1
+~
+~
+0 -1 10150
+D3
+~
+~
+0 -1 10148
+S
+#10150
+A slender hallway~
+This hallway is quite a bit smaller than the others, its floors are a beautiful black marble, and all along the hallway there are beautiful stained glass windows depicting different scenes.
+~
+0 8 0
+D1
+~
+~
+0 -1 10151
+D3
+~
+~
+0 -1 10149
+S
+#10151
+A slender hallway~
+This hallway is quite a bit smaller than the others, its floors are a beautiful black marble, and all along the hallway there are beautiful stained glass windows depicting different scenes.
+~
+0 8 0
+D1
+~
+~
+0 -1 10152
+D3
+~
+~
+0 -1 10150
+S
+#10152
+A slender hallway~
+This hallway is quite a bit smaller than the others, its floors are a beautiful black marble, and all along the hallway there are beautiful stained glass windows depicting different scenes.
+~
+0 8 0
+D0
+~
+~
+0 -1 10153
+D3
+~
+~
+0 -1 10151
+S
+#10153
+Before the chapel doors~
+You have reached the end of the hallway and a large oaken door stands before you. It seems to have a strange language carved upon it. Two potted plants sit ornamently on either side of the door.
+~
+0 8 0
+D0
+~
+~
+1 -1 10154
+D2
+~
+~
+0 -1 10152
+S
+#10154
+An extremely large chapel~
+The chapel's ceiling towers at least 30 feet above you. There are beautiful white marble pillars, golden pews, and gorgeous stained glass windows here. To the front of the chapel there is an ornate pulpit inlaid with precious stones. The door to the priests vestibule is behind the pulpit.
+~
+0 8 0
+D0
+~
+~
+1 -1 10155
+D2
+~
+~
+1 -1 10153
+S
+#10155
+The priest's vestibule~
+This is a small quiet room with nothing but a small chair, and a desk. This is where the priest prepares himself before he enters the chapel.
+~
+0 8 0
+D2
+~
+~
+1 -1 10154
+S
+#10156
+A grand stairwell~
+A beautiful spiral staircase made of gold leads to the temples second level.
+~
+0 8 0
+D2
+~
+~
+0 -1 10109
+D4
+~
+~
+0 -1 10157
+S
+#10157
+The second floor of the temple~
+Halls head in every direction from this point. This seems to be a floor totally dedicated to the higher powers of goodness. You can see each hallway is heavely guarded, especially to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 10173
+D1
+~
+~
+0 -1 10163
+D2
+~
+~
+0 -1 10168
+D3
+~
+~
+0 -1 10158
+D5
+~
+~
+0 -1 10156
+S
+#10158
+The western hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8 0
+D1
+~
+~
+0 -1 10157
+D3
+~
+~
+0 -1 10159
+S
+#10159
+The western hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8 0
+D1
+~
+~
+0 -1 10158
+D3
+~
+~
+0 -1 10160
+S
+#10160
+The western hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8 0
+D1
+~
+~
+0 -1 10159
+D3
+~
+~
+0 -1 10161
+S
+#10161
+The end of the hall~
+A large golden door dominates the western wall, and radiant light pours out from under the door. You suddenly develop a righteous fear and doubt your purity.
+~
+0 8 0
+D1
+~
+~
+0 -1 10160
+D3
+~
+~
+2 10116 10162
+S
+#10162
+Michael's chamber~
+As you step into this room you realize there are no walls, no floor, and no ceiling. You are suspended in a pure white light that seems to radiate from a being with the apearing to be comprized of energy crckleing about the air.
+~
+0 8200 9
+D1
+~
+~
+2 -1 10161
+S
+#10163
+The eastern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8 0
+D1
+~
+~
+0 -1 10164
+D3
+~
+~
+0 -1 10157
+S
+#10164
+The eastern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8 0
+D1
+~
+~
+0 -1 10165
+D3
+~
+~
+0 -1 10163
+S
+#10165
+The eastern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8 0
+D1
+~
+~
+0 -1 10166
+D3
+~
+~
+0 -1 10164
+S
+#10166
+The end of the hall~
+A large emerald door dominates the eastern wall, and radiant light pours out from under the door.You suddenly develop a righteous fear and doubt your purity.
+~
+0 8 0
+D1
+~
+~
+2 10117 10167
+D3
+~
+~
+0 -1 10165
+S
+#10167
+Gabriel's chammber~
+As you step into this room you realize there are no walls, no floor, and no ceiling. You are suspended in a pure white light that seems to radiat from a being with the appearance of lightning.
+~
+0 8200 9
+D3
+~
+~
+2 -1 10166
+S
+#10168
+The southern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10157
+D2
+~
+~
+0 -1 10169
+S
+#10169
+The southern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10168
+D2
+~
+~
+0 -1 10170
+S
+#10170
+The southern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10169
+D2
+~
+~
+0 -1 10171
+S
+#10171
+The end of the hall~
+A large ruby door dominates the southern wall, and radiant light pours out from under the door.You suddenly develop a righteous fear and doubt your purity.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10170
+D2
+~
+~
+2 10118 10172
+S
+#10172
+A holy spirit's chamber~
+This room seems to be formed like a square. The air shimmers, and seems to wave back and forth. In the exact center of the room there is a strange white vapor.
+~
+0 8200 9
+D0
+~
+~
+2 -1 10171
+S
+#10173
+The northern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8200 9
+D0
+~
+~
+0 -1 10174
+D2
+~
+~
+0 -1 10157
+S
+#10174
+The northern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10175
+D2
+~
+~
+0 -1 10173
+S
+#10175
+The northern hall~
+This hall is lined on both sides with golden statues of angels with thier wings arched over forming a kind of canopy. The floor is covered by a long rug embroidered with cherubs.
+~
+0 8200 0
+D0
+~
+~
+0 -1 10176
+D2
+~
+~
+0 -1 10174
+S
+#10176
+A door of pure energy~
+Here stands a barrier of pure light. It shines a pure white light that seems to pass right through you. A feeling of eminant judgement permiates you. A plaque on the door says "Only those of the purest heart can escape the wrath".
+~
+0 8200 0
+D0
+~
+~
+2 10119 10177
+D2
+~
+~
+0 -1 10175
+D4
+~
+~
+0 0 1206
+S
+#10177
+The Judgement seat~
+A giant throne is seated directly in front of you. You seem to be on some sort of endless plane. As far as the eye can see there is a crystal sea. On the throne is seated the incarnate of good. He has the appearance of jasper and shines brighter than the sun. Peals of thunder roll out from the throne and you are frozen in terror.
+~
+0 8200 0
+D2
+~
+~
+2 -1 10176
+S
+#10178
+The Herbary~
+You are in a small shack type building with a ceiling made of glass. There are a few cross beams over head that have many different kinds of herbs hung upside down. Your skin seems to tingle from all the smells in this shop.
+~
+0 8 0
+D3
+~
+~
+1 -1 10107
+S
+#10179
+Within a blood soaked boat house~
+This destroyed boat house is still covered in wet, warm blood. It is almost as if the annihilation of the elven people in the city had onlyjust occurred in the last few hours, rather than centuries ago. The scent of warm salty blood still hangs in the air, and the waters outside lap up into the shack carrying more bloody red waters. The only exit is back to the south onto the ruined docks of the harbour.
+~
+0 0 1
+D0
+~
+~
+0 -1 10100
+S
+#0
+
+
+
+#SPECIALS
+M 10103 spec_breath_acid
+M 10105 spec_breath_any
+M 10106 spec_breath_gas
+M 10107 spec_breath_any
+M 10110 spec_breath_any
+M 10111 spec_breath_any
+M 10112 spec_breath_any
+M 10113 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 10103 0 1
+D 0 10108 0 2
+D 0 10114 3 1
+D 0 10116 1 1
+D 0 10116 3 1
+D 0 10119 5 1
+D 0 10129 2 1
+D 0 10138 1 1
+D 0 10146 0 1
+D 0 10153 0 1
+D 0 10154 0 1
+D 0 10161 3 2
+D 0 10166 1 2
+D 0 10171 2 2
+D 0 10176 0 2
+M 0 10100 14 10103 2
+E 0 10101 0 6
+E 0 10100 0 16
+O 0 10123 0 10104
+M 0 10101 1 10105 1
+E 0 10103 0 5
+E 0 10102 0 16
+M 0 10102 5 10105 5
+E 0 10100 0 16
+O 0 10122 0 10105
+M 0 10103 1 10106 1
+E 0 10105 0 3
+E 0 10104 0 16
+M 0 10100 14 10108 2
+E 0 10101 0 6
+E 0 10100 0 16
+E 0 10107 0 17
+O 0 10108 0 10109
+M 0 10109 1 10117 1
+M 0 10109 1 10118 1
+M 0 10104 9 10123 1
+M 0 10104 9 10125 1
+M 0 10104 9 10127 1
+M 0 10104 9 10129 1
+M 0 10105 1 10131 1
+E 0 10109 0 9
+E 0 10110 0 16
+M 0 10104 9 10132 1
+M 0 10104 1 10135 1
+M 0 10104 9 10137 1
+M 0 10106 1 10139 1
+E 0 10111 0 16
+E 0 10124 0 13
+E 0 10125 0 14
+E 0 10125 0 15
+M 0 10104 9 10141 1
+M 0 10104 9 10143 1
+M 0 10104 9 10145 1
+M 0 10107 1 10147 1
+E 0 10112 0 5
+M 0 10100 14 10153 2
+E 0 10101 0 6
+E 0 10100 0 16
+M 0 10109 1 10154 1
+O 0 10114 0 10154
+M 0 10108 1 10155 1
+E 0 10101 0 6
+E 0 10113 0 17
+E 0 10115 0 13
+M 0 10100 14 10161 2
+E 0 10101 0 6
+E 0 10100 0 16
+E 0 10116 0 17
+M 0 10110 1 10162 1
+E 0 10101 0 6
+E 0 10117 0 17
+M 0 10100 14 10166 2
+E 0 10101 0 6
+E 0 10100 0 16
+M 0 10111 1 10167 1
+E 0 10101 0 6
+E 0 10118 0 17
+M 0 10100 14 10171 2
+E 0 10101 0 6
+E 0 10100 0 16
+M 0 10112 1 10172 1
+E 0 10119 0 17
+M 0 10100 14 10176 2
+E 0 10101 0 6
+E 0 10100 0 16
+M 0 10113 1 10177 1
+E 0 10101 0 6
+E 0 10106 0 11
+E 0 10121 0 14
+E 0 10121 0 15
+E 0 10120 0 16
+S
+
+
+
+#SHOPS
+10114 0 0 0 0 0 100 100 23 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

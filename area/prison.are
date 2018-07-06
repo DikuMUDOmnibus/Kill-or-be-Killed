@@ -1,0 +1,1792 @@
+#AREADATA
+Name The Lost Prison~
+Builders None~
+VNUMs 25200 25299
+Credits {31 51} Lestregus    The Lost Prison~
+Security 9
+End
+
+
+
+#MOBILES
+#25200
+grey-elf elf guard~
+The Grey-Elf guard~
+A pale skinned elven guard stands here patrolling the halls.
+~
+A grey-elf stands here dressed in darkened armor seemingly not
+very interested in his job.
+~
+elf~
+AGT CGJP 0 0
+35 30 10d10+1400 10d10+1400 4d7+15 slash
+-11 -11 -11 -11
+CFR A BH Z
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0
+#25201
+giant guard~
+A Large Prison Guard~
+A giant stands before you clad in dull armor.
+~
+You stand before a dark skinned giant. Dedicated and obviously
+quite angry, he hasn't left his post in quite some time. Bothering
+him might be a bad idea.
+~
+unique~
+ABGT CDFG 0 0
+60 60 50d10+9500 50d10+9500 8d8+98 slash
+-30 -30 -30 -30
+CDEFKQW AB D 0
+stand stand male 0
+0 ABCDEF huge 0
+#25202
+sherg warden ghastly human~
+Sherg the Prison Warden~
+A ghastly human stands before you mumbling something.
+~
+A beaten and battered human stands before you. Blood covers the
+right side of his face, scars littering his body. He seems to
+have been tortured. You look away in horror as you realize that
+his mouth has been sewn shut and his eyes removed.
+~
+human~
+ABFGT DFHJ -1000 0
+60 60 50d10+9500 50d10+7500 8d8+90 crush
+-35 -35 -35 -35
+CEFKOUW AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M RANDOM 25200 7~
+M FIGHT 25204 7~
+#25203
+reshgar drow mage dark~
+Reshgar~
+A dark robed drow showing no emotion stares at you.
+~
+A drow archmage stands before you.  His dark robes are covered in glowing
+runes.  His face shows no emotion, except for his eyes.  His eyes seem
+to stare right through you, and they shift in color from a bright red to a
+dull blood color.  He softly mumurs various magical incantations.
+~
+elf~
+ABFGR BDFHJPTUZ -1000 0
+60 60 50d10+9500 50d10+6500 8d8+98 pierce
+-30 -30 -30 -30
+AFUW AB BCH YZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M RANDOM 25201 7~
+#25204
+drel gnome warrior~
+Drel~
+A tiny little gnome smiles at you.
+~
+Standing before you is a little gnome.  Standing barely over three feet
+tall, he looks totally harmless.  You notice that even for his small
+frame, he has quite a muscular build.  His most outstanding feature is
+his smile, which seems to brighten up the room around you.
+~
+human~
+ABGT DFZ 0 0
+60 60 50d10+8500 50d10+7000 8d8+100 grep
+-40 -40 -40 -40
+ADEFHKNUW AB LQ E
+stand stand male 0
+AHMV ABCDEFGHIJK small 0
+#25205
+draconian Zeros thief ebony~
+Zeros~
+A tall ebony draconian stands here.
+~
+Standing before you is one of the largest Draconians you have ever seen.
+Almost 10 feet tall, he is a sight to behold.  His skin is dark, so much
+so he seems to blend into the shadows around him.  Two fangs hang
+from the top of his lips, sharpened and drippin saliva onto the floor.
+He does not look to happy.
+~
+dragon~
+ABFGS DFJTZ 0 0
+60 60 50d10+9000 50d10+7000 8d8+95 claw
+-35 -35 -35 -35
+AFKMUW AB BEH FI
+stand stand male 0
+AHZ ABCDEFGHIJKPQUVX large 0
+M RANDOM 25200 7~
+#25206
+illithid sith mage~
+Sith~
+A decayed, famished illithid stands here.
+~
+You look upon a being of absolute evil. The four tentacles that emanate
+from it's face seem to have thinned with age to match the beast's limp
+figure. Muttering incantations, it's eyes glow a golden yellow and
+then black until they focus on you!
+~
+unique~
+ABFGOR BCDFHT -1000 0
+57 60 50d10+8000 50d10+8000 8d8+80 magic
+-30 -30 -30 -30
+AFHKUWZ AB CP HS
+stand stand none 0
+H ABCDEF medium 0
+M RANDOM 25201 7~
+#25207
+giant guard captain~
+The Prison Guard Captain~
+A large guard sits huddled in the corner nervously watching for inmates.
+~
+A guard sits huddled in the corner of the courtyard. Obviously beaten
+and quite frightened he mumbles some words under his breath as he rocks
+nervously back and forth. As you approach he lashes out at you!
+~
+unique~
+ABFGT CDFG 0 0
+60 60 50d10+9500 50d10+8500 8d8+98 slash
+-30 -30 -30 -30
+ACDEFKUW AB D 0
+sit stand male 0
+H ABCDEF huge 0
+M RANDOM 25205 7~
+#25208
+cleric brereton mistling~
+Brereton~
+A small mistling floats here trying to find the sky beyond all this rock.
+~
+A priest stands before you his arms outstreched as he hums a tune to
+himself. He utters an incantation and a light burst forth beside him...
+suddenly it's gone. He mutters softly to himself, then resumes his work.
+~
+unique~
+ABGQ CDFHTU 0 0
+60 60 50d10+9500 50d10+7000 8d8+90 divine
+-35 -35 -35 -35
+GHKUW AB DLQ HJ
+stand stand male 0
+L ABCDEF medium 0
+M RANDOM 25202 7~
+#25209
+monk man shiro insane~
+Shiro~
+An insane looking man wearing torn robes paces back and forth.
+~
+Before you stands a young man wearing the torn remains of a brown
+robe. His eyes shift rapidly from side to side, and he softly talks to
+himself. He dances slowly around, repeating the same movements
+over and over. He is clearly not in his own mind.
+~
+human~
+ABFGV DFV -500 0
+60 60 50d10+9500 50d10+8000 8d8+98 punch
+-38 -38 -38 -38
+AFHNOW AB O 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#25210
+imp small~
+An Imp~
+A small Imp sits within a cage hanging from the ceiling.
+~
+This small Imp sits patiently within his cage. Malnourished and
+in obvious disagreement with the world, it's sole meaning for
+creation is to warn others of what lurks within the shadows. Who
+knows.....someone might actually listen. ~
+unique~
+ABGT DF -500 0
+60 90 50d12+9500 50d10+8000 12d12+250 punch
+-50 -50 -50 -50
+FHV ABCD O 0
+stand stand male 0
+H ABCDEF small 0
+M GRALL 25203 100~
+#0
+
+
+
+#OBJECTS
+#25200
+key iron~
+A small iron key~
+A small iron key lies here, perhaps you can find a use for it.~
+iron~
+key AG AO
+0 0 0 0 0
+1 10 500 P
+E
+key iron~
+A small key reflects the dim light around you
+~
+#25201
+axe silver~
+An axe made of pure silver~
+An axe drowns out the shadows around it with it's bright glow.~
+silver~
+weapon AK AN
+axe 4 10 cleave 0
+30 140 1000 P
+A
+18 2
+A
+19 2
+E
+axe silver~
+The blade of this axe is razor sharp, it looks to be well taken
+care of while seemingly used in many a battle.
+~
+L
+15
+#25202
+collar justice~
+Collar of Justice~
+A collar inscribed with the symbols of a peacekeeper lies here.~
+silver~
+armor ABK AC
+3 3 3 3 0
+30 10 1000 P
+A
+18 3
+A
+19 1
+A
+12 15
+A
+13 10
+E
+collar justice~
+This collar has been forged by some of the greatest smiths in all
+of Thera. A piece obviously fitting to be worn by elite guardsman.
+~
+L
+17
+#25203
+poleaxe retribution~
+A large poleaxe named 'Retribution'~
+A poleaxe lies here, its blade surrounded by a golden glow.~
+silver~
+weapon ABGHMT AN
+polearm 8 6 wrath DF
+51 250 12000 P
+A
+18 6
+A
+19 6
+E
+poleaxe retribution~
+This golden axe spans twelve feet in length, with a blade
+sharp enough to remove the head of an enemy with ease. The
+obvious weapon of someone who needs to be prepared at all
+times.
+~
+L
+1
+#25204
+poleaxe vengeance~
+A large poleaxe named 'Vengeance'~
+A poleaxe lies here, its blade surrounded by a golden glow.~
+silver~
+weapon ABGHMT AN
+polearm 8 6 divine DF
+51 250 12000 P
+A
+18 6
+A
+19 6
+E
+poleaxe vengeance~
+This golden axe spans twelve feet in length, with a blade
+sharp enough to remove the head of an enemy with ease. The
+obvious weapon of someone who needs to be prepared at all
+times.
+~
+L
+1
+#25205
+iron shackles purgatory~
+Iron Shackles of Purgatory~
+A pair of broken shackles lie here gathering dust.~
+iron~
+armor EHMRTZ AM
+-20 -20 -20 -20 -20
+60 250 100 P
+A
+17 10
+A
+2 -7
+A
+4 -6
+A
+3 -6
+A
+5 -6
+A
+14 -250
+F
+A 0 0 K
+E
+iron shackles purgatory~
+These shackles are worn down, probably from their use throughout
+the years. Small patches of rust cause layers of its metal to
+curl......almost like skin.
+~
+L
+6
+#25206
+sleeves bronze~
+A pair of bronze-scaled sleeves~
+A pair of dull bronze sleeves sit here rusting with age.~
+bronze~
+armor GT AI
+10 10 10 10 0
+51 150 10000 P
+A
+18 2
+A
+19 3
+A
+24 -5
+E
+sleeves bronze~
+This small pair of sleeves shows some rust across it's edges.
+It was most likely worn by a guard...possibly removed from him
+in a very unpleasant manor.
+~
+L
+6
+#25207
+eyes warden~
+Eyes of the Warden~
+A small pair of eyes stare at you from the shadows.~
+energy~
+armor ABEFGT AO
+-20 -20 -20 -20 0
+60 150 1000 P
+A
+12 -200
+A
+13 -200
+A
+24 20
+F
+A 0 0 CDEFG
+E
+eyes warden~
+A pair of eyes decay and pulse. It is almost as if they
+have a mind of their own. Thats ridiculous of course, eyes
+can't think....can they?
+~
+L
+4
+#25208
+belt cries forgotten~
+Cries of a Forgotten Soul~
+The air around you materializes into being.~
+energy~
+armor BEFGJQT AL
+0 0 0 0 0
+51 200 15000 P
+A
+18 2
+A
+19 4
+A
+17 -5
+A
+3 1
+A
+24 -2
+A
+2 -1
+E
+belt cries forgotten~
+Pure energy has come to form this belt. The air itself seems
+to be it's blood. It moves and swirls about it like a child
+waiting to be fed by it's mother, however more mysterious.
+~
+L
+2
+#25209
+ring~
+a ring~
+A small ordinary ring lies here.~
+pewter~
+armor T AB
+10 10 10 10 0
+52 10 2000 P
+A
+18 3
+A
+19 3
+A
+13 -25
+E
+ring~
+This small ring gleams in the light. It isn't very heavy yet
+is of some obvious value due to the large gem within it's head.
+~
+L
+4
+#25210
+dagger tooth fang~
+a Strange Fang~
+A fang stained with blood rests here.~
+ebony~
+weapon B AN
+dagger 7 8 pierce CDEH
+52 200 2000 P
+A
+18 5
+A
+19 5
+E
+dagger tooth fang~
+This dagger is covered in blood, removed from an uncooperative
+dragon. If you look closely, you just might see a cavity.
+~
+L
+6
+#25211
+guard skin~
+Skin of a Prison Guard~
+A raggedly sewn hide lies here.~
+meat~
+armor AEGT AD
+10 10 10 10 0
+51 50 1000 P
+A
+18 3
+A
+19 3
+A
+24 1
+A
+12 -20
+A
+13 -25
+A
+14 -15
+E
+guard skin~
+A guard seems to be missing something rather important after
+running into someone or something that didn't quite agree with
+him. Perhaps you might find some use for it....since he's dead.
+~
+L
+8
+#25212
+shield madness disc~
+Disc of Eternal Madness~
+A large disc sits upon the ground, 'eating' the light around it.~
+steel~
+armor BIT AJ
+1 1 1 1 0
+51 150 50000 P
+A
+19 4
+A
+24 -5
+A
+12 -15
+A
+13 20
+E
+shield madness disc~
+This large disc has large black rings covering it's face spiriling
+out from it's center. An engraving of eyes covers it's edges. It is
+ancient in age, yet seems quite familiar.
+~
+L
+3
+#25213
+boots charcoal~
+Pair of charcoal colored boots~
+A used pair of boots sit here.~
+leather~
+armor TY AG
+5 5 5 5 0
+51 150 500 P
+A
+24 -2
+A
+19 3
+A
+18 2
+E
+boots charcoal~
+This simple pair of boots is quite beat up. Small tears and folds
+are scattered across it's canvas. It's color is faded with white
+spots developing in various places.
+~
+L
+6
+#25214
+collar mastery~
+Collar of Mastery~
+A small blue collar lies here~
+hemp~
+armor TY AC
+0 0 0 0 0
+51 100 1 P
+A
+19 3
+A
+3 2
+A
+4 2
+A
+13 30
+E
+collar mastery~
+This collar has been forged by the heavens themselves. It is a
+symbol of the best. Only the truly dedicated wear it as a
+representation of the hard work they put into their being. A
+small red bead hangs from its front, a belt and buckle from it's
+back.
+~
+L
+8
+#25215
+leggings runes~
+A pair of leggings inscribed with runes~
+A pair of misty leggings lie here~
+etherealness~
+armor ABEGJ AF
+5 5 5 10 0
+51 100 10000 P
+A
+19 4
+A
+5 -2
+A
+12 20
+A
+13 35
+A
+1 -2
+A
+2 -2
+F
+A 0 0 T
+E
+leggings runes~
+This pair of leggings is covered in glowing runes yet has almost
+no true sense of existence. It's almost as if the being who wears
+these boots could walk on air.
+~
+L
+2
+#25216
+crown mind~
+Crown of the Mind~
+A small crown seems to look right through you.~
+slime~
+armor ABEGJ AE
+7 7 7 7 0
+50 200 1000 P
+A
+19 2
+A
+18 1
+A
+24 -3
+A
+12 30
+E
+crown mind~
+This small black crown houses small diamonds within each of it's
+hilts. It pulses with almost pure energy, yet seems slimey to the
+touch.
+~
+L
+5
+#25217
+sign wooden~
+a wooden sign~
+~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign wooden~
+The Lost Prison was conceived and created by Lestregus.
+This area is not to be traded or used in any other mud without the
+permission of the author. Author reachable at JLein@mindspring.com
+c1999
+~
+#0
+
+
+
+#ROOMS
+#25200
+Ouside a Strange Building~
+Before you is a small structure. Worn from age and the elements
+it appears to have been neglected for centuries. A small hammer
+held in a fist is carved above the main doorway. A broken sign
+peeks barely through the dirt upon the ground.
+~
+0 8 0
+D0
+~
+~
+0 0 25201
+D2
+~
+~
+0 -1 9783
+S
+#25201
+Prison Entrance~
+Symbols of order and persecution line the walls of this small
+outpost. Various weapons line the walls. A dusty trap door is
+set within the floor beneath you, Grey-elf guards clad in
+dull armor standing above it.
+~
+0 8 0
+D2
+~
+~
+0 0 25200
+D5
+You see a dusty trap door.
+~
+'trap door'~
+3 0 25202
+S
+#25202
+Corner of a Dark Hallway~
+Above you is a decaying trap door. Dimly lit rooms lie to your
+north and west. An eerie wind creates a ear piercing whistle
+as it billows through the surrounding rooms.
+~
+0 8 0
+D0
+~
+~
+0 0 25203
+D3
+~
+~
+0 0 25213
+D4
+You see a trap door.
+~
+'trap door'~
+3 0 25201
+S
+#25203
+A Dark Hallway~
+Torches line this hall lighting it with a subtle glow. Strange
+scratches have been been carved into the walls, perhaps by a
+prisoner trying to escape.
+~
+0 8 0
+D0
+~
+~
+0 0 25204
+D2
+~
+~
+0 0 25202
+S
+#25204
+Corner of a Dark Hallway~
+Dimly lit rooms lie to your south and west. An eerie wind
+creates a ear piercing whistle as it billows through the
+surrounding rooms. Screams of pain and torture echo in your
+mind. Have you gone mad?
+~
+0 8 0
+D2
+~
+~
+0 0 25203
+D3
+~
+~
+0 0 25205
+S
+#25205
+A Dark Hallway~
+To the right of you is the remains of a broken cell. The bars are
+twisted and hanging off in different places, shredded pieces of
+clothing strewn across the floor. Something large obviously called
+this place home....where is it now?
+~
+0 8 0
+D1
+~
+~
+0 0 25204
+D3
+~
+~
+0 0 25206
+S
+#25206
+A Dark Hallway~
+Torches line this hall lighting it with a subtle glow. Strange
+scratches have been been carved into the walls, perhaps by a
+prisoner trying to escape.
+~
+0 8 0
+D1
+~
+~
+0 0 25205
+D3
+~
+~
+0 0 25207
+S
+#25207
+A Dark Hallway~
+To the right of you is the remains of a broken cell. The bars are
+twisted and hanging off in different places, shredded pieces of
+clothing strewn across the floor. Something large obviously called
+this place home....where is it now?
+~
+0 8 0
+D1
+~
+~
+0 0 25206
+D3
+~
+~
+0 0 25208
+S
+#25208
+Corner of a Dark Hallway~
+Dimly lit rooms lie to your south and west. An eerie wind
+creates a ear piercing whistleas it billows through cracks
+in the walls. An old door rests in the floor beneath you.
+~
+0 8 0
+D1
+~
+~
+0 0 25207
+D2
+~
+~
+0 0 25209
+D5
+You see a dusty trap door.
+~
+'trap door'~
+3 0 25214
+S
+#25209
+A Dark Hallway~
+Torches line this hall lighting it with a subtle glow. Strange
+scratches have been been carved into the walls, perhaps by a
+prisoner trying to escape.
+~
+0 8 0
+D0
+~
+~
+0 0 25208
+D2
+~
+~
+0 0 25210
+S
+#25210
+A Dark Hallway~
+Torches line this hall lighting it with a subtle glow. Strange
+scratches have been been carved into the walls, perhaps by a
+prisoner trying to escape. Is it safe to continue?
+~
+0 8 0
+D0
+~
+~
+0 0 25209
+D1
+~
+~
+0 0 25211
+S
+#25211
+A Dark Hallway~
+This part of the hall reeks with the smell of garbage. All around
+you are rotting pieces of flesh, blood covers the walls slowly dripping
+to the floor. Rats run around rampant in this scrounging for food scraps.
+Tiny red-eyed creatures stare at you from the shadows.
+~
+0 8 0
+D1
+~
+~
+0 0 25212
+D3
+~
+~
+0 0 25210
+S
+#25212
+A Dark Hallway~
+Torches line this hall lighting it with a subtle glow. Strange
+scratches have been been carved into the walls, perhaps by a
+prisoner trying to escape.
+~
+0 8 0
+D1
+~
+~
+0 0 25213
+D3
+~
+~
+0 0 25211
+S
+#25213
+A Dark Hallway~
+To the right of you is the remains of a broken cell. The bars are
+twisted and hanging off in different places, shredded pieces of
+clothing strewn across the floor. Something large obviously called
+this place home....where is it now?
+~
+0 8 0
+D1
+~
+~
+0 0 25202
+D3
+~
+~
+0 0 25212
+S
+#25214
+Corner of a Dank Hallway~
+This hall is in obvious disarray.  While the floor above you was
+not in the greatest of shape, it seems that wear and tear have
+greatly affected this area.  Water drips slowly from the ceiling,
+a stench hangs in the air. A door barely clings to it hinges
+above you.
+~
+0 9 0
+D1
+~
+~
+0 0 25215
+D2
+~
+~
+0 0 25225
+D4
+You see a trap door.
+~
+'trap door'~
+3 0 25208
+S
+#25215
+A Dank Hallway~
+This hallway looks like is has been though a war.  Remains of what
+used to be cells are to your left and right, trashed beyond repair.
+Scrawled on the walls are various messages of unrest and
+animosity toward all.
+~
+0 9 0
+D1
+~
+~
+0 0 25216
+D3
+~
+~
+0 0 25214
+S
+#25216
+A Dank Hallway~
+To the right of you is the remains of a broken cell. The bars are
+twisted and hanging off in different places, shredded pieces of
+clothing strewn across the floor. Something large obviously called
+this place home....where is it now?
+~
+0 9 0
+D1
+~
+~
+0 0 25217
+D3
+~
+~
+0 0 25215
+S
+#25217
+A Dank Hallway~
+This hallway looks like is has been though a war.  Remains of what
+used to be cells are to your left and right, trashed beyond repair.
+Scrawled on the walls are various messages of unrest and
+animosity toward all.
+~
+0 9 0
+D1
+~
+~
+0 0 25218
+D3
+~
+~
+0 0 25216
+S
+#25218
+Corner of a Dank Hallway~
+There is a huge pile of rubble here.  The walls are covered in burn
+marks, pieces of furniture thrown everywhere. The hallway continues
+to the south and west. Strange sounds echo all around you.
+~
+0 9 0
+D2
+~
+~
+0 0 25219
+D3
+~
+~
+0 0 25217
+S
+#25219
+A Dank Hallway~
+Above you is a decaying trap door. Dimly lit rooms lie to your
+north and west. An eerie wind creates a ear piercing whistle
+as it billows through the surrounding rooms.
+~
+0 9 0
+D0
+~
+~
+0 0 25218
+D2
+~
+~
+0 0 25220
+S
+#25220
+Corner of a Dank Hallway~
+This hall is in obvious disarray.  While the floor above you was
+not in the greatest of shape, it seems that wear and tear have
+greatly effected this area.  Water drips slowly from the ceiling,
+a stench hangs in the air. A door is set within the floor beneath
+you.
+~
+0 9 0
+D0
+~
+~
+0 0 25219
+D3
+~
+~
+0 0 25221
+D5
+You see a dusty trap door.
+~
+'trap door'~
+3 0 25226
+S
+#25221
+A Dank Hallway~
+To the right of you is the remains of a broken cell. The bars are
+twisted and hanging off in different places, shredded pieces of
+clothing strewn across the floor. Something large obviously called
+this place home....where is it now?
+~
+0 9 0
+D1
+~
+~
+0 0 25220
+D3
+~
+~
+0 0 25222
+S
+#25222
+A Dank Hallway~
+Above you is a decaying trap door. Dimly lit rooms lie to your
+north and west. An eerie wind creates a ear piercing whistle
+as it billows through the surrounding rooms.
+~
+0 9 0
+D1
+~
+~
+0 0 25221
+D3
+~
+~
+0 0 25223
+S
+#25223
+A Dank Hallway~
+This hallway looks like is has been though a war.  Remains of what
+used to be cells are to your left and right, trashed beyond repair.
+Scrawled on the walls are various messages of unrest and
+animosity toward all.
+~
+0 9 0
+D1
+~
+~
+0 0 25222
+D3
+~
+~
+0 0 25224
+S
+#25224
+Corner of a Dank Hallway~
+A cage of some sort, lies broken here. A freshly impaled head sits
+atop one of it's bars. A pool of blood has formed on the floor beneath
+your feet....It's seems fresh....hmmm.
+~
+0 9 0
+D0
+~
+~
+0 0 25225
+D1
+~
+~
+0 0 25223
+S
+#25225
+A Dank Hallway~
+This hallway looks like is has been though a war.  Remains of what
+used to be cells are to your left and right, trashed beyond repair.
+Scrawled on the walls are various messages of unrest and
+animosity toward all.
+~
+0 9 0
+D0
+~
+~
+0 0 25214
+D2
+~
+~
+0 0 25224
+S
+#25226
+Foyer before the Courtyard~
+Screams surround you......
+Echos of torture fill the air....your eyes decieve you, as the
+shadows themselves dance before you. Was that something moving
+over there? Who's hand is that!?!? You can just barely make out
+a wooden door above you.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25227
+D4
+You see a small wooden door.
+~
+'trap door'~
+3 0 25220
+S
+#25227
+Entrance to the Prison Courtyard~
+Darkness fills this room, the only light source emanates from a
+smalltorch on the north wall. Two HUGE guards block the door
+behind them.  The door is covered by various magical runes, who's
+meaning seems familiar but you cant quite remember why. An eerie
+feeling hits you as you think of what might be imprisoned here.
+~
+0 5251081 0
+D0
+You see a large wooden door.
+~
+door~
+4 25200 25228
+D2
+~
+~
+0 0 25226
+S
+#25228
+Southwest Corner of the Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+A large door sits on the south wall.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25237
+D1
+~
+~
+0 0 25229
+D2
+You see a large wooden door.
+~
+door~
+4 25200 25227
+S
+#25229
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25236
+D1
+~
+~
+0 0 25230
+D3
+~
+~
+0 0 25228
+S
+#25230
+The Prison Courtyard~
+Around you pieces of wood burn slowly.  There is a smell of incense in
+the air.  On the floor is a huge pentagram, seemingly drawn out of dried
+blood.  Candles have been carefully placed on each of the five corners of
+the pentagram.  A large coffin lies in the middle of the room in rather
+good condition. Perhaps the owner is not far from it?
+~
+0 5251081 0
+D0
+~
+~
+0 0 25235
+D1
+~
+~
+0 0 25231
+D3
+~
+~
+0 0 25229
+S
+#25231
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25234
+D1
+~
+~
+0 0 25232
+D3
+~
+~
+0 0 25230
+S
+#25232
+Southeast corner of the Courtyard~
+On the walls are various pieces of weaponry. Swords, staves, and
+unusually sharp objects adorn the wall in some sort of well planned
+pattern. The floor below you seems to be strangly more firm compared
+to the rest of the complex.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25233
+D3
+~
+~
+0 0 25231
+S
+#25233
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25242
+D2
+~
+~
+0 0 25232
+D3
+~
+~
+0 0 25234
+S
+#25234
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25241
+D1
+~
+~
+0 0 25233
+D2
+~
+~
+0 0 25231
+D3
+~
+~
+0 0 25235
+S
+#25235
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25240
+D1
+~
+~
+0 0 25234
+D2
+~
+~
+0 0 25230
+D3
+~
+~
+0 0 25236
+S
+#25236
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25239
+D1
+~
+~
+0 0 25235
+D2
+~
+~
+0 0 25229
+D3
+~
+~
+0 0 25237
+S
+#25237
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25238
+D1
+~
+~
+0 0 25236
+D2
+~
+~
+0 0 25228
+S
+#25238
+The Prison Courtyard~
+There is a a gruesome scene before you.  In the middle of the room
+is a decrepid table with chains and other implements of torture.
+Various decaying bodyparts lie across the table.  There seems to have
+been some sort of sacrifice made here, and by the stains of fresh blood
+on the floor, it has been performed recently.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25247
+D1
+~
+~
+0 0 25239
+D2
+~
+~
+0 0 25237
+S
+#25239
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25246
+D1
+~
+~
+0 0 25240
+D2
+~
+~
+0 0 25236
+D3
+~
+~
+0 0 25238
+S
+#25240
+The Center of the Prison Courtyard~
+You now stand at the very center of the courtyard. Various pieces
+of debris lie on the ground. A bunch of bones thrown have been
+tossed upon a pile in the center of the room.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25245
+D1
+~
+~
+0 0 25241
+D2
+~
+~
+0 0 25235
+D3
+~
+~
+0 0 25239
+S
+#25241
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25244
+D1
+~
+~
+0 0 25242
+D2
+~
+~
+0 0 25234
+D3
+~
+~
+0 0 25240
+S
+#25242
+The Prison Courtyard~
+In this part of the courtyard, there is a cluster of crude weapons
+and tools on the floor. Different vulgar messages and pictures
+have been carved into the ground. One word stands out above the
+rest................ 'Greed'.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25243
+D2
+~
+~
+0 0 25233
+D3
+~
+~
+0 0 25241
+S
+#25243
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25252
+D2
+~
+~
+0 0 25242
+D3
+~
+~
+0 0 25244
+S
+#25244
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25251
+D1
+~
+~
+0 0 25243
+D2
+~
+~
+0 0 25241
+D3
+~
+~
+0 0 25245
+S
+#25245
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25250
+D1
+~
+~
+0 0 25244
+D2
+~
+~
+0 0 25240
+D3
+~
+~
+0 0 25246
+S
+#25246
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25249
+D1
+~
+~
+0 0 25245
+D2
+~
+~
+0 0 25239
+D3
+~
+~
+0 0 25247
+S
+#25247
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D0
+~
+~
+0 0 25248
+D1
+~
+~
+0 0 25246
+D2
+~
+~
+0 0 25238
+S
+#25248
+Northwest corner of the Courtyard~
+In the middle of all this mayhem, you come across a clearing.  The ground
+seems have been recently swept.  Pieces of broken furniture and various
+tools have been neatly arranged into separate piles. In the center of it
+all calmly sits a simple table and chair. This scene seems quite unusual
+considering the chaos surrounding you.
+~
+0 5251081 0
+D1
+~
+~
+0 0 25249
+D2
+~
+~
+0 0 25247
+S
+#25249
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D1
+~
+~
+0 0 25250
+D2
+~
+~
+0 0 25246
+D3
+~
+~
+0 0 25248
+S
+#25250
+The Prison Courtyard~
+A table has been set here. A few spell components have been arranged,
+perhaps for a ritual of sorts. Different flasks and magical herbs are
+strewn about.  On the table a bunch of spellbooks slowly gather dust.
+~
+0 5251081 0
+D1
+~
+~
+0 0 25251
+D2
+~
+~
+0 0 25245
+D3
+~
+~
+0 0 25249
+S
+#25251
+The Prison Courtyard~
+Screams of torture and pain echo through out the courtyard. Puddles
+of dried blood are strewn across the walls and floor. The head of
+a prison guard lies in the corner. The dirt floor has become
+saturated with moisture over the years and is now more like mud.
+~
+0 5251081 0
+D1
+~
+~
+0 0 25252
+D2
+~
+~
+0 0 25244
+D3
+~
+~
+0 0 25250
+S
+#25252
+Northeast corner of the Courtyard~
+This part of the courtyard seems to have been made into some kind of
+fort. A bunch of burned wreckage has been collected and arranged
+in the form of a crude wall. Along this wall are pieces of wood and
+metal sharpened to a point, a small fire burning beside it.
+~
+0 5251081 0
+D2
+~
+~
+0 0 25243
+D3
+~
+~
+0 0 25251
+S
+#0
+
+
+
+#SPECIALS
+M 25202 spec_breath_acid
+M 25203 spec_cast_mage
+M 25205 spec_breath_any
+M 25206 spec_cast_mage
+M 25208 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 25201 5 1
+D 0 25202 4 1
+D 0 25208 5 1
+D 0 25214 4 1
+D 0 25220 5 1
+D 0 25226 4 1
+D 0 25227 0 2
+D 0 25228 2 2
+O 0 25217 0 25200
+M 0 25200 27 25201 2
+M 0 25200 27 25201 2
+E 0 25201 0 16
+E 0 25202 0 3
+M 0 25200 27 25203 1
+E 0 25201 0 16
+M 0 25200 27 25204 2
+E 0 25201 0 16
+M 0 25200 27 25204 2
+E 0 25202 0 3
+M 0 25200 27 25205 1
+M 0 25200 27 25207 1
+E 0 25202 0 3
+M 0 25200 27 25208 2
+E 0 25201 0 16
+M 0 25200 27 25208 2
+E 0 25201 0 16
+E 0 25202 0 3
+M 0 25200 27 25209 1
+E 0 25201 0 16
+M 0 25200 27 25210 1
+M 0 25200 27 25211 1
+E 0 25202 0 3
+M 0 25200 27 25212 2
+M 0 25200 27 25212 2
+E 0 25201 0 16
+M 0 25200 27 25213 1
+M 0 25200 27 25214 1
+M 0 25200 27 25216 2
+M 0 25200 27 25216 2
+E 0 25200 0 17
+M 0 25200 27 25217 1
+M 0 25200 27 25218 1
+E 0 25201 0 16
+M 0 25200 27 25220 2
+M 0 25200 27 25220 2
+E 0 25201 0 16
+M 0 25200 27 25221 1
+M 0 25200 27 25223 2
+M 0 25200 27 25223 2
+M 0 25200 27 25224 1
+M 0 25200 27 25225 1
+M 0 25201 2 25227 2
+E 0 25203 0 16
+M 0 25201 2 25227 2
+E 0 25204 0 16
+E 0 25200 0 17
+M 0 25201 1 25227 1
+M 0 25210 1 25227 1
+M 0 25208 1 25230 1
+E 0 25212 0 11
+M 0 25209 1 25232 1
+E 0 25214 0 3
+M 0 25203 1 25238 1
+E 0 25209 0 1
+M 0 25202 1 25240 1
+E 0 25207 0 17
+E 0 25208 0 13
+M 0 25205 1 25242 1
+E 0 25210 0 16
+E 0 25211 0 12
+M 0 25204 1 25248 1
+E 0 25205 0 15
+E 0 25206 0 10
+M 0 25206 1 25250 1
+E 0 25215 0 7
+E 0 25216 0 6
+M 0 25207 1 25252 1
+E 0 25213 0 8
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#25200
+bash $n
+~
+#25201
+mob cast 'fireball'
+~
+#25202
+mob cast 'earthquake'
+~
+#25203
+say HALT!
+say Ef vu chooz tu go furder, vu do so et ur own resk.
+say Dun't sey Ie' deedn't varn ye.
+emote begins to gnaw on a small piece of meat.
+~
+#25204
+emote moans and wimpers.
+~
+#25205
+yell Stay Back, I am the law here, control yourselves! Order damn you!
+yell I want Order!
+~
+#0
+
+#$

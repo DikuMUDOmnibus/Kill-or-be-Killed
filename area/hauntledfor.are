@@ -1,0 +1,1414 @@
+#AREA
+~
+Haunted Forest~
+{51 UP} Jael   The Haunted Forest~
+26500 26599
+
+#MOBILES
+#26500
+blair witch~
+the blair witch~
+A wicked-looking demon is here following your every movement. 
+~
+This is.. The Blair Witch! 
+~
+human~
+ABFGOc HTV -1000 0
+60 90 50d20+9500 9d9+5000 8d10+35 magic
+-30 -30 -30 -30
+FK CMPQ 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium flesh
+M greet 26500 100~
+#26501
+half-dead teenager~
+a half-dead teenager~
+A half-dead teenager lies here screaming in agony! 
+~
+Description? ! You can't even tell if he has a face! ! 
+~
+human~
+ABGT Yd 0 0
+51 50 20d10+500 0d0+0 5d1+20 scratch
+-21 -21 -21 -21
+F 0 0 D
+stand stand male 5000
+AHMV ABCDEFGHIJK small flesh
+M greet 26501 100~
+#0
+
+
+
+#OBJECTS
+#26500
+video camera~
+a video camera~
+A small, most likely broken video camera lies here.~
+plastic~
+treasure AB A
+0 0 0 0 0 
+51 4 10000 P
+E
+take~
+Screaming! Agony! Hell! 
+~
+#0
+
+
+
+#ROOMS
+#26500
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 26501
+D2
+
+~
+~
+0 0 26523
+S
+#26501
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 26502
+D2
+
+~
+~
+0 0 26524
+D3
+
+~
+~
+0 0 26500
+S
+#26502
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 26503
+D2
+
+~
+~
+0 0 26525
+D3
+
+~
+~
+0 0 26501
+S
+#26503
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 26504
+D2
+
+~
+~
+0 0 26526
+D3
+
+~
+~
+0 0 26502
+S
+#26504
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 26505
+D2
+
+~
+~
+0 0 26527
+D3
+
+~
+~
+0 0 26503
+S
+#26505
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 26506
+D2
+
+~
+~
+0 0 26528
+D3
+
+~
+~
+0 0 26504
+S
+#26506
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D2
+
+~
+~
+0 0 26507
+D3
+
+~
+~
+0 0 26505
+S
+#26507
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26506
+D2
+
+~
+~
+0 0 26508
+D3
+
+~
+~
+0 0 26528
+S
+#26508
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26507
+D2
+
+~
+~
+0 0 26509
+D3
+
+~
+~
+0 0 26529
+S
+#26509
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26508
+D2
+
+~
+~
+0 0 26510
+D3
+
+~
+~
+0 0 26538
+S
+#26510
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26509
+D2
+
+~
+~
+0 0 26511
+D3
+
+~
+~
+0 0 26539
+S
+#26511
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26510
+D2
+
+~
+~
+0 0 26512
+D3
+
+~
+~
+0 0 26548
+S
+#26512
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26511
+D3
+
+~
+~
+0 0 26513
+S
+#26513
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26548
+D1
+
+~
+~
+0 0 26512
+D3
+
+~
+~
+0 0 26514
+S
+#26514
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26547
+D1
+
+~
+~
+0 0 26513
+D3
+
+~
+~
+0 0 26515
+S
+#26515
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26546
+D1
+
+~
+~
+0 0 26514
+D2
+
+~
+~
+0 0 26549
+D3
+
+~
+~
+0 0 26516
+S
+#26516
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26545
+D1
+
+~
+~
+0 0 26515
+D3
+
+~
+~
+0 0 26517
+S
+#26517
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26544
+D1
+
+~
+~
+0 0 26516
+D3
+
+~
+~
+0 0 26518
+S
+#26518
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26519
+D1
+
+~
+~
+0 0 26517
+S
+#26519
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26520
+D1
+
+~
+~
+0 0 26544
+D2
+
+~
+~
+0 0 26518
+S
+#26520
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26521
+D1
+
+~
+~
+0 0 26543
+D2
+
+~
+~
+0 0 26519
+S
+#26521
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26522
+D1
+
+~
+~
+0 0 26534
+D2
+
+~
+~
+0 0 26520
+S
+#26522
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26523
+D1
+
+~
+~
+0 0 26533
+D2
+
+~
+~
+0 0 26521
+S
+#26523
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26500
+D1
+
+~
+~
+0 0 26524
+D2
+
+~
+~
+0 0 26522
+S
+#26524
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26501
+D1
+
+~
+~
+0 0 26525
+D2
+
+~
+~
+0 0 26533
+D3
+
+~
+~
+0 0 26523
+S
+#26525
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26502
+D1
+
+~
+~
+0 0 26526
+D2
+
+~
+~
+0 0 26532
+D3
+
+~
+~
+0 0 26524
+S
+#26526
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26503
+D1
+
+~
+~
+0 0 26527
+D2
+
+~
+~
+0 0 26531
+D3
+
+~
+~
+0 0 26525
+S
+#26527
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26504
+D1
+
+~
+~
+0 0 26528
+D2
+
+~
+~
+0 0 26530
+D3
+
+~
+~
+0 0 26526
+S
+#26528
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26505
+D1
+
+~
+~
+0 0 26507
+D2
+
+~
+~
+0 0 26529
+D3
+
+~
+~
+0 0 26527
+S
+#26529
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26528
+D1
+
+~
+~
+0 0 26508
+D2
+
+~
+~
+0 0 26538
+D3
+
+~
+~
+0 0 26530
+S
+#26530
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26527
+D1
+
+~
+~
+0 0 26529
+D2
+
+~
+~
+0 0 26537
+D3
+
+~
+~
+0 0 26531
+S
+#26531
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26526
+D1
+
+~
+~
+0 0 26530
+D2
+
+~
+~
+0 0 26536
+D3
+
+~
+~
+0 0 26532
+S
+#26532
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26525
+D1
+
+~
+~
+0 0 26531
+D2
+
+~
+~
+0 0 26535
+D3
+
+~
+~
+0 0 26533
+S
+#26533
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26524
+D1
+
+~
+~
+0 0 26532
+D2
+
+~
+~
+0 0 26534
+D3
+
+~
+~
+0 0 26522
+S
+#26534
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26533
+D1
+
+~
+~
+0 0 26535
+D2
+
+~
+~
+0 0 26543
+D3
+
+~
+~
+0 0 26521
+S
+#26535
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26532
+D1
+
+~
+~
+0 0 26536
+D2
+
+~
+~
+0 0 26542
+D3
+
+~
+~
+0 0 26534
+S
+#26536
+At the Blair Witch~
+Ahh shit, right at the center of the forest, the darkest, sacariest part
+is the Blair Witch. You cant see much at all, only an insane cackle of glee.
+There is a symbol etched into a tree! 
+~
+0 1 3
+E
+tree~
+ || || || ___________||___________ ------\\---||---//------ \\ || // \\
+|| // \\||// \||/ //\\ // \\ // \\ // \\ // \\ // \\
+~
+D0
+
+~
+~
+0 0 26531
+D1
+
+~
+~
+0 0 26537
+D2
+
+~
+~
+0 0 26541
+D3
+
+~
+~
+0 0 26535
+S
+#26537
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26530
+D1
+
+~
+~
+0 0 26538
+D2
+
+~
+~
+0 0 26540
+D3
+
+~
+~
+0 0 26536
+S
+#26538
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26529
+D1
+
+~
+~
+0 0 26509
+D2
+
+~
+~
+0 0 26539
+D3
+
+~
+~
+0 0 26537
+S
+#26539
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26538
+D1
+
+~
+~
+0 0 26510
+D2
+
+~
+~
+0 0 26548
+D3
+
+~
+~
+0 0 26540
+S
+#26540
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26537
+D1
+
+~
+~
+0 0 26539
+D2
+
+~
+~
+0 0 26547
+D3
+
+~
+~
+0 0 26541
+S
+#26541
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26536
+D1
+
+~
+~
+0 0 26540
+D2
+
+~
+~
+0 0 26546
+D3
+
+~
+~
+0 0 26542
+S
+#26542
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26535
+D1
+
+~
+~
+0 0 26541
+D2
+
+~
+~
+0 0 26545
+D3
+
+~
+~
+0 0 26543
+S
+#26543
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26534
+D1
+
+~
+~
+0 0 26542
+D2
+
+~
+~
+0 0 26544
+D3
+
+~
+~
+0 0 26520
+S
+#26544
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26543
+D1
+
+~
+~
+0 0 26545
+D2
+
+~
+~
+0 0 26517
+D3
+
+~
+~
+0 0 26519
+S
+#26545
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26542
+D1
+
+~
+~
+0 0 26546
+D2
+
+~
+~
+0 0 26516
+D3
+
+~
+~
+0 0 26544
+S
+#26546
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26541
+D1
+
+~
+~
+0 0 26547
+D2
+
+~
+~
+0 0 26515
+D3
+
+~
+~
+0 0 26545
+S
+#26547
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26540
+D1
+
+~
+~
+0 0 26548
+D2
+
+~
+~
+0 0 26514
+D3
+
+~
+~
+0 0 26546
+S
+#26548
+A Dark Forest~
+You are walking in a very dark scary forest. The trees seem to be looking
+at you, the sky is dark, you hear spooky sounds all around you. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26539
+D1
+
+~
+~
+0 0 26511
+D2
+
+~
+~
+0 0 26513
+D3
+
+~
+~
+0 0 26547
+S
+#26549
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26515
+D2
+
+~
+~
+0 0 26550
+S
+#26550
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26549
+D2
+
+~
+~
+0 0 26551
+S
+#26551
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26550
+D2
+
+~
+~
+0 0 26552
+S
+#26552
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26551
+D2
+
+~
+~
+0 0 26553
+S
+#26553
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26552
+D2
+
+~
+~
+0 0 26554
+S
+#26554
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26553
+D2
+
+~
+~
+0 0 26555
+S
+#26555
+A Wicked Forest Trail~
+You wander along a dark trail through the darkest forest you've ever seen
+in your life. The There is no natural light on the trail making it very hard
+to follow. The trail leads north but curves to the east and west often. The
+path continues north. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 26554
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+M 26500 spec_goodie
+S
+
+
+
+#RESETS
+M 0 26500 1 26536 1
+M 0 26501 1 26549 1
+G 0 26500 1
+S
+
+
+#MOBPROGS
+#26500
+	The Blair Witch ate my.. Balls...
+		emote shiver in horror.
+~
+#26501
+	emote cackles with glee!
+	say You should not of come here $n.
+~
+#0
+#$

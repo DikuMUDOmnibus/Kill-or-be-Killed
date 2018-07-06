@@ -1,0 +1,17 @@
+[  642] Sycho: read
+[13152] Boogieman: mace of water doesnt hit with drowning
+[13152] Boogieman: mace of water doesnt hit with drowning
+[24366] Smurf: Wraith form doesnt fly you.
+[ 3526] Smurf: Zombies dont follow through doors, that is badd.
+[13100] Smurf: Wither just does shitty damage..
+[ 3800] cloaked figure: Noticed that barrier can still be stacked by casting barrier on a target, it insteads adds it to the affects again.
+[ 3054] Smoxur: Hellfire after death?
+[ 3011] Essobi: dagger
+[13237] Essobi: You stop using the staff of knowledge and protection.
+[25517] Flantax: bag backpack
+[ 4501] Tiririr: Can still cast chaos blade without outlaw powers
+[13005] Zanodar: There's a bug in the affect when you use trophy
+[29350] Erbium: Doesn't seem to be any way back
+[ 9609] Raider: teleport should not work if person is cursed.
+[ 9609] Raider: please,tone down windwal blind.
+[ 3501] Zornath: The bloody swordsman at the rager cabal tracks? ...

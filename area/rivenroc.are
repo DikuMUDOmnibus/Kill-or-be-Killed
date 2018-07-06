@@ -1,0 +1,2131 @@
+#AREADATA
+Name Rivenrock Canyon~
+Builders None~
+VNUMs 12300 12399
+Credits { 5 35} Kyrissaean Rivenrock Canyon~
+Security 9
+End
+
+
+
+#MOBILES
+#12300
+male dragon olive gold~
+an olive and gold dragon~
+An olive and gold dragon bellows deafeningly.
+~
+At first glance, he appears to be preparing to attack. But as you 
+watch him more closely, you realize he's...singing? With incredulous 
+awe, you watch as he begins to shuffle about as he attempts to lure 
+the female dragons to mate with him.
+~
+dragon~
+ABFGT DHJNOT 0 0
+58 2 50d10+9000 1d1+100 5d10+29 claw
+-29 -29 -29 -27
+CDFMR ABLQ BCDEHIKO FI
+stand stand male 1000
+AHMVZ ABCDEFGHIJKPQUVX large 0
+#12301
+male dragon turquoise garnet~
+a turquoise and garnet dragon~
+A turquoise and garnet dragon shuffles menacingly.
+~
+With stunned amazement, you realize that he's not preparing to 
+attack, but performing a crude, ritualistic mating dance. As 
+you gaze about, you see that the females are ignorning him with 
+a studied lack of indifference.
+~
+dragon~
+ABFGT DHJT 0 0
+59 2 50d10+11000 1d1+100 6d8+30 claw
+-30 -30 -30 -24
+FM ABLQ BDEHIKO FI
+stand stand male 1000
+ABHMVZ ABCDEFGHIJKPQUVX giant 0
+#12302
+male dragon sable silver~
+a sable and silver dragon~
+A sable and silver dragon rakes the ground with his claws.
+~
+He throws back his shiny silver head and roars demandingly for 
+the females to mate with him.  Despite the crudeness of his 
+vocalizations, you can sense a sing song quality to them that 
+perfectly matches the ritualistic, shuffling dance he is performing.
+~
+dragon~
+ABFGT DHJNOT 0 0
+57 3 50d10+10000 1d1+100 5d11+29 claw
+-26 -26 -26 -26
+CDFM ABLQ BDEHIKO FI
+stand stand male 800
+ABHMVZ ABCDEFGHIJKPQUVX huge 0
+#12303
+female dragon ruby emerald~
+a ruby and emerald dragon~
+A ruby and emerald dragon basks languidly in the sand.
+~
+With an feigned air of total indifference, she rolls over and 
+stretches out on the sand, refusing to even look at the male 
+dragons dancing and singing for her attentions.
+~
+dragon~
+ABFGT DHJNOT 0 0
+54 2 50d10+8000 1d1+100 10d5+27 claw
+-26 -26 -27 -21
+AFKM ABLQ BDEHIKO FI
+stand stand female 900
+AHMVZ ABCDEFGHIJKPQUVX huge 0
+#12304
+female dragon sapphire coral~
+a sapphire and coral dragon~
+A sapphire and coral dragon yawns sleepily, baring her razor-sharp teeth.
+~
+She yawns with practiced indifference, baring glistening rows 
+of razor-sharp teeth, each longer than a human finger. She 
+stretches languidly, causing the male dragons to intesify 
+the urgency of their dance.
+~
+dragon~
+ABCFGT DHJT 0 0
+60 4 50d10+12000 1d1+100 6d8+31 claw
+-30 -30 -30 -30
+ACDFKM ABLQ BDEHIKO FI
+stand stand female 1200
+AHMVZ ABCDEFGHIJKPQUVX giant 0
+#12305
+female dragon amethyst jade~
+an amethyst and jade dragon~
+An amethyst and jade dragon stretches lazily.
+~
+With leisurely indifference, she glances at the male dragons 
+trying to entice her into mating with them.  She stretches 
+lazily then curls up to take a short nap.
+~
+dragon~
+ABFGT DHJNOT 0 0
+53 4 50d10+8000 1d1+100 6d7+26 claw
+-24 -24 -24 -18
+DFKM ABLQ BDEHIKO FI
+stand stand female 700
+AHMVZ ABCDEFGHIJKPQUVX large 0
+#12306
+hatchling dragon azure copper~
+an azure and copper hatchling dragon~
+An azure and copper hatchling dragon beathes a small puff of fire.
+~
+Obviously fascinated with fire, she puffs out a small blast that 
+would easily singe the hair right off your head. She gets a wicked 
+gleam in her eye as she quickly prepares to blow a puff at you...
+~
+dragon~
+ABFG DHJT 0 0
+32 0 15d10+2000 1d1+100 4d7+15 claw
+-12 -12 -12 -12
+0 ABLQ BDEHIKO FI
+stand stand female 0
+AHMVZ ABCDEFGHIJKPQUVX medium 0
+#12307
+hatchling dragon onyx aquamarine~
+an onyx and aquamarine hatchling dragon~
+An onyx and aquamarine hatchling dragon looks for mischief.
+~
+A mischevious glitter in his eyes tells you that he likes nothing 
+better than to get into trouble, big or small.  But you have a 
+strong suspicion that the bigger the trouble, the more he enjoys it.
+~
+dragon~
+ABFG DHJT 0 0
+34 0 10d10+1400 1d1+100 4d9+19 claw
+-12 -12 -12 -12
+0 ABLQ BDEHIKO FI
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUVX medium 0
+#12308
+hatchling dragon topaz scarlett~
+a topaz and scarlett hatchling dragon~
+A topaz and scarlett hatchling dragon plays with an egg shard.
+~
+Obviously rather bored, this pint sized hatchling can't seem 
+to find anything to hold his attention for very long.  With a 
+huge sigh, he pushes an egg shard back and forth with one 
+tiny claw.
+~
+dragon~
+ABFG DHJNOT 0 0
+32 0 10d10+1000 1d1+100 4d8+17 claw
+-11 -11 -11 -11
+0 ABLQ BDEHIKO FI
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUVX medium 0
+#12309
+hatchling dragon obsidian vermilion~
+an obsidian and vermilion hatchling dragon~
+An obsidian and vermilion hatchling dragon glares about, looking for a fight.
+~
+With a glare and a snort of fire, he sizes you up as an opponent 
+and seems to find you rather unworthy.  But he is obviously in a 
+beligerent mood, so he is willing to take you on anyway.
+~
+dragon~
+ABFG DHJOT 0 0
+32 0 10d12+1200 1d1+100 4d7+18 claw
+-12 -12 -12 -12
+0 ABLQ BDEHIKO FI
+stand stand male 0
+AHMVZ ABCDEFGHIJKPQUVX medium 0
+#12310
+hatchling dragon ivory apricot~
+an ivory and apricot hatchling dragon~
+An ivory and apricot hatchling dragon curls up to take a nap.
+~
+With a tired little yawn, she carefully stretches herself out in 
+a comforable position and prepares to take a nice, long nap. She 
+looks about sleepily, making sure all is well, then tucks her head 
+under her tail and dozes off.
+~
+dragon~
+ABCFG DHJT 0 0
+35 0 10d10+1350 1d1+100 5d7+17 claw
+-12 -12 -12 -12
+0 ABLQ BDEHIKO FI
+stand stand female 0
+AHMVZ ABCDEFGHIJKPQUVX medium 0
+#12311
+komodo dragon~
+a komodo dragon~
+A komodo dragon watches you hungrily.
+~
+This six foot long monitor lizard is covered in dark green scales 
+with blue-black stripes crisscrossing its back. It's tongue flicks 
+lazily in and out as it watches for an unsuspecting meal to wander by.
+~
+dragon~
+ABCFG DFJNOT 0 0
+37 0 10d10+1700 1d1+100 4d8+18 claw
+-13 -13 -13 -13
+0 ABLQ BDEHIKO FI
+stand stand none 0
+AHMVZ ABCDEFGHIJKPQUVX medium 0
+#12312
+horned lizard~
+a small, horned lizard~
+A small horned lizard hides in the shade of a cactus.
+~
+A small lizard blends almost perfectly into the shade of a sentinel 
+cactus as it tries to remain cool.  Twin proturbences jut from its 
+head, slightly darker in shade than the rest of the brown scales 
+that covers its body.
+~
+lizard~
+ACG OP 0 0
+13 0 2d10+170 1d1+100 2d5+5 bite
+-2 -2 -2 -2
+0 0 L I
+stand stand none 0
+AGHMVXc ABCDEFHKQV medium 0
+#12313
+diamondback rattlesnake~
+a diamondback rattlesnake~
+A diamondback rattlesnake rattles its tale at  you in warning.
+~
+With a venomous shake of its tail, it vehemently warns you to keep 
+your distance or pay the consequences.  Golden scales cover its 
+body interspersed with a diamond-like pattern of brilliant scarlett.
+~
+snake~
+ACG 0 0 0
+15 0 2d9+310 1d1+100 2d6+7 pound
+-3 -3 -3 -3
+0 ABLQ DHIKLO I
+stand stand none 0
+AGHMVXYc ABCDEFKLQVX medium 0
+#12314
+black racer~
+a black racer~
+A black racer streaks across the sand.
+~
+Smaller than most snakes, it easily compensates for its tiny 
+size by the incredible speed with which it moves.  Jet black 
+in color, it seems to draw the light into itself to the point 
+that you can't even differentiate where one scale ends and 
+another begins.
+~
+unique~
+AG DP 0 0
+9 0 2d6+150 1d1+120 2d8+3 bite
+1 1 1 1
+0 ABLQ DHIKO 0
+stand stand none 0
+AHMV ABCDEF medium 0
+#12315
+sentinel cactus~
+a sentinel cactus~
+A sentinel cactus watches quietly over the Long Sands
+~
+Sparsley covered in bright pink flowers, this sentinel cactus 
+stands watch over the Long Sands. Its thorns, as long and thick 
+as human fingers, cast eerie shadows across the pure white expanse. 
+Arm-like extensions reach toward the sky, seeking the warmth of 
+the sun.
+~
+unique~
+ABG 0 0 0
+11 0 2d8+134 1d1+100 2d10+3 thwack
+0 0 0 0
+0 ABLQ DHIKO 0
+stand stand none 0
+AHMV ABCDEF medium 0
+#12316
+tumbleweed~
+a tumbleweed~
+A small tumbleweed rolls slowly across the Long Sands.
+~
+A small tumbleweed rolls lightly across the sands, picking up more 
+objects as it moves along. Tiny crackling sounds can be heard as it 
+moves steadily on its way.
+~
+unique~
+ACG 0 0 0
+5 0 2d6+90 1d1+100 1d6+2 bite
+6 6 6 6
+0 ABLQ DHIKO 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#0
+
+
+
+#OBJECTS
+#12300
+barb cactus~
+the barb of a sentinel cactus~
+A wicked looking barb glints with baneful intent.~
+cactus~
+weapon 0 AN
+mace 4 4 crush 0
+10 20 0 P
+A
+19 2
+#12301
+triple spiked tail~
+the triple spiked tail of a turquiose dragon~
+A dragon's tail, with a trio of spikes, forms a crude belt.~
+dragonskin~
+armor QTY AL
+15 15 15 15 0
+36 60 0 P
+A
+19 5
+A
+20 -3
+L
+2
+#12302
+glossy wing~
+the glossy wing of a sable and silver dragon~
+A glossy wing of sable and silver molds itself into a supple cape.~
+dragonscales~
+armor QTY AK
+12 12 12 12 0
+39 70 0 P
+A
+20 -5
+A
+12 35
+A
+19 3
+A
+18 3
+L
+2
+#12303
+rear claws~
+the rear claws of an olive and gold dragon~
+A deadly pair of olive and gold claws gleam malignantly.~
+dragonscales~
+armor QTY AG
+10 10 10 10 0
+0 40 0 P
+A
+13 20
+A
+19 2
+A
+14 60
+A
+24 -3
+L
+3
+#12304
+front claws~
+the front claws of a ruby and emerald dragon~
+A pair of emerald and ruby claws sparkle like cut gems.~
+dragonscales~
+armor QTY AH
+12 12 12 12 0
+38 60 0 P
+A
+13 30
+A
+17 -5
+A
+24 -3
+L
+3
+#12305
+dragon teeth necklace~
+a necklace of sapphire and coral dragon teeth~
+A jumble of various sized teeth glitter in the dirt.~
+bone~
+armor QTY AC
+13 13 13 13 0
+0 30 0 P
+A
+13 40
+A
+19 3
+A
+24 -5
+L
+2
+#12306
+dragonscale shield~
+a shield of amethyst and jade dragonscales~
+A pile of amethyst and jade scales form a dazzling shield.~
+dragonscales~
+armor QTY AJ
+16 16 16 16 0
+0 70 0 P
+A
+14 10
+A
+13 25
+A
+19 2
+A
+24 -5
+L
+2
+#12307
+ribcage dragonbone~
+the ribcage of an azure and copper dragon~
+A large mound of bones glints dully in the dirt.~
+bone~
+armor QTY AD
+8 8 8 8 0
+38 90 0 P
+A
+24 -7
+A
+17 -5
+A
+19 5
+L
+2
+#12308
+skull dragon~
+the skull of an onyx and aquamarine dragon~
+A graceful looking skull is half buried in the ground.~
+bone~
+armor QTY AE
+7 7 5 6 0
+37 60 0 P
+A
+20 -4
+A
+13 25
+A
+18 2
+A
+12 35
+A
+19 3
+L
+3
+#12309
+scales suit armor dragonscales~
+the scales of a topaz and scarlet dragon~
+A pile of topaz and scarlett scales glow radiantly.~
+dragonscale~
+armor QTY AD
+9 9 9 9 0
+40 70 0 P
+A
+1 2
+A
+19 2
+A
+12 15
+A
+24 -5
+L
+3
+#12310
+dragonscale sleeves~
+a pair of obsidian and vermilion dragonscale sleeves~
+A clump of obsidian and vermilian dragonscales shimmer brightly.~
+dragonscale~
+armor QTY AI
+10 10 10 10 0
+38 70 0 P
+A
+18 2
+A
+19 2
+A
+24 -5
+L
+3
+#12311
+dragonscale leggings~
+a pair of ivory and apricot dragonscale leggings~
+A heap of ivory and apricot dragonscales clutters the ground.~
+dragonscale~
+armor QTY AF
+9 9 9 9 0
+37 70 0 P
+A
+13 15
+A
+5 1
+A
+3 1
+A
+18 2
+A
+19 2
+A
+24 -5
+L
+3
+#12312
+ring ivory dragonbone~
+an ivory ring of dragonbone~
+A crudely carved ring of ivory catches your eye.~
+dragonscale~
+armor QTY AB
+10 10 10 10 0
+40 40 0 P
+A
+12 90
+A
+19 2
+A
+18 2
+A
+20 -2
+L
+2
+#12313
+bracelet dragon bone sapphire coral dragonbone~
+a bracelet carved from sapphire and coral dragonbone~
+A rustic looking bracelet carved from the bone of a dragon grabs your attention.~
+bone~
+armor QTY AM
+10 10 10 10 10
+38 60 0 P
+A
+20 -4
+A
+19 2
+A
+13 50
+L
+2
+#12314
+eye dragon~
+an amethyst and jade dragon's eye~
+A large eye glitters with amethyst and jade hues.~
+flesh~
+armor QTUY AO
+18 18 18 18 18
+35 40 0 P
+A
+12 60
+A
+24 -10
+A
+17 -25
+A
+13 30
+L
+1
+#12315
+tail mace olive gold~
+a mace fashioned from an olive and gold dragon tail~
+A wicked looking mace fashioned from the tail of a dragon lays in the dirt.~
+ivory~
+weapon QTY AN
+mace 6 8 shbite 0
+37 300 0 P
+A
+13 60
+A
+12 60
+A
+18 9
+A
+19 9
+L
+1
+#12316
+sabre bone dragon dragonbone~
+a dragonbone sabre~
+An exquisitely carved saber of dragon bone is stuck in the ground.~
+bone~
+weapon QTY AN
+sword 6 8 acbite 0
+45 40 0 P
+A
+20 -15
+A
+13 75
+A
+18 5
+A
+19 5
+L
+1
+#12317
+sable silver talon blade~
+the talon of a sable and silver dragon~
+A blade carved from a dragons talon gleams from excessive polish.~
+bone~
+weapon QTY AN
+dagger 6 8 divine 0
+35 20 0 P
+A
+12 50
+A
+24 -12
+A
+18 7
+A
+19 7
+L
+1
+#0
+
+
+
+#ROOMS
+#12300
+Beginning of the Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand 
+sentinel over the Long Sands. Their thorns, as long and thick as 
+a human fingers, cast eerie shadows across the pure white expanse,
+which stretches for miles as far as the eyes can see. A few 
+tumbleweeds skitter about, bringing a little bit of movement to 
+an otherwise unmoving backdrop.
+~
+0 0 10
+D0
+~
+~
+0 -1 12301
+D2
+You see the sands of sorrow.~
+~
+0 -1 3530
+S
+#12301
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D0
+~
+~
+0 -1 12304
+D1
+~
+~
+0 -1 12302
+D2
+~
+~
+0 -1 12300
+S
+#12302
+The Long Sands~
+Glittering brightly in any light, the desert stretches out in every direction like a brilliant diamond.  Deep, intricate patterns are cut into the powdery  foundation, shifting each time a wind storm blows through.  In several places, the sands are piled high against large, green cactus', which stand in brilliant contrast to the milky landscape.
+~
+0 0 10
+D0
+~
+~
+0 -1 12305
+D3
+~
+~
+0 -1 12301
+S
+#12303
+The Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand sentinel over the Long Sands.  Their thorns, as long and thick as human fingers, cast eerie shadows across the pure white expanse, which stretches for miles in every direction.  A few tumbleweeds skitter about, bringing a little bit of movement to an otherwise unmoving backdrop.
+~
+0 0 10
+D0
+~
+~
+0 -1 12306
+D1
+~
+~
+0 -1 12304
+S
+#12304
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D2
+~
+~
+0 -1 12301
+D3
+~
+~
+0 -1 12303
+S
+#12305
+The Long Sands~
+Glittering brightly in any light, the desert stretches out in every direction like a brilliant diamond.  Deep, intricate patterns are cut into the powdery  foundation, shifting each time a wind storm blows through.  In several places, the sands are piled high against large, green cactus', which stand in brilliant contrast to the milky landscape.
+~
+0 0 10
+D0
+~
+~
+0 -1 12307
+D2
+~
+~
+0 -1 12302
+S
+#12306
+The Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand sentinel over the Long Sands.  Their thorns, as long and thick as human fingers, cast eerie shadows across the pure white expanse, which stretches for miles in every direction.  A few tumbleweeds skitter about, bringing a little bit of movement to an otherwise unmoving backdrop.
+~
+0 0 10
+D0
+~
+~
+0 -1 12309
+D1
+~
+~
+0 -1 12307
+D2
+~
+~
+0 -1 12303
+S
+#12307
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D2
+~
+~
+0 -1 12305
+D3
+~
+~
+0 -1 12306
+S
+#12308
+The Long Sands~
+Glittering brightly in any light, the desert stretches out in every direction like a brilliant diamond.  Deep, intricate patterns are cut into the powdery  foundation, shifting each time a wind storm blows through.  In several places, the sands are piled high against large, green cactus', which stand in brilliant contrast to the milky landscape.
+~
+0 0 10
+D0
+~
+~
+0 -1 12311
+D1
+~
+~
+0 -1 12309
+S
+#12309
+The Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand sentinel over the Long Sands.  Their thorns, as long and thick as human fingers, cast eerie shadows across the pure white expanse, which stretches for miles in every direction.  A few tumbleweeds skitter about, bringing a little bit of movement to an otherwise unmoving backdrop.
+~
+0 0 10
+D1
+~
+~
+0 -1 12310
+D2
+~
+~
+0 -1 12306
+D3
+~
+~
+0 -1 12308
+S
+#12310
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D0
+~
+~
+0 -1 12312
+D3
+~
+~
+0 -1 12309
+S
+#12311
+The Long Sands~
+Glittering brightly in any light, the desert stretches out in every direction like a brilliant diamond.  Deep, intricate patterns are cut into the powdery  foundation, shifting each time a wind storm blows through.  In several places, the sands are piled high against large, green cactus', which stand in brilliant contrast to the milky landscape.
+~
+0 0 10
+D0
+~
+~
+0 -1 12314
+D2
+~
+~
+0 -1 12308
+S
+#12312
+The Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand sentinel over the Long Sands.  Their thorns, as long and thick as human fingers, cast eerie shadows across the pure white expanse, which stretches for miles in every direction.  A few tumbleweeds skitter about, bringing a little bit of movement to an otherwise unmoving backdrop.
+~
+0 0 10
+D1
+~
+~
+0 -1 12313
+D2
+~
+~
+0 -1 12310
+S
+#12313
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D0
+~
+~
+0 -1 12315
+D3
+~
+~
+0 -1 12312
+S
+#12314
+The Long Sands~
+Glittering brightly in any light, the desert stretches out in every direction like a brilliant diamond.  Deep, intricate patterns are cut into the powdery  foundation, shifting each time a wind storm blows through.  In several places, the sands are piled high against large, green cactus', which stand in brilliant contrast to the milky landscape.
+~
+0 0 10
+D0
+~
+~
+0 -1 12316
+D1
+~
+~
+0 -1 12315
+D2
+~
+~
+0 -1 12311
+S
+#12315
+The Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand sentinel over the Long Sands.  Their thorns, as long and thick as human fingers, cast eerie shadows across the pure white expanse, which stretches for miles in every direction.  A few tumbleweeds skitter about, bringing a little bit of movement to an otherwise unmoving backdrop.
+~
+0 0 10
+D0
+~
+~
+0 -1 12317
+D2
+~
+~
+0 -1 12313
+D3
+~
+~
+0 -1 12314
+S
+#12316
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D0
+~
+~
+0 -1 12319
+D2
+~
+~
+0 -1 12314
+S
+#12317
+The Long Sands~
+Glittering brightly in any light, the desert stretches out in every direction like a brilliant diamond.  Deep, intricate patterns are cut into the powdery  foundation, shifting each time a wind storm blows through.  In several places, the sands are piled high against large, green cactus', which stand in brilliant contrast to the milky landscape.
+~
+0 0 10
+D1
+~
+~
+0 -1 12318
+D2
+~
+~
+0 -1 12315
+S
+#12318
+The Long Sands~
+Massive cactus', sparsley covered in bright pink flowers, stand sentinel over the Long Sands.  Their thorns, as long and thick as human fingers, cast eerie shadows across the pure white expanse, which stretches for miles in every direction.  A few tumbleweeds skitter about, bringing a little bit of movement to an otherwise unmoving backdrop.
+~
+0 0 10
+D0
+~
+~
+0 -1 12320
+D3
+~
+~
+0 -1 12317
+S
+#12319
+The Long Sands~
+Pure white sands stretch out as far as the eyes can see, glittering blindingly in both sunlight and moonlight.  Barely discernable, an occasional lizard or snake can be seen hiding in the shade of the many cactus standing lookout over the desert.  A few large, pink flowers, in various states of bloom,  against the green backdrop of the cactus', are the only color to be seen.
+~
+0 0 10
+D2
+~
+~
+0 -1 12316
+S
+#12320
+Entrance to Rivenrock Canyon~
+Twin spires, carved long ago from the river that used to flow through the Long Sands, stand sentry before the entrance to Rivenrock Canyon.  Reaching all the way to the clouds, rings of color, from dull to bright, trace their way up to the pinnacles of these awe inspiring monuments of a long gone waters.
+~
+0 4 10
+D0
+~
+~
+0 -1 12321
+D2
+~
+~
+0 -1 12318
+S
+#12321
+A Narrow Passageway~
+No more than one horse and rider wide at its broadest point, this tiny passageway feels like it is closing in on you.  With a shiver of trepidition, you hope the occupants of the canyon are friendly, as escape will be very difficult.
+~
+0 0 10
+D0
+~
+~
+0 -1 12322
+D2
+~
+~
+0 -1 12320
+S
+#12322
+A Narrow Passageway~
+No more than one horse and rider wide at its broadest point, this tiny passageway feels like it is closing in on you.  With a shiver of trepidition, you hope the occupants of the canyon are friendly, as escape will be very difficult.
+~
+0 4 10
+D0
+~
+~
+0 -1 12324
+D2
+~
+~
+0 -1 12321
+S
+#12323
+Rivenrock Canyon~
+If not for the sheer size of the canyon, you would easily feel overwhelmed and a bit dizzy by the walls towering above you, closing you in on all sides but for a mere passageway, barely one horse wide, leading out to the Long Sands.  The walls themselves are dotted with substantial sized caves, only accessible by way of the tiny pathways crisscrossing the walls at convulted angles.  Whoever carved them out long ago should have planned it more carefully.
+~
+0 0 10
+D0
+~
+~
+0 -1 12328
+D1
+~
+~
+0 -1 12324
+S
+#12324
+Rivenrock Canyon~
+Massive stone walls loom above you on all sides, making you feel a bit dizzy.  Small rocks crumble down the sides from gaping caverns dotting the cliff's face.  Small pathways can be seen crisscrossing the walls, sometimes curving back upon themselves.  A tiny passageway is the only means of escape from the canyon, and looking at the size of the caverns, you begins to wonder if leaving while you still can wouldn't be a bad idea.
+~
+0 0 10
+D1
+~
+~
+0 -1 12325
+D2
+~
+~
+0 -1 12322
+D3
+~
+~
+0 -1 12323
+S
+#12325
+Rivenrock Canyon~
+Small rocks litter the ground, eroded away from the cliff walls towering high above the canyon, crunching softly beneath your feet.  You glance around and see dozens of pathways, barely discernable to the eye, crisscrossing the cliffs.  The pathways, obviously man-made, lead to the caverns that abound throughout the canyon.  Although they appear small from this great distance, they are obviously massive in size to easily accomadate their over large inhabitants.
+~
+0 0 10
+D0
+~
+~
+0 -1 12329
+D1
+~
+~
+0 -1 12326
+D3
+~
+~
+0 -1 12324
+S
+#12326
+Rivenrock Canyon~
+If not for the sheer size of the canyon, you would easily feel overwhelmed and a bit dizzy by the walls towering above you, closing you in on all sides but for a mere passageway, barely one horse wide, leading out to the Long Sands.  The walls themselves are dotted with substantial sized caves, only accessible by way of the tiny pathways crisscrossing the walls at convulted angles.  Whoever carved them out long ago should have planned it more carefully.
+~
+0 0 10
+D0
+~
+~
+0 -1 12330
+D3
+~
+~
+0 -1 12325
+S
+#12327
+Rivenrock Canyon~
+Massive stone walls loom above you on all sides, making you feel a bit dizzy.  Small rocks crumble down the sides from gaping caverns dotting the cliff's face.  Small pathways can be seen crisscrossing the walls, sometimes curving back upon themselves.  A tiny passageway is the only means of escape from the canyon, and looking at the size of the caverns, you begins to wonder if leaving while you still can wouldn't be a bad idea.
+~
+0 0 10
+D1
+~
+~
+0 -1 12328
+D4
+~
+~
+0 -1 12334
+S
+#12328
+Rivenrock Canyon~
+Small rocks litter the ground, eroded away from the cliff walls towering high above the canyon, crunching softly beneath your feet.  You glance around and see dozens of pathways, barely discernable to the eye, crisscrossing the cliffs.  The pathways, obviously man-made, lead to the caverns that abound throughout the canyon.  Although they appear small from this great distance, they are obviously massive in size to easily accomadate their over large inhabitants.
+~
+0 0 10
+D2
+~
+~
+0 -1 12323
+D3
+~
+~
+0 -1 12327
+S
+#12329
+Rivenrock Canyon~
+If not for the sheer size of the canyon, you would easily feel overwhelmed and a bit dizzy by the walls towering above you, closing you in on all sides but for a mere passageway, barely one horse wide, leading out to the Long Sands.  The walls themselves are dotted with substantial sized caves, only accessible by way of the tiny pathways crisscrossing the walls at convulted angles.  Whoever carved them out long ago should have planned it more carefully.
+~
+0 0 10
+D2
+~
+~
+0 -1 12325
+D4
+~
+~
+0 -1 12336
+S
+#12330
+Rivenrock Canyon~
+Massive stone walls loom above you on all sides, making you feel a bit dizzy.  Small rocks crumble down the sides from gaping caverns dotting the cliff's face.  Small pathways can be seen crisscrossing the walls, sometimes curving back upon themselves.  A tiny passageway is the only means of escape from the canyon, and looking at the size of the caverns, you begins to wonder if leaving while you still can wouldn't be a bad idea.
+~
+0 0 10
+D1
+~
+~
+0 -1 12331
+D2
+~
+~
+0 -1 12326
+S
+#12331
+Rivenrock Canyon~
+Small rocks litter the ground, eroded away from the cliff walls towering high above the canyon, crunching softly beneath your feet.  You glance around and see dozens of pathways, barely discernable to the eye, crisscrossing the cliffs.  The pathways, obviously man-made, lead to the caverns that abound throughout the canyon.  Although they appear small from this great distance, they are obviously massive in size to easily accomadate their over large inhabitants.
+~
+0 0 10
+D3
+~
+~
+0 -1 12330
+D4
+~
+~
+0 -1 12337
+S
+#12332
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12333
+D4
+~
+~
+0 -1 12340
+S
+#12333
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12334
+D3
+~
+~
+0 -1 12332
+S
+#12334
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D3
+~
+~
+0 -1 12333
+D5
+~
+~
+0 -1 12327
+S
+#12335
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12336
+D4
+~
+~
+0 -1 12344
+S
+#12336
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D3
+~
+~
+0 -1 12335
+D5
+~
+~
+0 -1 12329
+S
+#12337
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12338
+D5
+~
+~
+0 -1 12331
+S
+#12338
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12339
+D3
+~
+~
+0 -1 12337
+D4
+~
+~
+0 -1 12348
+S
+#12339
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12349
+D3
+~
+~
+0 -1 12338
+S
+#12340
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12341
+D5
+~
+~
+0 -1 12332
+S
+#12341
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12350
+D1
+~
+~
+0 -1 12342
+D3
+~
+~
+0 -1 12340
+S
+#12342
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12343
+D3
+~
+~
+0 -1 12341
+S
+#12343
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D3
+~
+~
+0 -1 12342
+D4
+~
+~
+0 -1 12352
+S
+#12344
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12345
+D4
+~
+~
+0 -1 12353
+D5
+~
+~
+0 -1 12335
+S
+#12345
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12346
+D3
+~
+~
+0 -1 12344
+S
+#12346
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12355
+D3
+~
+~
+0 -1 12345
+S
+#12347
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12348
+D4
+~
+~
+0 -1 12356
+S
+#12348
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D3
+~
+~
+0 -1 12347
+D5
+~
+~
+0 -1 12338
+S
+#12349
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12358
+D2
+~
+~
+0 -1 12339
+S
+#12350
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12359
+D2
+~
+~
+0 -1 12341
+S
+#12351
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12352
+D4
+~
+~
+0 -1 12360
+S
+#12352
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D3
+~
+~
+0 -1 12351
+D5
+~
+~
+0 -1 12343
+S
+#12353
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12354
+D5
+~
+~
+0 -1 12344
+S
+#12354
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D3
+~
+~
+0 -1 12353
+D4
+~
+~
+0 -1 12363
+S
+#12355
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12364
+D2
+~
+~
+0 -1 12346
+S
+#12356
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12357
+D5
+~
+~
+0 -1 12347
+S
+#12357
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D3
+~
+~
+0 -1 12356
+D4
+~
+~
+0 -1 12365
+S
+#12358
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12349
+S
+#12359
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12350
+S
+#12360
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12361
+D5
+~
+~
+0 -1 12351
+S
+#12361
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12368
+D1
+~
+~
+0 -1 12362
+D3
+~
+~
+0 -1 12360
+S
+#12362
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12369
+D3
+~
+~
+0 -1 12361
+S
+#12363
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D4
+~
+~
+0 -1 12370
+D5
+~
+~
+0 -1 12354
+S
+#12364
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12355
+S
+#12365
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D1
+~
+~
+0 -1 12366
+D5
+~
+~
+0 -1 12357
+S
+#12366
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12373
+D1
+~
+~
+0 -1 12367
+D3
+~
+~
+0 -1 12365
+S
+#12367
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12374
+D3
+~
+~
+0 -1 12366
+S
+#12368
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12375
+D2
+~
+~
+0 -1 12361
+S
+#12369
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12376
+D2
+~
+~
+0 -1 12362
+S
+#12370
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12371
+D5
+~
+~
+0 -1 12363
+S
+#12371
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12377
+D1
+~
+~
+0 -1 12372
+D3
+~
+~
+0 -1 12370
+S
+#12372
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D3
+~
+~
+0 -1 12371
+D4
+~
+~
+0 -1 12378
+S
+#12373
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12380
+D2
+~
+~
+0 -1 12366
+S
+#12374
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12381
+D2
+~
+~
+0 -1 12367
+S
+#12375
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12368
+S
+#12376
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12369
+S
+#12377
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12382
+D2
+~
+~
+0 -1 12371
+S
+#12378
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12379
+D5
+~
+~
+0 -1 12372
+S
+#12379
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D3
+~
+~
+0 -1 12378
+D4
+~
+~
+0 -1 12383
+S
+#12380
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12373
+S
+#12381
+End of A Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12374
+S
+#12382
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12377
+S
+#12383
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12384
+D5
+~
+~
+0 -1 12379
+S
+#12384
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12387
+D1
+~
+~
+0 -1 12385
+D3
+~
+~
+0 -1 12383
+S
+#12385
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12388
+D1
+~
+~
+0 -1 12386
+D3
+~
+~
+0 -1 12384
+S
+#12386
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D3
+~
+~
+0 -1 12385
+D4
+~
+~
+0 -1 12389
+S
+#12387
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12391
+D2
+~
+~
+0 -1 12384
+S
+#12388
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12392
+D2
+~
+~
+0 -1 12385
+S
+#12389
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12390
+D5
+~
+~
+0 -1 12386
+S
+#12390
+A Precarious Path~
+Loose stones shift precariously beneath your feet, causing you to struggle to retain your balance.  At times, the ledge is so narrow you find yourself crawling on your hands and knees just to avoid falling down the sheer, cliff wall to the rock strewn desert below.
+~
+0 0 10
+D3
+~
+~
+0 -1 12389
+D4
+~
+~
+0 -1 12394
+S
+#12391
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12387
+S
+#12392
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12388
+S
+#12393
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12396
+D1
+~
+~
+0 -1 12394
+S
+#12394
+A Precarious Path~
+Debris from the eroding canyon makes traversing the narrow pathways zig-zagging the cliff walls difficult at the best of times and almost impossible where the paths have nearly crumbled away.  Slipping and sliding as you make your way around, you desperately look for handholds to help you retain your balance.
+~
+0 0 10
+D1
+~
+~
+0 -1 12395
+D3
+~
+~
+0 -1 12393
+D5
+~
+~
+0 -1 12390
+S
+#12395
+Entrance to a Large Cavern~
+Built up and torn down again over and over by hatchling dragon fire, the cavernous space is large enough to comfortably hold a female dragon ready to lay her eggs.  Large boulders, blackened from the fires, are strewn across the pathway, partially blocking the entrance to the cave, which reverbrates with each little sound.  With a sense of trepedition, you wonder if the occupants are currently in residence.
+~
+0 4 10
+D0
+~
+~
+0 -1 12397
+D3
+~
+~
+0 -1 12394
+S
+#12396
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12398
+D2
+~
+~
+0 -1 12393
+S
+#12397
+A Large Cavern~
+Sculpted by a river long past, the cave was made larger by the claws of the dragons who used it to nest, easily accomodating a she-dragon and her mate.  Debris from the carvings lay all about, used to build up the wall that incubates the eggs, then broken down again when the hatchlings make their way to daylight.  A shimmering silt covers the ground.
+~
+0 0 10
+D0
+~
+~
+0 -1 12399
+D2
+~
+~
+0 -1 12395
+S
+#12398
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12396
+S
+#12399
+End of a Large Cavern~
+Egg shell shards litter the ground, shimmering like the silt covered ground.  Upon closer inspection, you realize that the shells and silt are solid gold created from hatchling fire as they dry their wings or try to make a meal of one another before the outer wall is broken down.
+~
+0 1 10
+D2
+~
+~
+0 -1 12397
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 12316 6 12301 6
+M 0 12313 6 12301 6
+M 0 12315 5 12302 5
+M 0 12313 6 12302 6
+M 0 12311 7 12302 7
+M 0 12316 6 12303 6
+M 0 12311 7 12304 7
+M 0 12314 5 12305 5
+M 0 12313 1 12305 1
+M 0 12311 7 12305 7
+M 0 12315 5 12306 5
+M 0 12311 7 12306 7
+M 0 12316 6 12307 6
+M 0 12312 6 12307 6
+M 0 12315 5 12308 5
+E 0 12300 0 16
+M 0 12311 7 12308 7
+M 0 12316 6 12309 6
+M 0 12312 6 12309 6
+M 0 12314 5 12310 5
+M 0 12312 6 12310 6
+M 0 12316 6 12311 6
+M 0 12316 6 12312 6
+M 0 12311 7 12312 7
+M 0 12314 5 12313 5
+M 0 12312 6 12313 6
+M 0 12314 5 12314 5
+M 0 12313 6 12314 6
+M 0 12314 5 12315 5
+M 0 12312 6 12315 6
+M 0 12315 5 12317 5
+M 0 12311 7 12317 7
+M 0 12313 6 12318 6
+M 0 12315 5 12319 5
+E 0 12300 0 16
+M 0 12313 6 12319 6
+M 0 12302 1 12326 1
+E 0 12302 0 12
+G 0 12317 0
+M 0 12305 1 12331 1
+E 0 12306 0 11
+G 0 12314 0
+M 0 12303 1 12334 1
+E 0 12304 0 9
+G 0 12312 0
+M 0 12301 1 12337 1
+E 0 12301 0 13
+G 0 12316 0
+M 0 12304 1 12340 1
+E 0 12305 0 3
+G 0 12313 0
+M 0 12300 1 12357 1
+E 0 12303 0 8
+G 0 12315 0
+M 0 12306 5 12358 1
+E 0 12307 0 5
+M 0 12310 5 12358 1
+E 0 12311 0 7
+M 0 12307 5 12380 1
+M 0 12310 5 12380 1
+E 0 12311 0 7
+M 0 12306 5 12381 1
+M 0 12309 5 12381 1
+M 0 12310 5 12382 1
+M 0 12309 5 12382 1
+M 0 12308 5 12391 1
+E 0 12309 0 5
+M 0 12307 5 12391 1
+E 0 12308 0 6
+M 0 12306 5 12392 1
+M 0 12309 5 12392 1
+E 0 12310 0 10
+M 0 12306 5 12398 1
+E 0 12307 0 5
+M 0 12309 5 12398 1
+E 0 12310 0 10
+M 0 12310 5 12399 1
+M 0 12307 5 12399 1
+E 0 12308 0 6
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

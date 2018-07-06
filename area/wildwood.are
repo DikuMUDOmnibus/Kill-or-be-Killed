@@ -1,0 +1,4086 @@
+#AREA
+wildwood.are~
+The Wild Woods~
+{40-51} Cawper  The Wild Woods~
+28200 28320
+
+#MOBILES
+#28200
+tode kobold~
+tode~
+A thin kobold looks you over with his one good eye. 
+~
+This kobold has done well for himself pilfering through the belongings of
+the travellers that attempted to make it through the forest. Perhaps he
+knows something of interest? Either way he's going to take your gold. 
+~
+kobold~
+ABGHS HJOPQc -55 0
+60 0 50d10+9500 0d0+0 8d6+28 scratch
+-30 -30 -30 -30
+EFJKN AB FGL CP
+stand stand male 1566
+ABHMV ABCDEFGHIJKQ small 0
+#28201
+kobold~
+the kobold~
+An extremely skinny kobold is here darting around looking for something
+to steal. 
+~
+This kobold is quick and nimble. His furry little hands always twitching
+to hold something in them. His armor is nothing more than a few ragged
+pieces of cloth. He grins as he tries to hide some of the gold he has just
+borrowed from you. 
+~
+kobold~
+ABGHS HJOPQc -55 0
+60 0 50d10+9500 0d0+0 8d6+28 scratch
+-30 -30 -30 -30
+EFJKN AB FGL CP
+stand stand male 1566
+ABHMV ABCDEFGHIJKQ small 0
+#28202
+umber hulk~
+the umber hulk~
+A huge black-plated beetle turns from where it stands and attacks. 
+~
+The umber hulk is tremendously strong, standing nearly eight feet tall
+and over five feet wide. Muscles bulge beneath its thick, scaly hide. Its
+powerful arms and legs all carry great claws. It has no neck to speak of,
+but the head features a powerful maw with rows of triangular teeth and eight
+inch mandibles. 
+~
+unique~
+ABFGT DFHJOVc 0 0
+58 0 50d10+18500 0d0+0 5d10+55 beating
+-68 -68 -68 -28
+CDEFHIJNO ABL DKLQ PS
+stand stand none 0
+0 DEF large 0
+M fight 28213 20~
+#28203
+dragon shadow~
+the Shadow Dragon~
+A large mass of shadows descends upon you. 
+~
+This dragon is about ninety feet long and covered in translucent scales.
+You can't seem to separate the dragon from the surrounding shadows. She has
+been feasting on the rotting corpses that line the room. You look deep into
+her eyes and see you death coming rather quickly. 
+~
+dragon~
+ABCFGT DFHJOPTUVc -1000 0
+65 21 50d10+19500 0d0+0 8d6+68 drain
+-30 -30 -30 -50
+ACDEFGHJKMNO 0 BEH FI
+stand stand female 0
+AHZ ACDEFGHIJKPQUVX giant 0
+#28204
+ettercap~
+an ettercap~
+A spider-like creature weaves its way towards you draggings its claws
+along the forest floor. 
+~
+A huge set of reptilian eyes affix upon you. The creature reaches out
+towards you with its long slender arms tipped with razor sharp talons to rip
+you into shreds and devour you. 
+~
+orc~
+ACFG DJ 0 0
+52 0 50d10+5500 0d0+0 6d7+20 scratch
+-22 -22 -22 -22
+CDEFJKNU ABLQ Q HPS
+stand stand none 0
+AHMV ABCDEFGHIK medium 0
+F par J
+#28205
+bugbear~
+a bugbear~
+A huge bear-like human is here feasting on a body part. 
+~
+A seven feet tall hairy goblin stands before you. He resembles a bear in
+many ways, but he is standing upright and wearing armor. His muscles are
+honed to perfection. He shares his ungodly stench with you. Boy don't you
+feel special. 
+~
+bear~
+ABFGT JVc 0 0
+58 7 50d10+8500 0d0+0 5d10+25 crush
+-28 -28 -28 -28
+CDEFJKNOU AB EI 0
+stand stand male 0
+AGV ABCDEFHKUV large 0
+F par J
+#28206
+aurumvorax~
+the aurumvorax~
+A large pile of gold sits untouched here. 
+~
+You see a large pile of gold. As you take a closer look, you notice that
+it is a very large cat-like creature. It has eight powerful legs, each are
+tipped with five gleaming claws. It leaps onto you trying to eat you alive. 
+~
+cat~
+ABFGU DFHJVZ 0 0
+52 0 50d10+5500 0d0+0 6d7+20 claw
+-22 -22 -22 -22
+FHJN AB EI HR
+stand stand none 0
+AGV ACDEFHKQUV medium 0
+F par J
+#28207
+hobgoblin~
+a hobgoblin~
+An ugly humanoid creature is here waiting to wage war on something. 
+~
+This gross creature swings his rusty blades wildy trying to hit
+everything in sight. His nappy armor barely fits him and is covered in dents
+and blood. He has one thing on his mind and that is to kill you. 
+~
+goblin~
+AFGT FJOV -450 0
+54 8 50d10+6500 0d0+0 7d6+22 pound
+-24 -24 -24 -24
+CDEFJKNR A Q C
+stand stand none 0
+AHMV ABCDEFGHIK medium 0
+F par J
+M act 28207 weapon flying.~
+#28208
+hag woman~
+the wretched hag~
+A twisted little woman is here chanting to herself. 
+~
+This extremely old and withered woman sends bolts of lightning, exploding
+from her fingertips, screaming towards you. She has no remorse or sympathy
+for you are a trespasser. 
+~
+human~
+ABFGR DFHJOTVc 0 0
+56 8 50d10+7500 0d0+0 10d4+24 wrath
+-26 -26 -26 -46
+EFGHU ABM COP NS
+stand stand female 1300
+AHMV ABCDEFGHIK medium 0
+F par J
+M grall 28210 100~
+M fight 28206 10~
+#28209
+treant tree~
+the treant~
+An old tree begins to move as you draw closer. 
+~
+This giant tree is almost indistinguishable from the surrounding trees,
+except this one moves. 
+~
+unique~
+AFG DVc 0 0
+53 0 50d10+6000 0d0+0 6d7+21 smash
+-23 -23 -23 -23
+CEFJNOU ABTX EIQS GHJ
+stand stand none 0
+0 0 large 0
+#28210
+troll~
+the giant troll~
+A giant troll is here smelling rank. 
+~
+He is a huge lump of smelly fur and muscle. He shows no hesitation in
+attacking you. You can definitely tell that he is pissed. 
+~
+troll~
+AFGT DFJc -500 0
+57 10 50d10+9000 0d0+0 6d8+44 pound
+-27 -27 -27 -27
+CDEFHIJKOR ABLQ DE HKN
+stand stand male 0
+ABHMV ABCDEFGHIKUV huge 0
+F res B
+F par J
+#28211
+spirit woman shymna~
+the spirit of Shymna~
+A spirit floats here with anger in her eyes. 
+~
+The spirit of a beautiful woman floats before you. Her gown flows
+continously though the wind does not blow. Her eyes burn with the anger that
+has be forced upon her once peaceful home. To defy her will is to suffer her
+wrath. 
+~
+unique~
+ABFR DFHJNTVc 0 0
+66 12 50d10+19500 0d0+0 8d6+58 divine
+-30 -30 -30 -30
+EFH ABDLNQ CINPS 0
+stand stand female 0
+H 0 medium 0
+M act 28212 transfer~
+M fight 28206 20~
+M fight 28205 20~
+#28212
+bear grizzly~
+a huge grizzly bear~
+A massive bear stands here ready to defend his master. 
+~
+This extremely large girzzly bear weighs close to seven hundred pounds
+and is nothing but muscle. You can't help but notice his gleaming fangs and
+razor-sharp claws. The last place you want to be is on his bad side. As the
+thought passes, you notice this large mound of teeth and fur seems to be
+coming toward you rather quickly. 
+~
+bear~
+ABF HNVc 0 0
+55 7 50d10+7000 0d0+0 10d4+23 claw
+-25 -25 -25 -25
+CDEFOU AB EI 0
+stand stand male 0
+AGV ABCDEFHKUV large 0
+F par J
+#28213
+wolf~
+a dire wolf~
+A vicious looking wolf is here snarling and snapping at you. 
+~
+His sleek black coat seems to hide his physical prowess very well. This
+large wolf has come to his masters aid. He darts in your direction and
+before you can blink an eye, he's already there. His mouth is wide open and
+snapping for your throat. 
+~
+wolf~
+ABF HVZc 0 0
+50 5 50d10+4500 0d0+0 5d8+19 bite
+-20 -20 -20 -20
+FHR AB ISX 0
+stand stand male 0
+AGV ACDEFKQV large 0
+F par J
+#28214
+ranger man~
+the ranger~
+A man crouches near you, blending into the surroundings. 
+~
+A stout humanoid figure crouches before you, examining some fresh tracks
+near his feet. The cowl that hides his face is covered with small twigs,
+leaves, and several blades of grass. He grips a long wooden staff in his
+right hand that appears to be tied to his forearm by thin leather straps.
+His oddly decorated armor reminds you of a tiger, only the colors are
+reversed. As he slowly stands erect, his face comes into full view. Dangling
+from his chin is a long wiry beard, though his cheeks are perfectly smooth.
+His gaze is allusive, constantly studying everything around him. 
+~
+human~
+ABT HLNVe 150 0
+56 9 50d10+7500 0d0+0 10d4+24 punch
+-26 -26 -26 -26
+CEFIJ 0 AB 0
+stand stand male 1200
+ABHMV ABCDEFGHIK medium 0
+F par J
+M kill 28201 100~
+M exall 28203 10~
+M exall 28203 1~
+M exall 28203 2~
+M exall 28203 3~
+M fight 28209 20~
+#28215
+ranger woman xenni princess~
+xenni the ranger princess~
+A vibrant woman is here strolling through the forest. 
+~
+Rugged yet beautiful, a fiery haired woman appears before you from within
+the boundaries of the trees. Always keeping a fair distance away from you,
+she wraps an arm around each tree she passes while circling around you. The
+sheathed longsword hanging from her hip looks old, but well used. She is
+here for a specific reason, though you know not what. To presume that she
+would be an easy opponent to defeat would be a grave mistake. 
+~
+human~
+ABGT DHNVce 300 0
+63 18 50d10+19500 0d0+0 8d6+48 punch
+-30 -30 -30 -30
+CDEFHIJKNOU ALX DIJNS 0
+stand stand female 1800
+AHMV ABCDEFGHIK medium 0
+F par J
+M kill 28200 100~
+M exall 28204 3~
+M exall 28204 1~
+M fight 28208 10~
+#28216
+druid~
+an ancient druid~
+An old man sits here with his eyes closed on a large stump. 
+~
+The age shows well on the face of this withered old man. His leathery
+skin sags and shows no sign of muscle beneath it. The dull green robe
+wrapped tightly around him hides most of his frail figure. Though his
+physical form has deteriorated through the years, you can still sense a
+large amount of power surging from within him. 
+~
+human~
+ABQ BDFHNTVc 0 0
+68 20 50d10+19500 0d0+0 8d6+58 pierce
+-30 -30 -30 -30
+CEFHK ABX DIJNPQS 0
+sit stand male 0
+AHMV ABCDEFGHIK medium 0
+F par J
+M fight 28206 20~
+#28217
+demon~
+the demon fiend~
+A huge winged demon is here cackling insanely. 
+~
+Before you is a huge demon from the pits of Hell. Its skin is a dull
+crimson red color that changes to black when light hits it. Its massive
+leathery wings quickly fold behind it creating a vacuum of air stealing the
+breath from you. Its huge hands could easily pick up a man by the head and
+crush his skull with a simple squeeze. Its dark black eyes begin to radiate
+with an inner heat, anger perhaps. All you know is that it's focused on you.
+~
+unique~
+AF DFHJOTVc -1000 0
+67 20 50d10+19500 0d0+0 8d6+48 digestion
+-50 -30 -30 -30
+ACDEFHIJKMNO AHLMQ CD NS
+stand stand none 0
+H ABCDEFGPQW huge 0
+M grall 28211 100~
+#0
+
+
+
+#OBJECTS
+#28200
+sliver amber key~
+an amber sliver~
+A long transparent piece of brownish-gold stone lies here.~
+amber~
+key AFQST A
+0 0 0 0 0 
+4 2 0 P
+#28201
+rod~
+a rod of teeth~
+A rod, embedded with various kinds of teeth, is here.~
+wood~
+weapon AEGJ AN
+mace 4 12 bite C 
+44 7 1552 G
+A
+3 2
+A
+12 50
+A
+18 4
+#28202
+club wood~
+a gnarled club~
+A thick twisted piece of wood lies here.~
+wood~
+weapon 0 AN
+mace 8 5 smash 0 
+22 15 12 P
+#28203
+dagger split~
+a split dagger~
+A thin dagger with a hollow blood groove the length of the blade lies here.~
+steel~
+weapon AY AN
+dagger 9 4 stab DE 
+35 2 1321 P
+A
+1 1
+A
+18 3
+A
+19 7
+A
+2 1
+#28204
+mask horned black~
+a black mask tipped with two jagged horns~
+An evil looking mask rests here cloaked in shadows beckoning you.~
+onyx~
+trash ABEGJMSTU AE
+0 0 0 0 0 
+51 1 23334 P
+F
+V 0 0 M
+F
+R 0 0 N
+A
+13 55
+#28205
+mace mist~
+the spinning mace of mist~
+A mace floats here in a uneasy aura of mist.~
+air~
+weapon ABGHKMZ AN
+mace 7 7 suction 0 
+0 0 11543 P
+A
+2 0
+A
+12 33
+A
+18 5
+A
+19 5
+#28206
+sword pain~
+The Sword of Pain~
+A deep green blade is here shoved into the ground.~
+acid~
+weapon ABEGJLMPT AN
+sword 9 5 acbite be 
+0 0 52 A
+A
+19 10
+#28207
+steel chain~
+a thick steel chain~
+A thick hoop of steel chain lies here.~
+steel~
+armor BIK AC
+11 11 11 12 0 
+33 4 122 P
+A
+1 4
+A
+18 3
+A
+19 4
+A
+17 -2
+#28208
+longsword ice~
+a thin longsword made of jagged ice~
+A blade that glows with a ghostly white radiance rests here.~
+ice~
+weapon AIKLMSY AN
+sword 14 3 frbite BD 
+53 12 2334 P
+A
+13 22
+A
+18 3
+A
+19 8
+F
+R 0 0 I
+#28209
+cloak spiked~
+a cloak covered in tiny spikes~
+A large pile of spiked leather rests in the floor.~
+leather~
+armor C AK
+9 9 9 0 0 
+41 7 211 P
+A
+2 3
+A
+18 4
+#28210
+ivory chain~
+a beautiful chain carved from ivory~
+A delicate string of ivory hoops lie coiled here.~
+ivory~
+armor ABGIKLMSY AC
+20 20 20 20 0 
+52 1 11222 P
+A
+18 3
+A
+19 3
+#28211
+fountain~
+cracked fountain~
+A bone dry fountain wastes away here.~
+stone~
+fountain 0 0
+0 0 0 0 0 
+1 999 0 P
+#28212
+sword steel~
+a plain steel sword~
+A well used steel sword rests here.~
+steel~
+weapon 0 AN
+sword 5 7 slash 0 
+22 12 22 P
+A
+18 2
+A
+19 2
+#28213
+scale shadow mail scalemail~
+some shadow scalemail~
+A pile of shadow scales are here repelling light.~
+etherealness~
+armor ACEGHJLMPSY AD
+19 19 19 19 0 
+52 1 22233 P
+A
+13 55
+A
+2 4
+A
+17 -12
+A
+18 4
+A
+19 4
+A
+20 -9
+#28214
+ivory wolf shield~
+a shield of a wolf within an ivory moon ~
+An ivory disc engraved with a wolf rests here gleaming into the sky.~
+ivory~
+armor ABGIKLST AJ
+10 10 10 20 0 
+52 11 22111 P
+F
+A 0 0 N
+A
+1 4
+A
+18 4
+A
+19 6
+#28215
+spider~
+a violet spider~
+An odd looking violet spider is here staring at you.~
+porcelain~
+gem ABEGJPSY AO
+0 0 0 0 0 
+48 1 6112 P
+A
+12 21
+A
+13 21
+A
+17 -16
+A
+20 -12
+#28216
+thorn boots~
+a pair of thorn-covered boots~
+A large pile of leather and thorns rest here.~
+leather~
+armor BGK AG
+9 9 9 11 0 
+41 4 122 P
+A
+2 -2
+A
+1 2
+A
+18 2
+A
+19 6
+A
+17 -9
+#28217
+blade~
+a hovering blade named 'Elf Slayer'~
+A thick iron blade with a figurine of an elf as the hilt lies here.~
+iron~
+weapon ABEJLM AN
+'sword' 5 8 'cleave' 0 
+46 19 5512 P
+A
+19 9
+#28218
+axe dragonheart~
+a singed axe named 'Dragonheart'~
+A small axe covered in runes is cleaved into a rock here.~
+bronze~
+weapon ABHKTY AN
+axe 7 7 flbite ADE 
+45 19 1224 P
+F
+R 0 0 H
+A
+1 2
+A
+19 6
+A
+18 6
+#28219
+helm damned~
+The helm of the Damned~
+An ancient helm created from scraps of flesh and bone sits here.~
+bone~
+armor ABCEGHMSTZ AE
+0 0 0 0 0 
+48 22 1 P
+F
+V 0 0 CD
+A
+1 -3
+A
+2 -3
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+18 -10
+A
+19 -10
+F
+A 0 0 IKd
+#28220
+claws~
+the claws of the Umber Hulk~
+A huge pair of black claws rest here.~
+bone~
+armor EJY AH
+14 12 15 0 0 
+40 24 31 P
+A
+19 8
+#28221
+dagger vengeance~
+the dagger of Vengeance~
+A double-edged dagger is here floating in a pool of blood.~
+steel~
+weapon ABEGJMY AN
+dagger 20 2 digestion DH 
+52 2 2123 P
+A
+1 2
+A
+18 8
+A
+19 8
+#28222
+staff bound~
+a leather bound staff~
+A long wooden staff lies here wrapped with strips of leather.~
+wood~
+weapon ABGMS AN
+staff 8 5 crush F 
+42 9 0 P
+A
+1 3
+A
+18 4
+A
+19 9
+#28223
+bracer ruby~
+a ruby-encrusted bracer~
+A wide bracer riddled with rubies lies here.~
+silver~
+armor ABGT AM
+12 12 12 20 0 
+46 2 5666 P
+A
+18 2
+A
+19 3
+A
+17 -10
+#28224
+orb twilight~
+the orb of Twilight Lords~
+A dark blue orb twists and folds within itself here.~
+energy~
+boat ABFGSY AOP
+0 0 0 0 0 
+52 4 0 P
+F
+A 0 0 c
+A
+20 -50
+#28225
+sleeves~
+a pair of shimmering sleeves~
+A soft pair of sleeves rest here distorting your reflection.~
+velvet~
+armor ABKSY AI
+15 15 15 20 0 
+52 1 0 P
+A
+2 5
+A
+18 10
+A
+17 -15
+A
+20 -15
+#28226
+blanket fog~
+a blanket of fog~
+Some fog has settled at your feet.~
+air~
+container AFGKY AK
+200 AC 0 3000 0 
+52 0 0 P
+F
+R 0 0 E
+A
+17 -20
+#0
+
+
+
+#ROOMS
+#28200
+The Entrance to Wild Wood~
+You step from known to unknown. Before you is a vast dark forest. As you
+peer into it you see eyes starring back at you. Eerie sounds become louder
+and louder as you step closer. Who knows what will happen to any who enter. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28201
+M 75 H 75
+D2
+You see Along the Eastern Road.
+~
+~
+0 0 3525
+S
+#28201
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north. To the south, west and east is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28202
+D2
+You see more forest. 
+~
+~
+0 0 28200
+D3
+You see more forest. 
+~
+~
+0 0 28216
+M 75 H 75
+S
+#28202
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and east. To the north and west are your only exits. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28203
+D3
+You see more forest. 
+~
+~
+0 0 28201
+M 75 H 75
+S
+#28203
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28213
+D1
+You see more forest. 
+~
+~
+0 0 28204
+D2
+You see more forest. 
+~
+~
+0 0 28202
+D3
+You see more forest. 
+~
+~
+0 0 28218
+M 75 H 75
+S
+#28204
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28208
+D2
+You see more forest. 
+~
+~
+0 0 28205
+D3
+You see more forest. 
+~
+~
+0 0 28203
+M 75 H 75
+S
+#28205
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and west. To the north and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28204
+D1
+You see a break in the forest. 
+~
+~
+0 0 28206
+M 75 H 75
+S
+#28206
+A Small Path~
+In every direction you see nothing but trees and various plants. The
+faint path beneath your feet gives you some feeling of comfort, but not
+much. Screams and chattering echo around you. The plants move closer and
+closer. There is no light here. It has been totally blocked out by the dark
+canopy of foliage above you. You feel very unsafe here. Fallen trees and
+dense undergrowth have blocked your path to the north and east. To the south
+the path opens wider into a clearing. To the west is Wild Wood. 
+~
+0 1 3
+D2
+You see lots and lots of dying plants. 
+~
+~
+0 0 28207
+D3
+You see more forest. 
+~
+~
+0 0 28205
+M 75 H 75
+S
+#28207
+An Overgrown Dead Garden~
+The stench of rotting vegetables engulfs the area. Vines crackle and snap
+with each step you take. It appears that no one has tended this place in
+some time. The uneasy calm breaks as a high pitched screech howls from the
+north. The dried up fountain in the center of the garden is covered in dust
+and dead leaves. Small gardening tools appear to be scattered around your
+feet, most of them deteriorated and barely recognizable. To the east and
+west you can see the outer boundries of the Wild Wood. To the north there
+lies a small path into the darkness. 
+~
+0 0 2
+D0
+You see a small path. 
+~
+~
+0 0 28206
+M 75 H 75
+S
+#28208
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28214
+D1
+You see more forest. 
+~
+~
+0 0 28209
+D2
+You see more forest. 
+~
+~
+0 0 28204
+D3
+You see more forest. 
+~
+~
+0 0 28213
+M 75 H 75
+S
+#28209
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north and south. To the east and west is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28210
+D3
+You see more fores. 
+~
+~
+0 0 28208
+M 75 H 75
+S
+#28210
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and east. To the north and west is Wild Wood. 
+~
+0 1 3
+D0
+You see something, but not sure what. 
+~
+~
+0 0 28211
+D3
+You see more forest. 
+~
+~
+0 0 28209
+M 75 H 75
+S
+#28211
+Before a Thatched Hut~
+You stand before a small hut. The first thing that draws your eye are the
+large spears sticking through most of the outer walls. Blood covers the
+entryway as does severed body parts. A slow but repetitious creaking sound
+can be heard from inside the hut. You squint to try and look inside, but to
+no avail. Fallen trees and dense undergrowth have blocked your path to the
+north and west. To the south is Wild Wood. The entrance to the hut lies to
+the east. 
+~
+0 1 3
+D1
+You see a dark room. 
+~
+~
+1 0 28212
+D2
+You see more forest. 
+~
+~
+0 0 28210
+M 75 H 75
+S
+#28212
+Inside the Bloody Hut~
+You slip and slide across the blood-covered floor. As you regain your
+balance, you almost trip over a dismembered corpse floating haphazardly
+around the room. The grim faces of the slain victims stare at you from every
+direction, each telling you a different suffering bestowed upon them before
+death. A small child is impaled on the eastern wall with what appears to be
+the bone from his father's leg. No two were tortured in the same way. Half
+of a woman hangs dangling from the ceiling and the other half, split yet
+again, lies on each side of the table. The rope sings a chilling tune as it
+sways. This is a sickening sight indeed. To the west leads you back outside
+into the forest. 
+~
+0 8 0
+D3
+You see more forest. 
+~
+~
+1 0 28211
+S
+#28213
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28215
+D1
+You see more forest. 
+~
+~
+0 0 28208
+D2
+You see more forest. 
+~
+~
+0 0 28203
+D3
+You see more forest. 
+~
+~
+0 0 28219
+M 75 H 75
+S
+#28214
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east and west. To the north and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28221
+D2
+You see more forest. 
+~
+~
+0 0 28208
+M 75 H 75
+S
+#28215
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28222
+D2
+You see more forest. 
+~
+~
+0 0 28213
+D3
+You see more forest. 
+~
+~
+0 0 28223
+M 75 H 75
+S
+#28216
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and west. To the north and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28217
+D1
+You see more forest. 
+~
+~
+0 0 28201
+M 75 H 75
+S
+#28217
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28220
+D1
+You see more forest. 
+~
+~
+0 0 28218
+D2
+You see more forest. 
+~
+~
+0 0 28216
+M 75 H 75
+S
+#28218
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south. To the north, west and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28219
+D1
+You see more forest. 
+~
+~
+0 0 28203
+D3
+You see more forest. 
+~
+~
+0 0 28217
+M 75 H 75
+S
+#28219
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28223
+D1
+You see more forest. 
+~
+~
+0 0 28213
+D2
+You see more forest. 
+~
+~
+0 0 28218
+D3
+You see more forest. 
+~
+~
+0 0 28220
+M 75 H 75
+S
+#28220
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28225
+D1
+You see more forest. 
+~
+~
+0 0 28219
+D2
+You see more forest. 
+~
+~
+0 0 28217
+D3
+You see more forest. 
+~
+~
+0 0 28239
+M 75 H 75
+S
+#28221
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28230
+D2
+You see more forest. 
+~
+~
+0 0 28214
+D3
+You see more forest. 
+~
+~
+0 0 28222
+M 75 H 75
+S
+#28222
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28229
+D1
+You see more forest. 
+~
+~
+0 0 28221
+D2
+You see more forest. 
+~
+~
+0 0 28215
+D3
+You see a large clearing. 
+~
+~
+0 0 28224
+M 75 H 75
+S
+#28223
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see a large clearing. 
+~
+~
+0 0 28224
+D1
+You see more forest. 
+~
+~
+0 0 28215
+D2
+You see more forest. 
+~
+~
+0 0 28219
+D3
+You see more forest. 
+~
+~
+0 0 28225
+M 75 H 75
+S
+#28224
+A Large Clearing~
+It doesn't seem possible that the forest doesn't grow here too. You stand
+in the middle of a large clearing. Numerous campfires have been made here.
+You look up and see the open sky. Around the outskirts of the clearing the
+forest still beckons you. You can enter the Wild Wood from the north, south,
+east or west. 
+~
+0 0 2
+D0
+You see more forest. 
+~
+~
+0 0 28228
+D1
+You see more forest. 
+~
+~
+0 0 28222
+D2
+You see more forest. 
+~
+~
+0 0 28223
+D3
+You see more forest. 
+~
+~
+0 0 28226
+M 125 H 125
+S
+#28225
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28226
+D1
+You see more forest. 
+~
+~
+0 0 28223
+D2
+You see more forest. 
+~
+~
+0 0 28220
+D3
+You see more forest. 
+~
+~
+0 0 28238
+M 75 H 75
+S
+#28226
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28227
+D1
+You see a large clearing. 
+~
+~
+0 0 28224
+D2
+You see more forest. 
+~
+~
+0 0 28225
+M 75 H 75
+S
+#28227
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28234
+D1
+You see more forest. 
+~
+~
+0 0 28228
+D2
+You see more forest. 
+~
+~
+0 0 28226
+M 75 H 75
+S
+#28228
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28233
+D1
+You see more forest. 
+~
+~
+0 0 28229
+D2
+You see a large clearing. 
+~
+~
+0 0 28224
+D3
+You see more forest. 
+~
+~
+0 0 28227
+M 75 H 75
+S
+#28229
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28232
+D1
+You see more forest. 
+~
+~
+0 0 28230
+D2
+You see more forest. 
+~
+~
+0 0 28222
+D3
+You see more forest. 
+~
+~
+0 0 28228
+M 75 H 75
+S
+#28230
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28231
+D2
+You see more forest. 
+~
+~
+0 0 28221
+D3
+You see more forest. 
+~
+~
+0 0 28229
+M 75 H 75
+S
+#28231
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north. To the west and south is Wild Wood. To the east lies a thick
+briar patch. 
+~
+0 1 3
+D1
+You see a weaving mass of briars. 
+~
+briars east~
+3 0 28310
+D2
+You see more forest. 
+~
+~
+0 0 28230
+D3
+You see more forest. 
+~
+~
+0 0 28232
+M 75 H 75
+S
+#28232
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the west, east and south is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28231
+D2
+You see more forest. 
+~
+~
+0 0 28229
+D3
+You see more forest. 
+~
+~
+0 0 28233
+M 75 H 75
+S
+#28233
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the west, east and south is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28232
+D2
+You see more forest. 
+~
+~
+0 0 28228
+D3
+You see more forest. 
+~
+~
+0 0 28234
+M 75 H 75
+S
+#28234
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the west, east and south is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28233
+D2
+You see more forest. 
+~
+~
+0 0 28227
+D3
+You see more forest. 
+~
+~
+0 0 28235
+M 75 H 75
+S
+#28235
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the west, east and south is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28234
+D2
+You see more forest. 
+~
+~
+0 0 28236
+D3
+You see more forest. 
+~
+~
+0 0 28241
+M 75 H 75
+S
+#28236
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28235
+D2
+You see more forest. 
+~
+~
+0 0 28237
+D3
+You see more forest. 
+~
+~
+0 0 28242
+M 75 H 75
+S
+#28237
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28236
+D2
+You see more forest. 
+~
+~
+0 0 28238
+D3
+You see more forest. 
+~
+~
+0 0 28243
+M 75 H 75
+S
+#28238
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28237
+D1
+You see more forest. 
+~
+~
+0 0 28225
+D2
+You see more forest. 
+~
+~
+0 0 28239
+D3
+You see more forest. 
+~
+~
+0 0 28244
+M 75 H 75
+S
+#28239
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28238
+D1
+You see more forest. 
+~
+~
+0 0 28220
+D2
+You see more forest. 
+~
+~
+0 0 28240
+M 75 H 75
+S
+#28240
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and east. To the north and west is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28239
+D3
+You see more forest. 
+~
+~
+0 0 28246
+M 75 H 75
+S
+#28241
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+
+~
+~
+0 0 28265
+D1
+You see more forest. 
+~
+~
+0 0 28235
+D2
+You see more forest. 
+~
+~
+0 0 28242
+D3
+You see more forest. 
+~
+~
+0 0 28247
+M 75 H 75
+S
+#28242
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28241
+D1
+You see more forest. 
+~
+~
+0 0 28236
+D2
+You see more forest. 
+~
+~
+0 0 28243
+D3
+You see more forest. 
+~
+~
+0 0 28248
+M 75 H 75
+S
+#28243
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28242
+D1
+You see more forest. 
+~
+~
+0 0 28237
+D2
+You see more forest. 
+~
+~
+0 0 28244
+D3
+You see more forest. 
+~
+~
+0 0 28249
+M 75 H 75
+S
+#28244
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28243
+D1
+You see more forest. 
+~
+~
+0 0 28238
+D2
+You see more forest. 
+~
+~
+0 0 28245
+D3
+You see more forest. 
+~
+~
+0 0 28250
+M 75 H 75
+S
+#28245
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, west and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28244
+D2
+You see more forest. 
+~
+~
+0 0 28246
+D3
+You see more forest. 
+~
+~
+0 0 28251
+M 75 H 75
+S
+#28246
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28245
+D1
+You see more forest. 
+~
+~
+0 0 28240
+D2
+
+~
+~
+0 0 28263
+D3
+You see more forest. 
+~
+~
+0 0 28252
+M 75 H 75
+S
+#28247
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28253
+D1
+You see more forest. 
+~
+~
+0 0 28241
+D2
+You see more forest. 
+~
+~
+0 0 28248
+D3
+You see more forest. 
+~
+~
+0 0 28255
+M 75 H 75
+S
+#28248
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28247
+D1
+You see more forest. 
+~
+~
+0 0 28242
+D2
+You see more forest. 
+~
+~
+0 0 28249
+D3
+You see more forest. 
+~
+~
+0 0 28256
+M 75 H 75
+S
+#28249
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28248
+D1
+You see more forest. 
+~
+~
+0 0 28243
+D2
+You see more forest. 
+~
+~
+0 0 28250
+M 75 H 75
+S
+#28250
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28249
+D1
+You see more forest. 
+~
+~
+0 0 28244
+D2
+You see more forest. 
+~
+~
+0 0 28251
+M 75 H 75
+S
+#28251
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28250
+D1
+You see more forest. 
+~
+~
+0 0 28245
+D2
+You see more forest. 
+~
+~
+0 0 28252
+M 75 H 75
+S
+#28252
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28251
+D1
+You see more forest. 
+~
+~
+0 0 28246
+D2
+You see more forest. 
+~
+~
+0 0 28262
+D3
+You see more forest. 
+~
+~
+0 0 28260
+M 75 H 75
+S
+#28253
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north and east. To the south and west is Wild Wood. 
+~
+0 1 3
+D2
+You see more forest. 
+~
+~
+0 0 28247
+D3
+You see more forest. 
+~
+~
+0 0 28254
+M 75 H 75
+S
+#28254
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north and west. To the south and east is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28253
+D2
+You see more forest. 
+~
+~
+0 0 28255
+M 75 H 75
+S
+#28255
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28254
+D1
+You see more forest. 
+~
+~
+0 0 28247
+D2
+You see more forest. 
+~
+~
+0 0 28256
+D3
+
+~
+~
+0 0 28267
+M 75 H 75
+S
+#28256
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28255
+D1
+You see more forest. 
+~
+~
+0 0 28248
+D2
+
+~
+~
+0 0 28257
+M 75 H 75
+S
+#28257
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east and west. To the north and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28256
+D2
+You see more forest. 
+~
+~
+0 0 28258
+M 75 H 75
+S
+#28258
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. A large mound of earth lies to the west behind some boulders. To
+the north and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28257
+D2
+You see more forest. 
+~
+~
+0 0 28259
+D3
+
+~
+stone door~
+3 0 28311
+M 75 H 75
+S
+#28259
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east and west. To the north and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28258
+D2
+You see more forest. 
+~
+~
+0 0 28260
+S
+#28260
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28259
+D1
+You see more forest. 
+~
+~
+0 0 28252
+D2
+You see more forest. 
+~
+~
+0 0 28261
+M 75 H 75
+S
+#28261
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and west. To the north and east is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28260
+D1
+You see more forest. 
+~
+~
+0 0 28262
+M 75 H 75
+S
+#28262
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28252
+D1
+You see more forest. 
+~
+~
+0 0 28263
+D3
+You see more forest. 
+~
+~
+0 0 28261
+M 75 H 75
+S
+#28263
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28246
+D1
+You see more forest. 
+~
+~
+0 0 28264
+D2
+You see a darker more dangerous forest. 
+~
+~
+0 0 28271
+D3
+You see more forest. 
+~
+~
+0 0 28262
+M 75 H 75
+S
+#28264
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north and east. To the south and west is Wild Wood. 
+~
+0 1 3
+D2
+You see a darker more dangerous forest. 
+~
+~
+0 0 28270
+D3
+You see more forest. 
+~
+~
+0 0 28263
+M 75 H 75
+S
+#28265
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west and east. To the north and south is Wild Wood. 
+~
+0 1 3
+D0
+You see more forest. 
+~
+~
+0 0 28266
+D2
+You see more forest. 
+~
+~
+0 0 28241
+M 75 H 75
+S
+#28266
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north and east. To the south and west is Wild Wood. 
+~
+0 1 3
+D1
+
+~
+~
+0 0 28268
+D2
+You see more forest. 
+~
+~
+0 0 28265
+M 75 H 75
+S
+#28267
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is a piercing light breaking
+through the forest here. It warms the center of this area, giving everything
+the blessings of hope. Fallen trees and dense undergrowth have blocked your
+path to the north and south. To the north and south is Wild Wood. 
+~
+0 1 3
+D1
+You see more forest. 
+~
+~
+0 0 28255
+D4
+You can see the sky. 
+~
+~
+0 0 28272
+M 75 H 75
+S
+#28268
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and east. To the north is something a bit odd. To the west is Wild
+Wood. 
+~
+0 1 3
+D0
+You see a circle of dead trees. 
+~
+~
+0 0 28269
+D3
+You see more forest. 
+~
+~
+0 0 28266
+M 75 H 75
+S
+#28269
+Surrounding a Black Cauldron~
+Dead trees, scattered like toothpicks, line the forest floor around a
+rather large black iron cauldron. Beneath the cauldron is a magical fire of
+black flame snapping and flickering as though it knows that you have come.
+Hundreds of glowing eyes glare at you from just within the depths of the
+darkness. Around your feet lie large pieces of flesh. Each piece depicts a
+different set of runes that have been carved into them. A gurgling murmur
+from within the cauldron draws your attention back towards the center of the
+area. To the south you see the Wild Wood. 
+~
+0 1 4
+D2
+You see more forest. 
+~
+~
+0 0 28268
+M 75 H 75
+S
+#28270
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, south and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see lighter forest. 
+~
+~
+0 0 28264
+D2
+You see a dark forest. 
+~
+~
+0 0 28273
+D3
+You see a dark forest. 
+~
+~
+0 0 28271
+M 50 H 50
+S
+#28271
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. 
+~
+0 8193 3
+D0
+You see a lighter forest. 
+~
+~
+0 0 28263
+D1
+You see a dark forest. 
+~
+~
+0 0 28270
+D2
+You see a dark forest. 
+~
+~
+0 0 28278
+D3
+You see a dark forest. 
+~
+~
+0 0 28279
+M 50 H 50
+S
+#28272
+Above the Wild Wood~
+You stand on top of the Wild Wood. You can see a city to the northeast,
+just beyond the forest. Occasional flashes of light and the clanging of
+metal can barely be noticed from this distance. Might there be a battle in
+progress within the walls? Below, the forest reaches to pull you back into
+its clutches. 
+~
+0 512 9
+D5
+You see more forest. 
+~
+~
+0 0 28267
+M 120 H 120
+S
+#28273
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, south and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28270
+D2
+You see a dark forest. 
+~
+~
+0 0 28274
+D3
+You see a dark forest. 
+~
+~
+0 0 28278
+M 50 H 50
+S
+#28274
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east. To the north, south and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28273
+D2
+You see a dark forest. 
+~
+~
+0 0 28275
+D3
+You see a dark forest. 
+~
+~
+0 0 28277
+M 50 H 50
+S
+#28275
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east and south. To the north and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28274
+D3
+You see a dark forest. 
+~
+~
+0 0 28276
+S
+#28276
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south. To the north, east and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28277
+D1
+You see a dark forest. 
+~
+~
+0 0 28275
+D3
+You see a dark forest. 
+~
+~
+0 0 28282
+M 50 H 50
+S
+#28277
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28278
+D1
+You see a dark forest. 
+~
+~
+0 0 28274
+D2
+You see a dark forest. 
+~
+~
+0 0 28276
+D3
+You see a dark forest. 
+~
+~
+0 0 28281
+M 50 H 50
+S
+#28278
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28271
+D1
+You see a dark forest. 
+~
+~
+0 0 28273
+D2
+You see a dark forest. 
+~
+~
+0 0 28277
+D3
+You see a dark forest. 
+~
+~
+0 0 28280
+M 50 H 50
+S
+#28279
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north. To the south, west and east is Wild Wood. 
+~
+0 8193 3
+D1
+You see a dark forest. 
+~
+~
+0 0 28271
+D2
+You see a dark forest. 
+~
+~
+0 0 28280
+D3
+You see a dark forest. 
+~
+~
+0 0 28287
+M 50 H 50
+S
+#28280
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28279
+D1
+You see a dark forest. 
+~
+~
+0 0 28278
+D2
+You see a dark forest. 
+~
+~
+0 0 28281
+D3
+You see a dark forest. 
+~
+~
+0 0 28286
+M 50 H 50
+S
+#28281
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28280
+D1
+You see a dark forest. 
+~
+~
+0 0 28277
+D2
+You see a dark forest. 
+~
+~
+0 0 28282
+D3
+You see a dark forest. 
+~
+~
+0 0 28285
+M 50 H 50
+S
+#28282
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south. To the north, east and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28281
+D1
+You see a dark forest. 
+~
+~
+0 0 28276
+D3
+You see a dark forest. 
+~
+~
+0 0 28283
+M 50 H 50
+S
+#28283
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28285
+D1
+You see a dark forest. 
+~
+~
+0 0 28282
+D2
+You see a dark forest. 
+~
+~
+0 0 28284
+D3
+You see a dark forest. 
+~
+~
+0 0 28289
+M 50 H 50
+S
+#28284
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the east and south. To the north and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28283
+D3
+You see a dark forest. 
+~
+~
+0 0 28288
+M 50 H 50
+S
+#28285
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28286
+D1
+You see a dark forest. 
+~
+~
+0 0 28281
+D2
+You see a dark forest. 
+~
+~
+0 0 28283
+D3
+You see a dark forest. 
+~
+~
+0 0 28290
+M 50 H 50
+S
+#28286
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28287
+D1
+You see a dark forest. 
+~
+~
+0 0 28280
+D2
+You see a dark forest. 
+~
+~
+0 0 28285
+D3
+You see a dark forest. 
+~
+~
+0 0 28291
+M 50 H 50
+S
+#28287
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north. To the south, west and east is Wild Wood. 
+~
+0 8193 3
+D1
+You see a dark forest. 
+~
+~
+0 0 28279
+D2
+You see a dark forest. 
+~
+~
+0 0 28286
+D3
+You see a dark forest. 
+~
+~
+0 0 28292
+M 50 H 50
+S
+#28288
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south. To the north, east and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28289
+D1
+You see a dark forest. 
+~
+~
+0 0 28284
+D3
+You see a dark forest. 
+~
+~
+0 0 28294
+M 50 H 50
+S
+#28289
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28290
+D1
+You see a dark forest. 
+~
+~
+0 0 28283
+D2
+You see a dark forest. 
+~
+~
+0 0 28288
+D3
+You see a dark forest. 
+~
+~
+0 0 28295
+M 50 H 50
+S
+#28290
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28291
+D1
+You see a dark forest. 
+~
+~
+0 0 28285
+D2
+You see a dark forest. 
+~
+~
+0 0 28289
+D3
+You see a dark forest. 
+~
+~
+0 0 28296
+M 50 H 50
+S
+#28291
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north. To the south, west and east is Wild Wood. 
+~
+0 8193 3
+D1
+You see a dark forest. 
+~
+~
+0 0 28286
+D2
+You see a dark forest. 
+~
+~
+0 0 28290
+D3
+You see a dark forest. 
+~
+~
+0 0 28297
+M 50 H 50
+S
+#28292
+The Wild Wood~
+
+~
+0 8193 3
+D0
+You see a huge pile of bones. 
+~
+~
+0 0 28293
+D1
+You see a dark forest. 
+~
+~
+0 0 28287
+M 50 H 50
+S
+#28293
+On the Bone Pile~
+In the center of this large open space is a huge pile of bones. Some
+bones are still whole, where others have been gnawed upon and splintered.
+Various kinds of skulls lie within the pile. The stench of rotting flesh
+puts you on the edge of vomitting as you gag more than once. A half-eaten
+dead elf rolls down from the top of the pile towards you. His intestines get
+caught in a dwarf's ribcage making him look like a rolling ball of yarn,
+with his guts trailing after him. A deep sucking sound oozes from the corpse
+as it hits the ground at your feet. 
+~
+0 8193 3
+D2
+You see a dark forest. 
+~
+~
+0 0 28292
+M 50 H 50
+S
+#28294
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south. To the north, east and west is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28295
+D1
+You see a dark forest. 
+~
+~
+0 0 28288
+D3
+You see a dark forest. 
+~
+~
+0 0 28303
+M 50 H 50
+S
+#28295
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28296
+D1
+You see a dark forest. 
+~
+~
+0 0 28289
+D2
+You see a dark forest. 
+~
+~
+0 0 28294
+D3
+You see a dark forest. 
+~
+~
+0 0 28302
+M 50 H 50
+S
+#28296
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28297
+D1
+You see a dark forest. 
+~
+~
+0 0 28290
+D2
+You see a dark forest. 
+~
+~
+0 0 28295
+D3
+You see a dark forest. 
+~
+~
+0 0 28301
+M 50 H 50
+S
+#28297
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28298
+D1
+You see a dark forest. 
+~
+~
+0 0 28291
+D2
+You see a dark forest. 
+~
+~
+0 0 28296
+D3
+You see a dark forest. 
+~
+~
+0 0 28300
+M 50 H 50
+S
+#28298
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north and east. To the south and west is Wild Wood. 
+~
+0 8193 3
+D2
+You see a dark forest. 
+~
+~
+0 0 28297
+D3
+You see a dark forest. 
+~
+~
+0 0 28299
+M 50 H 50
+S
+#28299
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the north. To the south, west and east is Wild Wood. 
+~
+0 8193 3
+D1
+You see a dark forest. 
+~
+~
+0 0 28298
+D2
+You see a dark forest. 
+~
+~
+0 0 28300
+D3
+You see a dark forest. 
+~
+~
+0 0 28304
+M 50 H 50
+S
+#28300
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28299
+D1
+You see a dark forest. 
+~
+~
+0 0 28297
+D2
+You see a dark forest. 
+~
+~
+0 0 28301
+M 50 H 50
+S
+#28301
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28300
+D1
+You see a dark forest. 
+~
+~
+0 0 28296
+D2
+You see a dark forest. 
+~
+~
+0 0 28302
+M 50 H 50
+S
+#28302
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28301
+D1
+You see a dark forest. 
+~
+~
+0 0 28295
+D2
+You see a dark forest. 
+~
+~
+0 0 28303
+D3
+You see a dark forest. 
+~
+~
+0 0 28307
+M 50 H 50
+S
+#28303
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and west. To the north and east is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28302
+D1
+You see a dark forest. 
+~
+~
+0 0 28294
+M 50 H 50
+S
+#28304
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 8193 3
+D0
+You see more forest. 
+~
+~
+0 0 28216
+D1
+You see a dark forest. 
+~
+~
+0 0 28299
+D2
+You see a dark forest. 
+~
+~
+0 0 28305
+M 50 H 50
+S
+#28305
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the west. To the north, south and east is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28304
+D1
+You see a dark forest. 
+~
+~
+0 0 28300
+D2
+You see a dark forest. 
+~
+~
+0 0 28306
+M 50 H 50
+S
+#28306
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. All directions lead you through the Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28305
+D1
+You see a dark forest. 
+~
+~
+0 0 28301
+D2
+You see a dark forest. 
+~
+~
+0 0 28307
+D3
+
+~
+~
+0 0 28308
+M 50 H 50
+S
+#28307
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and west. To the north and east is Wild Wood. 
+~
+0 8193 3
+D0
+You see a dark forest. 
+~
+~
+0 0 28306
+D1
+You see a dark forest. 
+~
+~
+0 0 28302
+M 50 H 50
+S
+#28308
+The Wild Wood~
+In every direction you see nothing but trees and various plants. You
+can't tell from where you just came. Screams and chattering echo around you.
+The plants move closer and closer. There is no light here. It has been
+totally blocked out by the dark canopy of foliage above you. You feel very
+unsafe here. Fallen trees and dense undergrowth have blocked your path to
+the south and west. A small shrine appears to be to the north. To the east
+is Wild Wood. 
+~
+0 8193 3
+D1
+You see a dark forest. 
+~
+~
+0 0 28306
+D2
+
+~
+~
+0 0 28309
+M 50 H 50
+S
+#28309
+A Desolate Shrine~
+Eight weathered pillars encircle a center stone slab within this
+partially cleared meadow. On the slab, there is a large ivory statue of a
+kneeling woman, untouched by time, reaching for the sky with one arm, while
+her other hand appears to be shoved into the ground before her. Her
+expressionless face seems more lifelike than any statue you have ever seen
+before. Two giant stone beasts crouch respectively on either side of the
+altar. Each stares attentively at the statue between them. Unlike the forest
+surrounding you on all sides, this small humble shrine seems to be well
+tended and free of any evil taint. To the north you see the Wild Wood. 
+~
+0 8193 2
+D0
+You see a dark forest. 
+~
+~
+0 0 28308
+S
+#28310
+Within the Briar Patch~
+You attempt to stand within a jagged briar patch. Each step you take rips
+and tears at your clothing and body. Unlike most briars you've ever seen,
+these seem to be stronger as though they're made of metal. A dead kobold
+hangs suspended from the ground not far to your left. Slowly the briars
+begin to move around you, cutting through your skin. To the west you can
+make out the forest. To the north is nothing but more briars. 
+~
+0 8717 3
+D0
+You see nothing but more briars. 
+~
+~
+0 0 28312
+D3
+You see the forest. 
+~
+briars west~
+3 0 28231
+M 30 H 30
+S
+#28311
+Inside a Dark Cave~
+Walls of clawed stone surround you on all sides. A large pool in the
+center of the room ripples as drops of water fall from the ceiling. A few
+half eaten bodies lie around the room aging like fine wine. To the east is
+Wild Wood. 
+~
+0 8201 0
+D1
+You see more forest. 
+~
+stone door~
+3 0 28258
+S
+#28312
+Within the Briar Patch~
+You attempt to stand within a jagged briar patch. Each step you take rips
+and tears at your clothing and body. Unlike most briars you've ever seen,
+these seem to be stronger as though they're made of metal. A dead kobold
+hangs suspended from the ground not far to your left. Slowly the briars
+begin to move around you, cutting through your skin. To the north is nothing
+but more briars. To the east you see a small path leading out of the briar
+patch. 
+~
+0 8205 3
+D1
+You see a small path. 
+~
+~
+0 0 28313
+D2
+You see nothing but more briars. 
+~
+~
+0 0 28310
+M 30 H 30
+S
+#28313
+The Beginning of a Stream~
+Near your feet, a small stream trickles from the rocks to the south. The
+stream flows north into a nice size wading pool. You can make out the faint
+smell of something burning to the north, beyond what appears to be the walls
+of a city. To the east you can see a magnificent tree bursting through the
+forest almost reaching the heavens. To the west there is an opening into the
+briar patch. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 28316
+D1
+
+~
+~
+0 0 28314
+D3
+
+~
+~
+0 0 28312
+S
+#28314
+Before a Giant Oak Tree~
+You attempt to stand within a jagged briar patch. Each step you take rips
+and tears at your clothing and body. Unlike most briars you've ever seen,
+these seem to be stronger as though they're made of metal. A dead kobold
+hangs suspended from the ground not far to your left. Slowly the briars
+begin to move around you, cutting through your skin. To the west you can
+make out the forest. To the north is nothing but more briars. 
+~
+0 0 2
+D1
+You see a very large oak tree. 
+~
+bark door~
+4 28200 28315
+D3
+You see a small stream. 
+~
+~
+0 0 28313
+S
+#28315
+The Druid Sanctum~
+You stand in a large opened area within the oak tree. Hundreds of tiny
+fairies fly away from you and up the shaft of the tree. To the center there
+seems to be some kind of chair made from the earth surrounding it. Vines,
+leaves, even the soil has been melded together to form this weird looking
+seat. The power emanating from here is incredible. 
+~
+0 8201 0
+D3
+You see a large mass of bark. 
+~
+bark door~
+4 28200 28314
+S
+#28316
+Next to a Wading Pool~
+A clear pool of water reflects the light back up onto the bottom sides of
+the surrounding trees. Small ripples form as a frog jumps from the edge into
+the pool and disappears into the depths. A paranoid sparrow takes to flight
+as you draw near. To the south you can see the stream that feeds the pool.
+To the north you can see the walls of a city. 
+~
+0 0 2
+D0
+You see a path winding in the direction of a city. 
+~
+~
+0 0 28317
+D2
+You see the beginning of a stream. 
+~
+~
+0 0 28313
+S
+#28317
+On the Path~
+You stand on a path around the outskirts of the city walls. The massive
+wall stretches far to the east and west. You can't help but wonder what is
+going on on the other side of this obsticle blocking your sight into the
+city beyond. A distinct burning odor catches your attention as you get
+closer and closer. An odd smell, like that of a burning animal. To the east
+you can see the southern entrance to the city. To the south you can see a
+pool of water. 
+~
+0 8192 2
+D1
+
+~
+~
+0 0 28318
+D2
+You see a small stream. 
+~
+~
+0 0 28316
+S
+#28318
+Outside the South Gate~
+An eleborate archway carved entirely from stone bridges the walls
+surrounding the city. Suspended before you are two extremely thick iron
+gates, through which you can glimpse into the city. There seem to be no
+guards attending the gate. A path follows the city walls to the west. The
+city of Myth Drannor lies to the north. 
+~
+0 0 1
+D3
+You see a path winding away from the city. 
+~
+~
+0 0 28317
+S
+#28319
+Within the Spirit Realm~
+
+~
+0 8712 0
+S
+#0
+
+
+
+#RESETS
+M 0 28201 4 28202 1
+E 0 28212 0 16
+R 0 28203 4
+R 0 28204 3
+M 0 28209 8 28204 1
+O 0 28211 0 28207
+M 0 28200 1 28207 1
+E 0 28221 0 16
+E 0 28223 0 14
+R 0 28208 4
+M 0 28207 6 28209 1
+E 0 28209 0 3
+E 0 28203 0 16
+M 0 28217 1 28212 1
+E 0 28206 0 16
+G 0 28200 1
+R 0 28213 4
+M 0 28205 6 28215 1
+E 0 28202 0 16
+M 0 28207 6 28216 1
+E 0 28209 0 3
+E 0 28212 0 16
+M 0 28201 4 28218 1
+E 0 28203 0 16
+R 0 28219 4
+M 0 28210 8 28219 1
+R 0 28220 4
+R 0 28221 3
+M 0 28204 7 28221 1
+R 0 28222 4
+R 0 28223 4
+R 0 28225 4
+R 0 28228 4
+M 0 28201 4 28228 1
+E 0 28203 0 16
+R 0 28229 4
+R 0 28230 3
+M 0 28207 6 28231 1
+E 0 28212 0 16
+E 0 28209 0 3
+D 0 28231 1 1
+R 0 28232 3
+R 0 28233 3
+M 0 28210 8 28233 1
+R 0 28234 3
+R 0 28235 3
+M 0 28201 4 28236 1
+E 0 28203 0 16
+R 0 28238 4
+M 0 28209 8 28238 1
+M 0 28209 8 28238 1
+M 0 28207 6 28239 1
+E 0 28212 0 16
+E 0 28209 0 3
+M 0 28210 1 28240 1
+R 0 28241 4
+R 0 28242 4
+M 0 28207 6 28242 1
+E 0 28209 0 3
+E 0 28212 0 16
+R 0 28243 4
+R 0 28244 4
+R 0 28246 4
+R 0 28247 4
+M 0 28214 3 28247 1
+E 0 28222 0 16
+E 0 28207 0 3
+R 0 28248 4
+R 0 28250 3
+R 0 28251 3
+M 0 28209 8 28251 1
+R 0 28252 4
+R 0 28253 2
+M 0 28209 8 28254 1
+R 0 28255 4
+M 0 28204 7 28257 1
+D 0 28258 3 1
+M 0 28209 8 28259 1
+M 0 28207 6 28261 1
+E 0 28212 0 16
+E 0 28209 0 3
+R 0 28263 4
+M 0 28205 6 28263 1
+E 0 28202 0 16
+R 0 28264 2
+M 0 28205 6 28265 1
+E 0 28201 0 16
+M 0 28206 1 28267 1
+M 0 28208 3 28269 1
+E 0 28204 0 6
+M 0 28208 3 28269 1
+E 0 28215 0 17
+M 0 28208 3 28269 1
+G 0 28219 4
+R 0 28270 3
+M 0 28214 3 28270 1
+E 0 28222 0 16
+E 0 28207 0 3
+R 0 28271 4
+R 0 28274 3
+M 0 28210 8 28274 1
+R 0 28276 3
+R 0 28277 4
+M 0 28205 6 28277 1
+E 0 28202 0 16
+R 0 28278 4
+M 0 28210 8 28278 1
+R 0 28279 3
+M 0 28204 7 28279 1
+R 0 28280 4
+R 0 28281 4
+M 0 28209 8 28282 1
+M 0 28204 7 28285 1
+R 0 28286 4
+R 0 28287 3
+R 0 28288 3
+R 0 28289 4
+M 0 28205 6 28289 1
+E 0 28202 0 16
+M 0 28210 8 28291 1
+M 0 28203 1 28293 1
+G 0 28213 8
+G 0 28205 10
+R 0 28294 3
+M 0 28210 8 28294 1
+R 0 28295 4
+R 0 28296 4
+M 0 28210 8 28296 1
+M 0 28205 6 28297 1
+E 0 28201 0 16
+R 0 28299 3
+M 0 28204 7 28299 1
+M 0 28204 7 28299 1
+R 0 28300 4
+R 0 28301 4
+R 0 28302 4
+M 0 28204 7 28302 1
+M 0 28209 8 28302 1
+M 0 28214 3 28303 1
+E 0 28222 0 16
+E 0 28207 0 3
+R 0 28305 3
+R 0 28306 4
+M 0 28210 8 28306 1
+E 0 28217 0 16
+D 0 28310 3 1
+M 0 28202 1 28311 1
+E 0 28220 0 9
+D 0 28311 1 1
+M 0 28215 1 28314 1
+E 0 28210 0 3
+E 0 28214 0 11
+E 0 28208 6 16
+D 0 28314 1 2
+M 0 28216 1 28315 1
+E 0 28226 0 12
+E 0 28216 0 8
+E 0 28218 0 16
+D 0 28315 3 2
+M 0 28211 1 28319 1
+E 0 28225 0 10
+E 0 28224 0 17
+S
+
+#SPECIALS
+S
+
+#MOBPROGS
+#28200
+mob echo Your attention draws toward a low rumbling sound approaching you.
+mob echo Two large bears burst through the underbrush.
+mob mload 28212
+mob mload 28212
+~
+#28201
+yell Wolves, come to my aid!
+mob echo The leaves rustle as two wolves appear from nowhere.
+mob mload 28213
+mob mload 28213 
+~
+#28202
+mob echoat $n $I reaches into your chest and grasps your heart tightly.
+mob echoat $n Time seems to stop as the overwhelming pain surges through you.
+mob echoat $n As your heart explodes within her clenched fist, she leans
+mob echoat $n forward and whispers into your ear, "You are nothing..."
+mob echoat $n The darkness overcomes you and the voices fade away.
+mob echoaround $I leans forward thrusting her hand into the chest of $N.
+mob echoaround $N face becomes blanched as $e falls to the ground.. lifeless.
+mobkill $n
+~
+#28203
+mob purge wolf
+mob purge wolf
+camo 
+~
+#28204
+mob purge bear
+mob purge bear
+camo
+~
+#28205
+mob cast 'power word stun' $n
+~
+#28206
+mob cast 'dispel magic' $n
+~
+#28207
+get 1.
+~
+#28208
+flurry
+~
+#28209
+pugil
+~
+#28210
+mob cast 'evil eye' $n
+~
+#28211
+mob echoat A veil of darkness overcomes you.
+mob echoaround $N collapses to the floor, asleep.
+mob force $n sleep
+cleave $n
+~
+#28212
+mob echo The spirit of Shymna bursts into the room sending debri everywhere.
+mob damage all 200 400
+~
+#28213
+crush
+bite
+~
+#0
+
+#$

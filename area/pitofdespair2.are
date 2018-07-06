@@ -1,0 +1,2347 @@
+#AREADATA
+Name The Pit of Despair~
+Builders None~
+VNUMs 28100 28199
+Credits {40 51} Lichen  The Pit of Despair~
+Security 9
+End
+
+
+
+#MOBILES
+#28100
+demon creature pit~
+A pit demon~
+A small demon intensely looks around with burning eyes.
+~
+You look at the demon and it immediately looks back at you hungrily wanting 
+to taste your blood.
+~
+goblin~
+AFGT DJ -200 0
+48 4 25d10+3750 0d0+0 6d6+18 scratch
+-18 -18 -18 -18
+FNR 0 LQ CN
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#28101
+man prisoner~
+A tortured man~
+A man covered in dried blood is lying here at the brink of death.
+~
+A dying man is here on the ground begging for the pain to stop. His pain 
+somewhat clouds his vision as he screams out loud at the walls.
+~
+human~
+AG J 0 0
+40 7 15d10+1000 0d0+0 4d8+13 punch
+-13 -13 -13 -13
+FI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28102
+woman tortured prisoner~
+A tortured woman~
+A woman is here lying on the ground gasping to her last breath of life.
+~
+A woman lies here after being brutally beaten and tortured. She is here 
+caked in blood and covered with scars from drawn out torture.
+~
+human~
+AG J 0 0
+40 7 15d10+1000 0d0+0 4d8+13 punch
+-13 -13 -13 -13
+FI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28103
+slave child boy~
+A slave child~
+A little boy in shackles awaits the orders of his masters.
+~
+A little boy clad in shackles is here before you. Tears fill his eyes as he 
+cries for his mommy and daddy.
+~
+human~
+AGH J 0 0
+25 12 5d10+550 0d0+0 2d10+7 punch
+-7 -7 -7 -7
+FI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28104
+zombie man prisoner~
+A wandering zombie~
+A man in tattered clothing walks aimlessly down the hallway.
+~
+Looking at this man, you see that he is no longer a normal living breathing 
+person. After being tortured to death some sort of magic keeps him alive to 
+endure the pain for even longer.
+~
+human~
+AGO J -100 0
+35 9 10d10+1300 0d0+0 4d7+11 pound
+-12 -12 -12 -12
+CFI ALQR M HNS
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28105
+goblin messenger~
+A goblin messenger~
+A small goblin with a piece of paper in hand runs along the corridor.
+~
+A small goblin is here hurrying along as if he has an urgent message to 
+deliver.
+~
+goblin~
+AGT J -100 0
+38 8 10d10+1600 0d0+0 5d6+12 bite
+-13 -13 -13 -13
+FIN 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28106
+man Madhatter mad ~
+The Mad Hatter~
+An insane man stands here with a large hat and a huge studded cane.
+~
+A man stands here covered in a colorful clothes and a large psychadelic hat. 
+An evil grin covers his face as he looks at you and then looks at his tools.
+~
+human~
+AFGR DFHJOT -500 0
+60 1 50d10+9500 30d10+2000 8d6+28 smash
+-30 -30 -30 -30
+AFHK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28107
+man mad scientist~
+The Mad Scientist~
+A man wearing crooked glasses and an overcoat stands here whooping madly.
+~
+A lunatic man stands here wearing a large overcoat talking to his pet head 
+and sharpening a new toy he is preparting for the master.
+~
+human~
+AFGR DFHJO -300 0
+58 1 50d10+8500 20d10+1500 5d10+25 stab
+-28 -28 -28 -28
+AFHK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28108
+lady ariel woman~
+Lady Ariel~
+A young woman of royalty stands here shackled to the wall.
+~
+An elven woman stands here before you looking surprisingly calm considering 
+her situation. She is currently shackled and looking in your direction, 
+somewhat relieved.
+~
+elf~
+AGHQ DHJNP 400 0
+51 4 50d10+5000 30d10+2000 5d8+20 slap
+-25 -25 -25 -25
+AFHKQ 0 BH Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#28109
+lord henson man~
+Lord Henson~
+A noble man stands here shackled against his will.
+~
+A man is here held against his will. His once royal clothing now is torn and 
+tattered looking no more extraordinary than rags. Nevertheless he holds a 
+smile even though he know what awaits him for today.
+~
+elf~
+AGT DHJNP 400 0
+56 2 50d10+7500 20d10+1000 10d4+24 punch
+-26 -26 -26 -26
+ACFHKOQ 0 BH Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28110
+bounty hunter man~
+A bounty hunter~
+A large ogre stands before you covered in pelts of wild animals.
+~
+A large ogre stands before you covered in pelts of wild animals. He looks 
+around and sniffs the air gathering your scent in case you escape.
+~
+unique~
+AFGT DF -200 0
+55 2 50d10+7000 0d0+0 12d4+25 smash
+-40 -40 -40 -50
+AFHKOR 0 0 0
+stand stand male 0
+0 0 large 0
+#28111
+wolf twoheaded pet~
+A two headed wolf~
+A large two headed wolf stands here with saliva dripping from his mouth.
+~
+Looking at this wolf strikes fear in your heart. You've never seen such a 
+ferocious pet.
+~
+unique~
+AFGT DF -200 0
+52 0 50d10+5500 0d0+0 6d9+20 bite
+-22 -22 -22 -22
+ACFHR 0 0 0
+stand stand male 0
+0 0 medium 0
+#28112
+herbalist man~
+An herbalist~
+A man is here concoting potions for his employer.
+~
+A small and older man sits here around a table brewing his herbal remedies 
+and other special elixirs.
+~
+dwarf~
+AGS DJP 0 0
+40 7 15d10+1850 0d0+0 4d8+13 slap
+-13 -13 -13 -13
+FIK 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK small 0
+#28113
+healer~
+A healer of the sanctuary~
+A healer stands here in the sanctuary awaiting your request.
+~
+Looking at the healer, you are overwhelmed with comfort and safety. He 
+motions to you to have a seat and he will tend to your wounds.
+~
+human~
+ABGa DFHN 400 0
+51 0 50d10+5000 50d10+5000 4d8+1 punch
+0 0 0 0
+FKQ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28114
+rieden man~
+Rieden~
+A man sits here in a deep trance, oblivious to the world.
+~
+A man sits here in a deep trance, oblivious to the world. He looks extremely 
+tranquil.
+~
+human~
+ABGQ DFN 200 0
+30 11 6d12+853 0d0+0 4d6+8 punch
+-9 -9 -9 -9
+FHK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#28100
+bone old~
+an old bone~
+An old bone lies here on the ground.~
+bone~
+trash S AO
+0 0 0 0 0
+1 1 0 W
+E
+bone~
+The bone looks like left overs from an unlucky victim.~
+#28101
+torn fleshy arm~
+a torn fleshy arm~
+An fleshy arm has been left on the ground.~
+bone~
+trash S AN
+0 0 0 0 0
+5 2 0 P
+#28102
+skull old~
+an old skull~
+An old skull lies here on the ground.~
+bone~
+trash S AN
+0 0 0 0 0
+1 2 0 P
+#28103
+corpse~
+a decaying corpse~
+The corpse of an unlucky person lies here covered with flies.~
+bone~
+trash S 0
+0 0 0 0 0
+1 40 0 W
+#28104
+scales demonic~
+a set of demonic scales~
+A set of demonic scales lies here on the ground.~
+red dragonscale~
+armor BS AI
+10 10 10 10 0
+40 3 0 P
+A
+1 2
+A
+19 2
+A
+2 2
+#28105
+cloth rags~
+Some torn cloth rags~
+Some torn clothing is lying here on the ground.~
+linen~
+armor MS AK
+5 5 5 5 0
+30 4 0 P
+A
+14 50
+A
+9 10
+A
+17 -10
+#28106
+sandals old~
+a pair of sandals~
+A pair of old sandals are lying here on the ground.~
+hard leather~
+armor GS AG
+5 5 5 5 0
+35 5 0 P
+A
+2 1
+A
+23 -5
+A
+14 40
+#28107
+potion swirling red~
+a swirling red potion~
+A flask of swirling liquid lies here on the ground.~
+glass~
+potion GSTcde A
+55 'cure blindness' 'cure disease' '' ''
+51 2 0 P
+#28108
+potion swirling green~
+a swirling green potion~
+A flask of swirling green liquid lies here on the ground.~
+glass~
+potion GSTcde A
+55 'giant strength' 'fly' '' ''
+51 2 0 P
+#28109
+red herbs~
+some red herbs~
+A clump of red herbs are here lying in a bundle.~
+food~
+pill BGSTcde A
+55 'cure critical' 'cure critical' 'cure critical' ''
+51 5 0 P
+#28110
+note paper~
+a small note~
+A small piece of paper covered with writing waits to be read.~
+paper~
+trash QST A
+0 0 0 0 0
+10 1 0 P
+E
+note words~
+You look at the note and it reads....."Mi'lord it seems that the man Rieden 
+has found the sanctuary to the pit. I think it is too late for us to do away 
+with him......
+~
+#28111
+hat psychadelic ~
+A psychadelic hat~
+A large and colorful hat lies here on the floormaking you feel euphoric.~
+linen~
+armor ABGST AE
+15 15 15 15 0
+51 10 0 P
+A
+1 -1
+A
+3 -1
+A
+12 50
+A
+17 -10
+A
+24 -3
+L
+40
+#28112
+stockings striped red~
+a pair of red striped stockings~
+A pair of red striped stockings lies here crumpled on the ground.~
+linen~
+armor BEGST AF
+14 14 14 14 0
+51 8 0 P
+A
+12 40
+A
+18 5
+A
+17 -5
+F
+R 0 0 Q
+L
+2
+#28113
+red orange brimmed hat~
+A red and orange brimmed hat~
+A brimmed hat with red and orange stripes has been left on the ground.~
+linen~
+armor GQSTY AE
+10 10 10 30 0
+45 6 0 P
+A
+19 4
+A
+18 2
+A
+13 30
+F
+A 0 0 B
+L
+2
+#28114
+blue green visor hat~
+a blue and green visor~
+A blue and green visor has been left here on the ground.~
+linen~
+armor AQSTY AE
+14 14 8 8 0
+0 5 0 P
+A
+1 3
+A
+12 25
+A
+13 25
+A
+24 -8
+#28115
+fuzzy red sash~
+A red fuzzy sash~
+A fuzzy red sash has been dropped here on the ground.~
+felt~
+armor BST AL
+10 10 10 10 0
+48 8 0 P
+A
+19 6
+A
+18 -2
+A
+24 8
+F
+A 0 0 O
+L
+2
+#28116
+cane staff wooden~
+a wooden cane~
+A large wooden cane with an orb on top lies here against a rock.~
+wood~
+staff BST AO
+50 10 6 'stone skin' 0
+48 2 0 P
+L
+5
+#28117
+bone talisman~
+a bone talisman~
+An ornate talisman lies here waiting for someone to pick it up.~
+bone~
+armor EGHST AC
+15 15 15 15 0
+48 1 0 P
+A
+2 2
+A
+24 -5
+A
+18 2
+A
+19 4
+F
+I 0 0 L
+L
+2
+#28118
+ring hope~
+Hope~
+A large golden ring with the words, "Hope" engraved on it hovers in the air 
+before you.~
+gold~
+armor ABKTY AB
+7 7 7 15 0
+51 1 0 P
+A
+24 -5
+A
+12 50
+A
+13 50
+F
+R 0 0 M
+L
+1
+#28119
+glory ring~
+Glory~
+A large golden ring with the words, "Glory" engraved on it hovers in the air 
+before you.~
+gold~
+armor ABKT AB
+7 7 7 15 0
+51 1 0 P
+A
+1 2
+A
+19 5
+A
+18 5
+L
+4
+#28120
+pelt wolf~
+pelt of a black wolf~
+A large piece of fur has been left here before you.~
+fur~
+armor STY AC
+9 9 9 9 0
+40 5 0 P
+A
+13 10
+A
+14 10
+A
+17 -20
+#28121
+collar hunter~
+A hunter's collar~
+A spiked collar has been left here carelessly.~
+bronze~
+armor ETY AC
+5 5 5 5 0
+45 6 0 P
+A
+3 2
+A
+13 20
+A
+19 3
+#0
+
+
+
+#ROOMS
+#28100
+A downward spiral~
+You are standing on a small spiral staircase leading down into the 
+blackness. The edges of the pit are jagged and charred by some sort of 
+intense fire. Looking around you can see that some small bits of fire allow 
+a little illumination as the stairs go deeper into the ground.
+~
+0 8 0
+D4
+~
+~
+0 -1 24482
+D5
+~
+~
+0 -1 28101
+S
+#28101
+A downward spiral~
+You are standing on a small spiral staircase leading down into the 
+blackness. The edges of the pit are jagged and charred by some sort of 
+intense fire. Looking around you can see that some small bits of fire allow 
+a little illumination as the stairs go deeper into the ground.
+~
+0 8 0
+D4
+~
+~
+0 -1 28100
+D5
+~
+~
+0 -1 28102
+S
+#28102
+A downward spiral~
+You are standing on a small spiral staircase leading down into the 
+blackness. The edges of the pit are jagged and charred by some sort of 
+intense fire. Looking around you can see that some small bits of fire allow 
+a little illumination as the stairs go deeper into the ground.
+~
+0 8 0
+D4
+~
+~
+0 -1 28101
+D5
+~
+~
+0 -1 28103
+S
+#28103
+A downward spiral~
+You are standing on a small spiral staircase leading down into the 
+blackness. The edges of the pit are jagged and charred by some sort of 
+intense fire. Looking around you can see that some small bits of fire allow 
+a little illumination as the stairs go deeper into the ground.
+~
+0 8 0
+D4
+~
+~
+0 -1 28102
+D5
+~
+~
+0 -1 28104
+S
+#28104
+A downward spiral~
+You are standing on a small spiral staircase leading down into the 
+blackness. The edges of the pit are jagged and charred by some sort of 
+intense fire. Looking around you can see that some small bits of fire allow 
+a little illumination as the stairs go deeper into the ground.
+~
+0 8 0
+D4
+~
+~
+0 -1 28103
+D5
+~
+~
+0 -1 28105
+S
+#28105
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28106
+D3
+~
+~
+0 -1 28144
+D4
+~
+~
+0 -1 28104
+S
+#28106
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28107
+D3
+~
+~
+0 -1 28105
+S
+#28107
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28108
+D3
+~
+~
+0 -1 28106
+S
+#28108
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28109
+D3
+~
+~
+0 -1 28107
+S
+#28109
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28110
+D3
+~
+~
+0 -1 28108
+S
+#28110
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D2
+~
+~
+0 -1 28111
+D3
+~
+~
+0 -1 28109
+S
+#28111
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28110
+D3
+~
+~
+0 -1 28112
+S
+#28112
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28111
+D3
+~
+~
+0 -1 28113
+S
+#28113
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28112
+D2
+~
+~
+0 -1 28114
+S
+#28114
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28113
+D2
+~
+~
+0 -1 28115
+S
+#28115
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28114
+D2
+~
+~
+0 -1 28116
+S
+#28116
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28115
+D1
+~
+~
+0 -1 28117
+S
+#28117
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28118
+D3
+~
+~
+0 -1 28116
+S
+#28118
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D2
+~
+~
+0 -1 28119
+D3
+~
+~
+0 -1 28117
+S
+#28119
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28118
+D2
+~
+~
+0 -1 28120
+S
+#28120
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28119
+D3
+~
+~
+0 -1 28121
+S
+#28121
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28120
+D3
+~
+~
+0 -1 28122
+S
+#28122
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28121
+D3
+~
+~
+0 -1 28123
+S
+#28123
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28122
+D3
+~
+~
+0 -1 28124
+S
+#28124
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28123
+D3
+~
+~
+0 -1 28125
+S
+#28125
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.  You notice to the north of this room that
+there is a wooden door with iron bars.
+~
+0 8 0
+E
+door bars iron~
+Looking this door, you notice that the bars have claw and scratch marks all 
+through them. Someone evidentally enjoy their visit here and tried to 
+escape.~
+D0
+~
+~
+1 -1 28145
+D1
+~
+~
+0 -1 28124
+D3
+~
+~
+0 -1 28126
+S
+#28126
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28125
+D3
+~
+~
+0 -1 28127
+S
+#28127
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28126
+D3
+~
+~
+0 -1 28128
+S
+#28128
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28127
+D3
+~
+~
+0 -1 28129
+S
+#28129
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28128
+D3
+~
+~
+0 -1 28130
+S
+#28130
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28131
+D1
+~
+~
+0 -1 28129
+S
+#28131
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28132
+D2
+~
+~
+0 -1 28130
+S
+#28132
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28133
+D2
+~
+~
+0 -1 28131
+S
+#28133
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28134
+D3
+~
+~
+0 -1 28132
+S
+#28134
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28135
+D3
+~
+~
+0 -1 28133
+S
+#28135
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28136
+D2
+~
+~
+0 -1 28134
+S
+#28136
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28137
+D2
+~
+~
+0 -1 28135
+S
+#28137
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D2
+~
+~
+0 -1 28136
+D3
+~
+~
+0 -1 28138
+S
+#28138
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28137
+D3
+~
+~
+0 -1 28139
+S
+#28139
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D0
+~
+~
+0 -1 28140
+D1
+~
+~
+0 -1 28138
+S
+#28140
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28141
+D2
+~
+~
+0 -1 28139
+S
+#28141
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28142
+D3
+~
+~
+0 -1 28140
+S
+#28142
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28143
+D3
+~
+~
+0 -1 28141
+S
+#28143
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28144
+D3
+~
+~
+0 -1 28142
+S
+#28144
+A dimly lit corridor~
+On the first level of this pit, you can see that many people have
+used this place before, but no one can be seen around in the
+hallways. In the distance you can hear the sounds of clanking metal,
+whips, and muffled screams. On the floor you can see where people have 
+scuffed away the once smooth stone walkways leaving only a mixture of
+dirt and crushed rock. The walls on both sides show a series of iron
+rings caked in dried blood.
+~
+0 8 0
+D1
+~
+~
+0 -1 28105
+D3
+~
+~
+0 -1 28143
+S
+#28145
+A small room ~
+You are standing inside a small room before the entrance to the second level 
+of this prison. The muffled screams now sound as if they are pain induced. 
+One set of laughter can be heard clearly over the chorus of painful screams.
+~
+0 8 0
+D0
+~
+~
+0 -1 28146
+D2
+~
+~
+1 -1 28125
+S
+#28146
+A small staircase~
+Walking into this room you see a set of stairs going deeper into the pit. 
+The darkness has gotten more intense and the air has become foul with the 
+smell of decaying flesh. You can hear people begging for them to be put out 
+of their misery.
+~
+0 8 0
+D2
+~
+~
+0 -1 28145
+D5
+~
+~
+0 -1 28147
+S
+#28147
+Entering the lower levels~
+At this point of the dungeon, the air is almost too foul for you too breathe 
+in. Unlike the level above, this place looks like a slaughter house. Remains 
+of unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration.  The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain. Perhaps you should investigate further into the area
+to see what lies behind this all.
+~
+0 8 0
+D2
+~
+~
+0 -1 28148
+D4
+~
+~
+0 -1 28146
+S
+#28148
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28147
+D2
+~
+~
+0 -1 28149
+S
+#28149
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28148
+D2
+~
+~
+0 -1 28150
+S
+#28150
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28149
+D1
+~
+~
+0 -1 28151
+D3
+~
+~
+0 -1 28173
+S
+#28151
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28152
+D3
+~
+~
+0 -1 28150
+S
+#28152
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+1 -1 28174
+D1
+~
+~
+0 -1 28153
+D3
+~
+~
+0 -1 28151
+S
+#28153
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28154
+D3
+~
+~
+0 -1 28152
+S
+#28154
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D2
+~
+~
+0 -1 28155
+D3
+~
+~
+0 -1 28153
+S
+#28155
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28154
+D2
+~
+~
+0 -1 28156
+S
+#28156
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.  To the east you see a door covered in bars and
+magical runes.
+~
+0 8 0
+D0
+~
+~
+0 -1 28155
+D1
+~
+~
+1 -1 28175
+D2
+~
+~
+0 -1 28157
+S
+#28157
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28156
+D2
+~
+~
+0 -1 28158
+S
+#28158
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28157
+D3
+~
+~
+0 -1 28159
+S
+#28159
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28158
+D3
+~
+~
+0 -1 28160
+S
+#28160
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+1 -1 28176
+D1
+~
+~
+0 -1 28159
+D2
+~
+~
+1 -1 28177
+D3
+~
+~
+0 -1 28161
+S
+#28161
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28160
+D3
+~
+~
+0 -1 28162
+S
+#28162
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.  To north you see a large iron door with a name
+engraved on it. To the south you see a large wooden door with a barred
+window.
+~
+0 8 0
+E
+name sign~
+You see a name carved into the top of the door reading...."Room of the 
+Madhatter".~
+D0
+~
+~
+1 -1 28178
+D1
+~
+~
+0 -1 28161
+D2
+~
+~
+1 -1 28179
+D3
+~
+~
+0 -1 28163
+S
+#28163
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28162
+D3
+~
+~
+0 -1 28164
+S
+#28164
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.  To north and south are doors with barred windows.
+~
+0 8 0
+D0
+~
+~
+1 -1 28180
+D1
+~
+~
+0 -1 28163
+D2
+~
+~
+1 -1 28181
+D3
+~
+~
+0 -1 28165
+S
+#28165
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28164
+D3
+~
+~
+0 -1 28166
+S
+#28166
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28167
+D1
+~
+~
+0 -1 28165
+S
+#28167
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28168
+D2
+~
+~
+0 -1 28166
+S
+#28168
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.  To the west you see a large door with no windows.
+~
+0 8 0
+D0
+~
+~
+0 -1 28169
+D2
+~
+~
+0 -1 28167
+D3
+~
+~
+1 -1 28182
+S
+#28169
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D0
+~
+~
+0 -1 28170
+D2
+~
+~
+0 -1 28168
+S
+#28170
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28171
+D2
+~
+~
+0 -1 28169
+S
+#28171
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28172
+D3
+~
+~
+0 -1 28170
+S
+#28172
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.  You see a door covered in blood to the north of you.
+~
+0 8 0
+D0
+~
+~
+1 -1 28183
+D1
+~
+~
+0 -1 28173
+D3
+~
+~
+0 -1 28171
+S
+#28173
+The realm of the sadist~
+The air here is almost too foul for you too breathe in without vomiting. 
+Unlike the level above, this place looks like a slaughter house. Remains of 
+unfortunate prisoners line the walls and floors like a gruesome type of 
+decoration. The screams are clear now and coming from all directions. Men,
+women, and children are yelling out pleads for mercy yet they are answered
+only with more pain.
+~
+0 8 0
+D1
+~
+~
+0 -1 28150
+D3
+~
+~
+0 -1 28172
+S
+#28174
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D2
+~
+~
+1 -1 28152
+S
+#28175
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D3
+~
+~
+1 -1 28156
+S
+#28176
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D2
+~
+~
+1 -1 28160
+S
+#28177
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D0
+~
+~
+1 -1 28160
+S
+#28178
+Madhatter's private room~
+This room is much larger than the other prison rooms you have seen around 
+this place. Also, this room is covered in psychadelic hues of red and orange 
+with exotic flowers all around. A special rack lies in the center of the 
+room with a series of wenches and pulleys connected by razor edged wire. 
+Small embers of fire can be seen underneath the table itself giving the
+person participating on the table a warm and cozy feeling. Weapons of all
+types line the walls all showing years and years of use. On one side the
+room is a series of hooks in the wall used for hanging up whatever the
+Madhatter desires.  Currently the majority of them are holding hats as
+well as heads.
+~
+0 8 0
+D2
+~
+~
+1 -1 28162
+S
+#28179
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D0
+~
+~
+1 -1 28162
+S
+#28180
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D2
+~
+~
+1 -1 28164
+S
+#28181
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D0
+~
+~
+1 -1 28164
+S
+#28182
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D1
+~
+~
+1 -1 28168
+S
+#28183
+A prison room~
+You are standing inside an average size room adorned with a long wooden bed, 
+and a table covered in a series of devices made strictly for prolonged 
+torture. Along the walls of this room are old and tattered ropes used to 
+hold victims who were lucky enough to be next after the person on the table 
+was done being toyed with.
+~
+0 8 0
+D2
+~
+~
+1 -1 28172
+S
+#28184
+The sanctuary~
+In the midst of this pit a place of peace and security magically appeared. 
+Inside this room, an overwhelming comfort allows you to relax with little
+to no worries.
+~
+0 8 0
+D2
+~
+~
+0 -1 28185
+M 200 H 200
+S
+#28185
+The sanctuary~
+In the midst of this pit a place of peace and security magically appeared. 
+Inside this room, an overwhelming comfort allows you to relax with little
+to no worries.
+~
+0 8200 0
+D0
+~
+~
+0 -1 28184
+D2
+~
+~
+0 -1 28186
+M 200 H 200
+S
+#28186
+The sanctuary~
+In the midst of this pit a place of peace and security magically appeared. 
+Inside this room, an overwhelming comfort allows you to relax with little
+to no worries.
+~
+0 8200 0
+D0
+~
+~
+0 -1 28185
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+M 28106 spec_cast_mage
+M 28107 spec_cast_mage
+M 28108 spec_cast_adept
+M 28109 spec_cast_mage
+M 28110 spec_poison
+M 28111 spec_poison
+M 28112 spec_janitor
+S
+
+
+
+#RESETS
+D 0 28125 0 1
+D 0 28145 2 1
+D 0 28152 0 1
+D 0 28156 1 1
+D 0 28160 0 1
+D 0 28160 2 1
+D 0 28162 0 1
+D 0 28162 2 1
+D 0 28164 0 1
+D 0 28164 2 1
+D 0 28168 3 1
+D 0 28172 0 1
+D 0 28177 0 1
+D 0 28179 0 1
+D 0 28181 0 1
+M 0 28100 36 28106 2
+E 0 28104 0 10
+M 0 28100 2 28107 36
+M 0 28100 36 28108 2
+M 0 28100 36 28111 2
+E 0 28104 0 10
+M 0 28100 36 28114 1
+M 0 28100 36 28115 1
+M 0 28100 36 28118 2
+M 0 28100 36 28120 2
+E 0 28104 0 10
+M 0 28100 36 28121 2
+M 0 28100 36 28123 2
+M 0 28100 36 28125 2
+M 0 28100 36 28127 2
+M 0 28100 36 28129 2
+M 0 28100 36 28130 2
+M 0 28100 36 28132 2
+M 0 28100 36 28135 2
+E 0 28104 0 10
+M 0 28100 36 28136 2
+M 0 28100 36 28140 2
+M 0 28100 36 28141 2
+O 0 28102 0 28150
+O 0 28101 0 28153
+M 0 28105 1 28154 1
+G 0 28110 0
+O 0 28100 0 28157
+O 0 28102 0 28161
+O 0 28101 0 28165
+O 0 28102 0 28170
+O 0 28101 0 28172
+M 0 28101 2 28174 1
+E 0 28105 0 12
+M 0 28102 3 28174 1
+E 0 28105 0 12
+M 0 28103 3 28175 2
+M 0 28108 1 28176 1
+E 0 28118 0 1
+M 0 28102 3 28177 1
+E 0 28105 0 12
+M 0 28103 3 28177 1
+M 0 28106 1 28178 1
+E 0 28111 0 6
+E 0 28112 0 7
+E 0 28115 0 13
+E 0 28116 0 17
+G 0 28113 0
+G 0 28114 0
+M 0 28110 1 28179 1
+E 0 28120 0 3
+M 0 28111 1 28179 1
+E 0 28121 0 3
+E 0 28121 0 4
+M 0 28107 1 28180 1
+E 0 28117 0 3
+M 0 28109 1 28181 1
+E 0 28119 0 1
+M 0 28112 1 28182 1
+G 0 28107 0
+G 0 28108 0
+G 0 28109 0
+G 0 28109 0
+M 0 28101 2 28183 1
+E 0 28106 0 8
+M 0 28102 3 28183 1
+E 0 28105 0 12
+M 0 28114 1 28184 1
+M 0 28113 1 28186 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

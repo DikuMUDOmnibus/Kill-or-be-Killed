@@ -1,0 +1,384 @@
+#AREADATA
+Name Knight Cabal~
+Builders None~
+VNUMs 4500 4515
+Credits {CABAL} Dev     Knight Castle~
+Security 9
+End
+
+
+
+#MOBILES
+#4500
+healer adept~
+a Healer~
+A healer of the Knights is here to heal you.
+~
+He is an old, wise cleric blessing his old friends of Knights against
+their fight to Shadow.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#4501
+golden guard knight protector~
+The Golden Knight~
+A shining knight garbed in pure gold stands guard here.
+~
+He is wearing a complete set of bright gold body armor.
+~
+human~
+ABTWde DFHJNVbc 1000 0
+60 40 1d1+4999 1d200+1600 10d20+30 searing
+-20 -20 -20 -20
+AFHKNU ABN 0 E
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0
+#4505
+knight templar~
+the Knight Templar~
+A knight in golden armor prepares to defend his liege.
+~
+He is standing calmly, waiting for his liege lord to give him an order.
+~
+human~
+AJTW DFJNTVc 1000 0
+51 20 1d1+8999 1d1+1 10d10+30 searing
+-20 -20 -20 -20
+ACFHKN ABN 0 E
+stand stand male 5000
+AHMV ABCDEFGHIJK large 0
+#0
+
+
+
+#OBJECTS
+#4500
+key small golden~
+a small golden key~
+A small golden key is on the ground.~
+gold~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#4501
+altar~
+the altar~
+There is a huge golden altar in the middle of the room.~
+gold~
+container ORY P
+10 ABCD 4500 15 100
+60 1 20 P
+#4502
+code honor~
+the code of honor~
+The code of honor is here.~
+gold~
+treasure O AO
+0 0 0 0 0
+60 1 100000 P
+C
+2
+L
+1
+#4503
+golden claymore sword scimitar blade rapier broadsword cutlass~
+a Golden Sword~
+A shiny gold sword is resting on the ground.~
+iron~
+weapon ABIKLPTW AN
+sword 8 7 searing 0
+52 50 0 P
+F
+A 0 0 C
+A
+19 5
+A
+18 5
+R
+Y
+#4504
+golden dagger~
+a golden dagger~
+There is a shiny golden dagger on the ground.~
+gold~
+weapon AIKLPTW AN
+dagger 7 7 pierce D
+20 60 0 P
+#4505
+golden mace~
+a golden mace~
+A shiny gold mace is on the ground.~
+gold~
+weapon AIKLPTW AN
+mace 7 7 crush 0
+20 10 0 P
+#4506
+golden dragonplate plate armor battle~
+ornately crafted golden battle armor~
+A shining set of dragonplate lies on the floor.~
+gold~
+armor ABGIKLY AD
+20 20 20 20 2
+52 250 10000 P
+A
+23 -10
+A
+13 60
+A
+24 -10
+A
+4 2
+A
+3 2
+A
+1 2
+A
+18 8
+A
+19 8
+R
+Y
+#4507
+shield rose white~
+a Shield of {WWhite{x Roses~
+A beautiful shield of {Wwhite{x rose lies here.~
+light~
+armor AKL AJ
+10 10 10 10 0
+51 10 10000 P
+A
+19 3
+A
+18 3
+R
+Y
+#0
+
+
+
+#ROOMS
+#4500
+The Entrance~
+You are standing at the entrance of a greater hall.  You see many trainee
+knights walking around.  The hall seems to be lying to the north.  South 
+leaves the enterance into the citadel.
+~
+0 8388616 0
+D0
+The doorway looks leading to a great hall.
+~
+~
+0 -1 4501
+D2
+This way leads outside to the citadel.
+~
+~
+1 -1 697
+S
+#4501
+Inside the Great Hall~
+This hall connects to three rooms at north, west and east. Beside all doors
+there are bright knight armors placed like guarding the doorways.
+~
+0 8388616 0
+D0
+That room is the altar.
+~
+~
+0 -1 4504
+D1
+A sign on the door reads: 'Squire Barracks'.
+~
+~
+0 -1 4502
+D2
+Entrance hall can be seen.
+~
+~
+0 -1 4500
+D3
+An oak door protects the storage room.
+~
+~
+0 -1 4503
+S
+#4502
+Squire Barracks~
+This room is for the trainee squires to rest and sleep.
+~
+0 8388616 0
+D3
+Doorway to the greater hall.
+~
+~
+0 -1 4501
+S
+#4503
+Storage Room~
+You are inside the storge room of Knights of Thera.  Some heavily used 
+swords and armors are tossed aside.  This room generally fills with 
+equipment, when cabal wars happen.
+~
+0 8388616 0
+D1
+Doorway to the greater hall.
+~
+~
+0 -1 4501
+S
+#4504
+The Altar~
+You stand beside the huge golden altar.  One other side a heavy rag of 
+cleric is found.  On the north wall the code of Knights is carved.
+~
+0 8388616 0
+D2
+Doorway to the greater hall.
+~
+~
+0 -1 4501
+S
+#4510
+The Arena~
+This large, open room houses tools of combat, while affording free space for
+combatants to duel comfortably. Several benches lie to the side for spectators,
+while the center is roped off so that no interference takes place. The doors
+to the rest of the knight castle seem to have been locked when the duel began,
+to prevent interference.
+~
+0 5251084 0
+D0
+~
+~
+0 0 4511
+D2
+~
+~
+0 0 4515
+S
+#4511
+The Arena~
+This large, open room houses tools of combat, while affording free space
+for combatants to duel comfortably.  Several benches lie to the side for
+spectators, while the center is roped off so that no interference takes
+place.  
+~
+0 4726788 0
+D0
+~
+~
+0 0 4515
+D1
+~
+~
+0 0 4512
+D2
+~
+~
+0 0 4510
+D3
+~
+~
+0 0 4513
+S
+#4512
+~
+This large, open room houses tools of combat, while affording free space
+for combatants to duel comfortably.  Several benches lie to the side for
+spectators, while the center is roped off so that no interference takes
+place.  
+~
+0 4726788 0
+D0
+~
+~
+0 0 4515
+D2
+~
+~
+0 0 4510
+D3
+~
+~
+0 0 4511
+S
+#4513
+~
+This large, open room houses tools of combat, while affording free space
+for combatants to duel comfortably.  Several benches lie to the side for
+spectators, while the center is roped off so that no interference takes
+place.  
+~
+0 4726788 0
+D0
+~
+~
+0 0 4515
+D1
+~
+~
+0 0 4511
+D2
+~
+~
+0 0 4510
+S
+#4515
+~
+This large, open room houses tools of combat, while affording free space
+for combatants to duel comfortably.  Several benches lie to the side for
+spectators, while the center is roped off so that no interference takes
+place.  
+~
+0 4726788 0
+D0
+~
+~
+0 0 4510
+D1
+~
+~
+0 0 4512
+D2
+~
+~
+0 0 4511
+D3
+~
+~
+0 0 4513
+S
+#0
+
+
+
+#SPECIALS
+M 4501 spec_golden_knight
+M 4505 spec_templar
+S
+
+
+
+#RESETS
+M 0 4501 1 4500 1
+G 0 4502 0
+M 0 4500 1 4504 1
+O 0 4501 0 4504
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

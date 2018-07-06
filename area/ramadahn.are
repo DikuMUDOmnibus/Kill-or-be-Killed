@@ -1,0 +1,4547 @@
+#AREADATA
+Name Ramadahn~
+Builders None~
+VNUMs 28500 28750
+Credits { All } Deomanix Ramadahn~
+Security 9
+End
+
+
+
+#MOBILES
+#28500
+silver knight~
+a silver knight~
+A knight clad in silver armor guards his post.
+~
+The knight peers intently at you.
+~
+human~
+ABGT 0 1000 0
+30 0 6d12+853 0d0+0 4d6+8 slice
+-9 -9 -9 -9
+CDEFP 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#28501
+boy small~
+a small boy~
+A small boy is here playing in the street.
+~
+He giggles and smiles at you.
+~
+human~
+AGT 0 0 0
+5 0 2d6+60 0d0+0 1d6+1 slap
+5 5 5 5
+J 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK small 0
+#28502
+small girl~
+a small girl~
+A small girl is here playing with her friends.
+~
+She smiles at you warmly.
+~
+human~
+AGS 0 0 0
+5 0 2d6+60 0d0+0 1d6+1 slap
+5 5 5 5
+J 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small 0
+#28503
+cityguard guard~
+a cityguard~
+A cityguard patrols the area.
+~
+He glares at you sternly.
+~
+human~
+AGT 0 0 0
+20 0 3d9+333 0d0+0 2d8+5 slash
+-4 -4 -4 -4
+CDEFJP 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium 0
+#28504
+captain henry~
+Captain Henry~
+The Captain of the cityguards is here sleeping.
+~
+He looks back at with a look of apathy.
+~
+human~
+ABGT DFH 0 0
+51 0 25d10+3000 0d0+0 8d4+16 beating
+-15 -15 -15 -15
+CDEFIJKR 0 0 0
+sleep stand male 30
+AHMV ABCDEFGHIJK medium 0
+#28505
+maid~
+the maid~
+The maid shivers here with a worried look on her face.
+~
+The maid looks back at you sadly.
+~
+human~
+ABGT 0 1000 0
+10 0 2d7+121 0d0+0 2d4+2 punch
+1 1 1 1
+J 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small 0
+#28506
+magistrate man~
+the magistrate~
+The magistrate is here screaming obscenities at his maid.
+~
+He scowls in your general direction.
+~
+human~
+ABGT HU -1000 0
+39 0 15d10+1700 0d0+0 5d6+13 pound
+-13 -13 -13 -13
+BCDEFJKNO 0 0 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0
+#28507
+girl~
+a girl~
+A girl is here trying to play the violin.
+~
+She glances at you and continues to play here violin.
+~
+human~
+ABGT 0 1000 0
+5 0 2d6+60 0d0+0 1d6+1 beating
+5 5 5 5
+J 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small 0
+#28508
+bartender man~
+the bartender~
+The bartender is here selling drinks.
+~
+He gives you a big smile and turns back to his bartending.
+~
+human~
+ABGT DFHN 0 0
+51 2 50d10+5000 0d0+0 5d8+20 crush
+-21 -21 -21 -21
+ABCDEFHIJKNO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28509
+drunkard~
+a drunkard~
+A drunkard is here blabbering incessantly.
+~
+He thrusts his mug high in the air and gives you a goofy grin.
+~
+human~
+ABGT 0 0 0
+10 0 2d7+121 0d0+0 2d4+2 scratch
+1 1 1 1
+0 0 0 0
+sit stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28510
+butcher man~
+the butcher~
+The butcher is here cutting up some meat.
+~
+He wipes some blood on his apron and gives you a goofy grin.
+~
+human~
+ABGT DFHN 0 0
+51 0 50d10+5000 0d0+0 5d8+20 cleave
+-21 -21 -21 -21
+ACDEFHIJKNO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28511
+apothecary man~
+the apothecary~
+The apothecary is here mixing a potion.
+~
+He smiles at you with a twinkle in his eye.
+~
+human~
+ABGRT DFHN 0 0
+51 0 50d10+5000 0d0+0 5d8+20 shbite
+-21 -21 -21 -21
+ACDEFHIJKNO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28512
+cobbler man~
+the cobbler~
+The cobbler is here working on a pair of shoes.
+~
+He glances at you out of the corner of his eye while he continues to work.
+~
+human~
+ABGST DFHN 0 0
+51 0 50d10+5000 0d0+0 5d8+20 thwack
+-21 -21 -21 -21
+ACDEFHIJKNO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28513
+merchant man~
+a merchant~
+A merchant is here thinking about ways to make money.
+~
+The merchant stares back at you, appraising your worth.
+~
+human~
+AGT H -1000 0
+30 0 50d10+5000 0d0+0 5d8+20 beating
+-21 -21 -21 -21
+CDEFJN 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#28514
+junzo thief man sneak~
+Junzo the sneak~
+Junzo the sneak is hiding here in the shadows.
+~
+He glares back at you with a look of malace.
+~
+goblin~
+ABFGS DFHJPQ -1000 0
+55 0 50d10+5500 0d0+0 6d7+20 stab
+-22 -22 -22 -22
+ABDEFHJKN 0 Q C
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#28515
+golden knight~
+a golden knight~
+A golden knight is here guarding his post.
+~
+The knight peers back at you intently.
+~
+human~
+ABGT HN 1000 0
+40 0 15d10+1850 0d0+0 4d8+13 slice
+-13 -13 -13 -13
+CDEFIJKOP 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium 0
+#28516
+maiden woman~
+a maiden~
+A maiden is here walking through the courtyard.
+~
+She smiles and continues on her way.
+~
+elf~
+AGQ JNP 0 0
+15 0 3d9+208 0d0+0 2d6+3 slap
+-2 -2 -2 -2
+J 0 BH Z
+stand stand female 0
+AHMV ABCDEFGHIJK small 0
+#28517
+ambassador galadon~
+the ambassador from Midgaard~
+The ambassador from Midgaard is here.
+~
+He glances at you slightly and goes about his buisness.
+~
+human~
+ABGT HNU 0 0
+53 0 50d10+6000 0d0+0 6d7+21 smash
+-23 -23 -23 -23
+ACDEFJKO 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK giant 0
+#28518
+ambassador New Thalos~
+an ambassador from New Thalos~
+The ambassador from New Thalos is here being diplomatic.
+~
+He glances at you and goes about his buisness.
+~
+dwarf~
+ABGS HJNU 0 0
+53 0 50d10+6000 0d0+0 6d7+21 pound
+-23 -23 -23 -23
+ACDEFJKN 0 LQ R
+stand stand male 300
+AHMV ABCDEFGHIJK small 0
+#28519
+dungeon keeper~
+the dungeon keeper~
+The dungeon keeper is here taking a quick nap.
+~
+He is snoring loudly.
+~
+hobgoblin~
+ABGT DFJ -1000 0
+40 0 15d10+1850 0d0+0 4d8+13 pierce
+-13 -13 -13 -13
+CDEO 0 LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJKY medium 0
+#28520
+prisoner~
+a prisoner~
+A prisoner is here wasting away before your eyes.
+~
+He doesnt even have the strength to look back at you.
+~
+human~
+ABGT 0 0 0
+2 0 2d7+21 0d0+0 1d5+0 scratch
+8 8 8 8
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28521
+necromancer ramadahn~
+the necromancer from Ramadahn~
+A dark figure is here working over a corpse.
+~
+He turns in your direction and hisses violently.
+~
+human~
+ABGOR DFHNOU -1000 0
+58 0 50d10+8500 0d0+0 5d10+25 magic
+-28 -28 -28 -28
+ADEHJKNP 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28522
+golem flesh~
+a flesh golem~
+A mass of rotting flesh is standing here.
+~
+He lets out a loud groan.
+~
+human~
+ABGOT DFHNU -1000 0
+51 0 0d0+0 0d0+0 0d0+0 digestion
+0 0 0 0
+ACDEFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK giant 0
+#28523
+cook man~
+a cook~
+A cook is here sturring some broth.
+~
+The cook is too busy to look back at you.
+~
+human~
+ABGT 0 0 0
+20 20 3d9+333 0d0+0 2d8+5 pound
+-4 -4 -4 -4
+DEJ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28524
+servant~
+a servant~
+A servant is running around here.
+~
+He nods at you politely and moves on his busy way.
+~
+human~
+AGT 0 0 0
+10 0 2d7+121 0d0+0 2d4+2 claw
+1 1 1 1
+J 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28525
+jester~
+the jester~
+The jester is here racking his brain for a new gag.
+~
+The jester looks at you crosseyed.
+~
+human~
+ABGT U 0 0
+40 0 15d10+1850 0d0+0 4d8+13 charge
+-13 -13 -13 -13
+FHJKN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28526
+concubine~
+a concubine~
+A concubine is here looking 'ready'.
+~
+She licks her lips and smiles at you.
+~
+human~
+ABGQ 0 0 0
+1 0 2d6+10 0d0+0 1d4+0 slap
+9 9 9 9
+J 0 0 0
+sit stand female 0
+AHMV ABCDEFGHIJK medium 0
+#28527
+magician~
+the magician~
+A magician is here looking worried over his new illusion.
+~
+He gives you a worried look and continues to thumb through a book.
+~
+human~
+ABGR BDH 0 0
+40 30 15d10+3850 0d0+0 4d8+13 magic
+-13 -13 -13 -13
+EFJKN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28528
+king ramadahn~
+the King of Ramadahn~
+The King is here stroking his beard.
+~
+The King screams at your intrusion.
+~
+human~
+ABFGT BDFHNU 1000 0
+59 100 50d10+19000 0d0+0 20d6+28 frbite
+-30 -30 -30 -30
+ACDEFJKO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#28529
+sorcerer mephibosheth~
+the Sorcerer Mephibosheth~
+A sorcerer is here chanting softly.
+~
+His eyes flare with blinding light as he looks you over.
+~
+human~
+ABGRT BDFHLNU 0 0
+55 0 50d10+17000 0d0+0 10d4+23 blast
+-25 -25 -25 -25
+ADEFK 0 0 0
+sit stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28530
+noble~
+a noble~
+A noble is here making sure he looks presentable.
+~
+He barely glances at you and trots down the hall.
+~
+human~
+AGT U 0 0
+40 0 15d10+1850 0d0+0 4d8+13 punch
+-13 -13 -13 -13
+CDEFO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28531
+captain guard royal~
+the Captain of the Royal Guard~
+The Captain of the Royal guard is here ordering people around.
+~
+The captain pays no attention to the likes of you.
+~
+human~
+AGT DFH 0 0
+50 100 50d10+15500 0d0+0 20d8+19 slash
+-20 -20 -20 -20
+ACDEFJKO 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#28532
+princess ramadahn~
+the Princess of Ramadahn~
+The Princess stands here smiling.
+~
+She greets and smiles at you warmly.
+~
+human~
+ABGR DFHNU 1000 0
+54 0 50d10+6500 0d0+0 7d6+22 slap
+-24 -24 -24 -24
+AEFHJK 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#28500
+hook key~
+key hook~
+A key hook.~
+~
+container 0 N
+400 0 0 100 100
+0 5 0 P
+E
+hook key~
+You see a key hook here on the wall.
+~
+#28501
+key ring~
+A key ring~
+A few keys on a ring are here.~
+~
+key 0 AO
+0 0 0 0 0
+0 5 0 P
+#28502
+brass pocket watch~
+A brass pocket watch.~
+A brass pocket watch lies here, ticking slowly.~
+~
+armor AM AM
+0 0 0 0 0
+60 5 0 P
+A
+24 10
+F
+A 0 0 d
+#28503
+desk wooden~
+a wooden desk~
+A polished wood desk sits here in the middle of the room.~
+~
+container 0 N
+500 C 0 100 100
+0 5 0 P
+#28504
+golden key~
+a golden key~
+A golden key rests here.~
+~
+key 0 AO
+0 0 0 0 0
+0 5 0 P
+#28505
+corpse corpses~
+a pile of corpses~
+A ghastly pile of flesh is here.~
+~
+container 0 N
+1000 0 0 0 0
+0 5 0 P
+#28506
+silver leggings~
+some silver plated leggings~
+A pile of silver plates lie here on the floor.~
+~
+armor 0 AF
+0 0 0 0 0
+0 5 0 P
+A
+19 2
+A
+13 10
+#28507
+silver gorget~
+a silver gorget~
+A circular piece of silver is resting here.~
+~
+armor 0 AC
+0 0 0 0 0
+0 5 0 P
+A
+19 3
+A
+18 1
+#28508
+violin~
+violin~
+Someone's violin is lying here.~
+~
+instrument A AO
+0 0 0 0 0
+0 5 0 P
+#28509
+feather duster~
+a feather duster~
+A soft feather duster is lying here.~
+~
+wand AB AO
+60 30 30 'word of recall' 0
+0 5 0 P
+#28510
+captain's leggings~
+the captain's leggings~
+A pile of fine cloth is here.~
+~
+armor A AF
+0 0 0 0 0
+0 5 0 P
+A
+19 5
+A
+24 -7
+A
+2 -3
+#28511
+helm protection~
+the helm of protection~
+A comfortable helm is sitting here.~
+~
+armor ABGJTU AE
+0 0 0 0 0
+51 5 0 P
+A
+19 2
+A
+24 -5
+A
+1 -2
+F
+R 0 0 LN
+L
+4
+#28512
+jagged longsword~
+a jagged longsword~
+A jagged piece of metal is sitting here.~
+~
+weapon 0 AN
+sword 5 6 cleave D
+30 5 0 P
+A
+19 2
+A
+20 -2
+A
+0 0
+#28513
+hat feathered~
+a feathered hat~
+A small hat with several feathers on it lies here.~
+~
+armor A AE
+10 9 7 9 0
+0 5 0 P
+A
+5 -1
+F
+A 0 0 T
+A
+24 -3
+L
+5
+#28514
+night robe~
+a night robe~
+A robe used for sleeping is piled on the floor.~
+~
+armor A AD
+10 9 9 10 0
+52 5 0 P
+A
+24 -4
+F
+A 0 0 R
+E
+robe~
+Just looking at this robe makes you tired.~
+#28515
+beef slab~
+a slab of beef~
+A slab of raw beef is resting here.~
+~
+food 0 A
+10 1 0 0 0
+0 5 0 P
+#28516
+lamb chops~
+some lamb chops~
+A few lamb chops are piled here.~
+~
+food 0 A
+10 3 0 0 0
+0 5 0 P
+#28517
+potion teal~
+a teal potion~
+A teal potion is frothing here.~
+~
+potion A A
+65 'cure poison' 'cure disease' 'cure blindness' 'heal'
+0 5 0 P
+#28518
+potion black~
+a black potion~
+A black potion is bubbling here.~
+~
+potion B A
+65 'plague' 'acid blast' 'curse' 'blindness'
+0 5 0 P
+#28519
+dagger sharp~
+a sharp dagger named "Heart-Seeker"~
+A sharp dagger is here dripping with poison.~
+~
+weapon ABEJTU AN
+dagger 10 6 stab DH
+60 70 0 P
+F
+A 0 0 a
+F
+I 0 0 L
+L
+15
+#28520
+golden girth~
+a golden girth~
+A girth forged of the finest gold is lying here.~
+~
+armor A AL
+18 16 15 18 0
+0 5 0 P
+A
+24 -5
+A
+19 3
+A
+13 -100
+#28521
+bracer~
+the bracer of Diplomacy~
+A fine bracer lies here.~
+~
+armor ABT AM
+9 8 9 9 0
+51 5 0 P
+A
+19 1
+A
+3 4
+F
+I 0 0 BP
+#28522
+rod lion-headed~
+a Lion-Headed rod~
+A rod with a lion's head fashioned on the head rests here.~
+~
+weapon 0 AN
+staff 10 5 smash C
+0 5 0 P
+F
+A 0 0 E
+#28523
+shriveled head chain~
+a shriveled head strung from a chain~
+A shriveled head is herestrung from a small chain.~
+~
+armor BEHJLMTU AC
+15 15 13 10 0
+51 5 0 P
+A
+19 4
+A
+18 2
+A
+4 -1
+F
+A 0 0 GO
+F
+R 0 0 N
+A
+24 -3
+#28524
+orb pestilence~
+the orb of Pestilence~
+A deathly looking orb floats here.~
+~
+weapon ABEFJ AN
+exotic 10 6 darkwrath BC
+0 5 0 P
+A
+19 8
+A
+2 -4
+L
+8
+#28525
+halberd ice-cold~
+an ice-cold halberd~
+A halberd covered in frost is lying here in the floor.~
+~
+weapon AB AN
+polearm 10 6 chill BF
+51 28 0 P
+A
+24 -5
+A
+18 13
+A
+19 14
+A
+2 -1
+F
+R 0 0 I
+L
+6
+#28526
+juggling balls~
+some juggling balls~
+Some multi-colered balls are resting here.~
+~
+armor A AO
+10 9 9 10 0
+0 5 0 P
+A
+2 6
+A
+14 100
+A
+12 50
+L
+2
+#28527
+magician's hat~
+a pointy magician's hat~
+A pointy hat covered in stars and moons is lying here.~
+~
+armor AB AE
+12 13 12 12 0
+0 5 0 P
+A
+19 -2
+A
+12 200
+A
+3 3
+A
+4 2
+A
+4 0
+L
+2
+#28528
+ring royal signet ramadahn~
+a Ramadahn signet ring~
+A royal ring of a great king lies here.~
+~
+armor ABGLT AB
+5 6 4 7 0
+0 5 0 P
+A
+18 2
+A
+19 2
+A
+24 -5
+A
+3 -3
+F
+A 0 0 U
+F
+R 0 0 B
+L
+6
+#28529
+gloves royal~
+gloves of royalty~
+Some golden gloves encrusted with emeralds are sitting here.~
+~
+armor ABGL AH
+10 10 10 10 0
+0 5 0 P
+A
+13 100
+A
+17 -5
+A
+24 -5
+L
+4
+#28530
+medallion royal guard~
+a medallion of the Royal Guard~
+A shiny medallion is lying here.~
+~
+armor AGKTU AC
+18 17 18 17 0
+55 5 0 P
+A
+19 0
+A
+1 -4
+A
+17 -20
+F
+A 0 0 H
+F
+R 0 0 Q
+F
+V 0 0 J
+L
+3
+#28531
+royal gown~
+a royal gown~
+A silver gown is piled here.~
+~
+armor AT AK
+10 10 10 10 0
+0 5 0 P
+A
+5 4
+A
+2 2
+A
+19 5
+F
+A 0 0 c
+L
+50
+#28532
+mace innocence~
+a mace named "Innocence"~
+A small mace covered in runes is lying here.~
+~
+weapon ABEKL AN
+mace 10 6 crush DG
+0 5 0 P
+A
+19 12
+A
+18 2
+A
+1 -3
+A
+17 -10
+L
+3
+#0
+
+
+
+#ROOMS
+#28672
+A noble's room~
+You are standing in a very nice room. It is not very large, but is clean
+and has all nessisary acomidations. This is where the nobles from visiting
+lands make thier stay.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28671
+S
+#28673
+A noble's room~
+You are standing in a very nice room. It is not very large, but is clean
+and has all nessisary acomidations. This is where the nobles from visiting
+lands make thier stay.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28671
+S
+#28674
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28675
+D3
+~
+~
+0 -1 28671
+S
+#28675
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. There is a
+large hall to the north.
+~
+0 0 0
+D0
+~
+~
+0 -1 28676
+D1
+~
+~
+0 -1 28680
+D3
+~
+~
+0 -1 28674
+S
+#28676
+The great hall of Ramadahn~
+You are standing in a giant hall. It has a high cieling with wooden
+supports. There are windows on the east and west sides that look into the
+courtyard's. Long tables line the room, and the the King's throne is near
+the north end.
+~
+0 0 0
+D0
+~
+~
+0 -1 28677
+D1
+~
+~
+0 -1 28679
+D2
+~
+~
+0 -1 28675
+S
+#28677
+The great hall of Ramadahn~
+You are standing in a giant hall. It has a high cieling with wooden
+supports. There are windows on the east and west sides that look into the
+courtyard's. Long tables line the room, and the the King's throne is near
+the north end.
+~
+0 0 0
+D1
+~
+~
+0 -1 28678
+D2
+~
+~
+0 -1 28676
+S
+#28678
+The great hall of Ramadahn~
+You are standing in a giant hall. It has a high cieling with wooden
+supports. There are windows on the east and west sides that look into the
+courtyard's. Long tables line the room, and the the King's throne is near
+the north end.
+~
+0 0 0
+D2
+~
+~
+0 -1 28679
+D3
+~
+~
+0 -1 28677
+S
+#28679
+The great hall of Ramadahn~
+You are standing in a giant hall. It has a high cieling with wooden
+supports. There are windows on the east and west sides that look into the
+courtyard's. Long tables line the room, and the the King's throne is near
+the north end.
+~
+0 0 0
+D0
+~
+~
+0 -1 28678
+D3
+~
+~
+0 -1 28676
+S
+#28680
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28681
+D3
+~
+~
+0 -1 28675
+S
+#28681
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28682
+D3
+~
+~
+0 -1 28680
+S
+#28682
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28683
+D3
+~
+~
+0 -1 28681
+S
+#28683
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28684
+D3
+~
+~
+0 -1 28682
+S
+#28684
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28685
+D3
+~
+~
+0 -1 28683
+S
+#28685
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. To the north
+is the Captain of the Royal Guard's room. To the south are the Royal Guard's
+barracks.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28686
+D1
+~
+~
+0 -1 28692
+D2
+~
+~
+0 -1 28687
+D3
+~
+~
+0 -1 28684
+S
+#28686
+The Captain's room~
+You are standing in a very neat and well kept office. There is a
+bookshelf at the back wall. A desk in the middle of the room. There are also
+several suits of armor against the west wall.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28685
+S
+#28687
+The Barracks~
+This is where the Royal guard's sleep. The room smells of body oder, and
+sweat. The room is filled with bunk beds. There are chests neatly at the
+foot of each bed, where the guards keep thier personal belongings.
+~
+0 0 0
+D0
+~
+~
+0 -1 28685
+D2
+~
+~
+0 -1 28688
+S
+#28688
+The Barracks~
+This is where the Royal guard's sleep. The room smells of body oder, and
+sweat. The room is filled with bunk beds. There are chests neatly at the
+foot of each bed, where the guards keep thier personal belongings.
+~
+0 0 0
+D0
+~
+~
+0 -1 28687
+D2
+~
+~
+0 -1 28689
+S
+#28689
+The Barracks~
+This is where the Royal guard's sleep. The room smells of body oder, and
+sweat. The room is filled with bunk beds. There are chests neatly at the
+foot of each bed, where the guards keep thier personal belongings.
+~
+0 0 0
+D0
+~
+~
+0 -1 28688
+D2
+~
+~
+0 -1 28690
+S
+#28690
+The Barracks~
+This is where the Royal guard's sleep. The room smells of body oder, and
+sweat. The room is filled with bunk beds. There are chests neatly at the
+foot of each bed, where the guards keep thier personal belongings. There is
+a book case against the south wall here, with scrap marks near it.
+~
+0 0 0
+D0
+~
+~
+0 -1 28689
+D2
+~
+bookcase s~
+1 -1 28691
+S
+#28691
+The secret room~
+Well, before you is a small room with rounded gambling tables. I guess
+even the guards need to have thier fun. The walls are covered in paintings
+of naked women dancing about. There are several guards that seem very
+worried you have found them out.
+~
+0 0 0
+D0
+~
+n bookcase~
+1 -1 28690
+S
+#28692
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28693
+D3
+~
+~
+0 -1 28685
+S
+#28693
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28694
+D3
+~
+~
+0 -1 28692
+S
+#28694
+End of the eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. To the north
+is a steel door that has several jewels inlaid in it.
+~
+0 0 0
+D0
+~
+~
+0 -1 28695
+D3
+~
+~
+0 -1 28693
+S
+#28695
+A narrow hallway~
+You are not quite sure what this hallway is for at first. Judging the
+pink tapestrys on the wall, and the pink carpet going down the hall. You
+realize this is the way to the Princess of Ramadahn's chamber.
+~
+0 0 0
+D0
+~
+~
+0 -1 28696
+D2
+~
+~
+0 -1 28694
+S
+#28696
+A narrow hallway~
+You are not quite sure what this hallway is for at first. Judging the
+pink tapestrys on the wall, and the pink carpet going down the hall. You
+realize this is the way to the Princess of Ramadahn's chamber.
+~
+0 0 0
+D0
+~
+~
+0 -1 28697
+D2
+~
+~
+0 -1 28695
+S
+#28697
+A narrow hallway~
+You are not quite sure what this hallway is for at first. Judging the
+pink tapestrys on the wall, and the pink carpet going down the hall. You
+realize this is the way to the Princess of Ramadahn's chamber.
+~
+0 0 0
+D0
+~
+~
+0 -1 28698
+D2
+~
+~
+0 -1 28696
+S
+#28698
+Bottom of the staircase~
+You are standing at the end of the narrow hallway. A spiral staircase
+stands in front of you, that lead up into the easternmost spire. As you
+start up the stairs sweet perfume wafts into your nostrils.
+~
+0 0 0
+D2
+~
+~
+0 -1 28697
+D4
+~
+~
+0 -1 28702
+S
+#28700
+The Princess's chamber~
+This room is extremely feminine. Pink is the dominant color in this
+chamber. There is a large bed with pillows stacked upon it. There is also a
+large dresser with a mirror. There is an inumberable amount of perfumes and
+other feminine things stacked upon the dresser.
+~
+0 0 0
+D1
+~
+door e~
+1 28504 28702
+S
+#28701
+Before a mighty kingdom~
+You are standing before a massive structure. There is a gigantic stone
+wall in front of you. You can see a large castle rising above the walls,
+with giant spires scraping the sky. Directly in front of you lies a
+drawbridge to the castle gates.
+~
+0 0 3
+D0
+~
+~
+0 -1 28500
+D2
+~
+~
+0 -1 28703
+S
+#28702
+Door before the Princess's room~
+You are standing at the top of the staircase. Directly in front of you is
+a beautiful wooden door with the emblem of Ramadahn carved into it. You can
+hear somone humming to herself on the other side of the door.
+~
+0 0 0
+D3
+~
+w wooden door~
+1 28504 28700
+D5
+~
+~
+0 -1 28698
+S
+#28703
+Trail before a mighty kingdom~
+You are standing on a trail northeast of Tar Valon. A loud, mighty kingdom
+can be seen in the north.
+~
+0 0 3
+D0
+~
+~
+0 -1 28701
+D3
+~
+~
+0 -1 1914
+S
+#28500
+Across the drawbridge~
+You are walking across a strong wooden bridge. Below you is a swampy moat
+covered in a layer of green alge. Straight ahead of you lies the gates to
+the mighty city of Ramadahn.
+~
+0 0 1
+D0
+~
+~
+0 -1 28501
+D2
+~
+~
+0 -1 28701
+S
+#28501
+Before the gates of the kingdom~
+You are standing before the great iron gates of Ramadahn. Walls of stone
+tower in front of you with several lookout towers spaced evenly along the
+top of the wall. Two guards stand posted here at all times. They serve as
+silent watchmen to the kindom. Through the iron gates you can see the city
+streets.
+~
+0 0 1
+D0
+The large iron gates of the castle.
+~
+gate iron n~
+1 -1 28502
+D2
+~
+~
+0 -1 28500
+S
+#28502
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the north you can see the
+Market Square. Back to the south are the castle gates.
+~
+0 0 1
+D0
+~
+~
+0 -1 28503
+D2
+The large iron gates of the castle.
+~
+gate iron s~
+1 -1 28501
+S
+#28503
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the north you can see the
+Market Square.
+~
+0 0 1
+D0
+~
+~
+0 -1 28504
+D2
+~
+~
+0 -1 28502
+S
+#28504
+The Market Square~
+You are standing in the middle of the market square. There are people
+scurrying all around with goods in thier hands. Carts line the edges, filled
+with food and different things. The vendors scream thier different sales
+pitches insessantly. The city streets lead off in all directions. Far off to
+the north lies the castle.
+~
+0 0 1
+D0
+~
+~
+0 -1 28525
+D1
+~
+~
+0 -1 28518
+D2
+~
+~
+0 -1 28503
+D3
+~
+~
+0 -1 28505
+S
+#28505
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the south you can see the
+guards headquarters, and to the north lies the magistrates office. To the
+east you can see the Market Square.
+~
+0 0 1
+D0
+~
+door n~
+1 -1 28508
+D1
+~
+~
+0 -1 28504
+D2
+~
+wooden door s~
+1 -1 28506
+D3
+~
+~
+0 -1 28511
+S
+#28506
+The guards headquarters~
+This is a sort of barracks where the guards take there breaks. A large
+wooden table is in the center of the room where the guards eat there meals.
+Against the back wall there are piles of weapons and armor that the guards
+have taken off while they eat and relax. To the south there is a wooden door
+with the name "Captain Henry" carved crudely into it.
+~
+0 0 0
+D0
+~
+wooden door n~
+1 -1 28505
+D2
+~
+wooden door s~
+1 -1 28507
+S
+#28507
+The Captain's room~
+You are standing in a dank room with scatered papers lying here and
+there. The wall is pasted with wanted posters for the outlaws of the land.
+There is a old wooden desk near the back of the room, where the captain
+spends the majority of his day.
+~
+0 0 0
+D0
+~
+door wooden n~
+1 -1 28506
+S
+#28508
+The Magistrate's abode~
+This building is quite lavish compared to the rest of the buildings on
+The city streets The floor is covered in fine rugs and there is nice
+furnature placed neatly throught the room. You can hear ranting and raving
+from the floor above you. There is a small staircase near the back of the
+room, and a small door at the west wall.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28505
+D3
+~
+door small w~
+1 -1 28509
+D4
+~
+~
+0 -1 28510
+S
+#28509
+The maids quarters~
+This is quite a desolate room. There is merely a cot in the corner and a
+small dresser against the wall.
+~
+0 0 0
+D1
+~
+door small e~
+1 -1 28508
+S
+#28510
+The Magistrates bedroom~
+Another beautiful room furnished from floor to cieling. A king size bed
+is in the middle of the room, covered with pillows and red velvet blankets.
+There is a chair and desk on the south side of the room.
+~
+0 0 0
+D5
+~
+~
+0 -1 28508
+S
+#28511
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the east you can see the
+Market Square.
+~
+0 0 1
+D1
+~
+~
+0 -1 28505
+D3
+~
+~
+0 -1 28512
+S
+#28512
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the north and south are
+houses. To the east you can see the Market Square.
+~
+0 0 1
+D0
+~
+~
+0 -1 28514
+D1
+~
+~
+0 -1 28511
+D2
+~
+~
+0 -1 28513
+D3
+~
+~
+0 -1 28515
+S
+#28513
+A small home~
+This is quite a humble dwelling place. Most likely whoever lives here has
+come with hopes of becomming a merchant. It is quit dimly lit with a single
+candle as the only light source.
+~
+0 0 0
+D0
+~
+~
+0 -1 28512
+S
+#28514
+A small home~
+This is quite a humble dwelling place. Most likely whoever lives here has
+come with hopes of becomming a merchant. It is quit dimly lit with a single
+candle as the only light source.
+~
+0 0 0
+D2
+~
+~
+0 -1 28512
+S
+#28515
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the north you hear the
+sounds of music and laughter. There is a wooden sign hanging from the wall
+of the building.
+~
+0 0 1
+E
+sign wooden~
+This sign says "Iron Fist tavern"
+~
+D0
+~
+door n~
+1 -1 28516
+D1
+~
+~
+0 -1 28512
+D3
+~
+~
+0 -1 28517
+S
+#28516
+Iron Fist tavern~
+Just being in this place makes you feel more happy. Tables are scattered
+around and people are laughing and drinking together. This room has quite a
+high ceiling, and the woodwork is very beautiful. A few fellows are dancing
+in the corner as they play a lively tune. Before you know it the burly man
+at the bar screams at you. The bartender screams. "Arh! What can I do for
+ye! A bottle of my finest brews will drown yer woes!"
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28515
+S
+#28517
+End of the road~
+You have reached the end of this street. The massive walls of the kingdom
+stand before you. You realize this is the type of place where vandals hang
+out, so you decide it would be best if you turned back and headed down the
+street again.
+~
+0 0 1
+D1
+~
+~
+0 -1 28515
+S
+#28518
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. North of here lies the butcher,
+and to the south is an apocathary. To the west you can see the Market
+Square.
+~
+0 0 1
+D0
+~
+~
+0 -1 28519
+D1
+~
+~
+0 -1 28521
+D2
+~
+~
+0 -1 28520
+D3
+~
+~
+0 -1 28504
+S
+#28519
+The Butcher~
+The stench in this room is quite pungent. Ribcages and other body parts
+line the walls hung on iron hooks. You wonder how anyone could work in such
+an atmosphere.
+~
+0 0 0
+D2
+~
+~
+0 -1 28518
+S
+#28520
+The Apothecary~
+This room is a little bit misty. The walls are lined with shelves, that
+hold potions and vials of a all different colors, shapes, and sizes. Now and
+then you hear an explosion near you.
+~
+0 0 0
+D0
+~
+~
+0 -1 28518
+S
+#28521
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the west you can see the
+Market Square.
+~
+0 0 1
+D1
+~
+~
+0 -1 28522
+D3
+~
+~
+0 -1 28518
+S
+#28522
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. North of here is the cobbler.
+To the west you can see the Market Square.
+~
+0 0 1
+D0
+~
+~
+0 -1 28523
+D1
+~
+~
+0 -1 28524
+D3
+~
+~
+0 -1 28521
+S
+#28523
+The Cobbler~
+This is a very simple building. There is a wooden counter across the
+front of the room where you came in. On the other side there is a man
+working at his bench. On the back wall there is a shelf with several shoes
+on it. On the wall right next to you there is a plaque.
+~
+0 0 0
+E
+plaque~
+Most valuable customer. Deomanix, The great boot in the sky.
+~
+D2
+~
+~
+0 -1 28522
+S
+#28524
+End of the road~
+You have reached the end of this street. The massive walls of the kingdom
+stand before you. You realize this is the type of place where vandals hang
+out, so you decide it would be best if you turned back and headed down the
+street again.
+~
+0 0 1
+D3
+~
+~
+0 -1 28522
+S
+#28525
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the south you can see the
+Market Square.
+~
+0 0 1
+D0
+~
+~
+0 -1 28526
+D2
+~
+~
+0 -1 28504
+S
+#28526
+The city streets~
+You are standing on a dirt road that travels througout the kingdom of
+Ramadahn. It smells a little bit on this street. This is where many of the
+serfs come to sell thier agriculteral goods. To the south you can see the
+Market Square.
+~
+0 0 1
+D0
+~
+~
+0 -1 28527
+D2
+~
+~
+0 -1 28525
+S
+#28527
+The common square~
+This square is not like the busy Market Square. This square is quite
+peaceful, it has benches here and there, and a giant fountain in the middle.
+To the east and west lies Merchants row. South of here the Market Square can
+been seen. To the North lies the road to the castle.
+~
+0 0 1
+D0
+~
+~
+0 -1 28553
+D1
+~
+~
+0 -1 28541
+D2
+~
+~
+0 -1 28526
+D3
+~
+~
+0 -1 28528
+S
+#28528
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice. To the north and south are merchant's homes.
+~
+0 0 1
+D0
+~
+~
+0 -1 28529
+D1
+~
+~
+0 -1 28527
+D2
+~
+~
+0 -1 28530
+D3
+~
+~
+0 -1 28531
+S
+#28529
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28528
+S
+#28530
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28528
+S
+#28531
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice.
+~
+0 0 1
+D1
+~
+~
+0 -1 28528
+D3
+~
+~
+0 -1 28532
+S
+#28532
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice. To the north and south are merchant's homes.
+~
+0 0 1
+D0
+~
+~
+0 -1 28534
+D1
+~
+~
+0 -1 28531
+D2
+~
+~
+0 -1 28533
+D3
+~
+~
+0 -1 28535
+S
+#28533
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28532
+S
+#28534
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28532
+S
+#28535
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice.
+~
+0 0 1
+D1
+~
+~
+0 -1 28532
+D3
+~
+~
+0 -1 28536
+S
+#28536
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice. To the north and south are merchant's homes.
+~
+0 0 1
+D0
+~
+~
+0 -1 28538
+D1
+~
+~
+0 -1 28535
+D2
+~
+~
+0 -1 28537
+D3
+~
+~
+0 -1 28539
+S
+#28537
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28536
+S
+#28538
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28536
+S
+#28539
+End of the road~
+You have reached the end of this street. There seems to be somthing a
+little different at the north wall. The massive walls of the kingdom stand
+before you. You realize this is the type of place where vandals hang out, so
+you decide it would be best if you turned back and headed down the street
+again.
+~
+0 0 1
+E
+n wall hidden entrance~
+You can see the slight outline of what seems to be a hidden entrance.
+~
+D0
+~
+n wall hidden~
+1 -1 28540
+D1
+~
+~
+0 -1 28536
+S
+#28540
+A hidden room~
+This very dark room, is illuminated by one candle in the center. Shadows
+dance across the wall. As you look around yourself you notice somthing
+reflecting the light near the back corner. Now and then you hear the sound
+of someone breathing.
+~
+0 0 0
+D2
+~
+wall hidden s~
+1 -1 28539
+S
+#28541
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice. To the north and south are merchant's homes.
+~
+0 0 1
+D0
+~
+~
+0 -1 28542
+D1
+~
+~
+0 -1 28544
+D2
+~
+~
+0 -1 28543
+D3
+~
+~
+0 -1 28527
+S
+#28542
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28541
+S
+#28543
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28541
+S
+#28544
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice.
+~
+0 0 0
+D1
+~
+~
+0 -1 28545
+D3
+~
+~
+0 -1 28541
+S
+#28545
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice. To the north and south are merchant's homes.
+~
+0 0 0
+D0
+~
+~
+0 -1 28546
+D1
+~
+~
+0 -1 28548
+D2
+~
+~
+0 -1 28547
+D3
+~
+~
+0 -1 28544
+S
+#28546
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28545
+S
+#28547
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28545
+S
+#28548
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice.
+~
+0 0 1
+D1
+~
+~
+0 -1 28549
+D3
+~
+~
+0 -1 28545
+S
+#28549
+Merchant's row~
+These streets are quite a step up from the streets south of here. This is
+where the merchants call home. The streets here are much cleaner, and it
+actually smells quite nice. To the north and south are merchant's homes.
+~
+0 0 1
+D0
+~
+~
+0 -1 28550
+D1
+~
+~
+0 -1 28552
+D2
+~
+~
+0 -1 28551
+D3
+~
+~
+0 -1 28548
+S
+#28550
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28549
+S
+#28551
+A merchant's home~
+A very spacious and elegant home. The walls are covered in beautiful
+tapestrys. The room is very well furnished, and is quite neat. There are
+several lampstands that light the room, and incense burns on a table in the
+center of the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28549
+S
+#28552
+End of the road~
+You have reached the end of this street. There seems to be somthing a
+little different at the north wall. The massive walls of the kingdom stand
+before you. You realize this is the type of place where vandals hang out, so
+you decide it would be best if you turned back and headed down the street
+again.
+~
+0 0 1
+D3
+~
+~
+0 -1 28549
+S
+#28553
+A road to the castle~
+This is a very well kept road. The sides of the road are lined with small
+stones. And there has been flowers planted on either side. The sweat aroma
+of the flowers seems to make you feel peaceful.
+~
+0 0 1
+D0
+~
+~
+0 -1 28554
+D2
+~
+~
+0 -1 28527
+S
+#28554
+A road to the castle~
+This is a very well kept road. The sides of the road are lined with small
+stones. And there has been flowers planted on either side. The sweat aroma
+of the flowers seems to make you feel peaceful.
+~
+0 0 1
+D0
+~
+~
+0 -1 28555
+D2
+~
+~
+0 -1 28553
+S
+#28555
+A road to the castle~
+This is a very well kept road. The sides of the road are lined with small
+stones. And there has been flowers planted on either side. The sweat aroma
+of the flowers seems to make you feel peaceful.
+~
+0 0 1
+D0
+~
+~
+0 -1 28556
+D2
+~
+~
+0 -1 28554
+S
+#28556
+A road near the castle~
+This is a very well kept road. The sides of the road are lined with small
+stones. And there has been flowers planted on either side. The sweat aroma
+of the flowers seems to make you feel peaceful. To the north you see the
+castle rising high above the trees.
+~
+0 0 1
+D0
+~
+~
+0 -1 28557
+D2
+~
+~
+0 -1 28555
+S
+#28557
+Before the castle gates~
+You are standing before the largest and most beautiful structure in the
+land. The castle of Ramadahn. The grey stone rises high above you, and you
+feel a bit dizzy as you look toward the top most spires. Directly in front
+of you lies the large iron gates.
+~
+0 0 1
+D0
+~
+large iron n gates gate~
+1 -1 28558
+D2
+~
+~
+0 -1 28556
+S
+#28558
+Inside the castle gates~
+You are standing in the entrance to the castle. Behind you lies the first
+gates, and before you lies the secondary gate. To the east and west lie
+guard rooms.
+~
+0 0 0
+D0
+~
+secondary gate n~
+1 -1 28561
+D1
+~
+~
+0 -1 28560
+D2
+~
+s gate~
+1 -1 28557
+D3
+~
+~
+0 -1 28559
+S
+#28559
+A guard room~
+This is a simple stone room. The guards may choose to interview people
+here before letting them into the castle. It also holds extra weapons.
+~
+0 0 0
+D1
+~
+~
+0 -1 28558
+S
+#28560
+A guard room~
+This is a simple stone room. The guards may choose to interview people
+here before letting them into the castle. It also holds extra weapons.
+~
+0 0 0
+D3
+~
+~
+0 -1 28558
+S
+#28561
+The Courtyard~
+This is a most beautiful sight. This very large courtyard contains
+beautiful trees, flowers, and a pond. There are stone benches here and
+there, with people sitting and talking on them. In the pond you notice there
+are many colerful fish swimming throughout it. The courtyard continues in
+all directions.
+~
+0 0 0
+D0
+~
+~
+0 -1 28568
+D1
+~
+~
+0 -1 28570
+D2
+~
+s gate~
+1 -1 28558
+D3
+~
+~
+0 -1 28566
+S
+#28566
+The Courtyard~
+This is a most beautiful sight. This very large courtyard contains
+beautiful trees, flowers, and a pond. There are stone benches here and
+there, with people sitting and talking on them. In the pond you notice there
+are many colerful fish swimming throughout it. The courtyard continues in
+all directions.
+~
+0 0 0
+D0
+~
+~
+0 -1 28567
+D1
+~
+~
+0 -1 28561
+D3
+~
+~
+0 -1 28571
+S
+#28567
+The Courtyard~
+This is a most beautiful sight. This very large courtyard contains
+beautiful trees, flowers, and a pond. There are stone benches here and
+there, with people sitting and talking on them. In the pond you notice there
+are many colerful fish swimming throughout it. The courtyard continues in
+all directions.
+~
+0 0 0
+D0
+~
+~
+0 -1 28575
+D1
+~
+~
+0 -1 28568
+D2
+~
+~
+0 -1 28566
+D3
+~
+~
+0 -1 28572
+S
+#28568
+The Courtyard~
+This is a most beautiful sight. This very large courtyard contains
+beautiful trees, flowers, and a pond. There are stone benches here and
+there, with people sitting and talking on them. In the pond you notice there
+are many colerful fish swimming throughout it. The courtyard continues in
+all directions.
+~
+0 0 0
+D0
+~
+~
+0 -1 28576
+D1
+~
+~
+0 -1 28569
+D2
+~
+~
+0 -1 28561
+D3
+~
+~
+0 -1 28567
+S
+#28569
+The Courtyard~
+This is a most beautiful sight. This very large courtyard contains
+beautiful trees, flowers, and a pond. There are stone benches here and
+there, with people sitting and talking on them. In the pond you notice there
+are many colerful fish swimming throughout it. The courtyard continues in
+all directions.
+~
+0 0 0
+D0
+~
+~
+0 -1 28577
+D1
+~
+~
+0 -1 28579
+D2
+~
+~
+0 -1 28570
+D3
+~
+~
+0 -1 28568
+S
+#28570
+The Courtyard~
+This is a most beautiful sight. This very large courtyard contains
+beautiful trees, flowers, and a pond. There are stone benches here and
+there, with people sitting and talking on them. In the pond you notice there
+are many colerful fish swimming throughout it. The courtyard continues in
+all directions.
+~
+0 0 0
+D0
+~
+~
+0 -1 28569
+D1
+~
+~
+0 -1 28580
+D3
+~
+~
+0 -1 28561
+S
+#28571
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 1
+D0
+~
+~
+0 -1 28572
+D1
+~
+~
+0 -1 28566
+S
+#28572
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you. To the west there
+is a large wooden door.
+~
+0 0 1
+D0
+~
+~
+0 -1 28573
+D1
+~
+~
+0 -1 28567
+D2
+~
+~
+0 -1 28571
+D3
+~
+large wooden w~
+1 -1 28581
+S
+#28573
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 1
+D1
+~
+~
+0 -1 28574
+D2
+~
+~
+0 -1 28572
+S
+#28574
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 1
+D1
+~
+~
+0 -1 28575
+D3
+~
+~
+0 -1 28573
+S
+#28575
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 1
+D1
+~
+~
+0 -1 28576
+D2
+~
+~
+0 -1 28567
+D3
+~
+~
+0 -1 28574
+S
+#28576
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. There a iron
+bound door to north.
+~
+0 0 1
+D0
+~
+iron bound n~
+1 -1 28631
+D1
+~
+~
+0 -1 28577
+D2
+~
+~
+0 -1 28568
+D3
+~
+~
+0 -1 28575
+S
+#28577
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 1
+D1
+~
+~
+0 -1 28630
+D2
+~
+~
+0 -1 28569
+D3
+~
+~
+0 -1 28576
+S
+#28579
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you. There are some
+double doors to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 28630
+D1
+~
+double e door~
+1 -1 28653
+D2
+~
+~
+0 -1 28580
+D3
+~
+~
+0 -1 28569
+S
+#28580
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 1
+D0
+~
+~
+0 -1 28579
+D3
+~
+~
+0 -1 28570
+S
+#28581
+Entrance to the west wing~
+You are standing just inside the west wing of the castle. The hall seems
+to go on farther than you can see. There a suits of armor lined against the
+walls, each baring the code of Ramadahn. A long wed carpets stretches down
+the length of the hallway.
+~
+0 0 0
+D1
+~
+wooden e~
+1 -1 28572
+D3
+~
+~
+0 -1 28582
+S
+#28582
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway. There are wooden doors to the north and south.
+~
+0 0 0
+D0
+~
+n wooden~
+1 -1 28583
+D1
+~
+~
+0 -1 28581
+D2
+~
+wooden s~
+1 -1 28584
+D3
+~
+~
+0 -1 28585
+S
+#28583
+A guest's room~
+You are in the middle of a very plain room. There is a bed and a dresser.
+There seems to be just enough for a short stay. The door back to the hall
+lies to the south.
+~
+0 0 0
+D2
+~
+s door~
+1 -1 28582
+S
+#28584
+A guest's room~
+You are in the middle of a very plain room. There is a bed and a dresser.
+There seems to be just enough for a short stay. The door back to the hall
+lies north.
+~
+0 0 0
+D0
+~
+n wooden~
+1 -1 28582
+S
+#28585
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway. The hall continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 -1 28582
+D3
+~
+~
+0 -1 28586
+S
+#28586
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway. The hall continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 -1 28585
+D3
+~
+~
+0 -1 28587
+S
+#28587
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway. The hall continues to the east and west. There is a
+darker hallway to the south.
+~
+0 0 0
+D1
+~
+~
+0 -1 28586
+D2
+~
+~
+0 -1 28588
+D3
+~
+~
+0 -1 28623
+S
+#28588
+A candle-lit hallway~
+This is quite an eerie hallway. It is very long, and the only thing
+illuminating the way is several candles mounted on the walls. As you walk
+down the hallyway the shadows dance here and there, causing you to see
+things.
+~
+0 0 0
+D0
+~
+~
+0 -1 28587
+D2
+~
+~
+0 -1 28589
+S
+#28589
+A candle-lit hallway~
+This is quite an eerie hallway. It is very long, and the only thing
+illuminating the way is several candles mounted on the walls. As you walk
+down the hallyway the shadows dance here and there, causing you to see
+things.
+~
+0 0 0
+D0
+~
+~
+0 -1 28588
+D2
+~
+~
+0 -1 28590
+S
+#28590
+A candle-lit hallway~
+This is quite an eerie hallway. It is very long, and the only thing
+illuminating the way is several candles mounted on the walls. As you walk
+down the hallyway the shadows dance here and there, causing you to see
+things.
+~
+0 0 0
+D0
+~
+~
+0 -1 28589
+D2
+~
+~
+0 -1 28591
+S
+#28591
+A candle-lit hallway~
+This is quite an eerie hallway. It is very long, and the only thing
+illuminating the way is several candles mounted on the walls. As you walk
+down the hallyway the shadows dance here and there, causing you to see
+things.
+~
+0 0 0
+D0
+~
+~
+0 -1 28590
+D2
+~
+~
+0 -1 28592
+S
+#28592
+A candle-lit hallway~
+This is quite an eerie hallway. It is very long, and the only thing
+illuminating the way is several candles mounted on the walls. As you walk
+down the hallyway the shadows dance here and there, causing you to see
+things.
+~
+0 0 0
+D0
+~
+~
+0 -1 28591
+D2
+~
+~
+0 -1 28593
+S
+#28593
+A candle-lit hallway~
+This is quite an eerie hallway. It is very long, and the only thing
+illuminating the way is several candles mounted on the walls. As you walk
+down the hallyway the shadows dance here and there, causing you to see
+things. Directly to the south there is an iron bound door.
+~
+0 0 0
+D0
+~
+~
+0 -1 28592
+D2
+~
+iron bound door s~
+1 -1 28594
+S
+#28594
+Top of the spiral stairway~
+You are on stairs made of the same grey stone as the rest of the castle.
+Candles light the path downward. You can hear moanings of anguish and
+despair as you head down. The door back to the hallway is to the north.
+~
+0 0 0
+D0
+~
+iron bound door n~
+1 -1 28593
+D5
+~
+~
+0 -1 28595
+S
+#28595
+On a spiral stairway~
+You are on stairs made of the same grey stone as the rest of the castle.
+Candles light the path downward. You can hear moanings of anguish and
+despair as you head down.
+~
+0 0 0
+D4
+~
+~
+0 -1 28594
+D5
+~
+~
+0 -1 28596
+S
+#28596
+On a sprial stairway~
+You are on stairs made of the same grey stone as the rest of the castle.
+Candles light the path downward. You can hear moanings of anguish and
+despair as you head down.
+~
+0 0 0
+D4
+~
+~
+0 -1 28595
+D5
+~
+~
+0 -1 28597
+S
+#28597
+On a spiral stairway~
+You are on stairs made of the same grey stone as the rest of the castle.
+Candles light the path downward. You can hear moanings of anguish and
+despair as you head down.
+~
+0 0 0
+D4
+~
+~
+0 -1 28596
+D5
+~
+~
+0 -1 28598
+S
+#28598
+Bottom of the sprial stairway~
+You have reached the bottom of the spiral stairway. In front of you is
+another iron bound doorway. The cries of anguish are much louder here. The
+stairway leads back up to the hall.
+~
+0 0 0
+D0
+~
+iron bound door n~
+1 -1 28599
+D4
+~
+~
+0 -1 28597
+S
+#28599
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue.
+~
+0 0 0
+D0
+~
+~
+0 -1 28600
+D2
+~
+iron s~
+1 -1 28598
+S
+#28600
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue. Imediatly to
+your left lies a wooden door with a piece of paper nailed to it.
+~
+0 0 0
+E
+paper piece~
+DO NOT DISTURB!
+~
+D0
+~
+~
+0 -1 28602
+D2
+~
+~
+0 -1 28599
+D3
+~
+wooden door w~
+1 -1 28601
+S
+#28601
+The dungeon keeper's room~
+This room is covered in dirt and dust. There is only one desk in the room
+with a mean looking fellow sitting at it. There is a key hook with several
+keys on it on the wall.
+~
+0 0 0
+D1
+~
+door e~
+1 -1 28600
+S
+#28602
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue.
+~
+0 0 0
+D0
+~
+~
+0 -1 28603
+D2
+~
+~
+0 -1 28600
+S
+#28603
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue. There are
+cells to the east and to the west.
+~
+0 0 0
+D0
+~
+~
+0 -1 28606
+D1
+~
+~
+0 -1 28605
+D2
+~
+~
+0 -1 28602
+D3
+~
+~
+0 -1 28604
+S
+#28604
+A cell~
+You are standing in a dark cell. A cot is the only piece of furnature in
+this room.
+~
+0 0 0
+D1
+~
+~
+0 -1 28603
+S
+#28605
+A cell~
+You are standing in a dark cell. A cot is the only piece of furnature in
+this room.
+~
+0 0 0
+D3
+~
+~
+0 -1 28603
+S
+#28606
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue.
+~
+0 0 0
+D0
+~
+~
+0 -1 28607
+D2
+~
+~
+0 -1 28603
+S
+#28607
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue. There are
+cells to the east and to the west.
+~
+0 0 0
+D0
+~
+~
+0 -1 28610
+D1
+~
+~
+0 -1 28609
+D2
+~
+~
+0 -1 28606
+D3
+~
+~
+0 -1 28608
+S
+#28608
+A cell~
+You are standing in a dark cell. A cot is the only piece of furnature in
+this room.
+~
+0 0 0
+D1
+~
+~
+0 -1 28607
+S
+#28609
+A cell~
+You are standing in a dark cell. A cot is the only piece of furnature in
+this room.
+~
+0 0 0
+D3
+~
+~
+0 -1 28607
+S
+#28610
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+north. However you are not quite sure if you want to continue.
+~
+0 0 0
+D0
+~
+~
+0 -1 28611
+D2
+~
+~
+0 -1 28607
+S
+#28611
+A turn in the hallway~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+east. However you are not quite sure if you want to continue.
+~
+0 0 0
+D1
+~
+~
+0 -1 28612
+D2
+~
+~
+0 -1 28610
+S
+#28612
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+east. However you are not quite sure if you want to continue. There is a
+strange door to the north. There are marks on the floor here that look as
+something was dragged through the room.
+~
+0 0 0
+D0
+~
+strange door n~
+2 28501 28613
+D1
+~
+~
+0 -1 28614
+D3
+~
+~
+0 -1 28611
+S
+#28613
+A putrid room~
+You are standing before a pile of corpses at least 15 feet tall. This
+must be where they dump the dead of ramadahn. However you have no idea why
+they would be down here. You see somthing glinting in the pile, but should
+you reach in there?
+~
+0 0 0
+D2
+~
+strange door s~
+2 28501 28612
+S
+#28614
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+east. However you are not quite sure if you want to continue. There are
+marks on the floor here that look as something was dragged through the room.
+~
+0 0 0
+D1
+~
+~
+0 -1 28615
+D3
+~
+~
+0 -1 28612
+S
+#28615
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+east. However you are not quite sure if you want to continue. There are
+cells to the north and south. There are marks on the floor here that look as
+something was dragged through the room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28616
+D1
+~
+~
+0 -1 28618
+D2
+~
+~
+0 -1 28617
+D3
+~
+~
+0 -1 28614
+S
+#28616
+A cell~
+You are standing in a dark cell. A cot is the only piece of furnature in
+this room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28615
+S
+#28617
+A cell~
+You are standing in a dark cell. A cot is the only piece of furnature in
+this room.
+~
+0 0 0
+D0
+~
+~
+0 -1 28615
+S
+#28618
+In the dungeon~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+east. However you are not quite sure if you want to continue. There are
+marks on the floor here that look as something was dragged through the room.
+~
+0 0 0
+D1
+~
+~
+0 -1 28619
+D3
+~
+~
+0 -1 28615
+S
+#28619
+A turn in the hall~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon continues to the
+east. However you are not quite sure if you want to continue. The hall turns
+south here. There are marks on the floor here that look as something was
+dragged through the room.
+~
+0 0 0
+D2
+~
+~
+0 -1 28620
+D3
+~
+~
+0 -1 28618
+S
+#28620
+End of the hall~
+This is a dank pit of hell if you have ever seen one. The smell of human
+excretion permiates the air. The hall through the dungeon ends here. The
+marks on the floor seem to end here,however there seems to be something
+outlined in dust on the floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 28619
+D5
+~
+d trap door~
+2 28501 28621
+S
+#28621
+Through the trap door~
+You have just crawled through a small trap door. To the north here there
+is a pitch black door. The marks on the floor seem to continue through the
+door.
+~
+0 0 0
+D0
+~
+pitch black n door~
+2 28501 28622
+D4
+~
+u door trap~
+2 28501 28620
+S
+#28622
+A bloody room~
+You have entered the room of a necromancer. You can tell by the organs
+and body parts strewn everywhere. There is a large medical table in the
+center of the room, and there are necromantic symbols everywhere. Whoevere
+has been working in this room was working on something big!
+~
+0 0 0
+D2
+~
+door s~
+2 28501 28621
+S
+#28623
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway.
+~
+0 0 0
+D1
+~
+~
+0 -1 28587
+D3
+~
+~
+0 -1 28624
+S
+#28624
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway.
+~
+0 0 0
+D1
+~
+~
+0 -1 28623
+D3
+~
+~
+0 -1 28625
+S
+#28625
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway.
+~
+0 0 0
+D1
+~
+~
+0 -1 28624
+D3
+~
+~
+0 -1 28626
+S
+#28626
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway. There are ornate double doors to the north. There is
+a golden plaque on the wall next to the door.
+~
+0 0 0
+E
+plaque golden~
+The War Room.
+~
+D0
+~
+ornate double n door~
+1 -1 28627
+D1
+~
+~
+0 -1 28625
+D3
+~
+~
+0 -1 28628
+S
+#28627
+The War Room~
+You are standing in the castle's war room. This is where the King and his
+knights, contemplate what they will do in a situation of war. There is a
+giant round table in the middle of the room, with the emblem of Ramadahn
+inlaid into it. There are great tapestrys hung from the walls, and a giant
+rug on the floor.
+~
+0 0 0
+D2
+~
+s door~
+1 -1 28626
+S
+#28628
+The western wing~
+You are standing in an extremely long hall. The hall seems to go on
+farther than you can see. There a suits of armor lined against the walls,
+each baring the code of Ramadahn. A long wed carpets stretches down the
+length of the hallway.
+~
+0 0 0
+D1
+~
+~
+0 -1 28626
+D3
+~
+~
+0 -1 28629
+S
+#28629
+The bottom of a staircase~
+You are standing at the bottom of a large staircase. It is a quite plain
+stone structure, and seems to lead upward to one of the castles spires.
+~
+0 0 0
+D1
+~
+~
+0 -1 28628
+D4
+~
+~
+0 -1 28654
+S
+#28630
+A covered archway~
+You are standing undearneath the archway that surrounds the courtyard. It
+is a high stone archway with beautiful chaneliers hanging down. You can see
+several wooden doors underneath the archway ahead of you.
+~
+0 0 0
+D2
+~
+~
+0 -1 28579
+D3
+~
+~
+0 -1 28577
+S
+#28631
+Entrance to the Royal wing~
+You are standing in the entrance to the royal wing of the castle. This
+wing of the castle where the king of Ramadahn dwells. The hall stretches to
+the north and there is a golden rug running down as far as you can see.
+~
+0 0 0
+D0
+~
+~
+0 -1 28632
+D2
+~
+door s~
+1 -1 28576
+S
+#28632
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28633
+D2
+~
+~
+0 -1 28631
+S
+#28633
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28634
+D2
+~
+~
+0 -1 28632
+S
+#28634
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28635
+D2
+~
+~
+0 -1 28633
+S
+#28635
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble. There is a
+kitchen to the east.
+~
+0 0 0
+D0
+~
+~
+0 -1 28638
+D1
+~
+~
+0 -1 28636
+D2
+~
+~
+0 -1 28634
+S
+#28636
+The Kitchen~
+You have just entered a very large kitchen. There are cooks and servants
+running around everywhere making sure the kings food is satifactory. You are
+standing in the servants area where they prepare the food on plates. Farther
+back is where the cooks are working.
+~
+0 0 0
+D1
+~
+~
+0 -1 28637
+D3
+~
+~
+0 -1 28635
+S
+#28637
+The Kitchen~
+You have just entered a very large kitchen. There are cooks and servants
+running around everywhere making sure the kings food is satifactory. In this
+section you see the cooks running back and forth sturring the soups, and
+making sure the meat doesnt burn.
+~
+0 0 0
+D3
+~
+~
+0 -1 28636
+S
+#28638
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28639
+D2
+~
+~
+0 -1 28635
+S
+#28639
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28640
+D2
+~
+~
+0 -1 28638
+S
+#28640
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble. There is a
+small hallway to the west here.
+~
+0 0 0
+D0
+~
+~
+0 -1 28645
+D2
+~
+~
+0 -1 28639
+D3
+~
+~
+0 -1 28641
+S
+#28641
+A small hallway~
+This small hallway is where some of the kings servants gather. To the
+north there is a door with the symbol of a jester. To the west there is door
+with a sign that says "Concubine's". Lastly to the south there is a door
+with a wizards hat carved in it.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28642
+D1
+~
+~
+0 -1 28640
+D2
+~
+s door~
+1 -1 28644
+D3
+~
+w door~
+1 -1 28643
+S
+#28642
+The Jester's room~
+This is the royal jester's quarters. Gags and things the jester uses to
+make the kind laugh a laying all over the place. The only piece of furnature
+in the room are a chair and a large wooden chest.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28641
+S
+#28643
+The room of concubines~
+As you step in this room your nose is assaulted by perfume. Pillows cover
+the floor and there is an abundance of silk in this room. This is where the
+women wait for the king to beckon them. You have a hard time leaving this
+room.
+~
+0 0 0
+D1
+~
+door e~
+1 -1 28641
+S
+#28644
+The Magician's quarters~
+This room is scattered with wand's of every shape and size. This is where
+the magician prepares illusions to ammuse the king. Its a shame none of
+these wands really work. There is a single chair in the middle of the room
+where the magician usually sits.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28641
+S
+#28645
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28646
+D2
+~
+~
+0 -1 28640
+S
+#28646
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28647
+D2
+~
+~
+0 -1 28645
+S
+#28647
+The Royal wing~
+This hall stretches off to the north. The cieling in this hall is
+rounded, and is covered with stensiled designs. You are standing on a golden
+rug that continues throughout the halls. There are royal guards patroling
+these halls so you decide you had better not cause any trouble.
+~
+0 0 0
+D0
+~
+~
+0 -1 28648
+D2
+~
+~
+0 -1 28646
+S
+#28648
+Before the Throne room~
+You are standing before two large golden doors. Beyond these doors are
+the kings throne and bed chambers. It is considered a punishable act to
+enter the chambers without being invited. Your not so sure that you have
+been invited.
+~
+0 0 0
+D0
+~
+large golden door n~
+1 -1 28649
+D2
+~
+~
+0 -1 28647
+S
+#28649
+The Throne room~
+You are standing in a spectacular room. There whole room seems to be
+guilded with gold. And there are large windows on either side of the room.
+Directly to the north lies the kings throne. It is inlaid with gems of every
+kind imaginable, and has a soft red cushion. Behind the throne there is a
+well guarded door.
+~
+0 0 0
+D0
+~
+n door~
+1 -1 28650
+D2
+~
+s door~
+1 -1 28648
+S
+#28650
+Bottom of the staircase~
+You are standing at the bottom of the northern spire's staircase. Up
+these stairs is where the king's quarters lie. It may be a good idea to go
+back the way you came.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28649
+D4
+~
+~
+0 -1 28651
+S
+#28651
+A door before the King's quarters~
+You are standing before the door to the king's quarters. It is a heavy
+wooden door guilded with gold. The staircase leads back down. Perhaps it
+would be the best idea to go back down before you disturb the king.
+~
+0 0 0
+D2
+~
+heavy s door guilded~
+1 -1 28652
+D5
+~
+~
+0 -1 28650
+S
+#28652
+The King's Quarters~
+You are standing in the bedroom of the king himself. This is the most
+lavish room you have ever seen. Precious jewels and metals are common place,
+and his bed is a masterpiece of carved wood. The kings dresser is on the
+west wall. Out the window on the south wall you can get a view of the whole
+kingdown, it is breathtaking.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28651
+S
+#28653
+Entrance to the Eastern wing~
+This is the entrance to the eastern wing, or more commonly called the
+noble wing. This is the area provided for the visiting nobles from other
+kingdoms. There is a red carpet running the lenght of the hall, and there
+are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28658
+D3
+~
+door w~
+1 -1 28579
+S
+#28654
+On the staircase~
+As you climb the stairs to the top of the spire you start to feel tingley
+all over. You can also hear a soft humming.
+~
+0 0 0
+D4
+~
+~
+0 -1 28655
+D5
+~
+~
+0 -1 28629
+S
+#28655
+Top of the Western spire~
+At the top of this staircase there is a strong door made of a pearly
+material. The door itself seems to hum softly.
+~
+0 0 0
+D3
+~
+door pearl w~
+1 -1 28656
+D5
+~
+~
+0 -1 28654
+S
+#28656
+Room of the great sorcerer~
+You have entered the room of the great socerer of Ramadahn. It is said
+that this man is the reason for the many victories in battle. The room seems
+to overflow with enchantments. There is a rocking chair neer the one window
+in the spire. Also there is a bookcase against the northern wall.
+~
+0 0 0
+D0
+~
+bookcase n~
+1 -1 28657
+D1
+~
+door e~
+1 -1 28655
+S
+#28657
+The hidden room~
+As you enter this room you no longer wonder why not many people have seen
+the sorcerer. This room has served as his hidden sanctuary from those who
+would disturb his meditation.
+~
+0 0 0
+D2
+~
+bookcase s~
+1 -1 28656
+S
+#28658
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28659
+D3
+~
+~
+0 -1 28653
+S
+#28659
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. There are
+doors to the north and south.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28660
+D1
+~
+~
+0 -1 28662
+D2
+~
+s door~
+1 -1 28661
+D3
+~
+~
+0 -1 28658
+S
+#28660
+A noble's room~
+You are standing in a very nice room. It is not very large, but is clean
+and has all nessisary acomidations. This is where the nobles from visiting
+lands make thier stay.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28659
+S
+#28661
+A noble's room~
+You are standing in a very nice room. It is not very large, but is clean
+and has all nessisary acomidations. This is where the nobles from visiting
+lands make thier stay.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28659
+S
+#28662
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. There are
+doors to the north and south.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28663
+D1
+~
+~
+0 -1 28665
+D2
+~
+door s~
+1 -1 28664
+D3
+~
+~
+0 -1 28659
+S
+#28663
+A noble's room~
+You are standing in a very nice room. It is not very large, but is clean
+and has all nessisary acomidations. This is where the nobles from visiting
+lands make thier stay.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28662
+S
+#28664
+A noble's room~
+You are standing in a very nice room. It is not very large, but is clean
+and has all nessisary acomidations. This is where the nobles from visiting
+lands make thier stay.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28662
+S
+#28665
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28666
+D3
+~
+~
+0 -1 28662
+S
+#28666
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28667
+D3
+~
+~
+0 -1 28665
+S
+#28667
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. There is a
+door to the north that is a bit larger than the others.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28668
+D1
+~
+~
+0 -1 28669
+D3
+~
+~
+0 -1 28666
+S
+#28668
+A noble's room~
+This room is much nicer than the other rooms. There is a large bed and
+dresser in the corner, and the floor is covered in a large fur rug.
+~
+0 0 0
+D2
+~
+door s~
+1 -1 28667
+S
+#28669
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28670
+D3
+~
+~
+0 -1 28667
+S
+#28670
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls.
+~
+0 0 0
+D1
+~
+~
+0 -1 28671
+D3
+~
+~
+0 -1 28669
+S
+#28671
+The eastern wing~
+You are standing in the eastern wing. This is the area provided for the
+visiting nobles from other kingdoms. There is a red carpet running the
+lenght of the hall, and there are fine paintings on the walls. There are
+doors to the north and south.
+~
+0 0 0
+D0
+~
+door n~
+1 -1 28672
+D1
+~
+~
+0 -1 28674
+D2
+~
+door s~
+1 -1 28673
+D3
+~
+~
+0 -1 28670
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 28672 2 1
+D 0 28673 0 1
+D 0 28685 0 1
+D 0 28686 2 1
+D 0 28690 2 1
+D 0 28691 0 1
+D 0 28700 1 2
+D 0 28702 3 2
+D 0 28501 0 1
+D 0 28502 2 1
+D 0 28505 2 1
+D 0 28506 0 1
+D 0 28506 2 1
+D 0 28507 0 1
+D 0 28508 3 1
+D 0 28509 1 1
+D 0 28515 0 1
+D 0 28516 2 1
+D 0 28539 0 1
+D 0 28540 2 1
+D 0 28557 0 1
+D 0 28558 0 1
+D 0 28558 2 1
+D 0 28561 2 1
+D 0 28572 3 1
+D 0 28576 0 1
+D 0 28579 1 1
+D 0 28581 1 1
+D 0 28582 0 1
+D 0 28582 2 1
+D 0 28583 2 1
+D 0 28584 0 1
+D 0 28593 2 1
+D 0 28594 0 1
+D 0 28598 0 1
+D 0 28599 2 1
+D 0 28600 3 1
+D 0 28601 1 1
+D 0 28612 0 2
+D 0 28613 2 2
+D 0 28620 5 2
+D 0 28621 0 2
+D 0 28621 4 2
+D 0 28622 2 2
+D 0 28631 2 1
+D 0 28641 0 1
+D 0 28641 2 1
+D 0 28641 3 1
+D 0 28642 2 1
+D 0 28643 1 1
+D 0 28644 0 1
+D 0 28648 0 1
+D 0 28649 0 1
+D 0 28649 2 1
+D 0 28650 2 1
+D 0 28651 2 1
+D 0 28652 0 1
+D 0 28653 3 1
+D 0 28655 3 1
+D 0 28656 0 1
+D 0 28659 0 1
+D 0 28659 2 1
+D 0 28660 2 1
+D 0 28661 0 1
+D 0 28662 0 1
+D 0 28662 2 1
+D 0 28663 2 1
+D 0 28664 0 1
+D 0 28667 0 1
+D 0 28668 2 1
+D 0 28671 0 1
+D 0 28671 2 1
+M 0 28530 10 28672 10
+M 0 28530 10 28673 10
+M 0 28530 10 28676 10
+M 0 28509 3 28676 3
+M 0 28524 4 28676 4
+M 0 28530 10 28677 10
+M 0 28530 10 28678 10
+M 0 28524 4 28679 4
+O 0 28503 0 28686
+P 0 28504 100 28503 1
+M 0 28531 1 28686 1
+E 0 28520 0 13
+E 0 28530 0 3
+E 0 28530 0 4
+E 0 28525 0 16
+M 0 28515 13 28687 13
+M 0 28515 13 28688 13
+M 0 28515 13 28689 13
+M 0 28515 13 28690 13
+M 0 28515 13 28691 3
+M 0 28515 13 28691 3
+M 0 28515 13 28691 3
+M 0 28526 5 28691 5
+M 0 28532 1 28700 1
+E 0 28531 0 12
+E 0 28532 0 16
+M 0 28515 13 28702 2
+M 0 28515 13 28702 2
+M 0 28500 2 28501 2
+E 0 28507 0 3
+E 0 28506 0 7
+E 0 28512 0 16
+M 0 28500 2 28501 2
+E 0 28507 0 3
+E 0 28506 0 7
+E 0 28512 0 16
+M 0 28501 4 28502 4
+M 0 28503 12 28503 12
+M 0 28502 2 28504 2
+M 0 28503 12 28505 12
+M 0 28503 12 28506 2
+M 0 28503 12 28506 12
+M 0 28504 1 28507 1
+E 0 28511 0 6
+E 0 28510 0 7
+E 0 28512 0 16
+M 0 28505 1 28509 1
+E 0 28509 0 17
+M 0 28506 1 28510 1
+E 0 28514 0 5
+M 0 28501 4 28511 4
+M 0 28507 2 28513 2
+E 0 28508 0 17
+M 0 28507 2 28514 2
+E 0 28508 0 17
+M 0 28503 12 28515 12
+M 0 28508 1 28516 1
+M 0 28509 3 28516 2
+M 0 28509 3 28516 2
+M 0 28501 4 28518 4
+M 0 28510 1 28519 1
+G 0 28515 0
+G 0 28516 0
+M 0 28511 1 28520 1
+G 0 28517 0
+G 0 28518 0
+M 0 28503 12 28521 12
+M 0 28512 1 28523 1
+E 0 28513 0 6
+M 0 28502 2 28525 2
+M 0 28503 12 28527 12
+M 0 28513 12 28529 12
+M 0 28513 12 28530 12
+M 0 28503 12 28531 12
+M 0 28513 12 28533 12
+M 0 28513 12 28534 12
+M 0 28503 12 28535 12
+M 0 28513 12 28537 12
+M 0 28513 12 28538 12
+M 0 28514 1 28540 1
+E 0 28519 0 16
+M 0 28503 12 28541 12
+M 0 28513 12 28542 12
+M 0 28513 12 28543 12
+M 0 28503 12 28545 12
+M 0 28513 12 28546 12
+M 0 28513 12 28547 12
+M 0 28503 12 28549 12
+M 0 28513 12 28550 12
+M 0 28513 12 28551 12
+M 0 28501 4 28552 4
+M 0 28515 13 28557 2
+E 0 28520 0 13
+E 0 28512 0 16
+M 0 28515 13 28557 2
+E 0 28520 0 13
+E 0 28512 0 16
+M 0 28516 1 28561 1
+M 0 28516 1 28567 1
+M 0 28516 1 28568 1
+M 0 28516 1 28569 1
+M 0 28518 1 28583 1
+E 0 28522 0 16
+M 0 28517 1 28584 1
+E 0 28521 0 15
+M 0 28519 1 28601 1
+O 0 28500 0 28601
+O 0 28503 0 28601
+P 0 28501 100 28500 1
+M 0 28520 6 28604 6
+M 0 28520 6 28605 6
+M 0 28520 6 28608 6
+M 0 28520 6 28609 6
+O 0 28505 0 28613
+P 0 28502 100 28505 1
+M 0 28520 6 28616 6
+M 0 28520 6 28617 6
+M 0 28521 1 28622 1
+E 0 28523 0 4
+E 0 28524 0 16
+M 0 28522 1 28622 1
+M 0 28524 4 28636 2
+M 0 28524 4 28636 2
+M 0 28523 2 28637 2
+M 0 28523 2 28637 2
+M 0 28525 1 28642 1
+E 0 28526 0 17
+M 0 28526 5 28643 4
+M 0 28526 5 28643 4
+M 0 28526 5 28643 4
+M 0 28526 5 28643 4
+M 0 28527 1 28644 1
+E 0 28527 0 6
+M 0 28515 13 28649 2
+M 0 28515 13 28649 2
+M 0 28528 1 28652 1
+E 0 28528 0 1
+E 0 28528 0 2
+E 0 28529 0 9
+M 0 28529 1 28657 1
+M 0 28530 10 28660 10
+M 0 28530 10 28661 10
+M 0 28530 10 28663 10
+M 0 28530 10 28664 10
+M 0 28530 10 28668 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

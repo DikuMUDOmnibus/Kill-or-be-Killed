@@ -1,0 +1,475 @@
+#AREA
+rager.are~
+Rager Village~
+{CABAL} Dioxide Rager Village~
+5700 5799
+
+#MOBILES
+#5700
+Destructor~
+the Destructor~
+The Destructor of magic is here, daring you to cast a spell.
+~
+This giant warrior has an extreme aversion to any magic performed
+in his vicinity.  If you even have the ability to cast spells, he
+won't like you.
+~
+giant~
+ABTVe DFbf 0 0
+55 70 2d500+10000 1d1+4999 10d10+25 pound
+-70 -70 -70 -70
+ADFIJKV AB HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+
+#5701
+Grime~
+Grime~
+Grime the smith is here to sell his fine works.
+~
+Grime is well named since the soot of his forge covers him and
+everything in the store.
+~
+human~
+ABTVe DFHV 1000 0
+55 30 3d300+4000 1d1+2000 4d10+30 pound
+-30 -30 -30 -30
+CDEFIJKNV AB D P
+stand stand male 0
+A ABCDE medium 0
+M greet 5700 100~
+
+#5702
+Healer~
+A healer~
+A healer is here tending to the wounded.
+~
+This healer stands here, healing Ragers.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIKV ABC D 0
+stand stand male 5000
+0 0 medium 0
+
+#5703
+bloody swordsman~
+the bloody swordsman~
+The rager swordsman is here, covered in dried blood..
+~
+This well-built man looks quite ready to show you a
+thing or two about combat.
+~
+human~
+ABGT DFa 0 0
+60 100 15000d2+0 0d0+0 45d20+0 charge
+-100 -100 -100 -100
+ABCFGHIJKLMNV ABC DFGHJKLMNOPQRS 0
+stand stand male 0
+HM 0 giant 0
+M greet 5701 100~
+
+#0
+
+
+#OBJECTS
+#5700
+key~
+a bone key~
+A bone key is on the ground.~
+steel~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+
+#5701
+head magician bloody~
+Bloody head of magician~
+Bloody head of magician is here.~
+bone~
+treasure OT A
+0 0 0 0 0
+60 1 100000 P
+C
+4
+L
+1
+
+#5702
+throne skulls~
+the large skull-throne~
+The large throne made from skulls is sitting here.~
+bone~
+furniture ORY P
+10 15 CGJKM 15 100
+60 1 20 P
+
+#5703
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items for other Rager.~
+
+#5704
+sword rager standard~
+a standard Rager sword~
+A plain-looking sword of a Rager lies here.~
+steel~
+weapon P AN
+sword 8 4 slash 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5705
+axe rager standard~
+a standard Rager axe~
+A plain-looking axe of a Rager lies here.~
+steel~
+weapon P AN
+axe 8 4 chop 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5706
+mace rager standard~
+a standard Rager mace~
+A plain-looking mace of a Rager lies here.~
+steel~
+weapon P AN
+mace 8 4 smash 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5707
+dagger rager standard~
+a standard Rager dagger~
+A plain-looking dagger of a Rager lies here.~
+steel~
+weapon P AN
+dagger 8 4 pierce 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5708
+polearm rager standard~
+a standard Rager polearm~
+A plain-looking polearm of a Rager lies here.~
+steel~
+weapon P AN
+polearm 8 4 crush 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5709
+staff rager standard~
+a standard Rager staff~
+A plain-looking staff of a Rager lies here.~
+steel~
+weapon P AN
+staff 8 4 smash 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5710
+whip rager standard~
+a standard Rager whip~
+A plain-looking whip of a Rager lies here.~
+steel~
+weapon P AN
+whip 8 4 whip 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5711
+spear rager standard~
+a standard Rager spear~
+A plain-looking spear of a Rager lies here.~
+steel~
+weapon P AN
+spear 8 4 pierce 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+
+#5750
+pack explosives bag~
+small bag of explosives~
+A small bag of explosives lie here.~
+~
+armor BMTYZ AS
+15 15 15 15 0
+0 5 0 P
+A
+2 -5
+A
+19 10
+#5751
+vest resistant magic~
+magic resistant vest~
+A magic-resistant vest lies here.~
+~
+armor BMTYZ AS
+50 50 50 50 0
+0 5 0 P
+A
+20 -35
+F
+R 0 0 C
+#0
+
+#ROOMS
+#5700
+The well-used trail~
+Breaking off from the main path, you see a small, but well-
+used path leading into the hills.
+~
+0 WX 4
+D1
+~
+~
+0 -1 5281
+D3
+You see the entrance to the village.~
+~
+0 -1 5701
+S
+#5701
+The entrance to the village~
+Before you opens a small village. Cooking fires and small tents 
+make this seem like every other village... until you see the skulls.  
+They are everywhere: mounted on spears, arranged in pyramids, and 
+stacked in crude walls.  Huge men, dressed in wild armor and skins, 
+look you over before moving on.
+~
+0 NWX 4
+D1
+You see a well-used trail.~
+~
+0 -1 5700
+D3
+You see a small road.~
+~
+0 -1 5702
+S
+#5702
+The main road through the village~
+As you walk along this path, the atmosphere of battle heightens.  
+A large square is to the west, and the hills are to the east.
+~
+0 NWXc 2
+D1
+You see the entrance to the village.~
+~
+0 -1 5701
+D3
+You see the Blood Square.~
+~
+0 -1 5703
+S
+#5703
+Blood Square~
+A small square opens here.  To the north you see a donation room, 
+and to the south there is a sign saying "Grime's House of Weapons".  
+To the west you see a shrine to the Immortals of the Ragers.
+~
+0 NWXc 2
+D0
+You see a circular arena.~
+~
+0 -1 5704
+D1
+You see a small road.~
+~
+0 -1 5702
+D2
+You see a weaponshop.~
+~
+0 -1 5705
+D3
+You see the Shrine.~
+~
+0 -1 5706
+S
+#5704
+The Brawling Ring~
+Here you find a large, bloody ring. It was constructed for the use 
+of dueling for practice and training for the Ragers.
+
+A large circular brawling ring is constructed here.
+~
+0 NWXc 0
+D2
+You see the Blood Square.~
+~
+0 -1 5703
+D3
+~
+~
+0 -1 5707
+E
+ring brawling~
+You see a large, circular platform. There are menacing red splatters all over.
+~
+S
+#5705
+Grime's House of Weapons~
+Grime is here, offering you the finest tools of destruction in 
+the land at the best prices in the land.  Or so he says.  Swords, 
+axes, and other varieties of weapons line the walls, waiting to 
+be bought.
+~
+0 NWXc 0
+D0
+You see the Blood Square.~
+~
+0 -1 5703
+S
+#5706
+The Shrine of Ragers~
+Before you is a huge throne of skulls. Shelves line the walls, 
+upon them sit hundreds of small jars filled with he blood of fallen 
+opponents. On the jars you see the names of the great enemies who 
+have fallen at the hand of a Rager. A pit lies here for your donations
+for other Ragers, so that they  may easier destroy the Arcanas.
+
+A massive stone tablet has been erected here.
+~
+0 NWXc 0
+D1
+You see the Blood Square.~
+~
+0 -1 5703
+E
+tablet~
+-----------------------------------------------------------------------
+The Seven Commandments of the Ragers.
+
+1.  No magic, of any form, should ever be manipulated, or beseeched,
+    by any Rager.  Such blasphemy is forbidden.  Likewise, any
+    mortal who casts in your presence should be punished harshly.
+
+2.  Mages, Anti-paladins and those trying to master the five magics, 
+    pervert the power of the gods.  Therefore they should be culled     
+    until the point of their extinction.
+
+3.  Clerics and Paladins are the divine chosen.  As the messengers of
+    the gods, they shall be tolerated, but their magic not embraced.
+
+4.  Avoid all those afflicted by magical charms, or put them out of their
+    misery.
+ 
+5.  Courage is the difference between a warrior and a great warrior.
+    Hence, it should be seen as a part of life to every Rager.
+    Extend such courage to all, apart from those waring on our soil.
+
+6.  Your mortal leader and every God you encounter should be treated
+    with utmost respect and obeyed always.
+
+7.  No BattleRager shall GANGBANG!
+------------------------------------------------------------------------
+~
+S
+#5707
+The Recreation Room~
+You are standing in a large room. It seems to have no purpose.
+
+A large trampoline stands here.
+~
+0 NWXc 0
+D1
+You see a small road.~
+~
+0 -1 5704
+E
+trampoline~
+A large, bouncy trampoline is here. You feel tempted to bounce on it. Weirdo.
+~
+S
+#0
+
+
+#RESETS
+M 1 5700 1 5700 1                * Destructor of magic
+G 1 5701 1 3535			 * give head to destructor
+M 1 5702 1 5706 1                * healer
+O 1 5702 1 5706 1                * item container  throne
+O 1 5703 1 5706 1                * pit
+M 1 5701 1 5705 1		 * Grime
+G 0 5704 0
+G 0 5705 0
+G 0 5706 0
+G 0 5707 0
+G 0 5708 0
+G 0 5709 0
+G 0 5710 0
+G 0 5711 0
+M 1 5703 1 5707 1		 * mechanical bull
+S
+
+
+#SHOPS
+5701 1 5 9 11 0 150 70 0 23      * Grime
+0
+
+#SPECIALS
+M  5700 spec_rager			the Destructor
+S
+
+#MOBPROGS
+#5700
+	say Welcome to Grimes house of weapons.
+~
+#5701
+	say Welcome $n, do you think you have what it takes to beat me?
+	emote grins.
+~
+#0
+#$
+

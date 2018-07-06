@@ -1,0 +1,2816 @@
+#AREADATA
+Name The Southern Swamps~
+Builders None~
+VNUMs 1500 1599
+Credits {30 51} Lichen   Southern Swamps~
+Security 9
+End
+
+
+
+#MOBILES
+#1500
+lizard scavenger~
+a scavenger lizard~
+A large lizard-like man is walking around aimlessly, looking for something.
+~
+Walking around is what looks to be some sort
+of being, half man and half lizard. He is clad
+in of scaly leather armor and wielding a small
+spear.
+~
+lizard~
+ACGT J -100 0
+25 10 6d12+928 0d0+0 4d6+9 slash
+-10 -10 -10 -10
+FJKR 0 L I
+stand stand male 0
+AGHMVXc ABCDEFHKQV medium 0
+#1501
+venus flytrap~
+a giant venus fly trap~
+A large flower waits with open jaws to eat the next unlucky vicitm.
+~
+Before you stands a very large example of a
+venus fly trap. Never have you seen such size
+in a one of these. Someone your size would
+make this plant a nice little snack.
+~
+unique~
+ABFGT DFJ -200 0
+55 15 50d10+7000 0d0+0 10d4+23 digestion
+-11 -11 -11 -11
+ACFH AB 0 HI
+stand stand male 0
+AHMV ABCDEF large 0
+#1502
+marsh ghoul~
+a marsh ghoul~
+A small creature of the swamp is looking for some flesh to feast on.
+~
+Looking at this creature you can see that
+it is hungry and definitely unfriendly.
+I think its time to go somewhere else.
+~
+hobgoblin~
+ACFGT DJ -100 0
+45 6 25d10+3000 0d0+0 8d4+15 slime
+-15 -15 -15 -15
+FHI 0 LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJKY medium 0
+#1503
+lizard man~
+a lizard man~
+A lizard man stands here before you wielding a large spear.
+~
+A lizard man looks as if he is at home
+in this disgusting swamp. He casually
+looks around and suddenly decides to eat
+one of the flies buzzing in the air.
+~
+lizard~
+ACFGT D 0 0
+40 7 15d10+1850 0d0+0 4d8+13 pierce
+-13 -13 -13 -13
+CFIKR 0 L I
+stand stand male 0
+AGHMVXc ABCDEFHKQV medium 0
+#1504
+mosquito large~
+a large mosquito~
+A large mosquito buzzes around looking for someone to suck on.
+~
+Before you is a mosquito, only a lot bigger
+than the ones you are used to seeing.
+~
+bat~
+AGT DTZ 0 0
+40 7 15d10+1850 0d0+0 4d8+13 bite
+-13 -13 -13 -13
+FHR 0 0 ES
+stand stand male 0
+AGHMV ABCDEFHJKP medium 0
+#1505
+giant mud turtle~
+a giant mud turtle~
+A large turtle is here half buried in the mud.
+~
+A large turtle is here slowly moving
+in the mud, as if it were stuck.
+~
+unique~
+AGT D 0 0
+50 4 50d10+4500 0d0+0 5d8+19 pound
+-70 -70 -70 -60
+CFO ABR DEFGLQ 0
+stand stand male 0
+AHac ABCDEF large 0
+#1506
+acid blob~
+an acid blob~
+A large blob of acidic jelly corrodes everything in its path.
+~
+A large blob of acidic jelly corrodes
+everything in its path. It's heading
+in your direction.
+~
+unique~
+AFT DF -300 0
+50 4 50d10+4500 0d0+0 5d8+19 acbite
+-20 -20 -20 -20
+ACFHU KQR HJL I
+stand stand none 0
+BHMV DEF large 0
+#1507
+wandering scientist~
+the wandering scientist~
+An older man is searching through the swamps seeking new things to study.
+~
+An older man is searching through the swamps seeking new things to study.
+~
+human~
+AHT 0 0 0
+30 11 6d12+853 0d0+0 4d6+8 punch
+-9 -9 -9 -9
+FI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1508
+mangy dog~
+a mangy dog~
+A mangy dog has wandered away from civilization into the marsh.
+~
+A mangy dog has wandered away from civilization
+and into the marsh. He is covered in muck and
+stinks of sulfur.
+~
+dog~
+AHT 0 -100 0
+35 6 10d10+1300 0d0+0 4d7+11 bite
+-11 -11 -11 -11
+AFHU AB 0 0
+stand stand male 0
+AGHMV ABCDEFHJKUV medium 0
+#1509
+horace bandit~
+Horace the Bandit~
+A man stands here dressed in swampy clothes and wielding a barbed dagger.
+~
+A man stands here dressed in swampy clothes
+and wielding a barbed dagger.
+~
+human~
+ABT DFH 0 0
+55 15 50d10+7000 0d0+0 10d4+23 thrust
+-25 -25 -25 -25
+FHIKU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1510
+dillard man~
+Dillard~
+A small man with an evil gleam stands here cracking a whip.
+~
+A small man no more than 4 feet tall is
+standing before you. With a gleam in his
+eye, he quickly unravels his whip and
+cracks it a few inches from your head.
+~
+human~
+ABFGS DFH -100 0
+50 30 50d10+4500 0d0+0 5d8+19 slash
+-20 -20 -20 -20
+FIKN AB LM 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#1511
+damsel woman~
+a damsel~
+A woman lies here helpless against the bonds that hold her.
+~
+A woman lies here helpless against the bonds
+that hold her. Whoever has done this does
+not want her to escape.
+~
+human~
+ABG 0 200 0
+30 11 6d12+853 0d0+0 4d6+8 slap
+-9 -9 -9 -9
+F 0 0 0
+rest stand female 0
+AHMV ABCDEFGHIJK medium 0
+#1512
+slug~
+a large slug~
+A large slug leaves a long trail of slime behind himself.
+~
+Before you is a large slug. Seeing such a
+sight you wish you had brought along a huge
+bag of salt.
+~
+unique~
+AG D 0 0
+40 7 15d10+1850 0d0+0 4d8+13 slime
+-13 -13 -13 -13
+ACFM AB EF GHK
+stand stand male 0
+AHMV ABCDEF large 0
+#1513
+mound trash~
+a mound of trash~
+A large mound of trash seems to be moving in your direction.
+~
+A large mound of trash seems to be moving
+in your direction. This is quite odd.
+~
+unique~
+AFGT DF -200 0
+45 0 25d10+3000 0d0+0 8d4+15 wrath
+-15 -15 -15 -15
+ACO ABLQ C H
+stand stand none 0
+AHMV ABCDEF large 0
+#1514
+shopkeeper man ~
+a shopkeeper~
+A man dressed in swamp garb, surrounded by goods for sale, stands here.
+~
+A man dressed in swamp garb, surrounded by
+goods for sale, stands before you. He has
+used the locals to gather things from the
+swamp to create his goods to sale.
+~
+human~
+ABGT DHJ 0 0
+9999 40 25d10+3000 0d0+0 8d4+100 thwack
+-30 -30 -30 -30
+FIKN ABCD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#1515
+snake moccasin water~
+a water moccasin~
+A poisonous snake swims quickly through the swampy waters.
+~
+A poisonous snake swims quickly through
+the swampy waters. It looks like it is
+coming in your direction.
+~
+snake~
+ABFGT DJ -200 0
+45 6 25d10+3000 0d0+0 8d4+15 pound
+-15 -15 -15 -15
+FH 0 L I
+stand stand male 0
+AGHMVXYc ABCDEFKLQVX medium 0
+#1516
+leech~
+a leech~
+A slimy leech is searching for a new host to feed on.
+~
+A leech about the size of a small baby is
+motionless on the ground before you. As
+soon as it senses your presence it starts
+to move about attempting to attach itself
+to you.
+~
+unique~
+ACG D 0 0
+30 10 6d12+853 0d0+0 4d6+8 suction
+-9 -9 -9 -9
+F AB C H
+stand stand male 0
+AHMV ABCDEF medium 0
+#1517
+mangler~
+the Mangler~
+A large machine of destruction is here waiting to devour you, body and soul.
+~
+Before you is the most disturbing contraption
+you have ever seen. What was a huge iron
+furnace has now been corrupted with evil
+energies and artistic qualities, making the
+perfect killing machine.
+~
+unique~
+AFT DFHNO 0 0
+65 95 50d10+20000 0d0+0 20d10+300 digestion
+-70 -70 -70 -60
+AFHKM ABLQ CDEFGHNOP 0
+stand stand none 0
+AHMV ABCDEF large 0
+#0
+
+
+
+#OBJECTS
+#1500
+iron spear~
+an iron spear~
+An iron spear has been left on the ground.~
+iron~
+weapon Y AN
+spear 6 6 pierce 0
+30 7 0 P
+A
+19 3
+A
+18 3
+L
+40
+#1501
+scaly leather armor~
+some scaly leather armor~
+A set of scaly leather armor lies here on the ground.~
+hard leather~
+armor SY AD
+8 8 8 8 0
+30 10 0 P
+A
+19 1
+A
+18 3
+#1502
+corroded sword~
+a corroded sword~
+A sword corroded by digestive juices lies here on the ground.~
+adamantite~
+weapon GMPT AN
+sword 7 7 slash D
+40 110 0 P
+A
+17 10
+A
+19 2
+A
+18 2
+L
+15
+#1503
+walking stick~
+a walking stick~
+A small stick covered in runes has been left on the ground.~
+wood~
+wand GY AO
+60 10 5 'sleep' 0
+35 2 0 P
+L
+15
+#1504
+transparent wings~
+some transparent wings~
+A pair of transparent wings is all that remains of a giant insect.~
+nothingness~
+pill GQ AO
+50 'fly' 'pass door' '' ''
+40 1 0 P
+L
+30
+#1505
+turtle shell ~
+a large turtle shell~
+The remainder of a large turtle lies here on the ground.~
+shell~
+armor BGHQS AJ
+20 20 20 20 0
+50 10 0 P
+F
+R 0 0 E
+A
+18 5
+A
+24 -10
+A
+17 -20
+L
+2
+#1506
+long white coat overcoat~
+a long white coat~
+A long white overcoat has been left on the ground.~
+cloth~
+armor 0 AK
+5 5 5 5 0
+40 1 0 P
+A
+3 3
+A
+12 70
+L
+12
+#1507
+test tube~
+a test tube~
+A small glass test tube seems to have been misplaced.~
+glass~
+trash 0 AO
+0 0 0 0 0
+10 2 0 P
+#1508
+magnifying glass~
+a magnifying glass~
+A wooden handled magnifying glass has been dropped here.~
+glass~
+staff AG AO
+40 3 3 'detect invis' 0
+40 3 0 P
+#1509
+broken leash~
+a broken leash~
+A broken leather leash has been ripped off an animal's neck.~
+soft leather~
+armor S AC
+8 8 8 8 0
+35 1 0 P
+A
+13 10
+A
+19 1
+A
+18 1
+L
+35
+#1510
+steel bowie knife~
+a steel bowie knife~
+A steel bowie knife has been left unattended.~
+steel~
+weapon ABT AN
+dagger 8 6 pierce DH
+52 12 0 P
+A
+2 1
+A
+18 5
+A
+19 5
+L
+4
+#1511
+barbed chain whip~
+a barbed-chain whip~
+A long slender chain with steel barbs glows with evil energies.~
+electrum~
+weapon ABET AN
+whip 8 6 slash CDH
+50 70 0 P
+A
+2 -1
+A
+18 -3
+A
+19 10
+L
+9
+#1512
+gold amulet~
+a gold amulet~
+A small chain with a gold amulet needs a new owner.~
+gold~
+armor GMZ AC
+5 5 5 5 0
+0 1 0 P
+F
+A 0 0 AK
+A
+19 5
+A
+2 2
+L
+3
+#1513
+old axe~
+an old axe~
+An old axe lies here in a heap of garbage.~
+adamantite~
+weapon 0 AN
+axe 5 5 slash F
+30 140 0 P
+A
+18 5
+#1514
+shoes~
+some shoes~
+A pair of old leather shoes are here covered in muck.~
+hard leather~
+armor 0 AG
+3 3 3 3 0
+22 3 0 P
+A
+2 2
+#1515
+apple~
+apple~
+An old apple lies here half rotten.~
+energy~
+pill GQ AO
+40 'bless' '' '' ''
+40 1 0 P
+L
+50
+#1516
+carrot~
+carrot~
+An old carrot lies here half rotten.~
+energy~
+pill G AO
+60 'poison' 'plague' '' ''
+40 1 0 P
+#1517
+vial blood~
+a vial of blood~
+Amazingly enough you find a glass vial in the left over remains.~
+glass~
+potion AGTY AO
+51 'sanctuary' 'stone skin' 'shield' 'armor'
+40 1 0 P
+L
+5
+#1518
+murky potion brown~
+a murky brown potion~
+A murky brown potion is here on the ground.~
+glass~
+potion GN AO
+35 'cure blindness' '' '' ''
+35 1 2500 P
+L
+30
+#1519
+crimson flask~
+a crimson flask~
+A flask filled with crimson liquid is for sale here.~
+glass~
+potion NY AO
+40 'cure critical' 'cure critical' '' ''
+40 0 5000 P
+L
+50
+#1520
+sleeves pockets~
+a pair of sleeves with many pockets~
+Some sleeves made of pure energy crackle on the ground.~
+energy~
+container BGSTY AI
+100 0 0 15 75
+55 10 0 P
+F
+R 0 0 O
+A
+24 -10
+A
+19 3
+A
+18 5
+L
+20
+#1521
+violet potion~
+a violet potion~
+A violet potion has been dropped by a salesman.~
+glass~
+potion GNT AO
+40 'shield' '' '' ''
+40 0 4000 P
+L
+30
+#0
+
+
+
+#ROOMS
+#1500
+A wet and damp trail~
+Outside of the city begins a highly undeveloped
+walkway which leads from the city into the
+southern swamps. Before this primitive path
+was built, there was absolutely no way into the
+putrid quagmire. Now the public can journey into
+this new found land at their leisure.
+~
+0 0 2
+D0
+~
+~
+0 0 727
+D2
+~
+~
+0 -1 1501
+S
+#1501
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D0
+~
+~
+0 -1 1500
+D2
+~
+~
+0 -1 1502
+S
+#1502
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D0
+~
+~
+0 -1 1501
+D2
+~
+~
+0 -1 1503
+S
+#1503
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D0
+~
+~
+0 -1 1502
+D2
+~
+~
+0 -1 1504
+S
+#1504
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies. You
+see that in order for you to continue you must
+make a turn towards the west to stay on the trail.
+~
+0 0 2
+D0
+~
+~
+0 -1 1503
+D3
+~
+~
+0 -1 1505
+S
+#1505
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D1
+~
+~
+0 -1 1504
+D3
+~
+~
+0 -1 1506
+S
+#1506
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D1
+~
+~
+0 -1 1505
+D3
+~
+~
+0 -1 1507
+S
+#1507
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D1
+~
+~
+0 -1 1506
+D3
+~
+~
+0 -1 1508
+S
+#1508
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D1
+~
+~
+0 -1 1507
+D2
+~
+~
+0 -1 1509
+S
+#1509
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D0
+~
+~
+0 -1 1508
+D2
+~
+~
+0 -1 1510
+S
+#1510
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D0
+~
+~
+0 -1 1509
+D2
+~
+~
+0 -1 1511
+S
+#1511
+A wet and damp trail~
+As you venture deeper into the swamps, you notice
+that this recently built pathway is slowly being
+overcome with stagnant water and swamp grass. The
+smell of the area is foul enough to make a man's
+stomach turn sour. You notice a yellow tinge to
+the muck surrounding the path, as well as the
+constant buzz of mosquitoes and dragonflies.
+~
+0 0 2
+D0
+~
+~
+0 -1 1510
+D1
+~
+~
+0 -1 1512
+S
+#1512
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go west, east
+and south. The stench is more pungent and you
+can barely see any signs that society once had
+an influence here.
+~
+0 0 2
+D1
+~
+~
+0 -1 1513
+D2
+~
+~
+0 -1 1519
+D3
+~
+~
+0 -1 1511
+S
+#1513
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go east. The
+stench is more pungent and you can barely see
+any signs that society once had its influence
+here.
+~
+0 0 2
+D1
+~
+~
+0 -1 1514
+D3
+~
+~
+0 -1 1512
+S
+#1514
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go west, east
+and south. The stench is almost unbearable here,
+nearly causing you to vomit.
+~
+0 0 2
+D1
+~
+~
+0 -1 1515
+D2
+~
+~
+0 -1 1556
+D3
+~
+~
+0 -1 1513
+S
+#1515
+in the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go west, east
+and south. The stench is almost unbearable here,
+nearly causing you to vomit.
+~
+0 0 2
+D1
+~
+~
+0 -1 1516
+D3
+~
+~
+0 -1 1514
+S
+#1516
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go west or
+north. The stench is almost unbearable here,
+nearly causing you to vomit.
+~
+0 0 2
+D0
+~
+~
+0 -1 1517
+D3
+~
+~
+0 -1 1515
+S
+#1517
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go south or
+east. The stench is almost unbearable here,
+nearly causing you to vomit. You see an old
+shack off in the distance.
+~
+0 0 2
+D1
+~
+~
+0 -1 1518
+D2
+~
+~
+0 -1 1516
+S
+#1518
+An old shack~
+Surprisingly enough, it looks as if an old man
+has found peace in a part of this swamp. He has
+managed to lay a foundation to an old decrepit
+shack on top of a mound of what seems to be
+stable earth. Even the insects of the swamp
+seem to be less frequent here.
+~
+0 0 2
+D3
+~
+~
+0 -1 1517
+S
+#1519
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go north and
+south. The stench is more pungent and you can
+barely see any signs that society once had an
+influence here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1512
+D2
+~
+~
+0 -1 1520
+S
+#1520
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go north and
+south. The stench is more pungent and you can
+barely see any signs that society once had an
+influence here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1519
+D2
+~
+~
+0 -1 1521
+S
+#1521
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go north and
+south. The stench is more pungent and you can
+barely see any signs that society once had an
+influence here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1520
+D2
+~
+~
+0 -1 1522
+S
+#1522
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go north,
+west and south. The stench is more pungent
+and you can barely see any signs that society
+once had an influence here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1521
+D2
+~
+~
+0 -1 1531
+D3
+~
+~
+0 -1 1523
+S
+#1523
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go west, east
+and south. The stench is more pungent and you
+can barely see any signs that society once had
+an influence here.
+~
+0 0 2
+D1
+~
+~
+0 -1 1522
+D2
+~
+~
+0 -1 1530
+D3
+~
+~
+0 -1 1524
+S
+#1524
+In the southern swamps ~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+placed in a line allowing you to go east and
+south. The stench is more pungent and you can
+barely see any signs that society once had an
+influence here.
+~
+0 0 2
+D1
+~
+~
+0 -1 1523
+D2
+~
+~
+0 -1 1525
+S
+#1525
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1524
+D1
+~
+~
+0 -1 1530
+D2
+~
+~
+0 -1 1526
+S
+#1526
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1525
+D1
+~
+~
+0 -1 1529
+D2
+~
+~
+0 -1 1527
+S
+#1527
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1526
+D1
+~
+~
+0 -1 1528
+S
+#1528
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1529
+D1
+~
+~
+0 -1 1533
+D3
+~
+~
+0 -1 1527
+S
+#1529
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1530
+D1
+~
+~
+0 -1 1532
+D2
+~
+~
+0 -1 1528
+D3
+~
+~
+0 -1 1526
+S
+#1530
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1523
+D1
+~
+~
+0 -1 1531
+D2
+~
+~
+0 -1 1529
+D3
+~
+~
+0 -1 1525
+S
+#1531
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1522
+D2
+~
+~
+0 -1 1532
+D3
+~
+~
+0 -1 1530
+S
+#1532
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1531
+D2
+~
+~
+0 -1 1533
+D3
+~
+~
+0 -1 1529
+S
+#1533
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D0
+~
+~
+0 -1 1532
+D1
+~
+~
+0 -1 1534
+D3
+~
+~
+0 -1 1528
+S
+#1534
+In the southern swamps~
+Here you can see that the pathway made from
+Arkham is just barely apparent. The swamp
+was too much for the structure of the path
+and all there is to walk upon are large rocks
+scattered around, allowing limited movement.
+The stench is more pungent and you can barely
+see any signs that society once had an influence
+here.
+~
+0 0 2
+D2
+~
+~
+0 -1 1535
+D3
+~
+~
+0 -1 1533
+S
+#1535
+A small landing~
+This looks to be a slightly solid piece of marsh
+land. As you look around yourself, there is not
+much light being let in through the thick swamp
+gas and overwhelming vegetation. You look to the
+south and see that darkness is all you can see
+with the occassional stream of sun light peeking
+through the trees.
+~
+0 0 2
+D0
+~
+~
+0 -1 1534
+D2
+~
+~
+0 -1 1536
+S
+#1536
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D0
+~
+~
+0 -1 1535
+D1
+~
+~
+0 -1 1570
+D3
+~
+~
+0 -1 1537
+S
+#1537
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D1
+~
+~
+0 -1 1536
+D3
+~
+~
+0 -1 1538
+S
+#1538
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D1
+~
+~
+0 -1 1537
+D3
+~
+~
+0 -1 1539
+S
+#1539
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D1
+~
+~
+0 -1 1538
+D2
+~
+~
+0 -1 1540
+S
+#1540
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D0
+~
+~
+0 -1 1539
+D2
+~
+~
+0 -1 1541
+S
+#1541
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D0
+~
+~
+0 -1 1540
+D2
+~
+~
+0 -1 1542
+S
+#1542
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D0
+~
+~
+0 -1 1541
+D1
+~
+~
+0 -1 1543
+S
+#1543
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 1 2
+D1
+~
+~
+2 -1 1544
+D3
+~
+~
+0 -1 1542
+S
+#1544
+Through the brambles and weeds~
+After passing through a wall of weeds and
+thorns to the west, you find yourself on a
+secluded section of the swamp. The plants
+around you form a type of wall, a shelter,
+keeping most of the insects out. Looking
+around you see that there is a way to the
+south.
+~
+0 1 2
+D2
+~
+~
+0 -1 1545
+D3
+~
+~
+0 -1 1543
+S
+#1545
+Through the brambles and weeds~
+The shelter that seemed to be forming in the
+north no longer is apparent here. Now, the
+plants and trees part, opening up to a large,
+open area. Beautiful flowers of all types
+seem to blossom as you watch them. The scent
+from the flowers cover up the normal stench
+of the swamp, making it almost bearable to
+stay here. To the south, you see one very
+large plant.
+~
+0 1 2
+D0
+~
+~
+0 -1 1544
+D2
+~
+~
+0 -1 1546
+S
+#1546
+In the thicket~
+You come to the end of a grove in the middle
+of the swamp. Here, a large and hungry venus
+fly trap has decided to make its home and you
+have now disturbed it. From the fluids coming
+from his huge plant mouth, you are almost
+certain its time for him to feed.
+~
+0 1 2
+D0
+~
+~
+0 -1 1545
+D2
+~
+~
+0 -1 1547
+S
+#1547
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D0
+~
+~
+0 -1 1546
+D3
+~
+~
+0 -1 1548
+S
+#1548
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D1
+~
+~
+0 -1 1547
+D3
+~
+~
+0 -1 1549
+S
+#1549
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D1
+~
+~
+0 -1 1548
+D2
+~
+~
+0 -1 1550
+S
+#1550
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D0
+~
+~
+0 -1 1549
+D2
+~
+~
+0 -1 1551
+S
+#1551
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D0
+~
+~
+0 -1 1550
+D3
+~
+~
+0 -1 1552
+S
+#1552
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D1
+~
+~
+0 -1 1551
+D3
+~
+~
+0 -1 1553
+S
+#1553
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D1
+~
+~
+0 -1 1552
+D2
+~
+~
+0 -1 1554
+S
+#1554
+A quiet place in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but
+it is very calm and peaceful. As you scan
+around the place you see that the plants
+beneath your feet seem to bind together,
+allowing you to continue deeper into the
+swamp.
+~
+0 1 2
+D0
+~
+~
+0 -1 1553
+D1
+~
+~
+0 -1 1555
+S
+#1555
+A dead end in the swamp~
+This part of the swamp is different than the
+majority of it. You see here the same plant
+life, marsh gas, insects, and darkness, but it
+is very calm and peaceful. As you scan around
+the place you see that the plants beneath your
+feet seem to bind together into a walkway.
+Unfortunely, the pathway ends here at an
+impassable wall of trees and thorns.
+~
+0 1 2
+D3
+~
+~
+0 -1 1554
+S
+#1556
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1514
+D2
+~
+~
+0 -1 1557
+S
+#1557
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1556
+D2
+~
+~
+0 -1 1558
+S
+#1558
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1557
+D1
+~
+~
+0 -1 1559
+S
+#1559
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D2
+~
+~
+0 -1 1560
+D3
+~
+~
+0 -1 1558
+S
+#1560
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1559
+D2
+~
+~
+0 -1 1561
+S
+#1561
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1560
+D2
+~
+~
+0 -1 1562
+S
+#1562
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1561
+D1
+~
+~
+0 -1 1563
+S
+#1563
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D1
+~
+~
+0 -1 1564
+D3
+~
+~
+0 -1 1562
+S
+#1564
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D2
+~
+~
+0 -1 1565
+D3
+~
+~
+0 -1 1563
+S
+#1565
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1564
+D2
+~
+~
+0 -1 1566
+S
+#1566
+A worn away path in the swamps~
+Deeper into the swamps you can see that some of
+the inhabitants have managed to somewhat make a
+path through its center. Even the smell is a
+little more tolerable due to the wild flowers
+growing along both sides of the path. The insects,
+however, frequent these flowers, and have managed
+to practically swarm the air around you.
+~
+0 0 2
+D0
+~
+~
+0 -1 1565
+D2
+~
+~
+0 -1 1567
+S
+#1567
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D0
+~
+~
+0 -1 1566
+D1
+~
+~
+0 -1 1571
+D3
+~
+~
+0 -1 1568
+S
+#1568
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1567
+D3
+~
+~
+0 -1 1569
+S
+#1569
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1568
+D3
+~
+~
+0 -1 1570
+S
+#1570
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1569
+D3
+~
+~
+0 -1 1536
+S
+#1571
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1572
+D3
+~
+~
+0 -1 1567
+S
+#1572
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1591
+D2
+~
+~
+0 -1 1573
+D3
+~
+~
+0 -1 1571
+S
+#1573
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1572
+D2
+~
+~
+0 -1 1574
+S
+#1574
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1573
+D2
+~
+~
+0 -1 1575
+S
+#1575
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1574
+D2
+~
+~
+0 -1 1576
+S
+#1576
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1575
+D3
+~
+~
+0 -1 1577
+S
+#1577
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D1
+~
+~
+0 -1 1576
+D2
+~
+~
+0 -1 1578
+S
+#1578
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1577
+D2
+~
+~
+0 -1 1579
+S
+#1579
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1578
+D1
+~
+~
+0 -1 1580
+D2
+~
+~
+0 -1 1582
+S
+#1580
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D2
+~
+~
+0 -1 1581
+D3
+~
+~
+0 -1 1579
+S
+#1581
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1580
+D2
+~
+~
+0 -1 1584
+D3
+~
+~
+0 -1 1582
+S
+#1582
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1579
+D1
+~
+~
+0 -1 1581
+D2
+~
+~
+0 -1 1583
+S
+#1583
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1582
+D1
+~
+~
+0 -1 1584
+S
+#1584
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1581
+D2
+~
+~
+0 -1 1585
+D3
+~
+~
+0 -1 1583
+S
+#1585
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1584
+D2
+~
+~
+0 -1 1586
+S
+#1586
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1585
+D1
+~
+~
+0 -1 1587
+S
+#1587
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D1
+~
+~
+0 -1 1588
+D3
+~
+~
+0 -1 1586
+S
+#1588
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D2
+~
+~
+0 -1 1589
+D3
+~
+~
+0 -1 1587
+S
+#1589
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D0
+~
+~
+0 -1 1588
+D1
+~
+~
+0 -1 1590
+S
+#1590
+In the depths of the swamp~
+At this point, you are almost convinced you are
+lost. Looking around yourself, you see nothing
+but darkness with an occasional reflection of
+sunlight off the murky bog water. Though you
+can no longer see the inhabitants of the swamp,
+you are sure they are there from the constant
+buzzing and clicking noises.
+~
+0 1 2
+D1
+~
+~
+0 -1 13200
+D3
+~
+~
+0 -1 1589
+S
+#1591
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1592
+D3
+~
+~
+0 -1 1572
+S
+#1592
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1593
+D3
+~
+~
+0 -1 1591
+S
+#1593
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D0
+~
+~
+0 -1 1594
+D3
+~
+~
+0 -1 1592
+S
+#1594
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D0
+~
+~
+0 -1 1595
+D2
+~
+~
+0 -1 1593
+S
+#1595
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1596
+D2
+~
+~
+0 -1 1594
+S
+#1596
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D1
+~
+~
+0 -1 1597
+D3
+~
+~
+0 -1 1595
+S
+#1597
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D0
+~
+~
+0 -1 1598
+D3
+~
+~
+0 -1 1596
+S
+#1598
+Deep in the quagmire~
+You are now in the deepest part of the swamp.
+The stench is thicker and more putrid than ever.
+With only the smallest streams of sunlight
+peaking through the tree line above, you can see
+large mudholes seeping out the gas, causing the
+stench.  Vegetation is abnormally large and
+almost life like to the point of seeing some
+of the plants actually move in your direction.
+~
+0 0 2
+D0
+~
+~
+0 -1 1599
+D2
+~
+~
+0 -1 1597
+S
+#1599
+Before a large tree~
+At this end of the swamp grows a large tree.
+You notice that all the other vegetation is
+quite a bit smaller by comparison to the immense
+size of this woody structure. Gazing up towards
+the sky, you can see that it's branches part
+their vegetation, allowing sunlight to pour
+through to the ground.
+~
+0 0 2
+E
+tree~
+After closer inspection, you can just make out
+the traces of a small door carved into the tree.~
+D2
+~
+~
+0 -1 1598
+S
+#0
+
+
+
+#SPECIALS
+M 1501 spec_poison
+M 1506 spec_breath_acid
+M 1513 spec_breath_gas
+M 1515 spec_poison
+S
+
+
+
+#RESETS
+D 0 1543 1 1
+M 0 1508 1 1508 1
+E 0 1509 0 3
+M 0 1500 8 1510 1
+E 0 1501 0 5
+E 0 1500 0 15
+M 0 1504 5 1513 1
+G 0 1504 0
+M 0 1504 5 1515 1
+G 0 1504 0
+M 0 1514 1 1518 1
+E 0 1520 0 10
+G 0 1518 0
+G 0 1519 0
+G 0 1521 0
+M 0 1500 8 1519 1
+E 0 1501 0 5
+E 0 1500 0 15
+M 0 1503 5 1521 1
+E 0 1503 0 17
+M 0 1503 5 1524 1
+M 0 1512 1 1526 1
+M 0 1504 5 1528 1
+G 0 1504 0
+M 0 1506 3 1529 1
+M 0 1506 3 1530 1
+M 0 1503 5 1531 1
+M 0 1504 5 1538 1
+M 0 1506 3 1540 1
+M 0 1501 1 1546 1
+G 0 1502 0
+M 0 1500 8 1548 1
+E 0 1501 0 5
+E 0 1500 0 15
+M 0 1509 1 1553 1
+E 0 1510 0 15
+M 0 1510 1 1553 1
+E 0 1511 0 15
+M 0 1511 1 1553 1
+E 0 1512 0 3
+M 0 1505 1 1555 1
+G 0 1505 0
+M 0 1500 8 1557 1
+E 0 1501 0 5
+E 0 1500 0 15
+M 0 1500 1 1560 1
+E 0 1501 0 5
+E 0 1500 0 15
+M 0 1500 1 1563 1
+M 0 1515 9 1568 2
+M 0 1515 9 1569 2
+M 0 1515 9 1570 2
+M 0 1503 5 1572 1
+M 0 1504 5 1572 1
+M 0 1500 8 1574 1
+E 0 1501 0 5
+E 0 1500 0 15
+M 0 1500 8 1577 1
+M 0 1513 1 1580 1
+G 0 1513 0
+G 0 1514 0
+G 0 1515 0
+G 0 1516 0
+M 0 1507 1 1582 1
+E 0 1506 0 12
+E 0 1508 0 17
+G 0 1507 0
+M 0 1516 3 1583 1
+G 0 1517 0
+M 0 1516 3 1584 1
+G 0 1517 0
+M 0 1516 3 1587 1
+G 0 1517 0
+M 0 1502 3 1588 2
+M 0 1515 9 1591 1
+M 0 1503 5 1592 1
+M 0 1515 9 1592 1
+M 0 1515 9 1595 1
+M 0 1502 3 1597 1
+S
+
+
+
+#SHOPS
+1514 5 13 15 26 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

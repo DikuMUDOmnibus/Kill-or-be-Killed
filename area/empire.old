@@ -1,0 +1,244 @@
+#AREA
+empire.are~
+Empire Palace~
+{ ALL } Immortals  Imperial Palace~
+4400 4499
+
+#MOBILES
+#4400
+imperial healer~
+the Imperial Healer~
+The Imperial healer is here lending aid to the Citizens.
+~
+  Clothed in simple black robes he lays his hands healing upon those of the Empire.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 1000
+0 0 medium 0
+#0
+
+#OBJECTS
+#4400
+fountain fist~
+A large fountain formed from a fist~
+A large iron fist rises up here, gushing forth clear water.~
+~
+fountain 0 0
+0 0 water 0 0
+0 0 0 G
+E
+fountain~
+It is an iron fist gushing forth water.
+~
+#0
+
+#ROOMS
+#4400
+The Entrance to the Imperial Palace.~
+You are standing before a large archway. At either side you there are
+Imperial guards staring blankly in front of themselves. Tall spires of
+grey stone rise up before you seemingly with no end. Each stone seems 
+deliberatly placed as to not disrupt the order of the palace. The smell
+of insense wafts through the gates from the inner courtyard and assault 
+your senses. Through the gates to the north you see a beautiful courtyard.
+~
+0 0 1
+D0
+~
+~
+0 -1 4401
+S
+#4401
+The inner gates~
+Just inside the gates now you can see a splendid courtyard unfolding before
+you. To your imediate right and left you notice racks of weapons organized
+in perfect order. Each weapon is placed so it may be seized quickly at any
+sign of intrusion. To your north lies the courtyard, and to the south is
+the Entrance.
+~
+0 D 0
+D0
+~
+~
+0 -1 4402
+D2
+~
+~
+0 -1 4400
+S
+#4402
+The Imperial Courtyard~
+You are standing in a courtyard formed completely from metal and stones. The
+courtyard is open to the dark skies above, yet you feel completely surrounded
+by the palace. In the center of the yard there is a large iron fist from which
+fresh clean water flows. To the north you can see the Throne room and to your
+east and west lie castle wings.
+~
+0 D 0
+D0
+~
+~
+0 -1 4403
+D1
+~
+~
+0 -1 4407
+D2
+~
+~
+0 -1 4401
+D3
+~
+~
+0 -1 4404
+S
+#4403
+The Throne Room~
+You are now in the Emperor's Throne Room. Directly in front of you is the throne
+itself. It is inlaid with precious jewels of every kind and guilded with gold.
+All about the throne there are strategically placed servants ready to bend to the
+Emperor's every whim. There is no ceiling in this room. You can see straight up to
+the top of the highest spire where stained glass causes filtered light to cascade
+down the grey stone walls. To the south you can see the courtyard.
+~
+0 D 0
+D1
+~
+door~
+1 -1 4410
+D2
+~
+~
+0 -1 4402
+S
+#4404
+A hallway in the Western wing~
+You are standing inside of the western wing, which is home to the sects of Black magic 
+and the sect of the Blade. There are high ceilings in this room and long black candles 
+provide the only light. To the north lies the hall of the Blade. To your south lies the
+hall of Black magic.
+~
+0 D 0
+D0
+~
+~
+0 -1 4406
+D1
+~
+~
+0 -1 4402
+D2
+~
+~
+0 -1 4405
+S
+#4405
+The Hall of Black Magic~
+This room is completely dark save one candle in the center of the room. It is blood red
+candle which burns in the center of a large demonic symbol. The walls are covered in bloody
+sigils and glyphs.Just as in every other room the walls are comprised of the cold grey
+stone. The ceiling is completely covered in skulls which stare down at you will hollow eyes.
+To the north you can see the hallway.
+~
+0 D 0
+D0
+~
+~
+0 -1 4404
+S
+#4406
+The Hall of the Blade~
+This room is filled with weapons of every make. There are practice dummies lining the walls,
+and large whet stone in the corner. In the center of the room there is a forge where formless
+steel is pounded into perfect order.Just as in every other room the walls are comprised of
+the cold grey stone. Battle cries sound from every corner of the room, declaring the sovereignty
+of the Empire. To the south you can see the hallway.
+~
+0 D 0
+D2
+~
+~
+0 -1 4404
+S
+#4407
+A hallway in the Eastern wing~
+You are standing inside of the eastern wing, which is home to the sect of the Arcane and the sect
+of the Divine. There are high ceilings in this room and long black candles provide the only light.
+To the north lies the hall of the Divine. To your south lies the hall of Black magic.
+~
+0 D 0
+D0
+~
+~
+0 -1 4408
+D2
+~
+~
+0 -1 4409
+D3
+~
+~
+0 -1 4402
+S
+#4408
+The Hall of the Arcane~
+The air in this room seems electric. All about you light seems to reflect differently. Runes cover
+every inch of this room. Bookshelves dominate the back wall of this room. The eastern and western 
+walls contain racks of scrolls and potions orginized perfectly. Just as in every other room the walls
+are comprised of the cold grey stone.
+~
+0 D 0
+D2
+~
+~
+0 -1 4407
+S
+#4409
+The Hall of the Divine~
+You are standing in a large airy room. All about you are different altars and shrines. The groans and
+utterings echo off the walls. All about you priests tear thier clothes and cut themselves in order to
+bring the eyes of thier Lord upon them. To the north lies the hallway.
+~
+0 D 0
+D0
+~
+~
+0 -1 4407
+S
+#4410
+The Imperial Treasury~
+You are standing in the Imperial Treasury. All about you wealth is piled high. Gold and gems that the 
+empire has collected through tithes are held here. Imperial soldiers block the doorway with crossed
+halberds. To the east you can see the Emperor's Throne room.
+~
+0 D 0
+D3
+~
+door~
+1 -1 4403
+S
+#0
+
+
+#RESETS
+O 1 4400 100 4402			A large fountain formed from a fist to The Imperial Courtyard
+D 1 4410 3 1			; The Imperial Treasury Close West
+D 1 4403 1 1			; The Throne Room Close East
+*
+M 1 4400 1 4410 1			the Imperial Healer to The Imperial Treasury
+S
+
+
+
+
+
+#SPECIALS
+M  4400 spec_cast_cleric			the Imperial Healer
+S
+
+
+#$

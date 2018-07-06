@@ -1,0 +1,458 @@
+#AREADATA
+Name Rager Village~
+Builders None~
+VNUMs 5700 5799
+Credits {CABAL} Dhayton  Rager Village~
+Security 9
+End
+
+
+
+#MOBILES
+#5700
+Destructor~
+the Destructor~
+The Destructor of magic is here, daring you to cast a spell.
+~
+This giant warrior has an extreme aversion to any magic performed
+in his vicinity.  If you even have the ability to cast spells, he
+won't like you.
+~
+fire~
+ABTVe DFHbf 0 0
+60 30 2d500+8000 1d1+4999 10d10+25 pound
+-70 -70 -70 -70
+ACDEFIJKV AB DEH IJP
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#5701
+Grime~
+Grime~
+Grime the smith is here to sell his fine works.
+~
+Grime is well named since the soot of his forge covers him and
+everything in the store.
+~
+human~
+ABTVe DFHV 0 0
+999 30 3d300+4000 1d1+2000 1000d1+1000 grep
+-30 -30 -30 -30
+CDEFIJKNV ACDEGHIJKLMNOPRSTXYZ D P
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M GREET 5700 100~
+#5702
+Healer~
+A healer~
+A healer is here tending to the wounded.
+~
+This healer stands here, healing Ragers.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIKV ABC D 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#5703
+bloody swordsman~
+the bloody swordsman~
+The rager swordsman is here, covered in dried blood..
+~
+This well-built man looks quite ready to show you a
+thing or two about combat.
+~
+human~
+ABGLT DFa 0 0
+60 100 15000d2+0 0d0+0 45d20+0 charge
+-100 -100 -100 -100
+ABCFGHIJKLMNV ABC DFGHJKLMNOPQRS 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+M GREET 5701 100~
+#0
+
+
+
+#OBJECTS
+#5700
+massive pillar~
+a massive pillar~
+You see a massive black iron pillar standing here unmoving.~
+~
+trash AO N
+0 0 0 0 0
+0 5 0 P
+R
+X
+#5701
+head magician bloody~
+Bloody head of magician~
+Bloody head of magician is here.~
+bone~
+treasure OT A
+0 0 0 0 0
+60 1 100000 P
+C
+4
+L
+1
+#5702
+throne skulls~
+the large skull-throne~
+The large throne made from skulls is sitting here.~
+bone~
+furniture ORY P
+10 15 CGJKM 15 100
+60 1 20 P
+R
+X
+#5703
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items for other Rager.~
+R
+X
+#5704
+sword rager standard~
+a standard Rager sword~
+A plain-looking sword of a Rager lies here.~
+steel~
+weapon P AN
+sword 8 4 slash 0
+0 90 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5705
+axe rager standard~
+a standard Rager axe~
+A plain-looking axe of a Rager lies here.~
+steel~
+weapon P AN
+axe 8 4 chop 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5706
+mace rager standard~
+a standard Rager mace~
+A plain-looking mace of a Rager lies here.~
+steel~
+weapon P AN
+mace 8 4 smash 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5707
+dagger rager standard~
+a standard Rager dagger~
+A plain-looking dagger of a Rager lies here.~
+steel~
+weapon P AN
+dagger 8 4 pierce 0
+0 80 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5708
+polearm rager standard~
+a standard Rager polearm~
+A plain-looking polearm of a Rager lies here.~
+steel~
+weapon P AN
+polearm 8 4 crush F
+0 80 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5709
+staff rager standard~
+a standard Rager staff~
+A plain-looking staff of a Rager lies here.~
+steel~
+weapon P AN
+staff 8 4 smash 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5710
+whip rager standard~
+a standard Rager whip~
+A plain-looking whip of a Rager lies here.~
+steel~
+weapon P AN
+whip 8 4 whip 0
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5711
+spear rager standard~
+a standard Rager spear~
+A plain-looking spear of a Rager lies here.~
+steel~
+weapon P AN
+spear 8 4 pierce F
+0 5 1 P
+A
+18 5
+A
+19 5
+R
+X
+#5750
+pack explosives bag~
+small bag of explosives~
+A small bag of explosives lie here.~
+~
+armor BMTYZ AS
+15 15 15 15 0
+0 5 0 P
+A
+2 -5
+A
+19 10
+#5751
+vest resistant magic~
+magic resistant vest~
+A magic-resistant vest lies here.~
+~
+armor BMPTYZ AS
+5 5 5 5 0
+0 5 50000 P
+A
+20 -10
+R
+X
+#0
+
+
+
+#ROOMS
+#5700
+At a muddy track~
+As you dry yourself from being wet from the waterfall you rub the water 
+out of your eyes.  You see a large village before you.  You see tall grass 
+and large huts lined together.  You look ahead and see a large stone at 
+least 50 feet tall.  The track leads on to the west.
+~
+0 0 3
+D1
+~
+~
+0 -1 5281
+D3
+~
+~
+0 -1 5701
+S
+#5701
+Grassy fields~
+You begin to thwack the grass away as you descend down the hill into the 
+Rager village.  You swat at flies and mosquitos as they try bite you.  You 
+begin to smell the blood as you get closer.  You begin to hear the almost 
+inaudible sound of clashing weapons.
+~
+0 8192 3
+D1
+~
+~
+0 -1 5700
+D3
+~
+~
+0 -1 5702
+S
+#5702
+Entering the village~
+Entering the village you see massive beings and some small ones too.  All 
+the races of Ji'vundis are gathered here to fight for one cause.  
+Regardless of race they aid each other with bandages as they come in and 
+out of the village.
+~
+0 8192 3
+D0
+~
+~
+0 -1 5703
+D1
+~
+~
+0 -1 5701
+D2
+~
+~
+0 -1 5706
+D3
+~
+~
+0 -1 5704
+S
+#5703
+A large wooden hut~
+As you enter this hut you see an assortment of hides and scalps.  You old 
+and new weaponary as well as old books.  You see many decorative artifacts 
+as well.  Small urns are on shelves smelling very badly.
+~
+0 8192 0
+D2
+~
+~
+0 -1 5702
+S
+#5704
+Village road~
+As you walk down the village you notice there is a massive pillar before 
+you.  It colored completely black and it has many inscriptions on it.  
+Your eyesight wavers from trying to look too high.
+~
+0 8192 1
+D1
+~
+~
+0 -1 5702
+D3
+~
+~
+0 -1 5709
+D4
+~
+~
+0 -1 5708
+S
+#5706
+Forge entrance~
+Two iron doors wave openly leading into Grime's forge house.  You take a 
+peak east and see a giant calling you over.  You see him pounding on an 
+anvil with a large iron hammer.  The searing heat almost makes you faint.
+~
+0 8192 1
+D0
+~
+~
+0 -1 5702
+D1
+~
+~
+0 -1 5707
+S
+#5707
+Grime's forge~
+Grime gives you his one-toothed smiled and nods.  He asks you if you want 
+anything to.  He pulls out his assortment of weapons.  Among them are 
+spears, daggers, swords, maces, axes, polearms, and whips.  The heat makes 
+you extremely dizzy and you can barely differentiate between the weapons.
+~
+0 8192 1
+D3
+~
+~
+0 -1 5706
+S
+#5708
+The brawling balcony~
+You stand in a completely square room with weapons hanging from the walls.  
+The room is rugged with beautiful rugs and carvings.  A large man stands 
+in the middle with his arms crossed awaiting a challenge.  He looks you 
+over, laughs, and nods.
+~
+0 8192 0
+D5
+~
+~
+0 -1 5704
+S
+#5709
+The village shrine~
+The weapons clashes and odors suddenly cease to exist.  This calm place is 
+a place where the ragers come to pray for their fallen friends and to 
+contemplate on life.  You see a noble priest smiling and offering aid to 
+the broken ragers.  He smiles at you and asks you if you want anything.
+~
+0 8192 0
+D1
+~
+~
+0 -1 5704
+S
+#0
+
+
+
+#SPECIALS
+M 5700 spec_rager
+S
+
+
+
+#RESETS
+M 0 5700 1 5700 1
+G 0 5701 0
+O 0 5700 0 5704
+M 0 5701 1 5707 1
+G 0 5704 0
+G 0 5705 0
+G 0 5706 0
+G 0 5707 0
+G 0 5708 0
+G 0 5709 0
+G 0 5710 0
+G 0 5711 0
+G 0 5751 0
+M 0 5703 1 5708 1
+M 0 5702 1 5709 1
+O 0 5703 0 5709
+S
+
+
+
+#SHOPS
+5701 1 5 9 11 0 150 70 0 23
+0
+
+
+
+#MOBPROGS
+#5700
+say Welcome to Grimes house of weapons.
+~
+#5701
+say Welcome $n, do you think you have what it takes to beat me?
+	emote grins.
+~
+#0
+
+#$

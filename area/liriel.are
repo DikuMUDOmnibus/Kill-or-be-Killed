@@ -1,0 +1,685 @@
+#AREADATA
+Name New area~
+Builders Liriel~
+VNUMs 400 499
+Credits Liriel~
+Security 9
+End
+
+
+
+#MOBILES
+#400
+Napaea~
+a napaea~
+A napaea is dancing in circles around a tree.
+~
+This valley nymph is the embodiement of loveliness and grace, a triumph
+of nature.  She is an ever-young woman with a sleek figure and long, thick
+hair, radiant skin and perfect teeth, full lips and gentle eyes.  Her scent
+is delightful and her long robe glows, hemmed with golden threads and
+embroidered with rainbow hues of unearthly magnificence.  
+~
+nymph~
+AGW DJP 0 0
+51 20 10d169+920 0d0+0 5d10+25 slap
+0 0 0 0
+FGH JX BC GH
+stand stand female 1
+ABGHMV ABCDEFGHIJKVX medium unknown
+#0
+
+
+
+#OBJECTS
+#400
+Random Portal~
+a portal~
+A portal of great size is here.~
+unknown~
+portal O 0
+0 0 0 3014 0
+0 0 0 P
+#401
+robe~
+a long robe hemmed with gold and embroidered with the rainbow~
+A goddess's robe lays here.~
+cloth~
+armor AHIY AD
+10 10 10 10 0
+59 0 0 P
+L
+1
+R
+Cd
+#0
+
+
+
+#ROOMS
+#400
+Fion Valley Entrance~
+West will be the entrance, it's where it will link up to another area.  
+~
+0 524288 3
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 402
+D5
+~
+~
+0 0 402
+O Liriel~
+S
+#401
+Fion Valley Maze~
+~
+0 0 0
+D0
+~
+~
+0 0 402
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 400
+D3
+~
+~
+0 0 404
+D4
+~
+~
+0 0 407
+S
+#402
+Fion Valley Maze~
+~
+0 0 0
+D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 406
+D2
+~
+~
+0 0 401
+D3
+~
+~
+0 0 403
+D4
+~
+~
+0 0 400
+D5
+~
+~
+0 0 406
+S
+#403
+Fion Valley Maze~
+~
+0 0 0
+D0
+~
+~
+0 0 405
+D1
+~
+~
+0 0 402
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 406
+D4
+~
+~
+0 0 405
+D5
+~
+~
+0 0 407
+S
+#404
+The Beginnings of a Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 410
+D1
+~
+~
+0 0 401
+S
+#405
+Fion Valley Maze~
+~
+0 0 0
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 409
+D2
+~
+~
+0 0 403
+D3
+~
+~
+0 0 407
+D4
+~
+~
+0 0 406
+D5
+~
+~
+0 0 403
+S
+#406
+Fion Valley Maze~
+~
+0 0 0
+D0
+~
+~
+0 0 407
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 402
+D4
+~
+~
+0 0 402
+D5
+~
+~
+0 0 405
+S
+#407
+Fion Valley Maze~
+~
+0 0 0
+D0
+~
+~
+0 0 403
+D1
+~
+~
+0 0 405
+D2
+~
+~
+0 0 406
+D3
+~
+~
+0 0 400
+D4
+~
+~
+0 0 403
+D5
+~
+~
+0 0 401
+S
+#408
+Trap Room~
+~
+0 0 0
+D3
+~
+~
+0 0 401
+S
+#409
+Trap Room~
+~
+0 0 0
+D3
+~
+~
+0 0 405
+S
+#410
+A Turn in the Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 412
+D2
+~
+~
+0 0 404
+S
+#411
+The Edges of Fionic Forest~
+Magnificent, tall, vibrant trees start to seemingly engulf you.  As you
+look to the north, east and west the trees get thicker up to the point of
+not being able to see anything else.  Looking up you can still see rather
+large patches of sky, but looking out upon the ground the spots of light
+shining down get smaller, fewer and far between.  Looking back towards the
+south you see the trail you left behind for the ever enticing wilderness,
+and you see more trees beyond that.  
+~
+0 0 0
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 413
+D2
+~
+~
+0 0 410
+S
+#412
+A Trail Through the Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 413
+D1
+~
+~
+0 0 416
+D3
+~
+~
+0 0 410
+S
+#413
+The Edges of Fionic Forest~
+Magnificent, tall, vibrant trees start to seemingly engulf you.  As you
+look to the north, east and west the trees get thicker up to the point of
+not being able to see anything else.  Looking up you can still see rather
+large patches of sky, but looking out upon the ground the spots of light
+shining down get smaller, fewer and far between.  Looking back towards the
+south you see the trail you left behind for the ever enticing wilderness,
+and you see more trees beyond that.  
+~
+0 0 0
+D0
+~
+~
+0 0 415
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 411
+S
+#414
+Deeper Into the Forest~
+~
+0 0 0
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 411
+S
+#415
+Deeper Into the Forest~
+~
+0 0 0
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 414
+S
+#416
+A Junction in the Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 417
+D2
+~
+~
+0 0 418
+D3
+~
+~
+0 0 412
+S
+#417
+A Trail Through the Forest~
+~
+0 0 0
+D2
+~
+~
+0 0 416
+S
+#418
+A Trail Through the Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 416
+D2
+~
+~
+0 0 419
+S
+#419
+A Bend in the Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 418
+D1
+~
+~
+0 0 423
+D2
+~
+~
+0 0 420
+S
+#420
+~
+~
+0 0 0
+D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 422
+D3
+~
+~
+0 0 421
+S
+#421
+~
+~
+0 0 0
+D1
+~
+~
+0 0 420
+S
+#422
+~
+~
+0 0 0
+D0
+~
+~
+0 0 423
+D3
+~
+~
+0 0 420
+S
+#423
+A Sandy Shore~
+~
+0 0 0
+D0
+~
+~
+0 0 424
+D1
+~
+~
+0 0 425
+D2
+~
+~
+0 0 422
+D3
+~
+~
+0 0 419
+S
+#424
+A Sparkling Clear Lake~
+~
+0 0 0
+D1
+~
+~
+0 0 429
+D2
+~
+~
+0 0 423
+S
+#425
+A Sparkling Clear Lake~
+~
+0 0 0
+D0
+~
+~
+0 0 429
+D1
+~
+~
+0 0 426
+D3
+~
+~
+0 0 423
+S
+#426
+A Beautiful Waterfall~
+~
+0 0 6
+D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 427
+D3
+~
+~
+0 0 425
+S
+#427
+A Small Cave Behind a Waterfall~
+~
+0 524296 0
+D3
+~
+~
+0 0 426
+D5
+~
+~
+1 0 434
+S
+#428
+Lake~
+~
+0 0 0
+D0
+~
+~
+0 0 430
+D2
+~
+~
+0 0 426
+D3
+~
+~
+0 0 429
+S
+#429
+The Shallows of the Lake~
+reeds and tall grass here
+~
+0 0 0
+D1
+~
+~
+0 0 428
+D2
+~
+~
+0 0 425
+D3
+~
+~
+0 0 424
+S
+#430
+A Sandy Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 431
+D1
+~
+~
+0 0 432
+D2
+~
+~
+0 0 428
+S
+#431
+Forest~
+~
+0 0 0
+D2
+~
+~
+0 0 430
+S
+#432
+Beginning Shrine~
+~
+0 0 0
+D3
+~
+~
+0 0 430
+D4
+~
+~
+0 0 433
+S
+#433
+~
+~
+0 0 0
+D5
+~
+~
+0 0 432
+S
+#434
+~
+~
+0 0 0
+D4
+~
+~
+1 0 427
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 427 5 1
+D 0 434 4 1
+M 0 400 1 410 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

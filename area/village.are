@@ -1,0 +1,2323 @@
+#AREADATA
+Name Giant Village~
+Builders None~
+VNUMs 13200 13299
+Credits {25 51} Amlaruil Giant Village~
+Security 9
+End
+
+
+
+#MOBILES
+#13200
+fire giant efreeti~
+The Fire Elemental Efreeti~
+(Surrounded by Flames) An incredibly large, mean-looking giant stands here growling.
+~
+A large column of massive flames swirl around a large man's body, a man 
+who appears to be a Giant.  This Giant is very muscular-broadened shoulder, 
+immense arm strength, kicks like a bull- as well as skilled. His eyes are 
+a fierce yellow, seeming as though they have a pulse themselves, 
+concentrated upon seeking your death.
+~
+unique~
+ABCFGT CDFHOV -500 0
+65 50 50d10+19000 10d50+3000 30d3+30 flbite
+-40 -40 -40 -40
+ACDEHIJKRS ABH DE INP
+stand stand male 8478
+ABM ABCDEFGHIJK giant 0
+#13201
+unholy mage giant~
+The Unholy Magician~
+(Black Aura) Enraged by your entrance, an Unholy mage unleashes his darkness upon you.
+~
+Before you stands an awe-inspiring figure.  He is obviously a fire giant 
+by heritage, but has a similar build to that of a tree trunk.  At first 
+glance you conceive that his battle prowess must be unparalleled.  As you 
+continue to study the Unholy Magician you come upon his aged eyes.  These 
+eyes seem to contain a depth and understanding that almost seem impossible, 
+however somewhere in that depth you sense a dark foreboding chaos present that 
+sends shivers down your spine.
+~
+unique~
+ABFGR BCDFHOV -1000 0
+60 0 50d10+18500 8d45+2750 25d6+28 beating
+-30 -30 -30 -30
+CEIJK ABH D CIN
+stand stand male 3491
+AM ABCDEFGHIJK huge 0
+#13202
+huge giant guard~
+A huge Fire giant guard~
+An imposing giant looms before you observing all with sinister contempt.
+~
+This giant is prepared to stop anyone who might attempt to enter the village 
+without permission from the Slavemaster. He is a ruthless and brutal 
+warrior, dedicated to the protection of his village.
+~
+unique~
+ABFGT OV -1000 0
+53 10 50d10+9000 1d1+1 9d4+20 pound
+-21 -21 -21 -21
+CDEFHIJKNRST 0 EH FIP
+stand stand male 1537
+AM ABCDEFGHIJK huge 0
+#13203
+fire giant patroller guard~
+A Fire giant patroller~
+A village guard leans against a tree stump, awaiting for duty.
+~
+This giant is prepared to stop anyone who might attempt to enter the village 
+without permission from the Slavemaster . He is a ruthless and brutal 
+warrior, dedicated to the protection of his village.
+~
+unique~
+ABFGHT O -1000 0
+45 0 25d10+7500 1d1+1 8d4+16 pound
+-15 -15 -15 -15
+CDEIJKNRT 0 EH I
+stand stand male 689
+AM ABCDEFGHIJK large 0
+#13204
+giant fire collector~
+A Fire giant tax collector~
+A giant walks around the city carrying a large book, grining evily.
+~
+Stepping away from this immense giant who stands easily over twenty feet 
+high, you take a deep breath and sigh.  He carries a large black book, which 
+he carefully writes upon the sheets of paper within it.  Around his waist is 
+several pouches-all which are as big as your torso-jingling with gold and 
+silver coins.
+~
+unique~
+ABFGHT 0 -1000 0
+45 0 50d10+18000 1d1+1 10d6+20 pound
+-9 -9 -9 -9
+CDEIJKNT AB D CI
+stand stand male 122536
+AM ABCDEFGHIJK giant 0
+#13205
+giant squire~
+A Fire giant squire~
+A young giant twirls around gleefully, practicing his arts.
+~
+A young fire giant twirls his sword around, somewhat gracefully, as if 
+preparing to become the next Slavemaster.  Built for the job, he is immense 
+for his youthful look.  His eyes seem almost frightened of something, or 
+perhaps very concentrated, to the extent that he looks rather fatigued.
+~
+unique~
+ABGHT O -1000 0
+35 0 10d10+11100 1d1+1 4d7+11 punch
+-11 -11 -11 -11
+CDEIJKNRT 0 EH I
+stand stand male 0
+AM ABCDEFGHIJK large 0
+#13206
+young giant fire~
+A young Fire giant~
+A young giant plays in the near the village square, thinking of evil 
+schemes.
+~
+With the demonic look of a young mastermind, this young giant walks to you 
+and kicks you in the shins.  Nearly the same height as a human, though much 
+more stocky.  His large complextion offthrows his youthfulness.
+~
+unique~
+ABGH 0 -1000 0
+20 0 3d9+1333 1d1+1 2d8+5 slap
+-4 -4 -4 -4
+DFIJN 0 EH I
+stand stand male 0
+AM ABCDEFGHIJK large 0
+#13207
+old giant fire~
+An old looking Fire giant~
+An old haggard Fire giant walks around the village slowly, holding a cane.
+~
+A look of burden and weakness overcomes this giant, for he can barely stand 
+on his legs.  His cane seems to support most of his weight, though it 
+doesn't carry the weight of saddness within his eyes.
+~
+unique~
+ABGH 0 -1000 0
+20 -2 3d9+1333 1d1+1 2d8+5 thwack
+-4 -4 -4 -4
+0 0 0 I
+stand stand male 0
+AM ABCDEFGHIJK large 0
+#13208
+giant fire mistress slavemaster~
+The Fire giant slavemaster~
+A slavemaster watches the slaves closely and grins mischieveously.
+~
+A reched giant laughs the night away as she enforces the "prisoners" to do 
+their duty.  Picking her teeth with a humans rib, she has the awe-inspiring 
+look of a great barbarian.
+~
+unique~
+ABFGT DFGHOZc -1000 0
+55 48 5d10+24000 10d45+4500 27d4+28 thrust
+-25 -25 -25 -25
+CDEFIJKN AH D CI
+stand stand female 0
+AM ABCDEFGHIJK huge 0
+#13209
+fire giant village idiot~
+The village idiot~
+The vilage idiot walks around in a circle, laughing to himself.
+~
+Poking himself in the stomach and laughing about it show this giants 
+stupidity.  Watch yourself!
+~
+unique~
+ABGH 0 -1000 0
+20 -1 3d9+33 1d1+1 2d8+5 slap
+-4 -4 -4 -4
+DFIJN 0 EH I
+stand stand male 0
+AM ABCDEFGHIJK large 0
+#13210
+fire giant armourer~
+A Fire giant armourer~
+A large Fire giant pounds hot steel with a hammer, making armor.
+~
+Pounding large steel peices which are red hot with a large hammer, forging 
+some plain armors.
+~
+unique~
+ABGT CDEFGHJNOVZc -1000 0
+60 -2 50d10+19500 1d1+1 9d7+30 pound
+-40 -40 -40 -40
+ACDEFHIJKNO ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+ABM ABCDEFGHIJK giant 0
+#13211
+fire giant weaponsmith~
+A Fire giant weaponsmith~
+A large Fire giant pounds hot steel with a hammer, making weapons.
+~
+Pounding large steel peices which are red hot with a large hammer, forging 
+some plain weapons.
+~
+unique~
+ABGT CDEFGHJNOVZc -1000 0
+60 -2 50d10+19500 1d1+1 9d7+30 pound
+-40 -40 -40 -40
+ACDEFHIJKNO ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+ABM ABCDEFGHIJK giant 0
+#13212
+fire giant butcher~
+A Fire giant butcher~
+A large Fire giant stands over a burning stone oven.
+~
+Slicing large peices of chicken and cow, this butcher seems to have an art 
+for the slaughtering process.
+~
+unique~
+ABGT CDEFGHJNOVZc -1000 0
+60 -2 50d10+19500 1d1+1 9d7+30 slice
+-40 -40 -40 -40
+ACDEFHIJKNO ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+ABM ABCDEFGHIJK giant 0
+#13213
+fire giant shopkeeper~
+A Fire giant shopkeeper~
+A large Fire giant awaits the next customer to buy his mystical gourds.
+~
+Filling a water gourd, seeming almost forever, he stands quietly and mutters 
+to himself.
+~
+unique~
+ABGT CDEFGHJNOVZc -1000 0
+60 -2 50d10+19500 1d1+1 9d7+30 grep
+-40 -40 -40 -40
+ACDEFHIJKNO ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+ABM ABCDEFGHIJK giant 0
+#13214
+fire giant healer~
+A Fire giant Healer~
+A mean looking giant is here healing people for gold.
+~
+This Fire giant Healer appears to be enjoying his ability to heal, so he can 
+now cure wounds and take peoples money for doing so.
+~
+unique~
+ABGTa CDEFGHJNOVZc -1000 0
+60 -2 50d10+19500 7d30+2400 20d7+30 grep
+-40 -40 -40 -40
+ACDEFHIJKNO ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+ABM ABCDEFGHIJK giant 0
+#13215
+stone gargoyle~
+A stone gargoyle~
+A mean looking gargoyle stands here.
+~
+A fierce gargoyle watches the shadows as he accepts the prey into the 
+village.
+~
+unique~
+ABGHT O -1000 0
+45 0 25d10+7000 7d30+2400 20d4+16 pound
+-15 -15 -15 -15
+CDEIJKNRT 0 EH I
+stand stand male 689
+AM ABCDEFGHIJK large 0
+#13216
+storm giant slave~
+A Storm giant slave~
+A sad-looking Storm giant stands here, taking his punishment.
+~
+Covered with little clothing and many flesh wounds, this Storm giant has 
+lost all faith in humanity.  A slave for all the wrong reasons he thinks, he 
+still wonders why he is here, but his memory has slipped him over the years 
+of endless torture.
+~
+unique~
+ABGH 0 -1000 0
+20 -1 3d9+3999 1d1+1 2d8+5 slap
+-4 -4 -4 -4
+DFIJN 0 EH I
+stand stand male 0
+AM ABCDEFGHIJK large 0
+#13217
+bold adventurer~
+A bold adventurer~
+A bold adventurer walks along the path, looking at the forests.
+~
+This man is just a common man passing through the village.  He looks around 
+all he can, but his priorities are to speak with the slavemaster, to 
+negotiate peace.  Though he has little confidence in himself.
+~
+human~
+ABGHT O -1000 0
+45 0 25d10+7500 1d1+1 8d4+16 pound
+-15 -15 -15 -15
+CDEIJKNRT 0 EH I
+stand stand male 689
+AHMV ABCDEFGHIJK large 0
+#0
+
+
+
+#OBJECTS
+#13200
+sword blade flame flaming efreeti~
+the Flaming Sword of Efreeti~
+A mass of swirling flames forms a mysterious looking blade.~
+energy~
+weapon ABEIU AN
+sword 9 6 flbite AD
+52 80 100000 P
+F
+I 0 0 H
+F
+V 0 0 I
+A
+19 8
+A
+18 8
+L
+5
+#13201
+massive platinum plate breastplate spiked spikes~
+a massive breastplate covered with spikes~
+a platinum breastplate with large spikes about it sits here on the ground.~
+platinum~
+armor BHPQU AD
+20 20 20 20 0
+52 150 10000 P
+F
+A 0 0 c
+A
+24 -9
+A
+19 3
+A
+2 -2
+A
+1 2
+#13202
+hero helm mask massive~
+a massive face mask named 'Hero's Helm'~
+A massive spiked face mask sits in the dirt, upon the top is inscribed 
+'Hero'~
+platinum~
+armor BGHIMZ AE
+20 20 20 20 0
+52 80 50000 P
+A
+24 -10
+F
+A 0 0 F
+A
+13 25
+A
+12 -100
+A
+4 -6
+A
+3 -6
+L
+2
+#13203
+greaves massive spiked spikes~
+a pair of massive spiked greaves~
+A set of massive spiked greaves glow with darkness as they collect dust on 
+the ground.~
+platinum~
+armor BEH AF
+14 18 7 12 0
+52 120 10000 P
+A
+19 6
+A
+18 6
+A
+2 -2
+A
+1 2
+L
+5
+#13204
+sceptre abyss dark~
+the Sceptre of the Abyss~
+Pulsating with an evil glow, a Sceptre lies here.~
+marble~
+weapon ABCEGIJL AN
+exotic 6 8 acbite CEH
+52 60 2000 P
+#13205
+chainmail abyss~
+the chainmail of the Abyss~
+Pulsating with an evil glow, a suit of chainmail lies here.~
+marble~
+armor ACEGJ AD
+20 20 20 20 0
+51 100 2000 P
+F
+A 0 0 O
+A
+13 100
+#13206
+helm abyss~
+the helm of the Abyss~
+Pulsating with an evil glow, a helm lies here.~
+marble~
+armor ACEGJ AE
+20 20 20 20 0
+51 100 2000 P
+A
+5 2
+A
+4 2
+A
+3 2
+A
+2 2
+A
+1 2
+#13207
+greaves abyss~
+the greaves of the Abyss~
+Pulsating with an evil glow, a pair of greaves lies here.~
+marble~
+armor ACEGJ AF
+20 20 20 20 0
+51 100 2000 P
+A
+17 -30
+#13208
+boots abyss~
+the boots of the Abyss~
+Pulsating with an evil glow, a pair of boots lies here.~
+marble~
+armor ACEGJ AG
+20 20 20 20 0
+51 100 2000 P
+A
+14 300
+A
+19 3
+A
+18 3
+L
+6
+#13209
+gauntlets abyss~
+the gauntlets of the Abyss~
+Pulsating with an evil glow, a pair of gauntlets lies here.~
+marble~
+armor ACEGJ AH
+20 20 20 20 0
+51 100 2000 P
+A
+19 2
+A
+18 3
+L
+5
+#13210
+vambraces abyss~
+the vambraces of the Abyss~
+Pulsating with an evil glow, a pair of vambraces lies here.~
+marble~
+armor ACEGJ AI
+20 20 20 20 0
+51 100 2000 P
+A
+19 3
+A
+18 3
+A
+24 -5
+L
+5
+#13211
+belt abyss~
+the pitch-black belt of the Abyss~
+Pulsating with an evil glow, a belt lies here.~
+marble~
+armor ACEGJL AL
+20 20 20 20 0
+51 100 2000 P
+A
+18 1
+A
+19 2
+A
+24 -5
+A
+17 -11
+L
+5
+#13212
+bracelet abyss~
+the bracelet of the Abyss~
+Pulsating with an evil glow, a bracelet lies here.~
+marble~
+armor ACEGJ AM
+20 20 20 20 0
+51 100 2000 P
+A
+19 3
+A
+18 3
+L
+10
+#13213
+signet ring fire~
+the signet ring of the Fire giant village~
+A signet ring embossed with a fiery red bronze stone is here.~
+bronze~
+armor BCEJL AB
+5 5 5 0 0
+25 10 50 P
+A
+1 2
+A
+18 1
+A
+19 3
+#13214
+dual-bladed dual fiery dagger~
+a fiery dual-bladed dagger~
+A bloodied dagger with two blades rests here.~
+steel~
+weapon BCEIJUY AN
+dagger 5 9 flbite A
+45 40 5800 P
+A
+19 4
+A
+18 2
+#13215
+tail ice dragon~
+the tail from a young ice dragon~
+A tail covered with freezing dragonscales is here.~
+dragonscale~
+weapon BEGIJM AN
+whip 11 3 frbite BDH
+45 110 1340 P
+A
+18 2
+A
+19 2
+A
+24 -5
+F
+I 0 0 I
+#13216
+potion bubbling elixir~
+a bubbling elixir~
+A small vial is filled with a white bubbling liquid.~
+glass~
+potion G AO
+60 'haste' 'curse' 'weaken' ''
+60 2 4000 P
+E
+elixir black quartz~
+The potion has a small label 'Speed'.
+~
+#13217
+double blade bladed mithril broadsword~
+a heavy double-bladed mithril broadsword~
+A huge sword made of the finest mithril and craftsmanship.~
+mithril~
+weapon AGI AN
+sword 8 6 slice D
+51 130 4500 P
+A
+19 5
+A
+18 5
+L
+5
+#13218
+insignia slavemaster slavemaster's~
+the slavemaster's insignia~
+An unholy insignia bearing the slavemaster's marking awaits to be worn.~
+diamond~
+armor BEJL AC
+20 20 20 20 0
+51 10 0 P
+A
+13 30
+A
+12 30
+A
+19 4
+A
+18 4
+L
+10
+#13219
+ivory armguards arm~
+a pair of thick ivory armguards~
+Smooth ivory wrapped together forming perfect arm shaped figures.~
+ivory~
+armor G AI
+14 14 14 18 0
+30 70 20000 P
+F
+A 0 0 U
+A
+12 60
+A
+1 3
+L
+5
+#13220
+dark robe etch etched skull~
+a darkened robe etched with a white skull~
+A pitch-black robe is draped upon the ground.~
+wool~
+armor EJL AK
+8 12 9 0 0
+55 70 500 P
+F
+A 0 0 Q
+F
+A 0 0 P
+A
+19 1
+A
+1 1
+L
+2
+#13221
+book~
+a tax collection book~
+A huge tax collection book.~
+leather~
+container A AO
+100 A 0 100 1
+0 10 9 G
+#13222
+vial black quartz~
+a smooth black quartz vial~
+A vial of fine black quartz is filled with a bubbling liquid.~
+glass~
+potion G AO
+60 'stone skin' '' '' ''
+60 2 4000 P
+E
+vial black quartz~
+The potion has a small label 'Toughened Skin'.
+~
+#13223
+golden gold necklace~
+a shinning gold necklace~
+A gold necklace shimmers with brilliant color.~
+gold~
+armor AB AC
+0 0 0 0 0
+10 30 5000 P
+A
+17 -12
+A
+24 -5
+#13224
+golden gold bracelet~
+a shinning gold bracelet~
+A gold bracelet shimmers with brilliant color.~
+gold~
+armor AB AM
+0 0 0 0 0
+10 30 5000 P
+A
+17 -12
+A
+24 -3
+#13225
+ragged brown cloak~
+a ragged brown cloak~
+Torn cloth and beeds have been sewn together to form a cloak.~
+leather~
+armor 0 AK
+0 0 0 0 0
+10 50 0 P
+A
+2 -7
+A
+24 -7
+#13226
+staff knowledge protection~
+the staff of knowledge and protection~
+A staff has carelessly been laid upon the ground.~
+wood~
+staff AGM AO
+60 5 20 'sanctuary' 0
+20 20 1300 P
+A
+19 -25
+A
+18 -35
+A
+12 100
+#13227
+large gold golden cane~
+a large golden cane embedded with diamonds~
+A sparkling gold cane embedded with diamonds has been left here.~
+gold~
+treasure A AO
+0 0 0 0 0
+20 100 6000 P
+#13228
+huge axe battleaxe flame~
+a dual-bladed battleaxe with tips of flame~
+A war ready axe lies here with flames spitting from the tips.~
+fire~
+weapon AEIMY AN
+axe 4 13 flbite AD
+51 150 7890 P
+A
+19 8
+A
+1 8
+L
+3
+#13229
+battle armor chestplate~
+a suit of flaming battle armor~
+A thick chestplate made of copper, speckled with dried blood is here.~
+copper~
+armor ABEIMY AD
+15 15 15 10 0
+51 160 9770 P
+A
+24 -5
+A
+19 5
+A
+1 5
+L
+5
+#13230
+battle ring loop~
+a battle ring shimmering with black flames~
+Impurities and unholy magics come together and form a small loop.~
+copper~
+armor AEIJLMY AB
+5 5 5 0 0
+51 30 6840 P
+A
+1 4
+A
+19 5
+A
+18 5
+A
+24 -5
+L
+6
+#13231
+blindfold~
+a blindfold~
+A large black leather blindfold lies here.~
+leather~
+armor 0 0
+0 0 0 0 0
+1 10 0 P
+F
+A 0 0 A
+A
+18 -25
+#13232
+mystical water gourd~
+a large mystical gourd filled with water~
+Gleaming with the brilliance of magic, this gourd shimmers and glows with 
+energy.~
+bamboo~
+drink AG A
+1000 1000 'water' 0 0
+0 40 24 G
+#13233
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+brass~
+light 0 A
+0 0 250 0 0
+0 40 75 P
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#13234
+bag~
+a bag~
+A small bag.~
+leather~
+container 0 A
+100 0 0 100 50
+0 10 9 G
+#13235
+steak~
+a large juicy steak~
+Sizzling with herbs and spices enhances the perfectness of this steak.~
+food~
+food 0 A
+16 12 0 0 0
+0 10 5 P
+#13236
+lamb leg~
+a roasted lamb leg~
+A leg of a lamb lets off a mouth watering scent.~
+food~
+food 0 A
+16 12 0 0 0
+0 10 5 P
+#13237
+platemail~
+some steel platemail~
+A suit of heavy steel platemail is here.~
+steel~
+armor 0 AD
+10 10 10 10 0
+10 200 1000 P
+A
+19 1
+A
+2 -1
+#13238
+helm~
+a steel helm~
+A heavy steel helm is here.~
+steel~
+armor 0 AE
+10 10 10 10 0
+10 150 1000 P
+A
+19 1
+A
+2 -1
+#13239
+leg legplates~
+some steel legplates~
+A pair of heavy steel legplates lie here.~
+steel~
+armor 0 AG
+10 10 10 10 0
+10 150 1000 P
+A
+19 1
+A
+2 -1
+#13240
+boots~
+some steel boots~
+A pair of heavy steel boots are here.~
+steel~
+armor 0 AG
+10 10 10 10 0
+10 150 1000 P
+A
+19 1
+A
+2 -1
+#13241
+broadsword~
+a large steel broadsword~
+A large steel broadsword.~
+steel~
+weapon ABI AN
+sword 5 5 slash 0
+10 40 1000 P
+A
+19 2
+#13242
+dagger~
+a small dagger~
+A small dagger.~
+steel~
+weapon ABI AN
+dagger 5 5 pierce 0
+10 40 1000 P
+#13243
+mace~
+a small mace~
+A small mace.~
+steel~
+weapon ABI AN
+mace 5 5 smash 0
+10 60 1000 P
+#13244
+blackwood staff~
+a blackwood staff~
+A large blackwood staff is here.~
+wood~
+weapon MTY AN
+staff 7 7 wrath D
+40 70 2300 P
+#13245
+gold coins~
+a pile of gold~
+A heap of gold coins is here.~
+gold~
+money 0 A
+0 25000 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#13200
+A Gloomy Secluded Path~
+A dark haze looms over this dirt path which is partially filled with small 
+critters, possibly poisionous.  A few dead trees stand off to the side of 
+the dirt trail, one or two patches of dead grass.  To the west is a Southern 
+Swamps, and to the east is a long stretch of dirt road.
+~
+0 1 3
+D1
+~
+~
+0 -1 13201
+D3
+~
+~
+0 -1 1590
+S
+#13201
+A Narrow Secluded Path~
+More careless scenery with tasteless dead trees and grass.  You think you
+hear the sound of crickets, but it's just the sound of the Lost Souls from 
+the river to the west.  To the west is more secluded trails and to the east 
+is a wide dirt path.
+~
+0 1 3
+D1
+~
+~
+0 -1 13202
+D3
+~
+~
+0 -1 13200
+S
+#13202
+A Wide Dirt Path~
+A single live tree stands here, making the background glow with 
+cheerfulness. Though the area is still very dry and somewhat gloomy.  
+The temperature is quite warm here, nearly unbearable to the human man.  
+To the west are gloomy secluded paths and to the east is a dirt road intersection.
+~
+0 1 3
+D1
+~
+~
+0 -1 13203
+D3
+~
+~
+0 -1 13201
+S
+#13203
+A Dirt Road Intersection~
+The entire area has been cleared away of any nature, leaving nothing but wet
+dirt.  A small wooden sign pointing to the north stands here, inscribed with 
+the words 'Fire Giant Village'.  To the north is a rough trail leading into 
+gates.
+~
+0 1 3
+D0
+~
+~
+0 -1 13213
+D3
+~
+~
+0 -1 13202
+S
+#13204
+A Dirt Road~
+A plain and simple dirt track which leads West and East.
+~
+0 1 0
+D1
+~
+~
+0 -1 13205
+S
+#13205
+A Second Intersection in the Dirt Road~
+Very dull and plain, this area has been scorched by the sun, leaving once 
+aliveanimals and plants dead.  To the south appears to be a pleasant scenery,
+compared to where you stand.  To the South is the Cloud giants village, and 
+to the East lies more bland dirt road.
+~
+0 1 0
+D1
+~
+~
+0 -1 13206
+S
+#13206
+A Dirt Road~
+This room is very plain and simple.  Large red rocks sit off in the 
+background, doing nothing but being scorched by the sun.  To the East and 
+West, the dirt road continues.
+~
+0 1 3
+D1
+~
+~
+0 -1 13207
+D3
+~
+~
+0 -1 13205
+S
+#13207
+Information Point~
+This room is a continuance of the dirt road, though several signs stand 
+here, big enough that you continue to read them.   A broken down wooden sign, 
+a large stone tablet and a beautifully crafted marble pillar stand here.
+
+~
+0 0 3
+E
+marble pillar~
+Storm Giant Village:  The Storm giants are preparing raids against the Fire 
+giants, so they may retrieve their brothern inmates.  Once this has been 
+accomplished, they will ally with the Cloud giants, and demand the upkeep 
+of the Fire giants.
+~
+E
+stone tablet~
+Cloud Giant Village: These giants are peaceful, one with nature.  They feel 
+as though nature is the purest mental state, and meditation is needed.
+~
+E
+sign~
+Fire Giant Village: The Fire giants are crude beings, and hold several Storm
+giants captive within their imprisonment camp.  Their leader, and guide to
+success is the Infamous Efreeti.  They wish to achieve ruling over the two 
+villages, though have been unsuccessful against them, until the Efreeti came.
+~
+D1
+~
+~
+0 -1 13208
+D3
+~
+~
+0 -1 13206
+S
+#13208
+A Dark Dirt Road~
+The road is covered in a slimy, thick mud.  For some reason, the sun, nor
+weather is visible from this room, it seems as though it is almost a portal 
+to some place, though it is not.  You can see the light of the sun to the east 
+and west.
+~
+0 1 3
+D1
+~
+~
+0 -1 13209
+D3
+~
+~
+0 -1 13207
+S
+#13209
+A Dirt Road~
+A thin layer of dirt blows in the wind, somewhat like a dirt storm.  The 
+road continues east and west.
+~
+0 1 3
+D1
+~
+~
+0 -1 13210
+D3
+~
+~
+0 -1 13208
+S
+#13210
+A Dirt Road~
+You are standing on a plain and simple looking dirt road, it is very dry 
+here. The path leads to the east and west.
+~
+0 0 10
+D1
+~
+~
+0 -1 13211
+D3
+~
+~
+0 -1 13209
+S
+#13211
+A Dirt Road~
+A gust of wind raises, blowing in your eyes.  You see a lizard scury off 
+under a crumbling boulder.  The path continues to the east and west.
+~
+0 1 3
+D1
+~
+~
+0 -1 13212
+D3
+~
+~
+0 -1 13210
+S
+#13212
+A Turn in the Dirt Road~
+The roads plainess seems to be leaving as you walk further down the path.  
+A single tree, grows healthily, providing birds a small home.  The path 
+continues south and west.
+~
+0 1 3
+D3
+~
+~
+0 -1 13211
+S
+#13213
+Entrance to the Fire Giant Village~
+A large iron gate is before you, keeping intruders out and prisoners in.  
+Two large gargoyles are on either side of the walkway leading in.  Several 
+blood splatters cover the statues, you notice a single hand print on the 
+gargoyle's face, an image caught forever.
+~
+0 1 1
+D0
+~
+~
+0 -1 13214
+D2
+~
+~
+0 -1 13203
+S
+#13214
+The Inner Gateway~
+Entering the Village, you notice much hatred in everyone's eyes, the common
+people mostly.  The background coloring is quite simple, very dull.  To your
+south is a heavy iron gateway.
+~
+0 1 1
+D0
+~
+~
+0 -1 13215
+D1
+~
+~
+0 -1 13219
+D2
+~
+~
+0 -1 13213
+S
+#13215
+The Village Street~
+A plain looking street with small, loose rocks covering the walkway.  There 
+are a few burning patches of wood, left over from the homeless children and
+villagers.  To the east is the village square and to the north continues the
+village street.
+~
+0 1 1
+E
+look west~
+There is a single tree there, burning down to ash.
+~
+D0
+~
+~
+0 -1 13216
+D1
+~
+~
+0 -1 13232
+D2
+~
+~
+0 -1 13214
+S
+#13216
+The Village Street~
+A plain looking street with small, loose rocks covering the walkway.  There 
+are a few burning patches of wood, left over from the homeless children and
+villagers.  To the north and south continue the village street.
+~
+0 1 1
+E
+look west~
+A raccoon stands here, sniffing a pile of ash, which was once a grand staw 
+home.
+~
+D0
+~
+~
+0 -1 13217
+D2
+~
+~
+0 -1 13215
+S
+#13217
+The Village Street~
+A plain looking street with small, loose rocks covering the walkway.  A
+descecrated wagon made of solid oak is off to the side, with a large pile of 
+dirt within it.  The street continues north and south, and eastwards lies the 
+Village Square.
+~
+0 1 1
+E
+look wagon~
+A wagon made of solid oak, carrying a load of gravel and dirt sits here, 
+doing nothing.
+~
+D0
+~
+~
+0 -1 13218
+D1
+~
+~
+0 -1 13242
+D2
+~
+~
+0 -1 13216
+S
+#13218
+A Bend in the Trail~
+A rocky craig forces your progression soley to the east and south.  Off in 
+the distance the steady rumble of village life echos, along with the faint caw 
+of a crow.  The ground is firm and cracked, the wind blows the barren dust around
+your boots.  Leaning on an awkward slant, a delapedated signpost stands.
+~
+0 1 3
+E
+look sign~
+Fire giant village to the south, slave pens to the east.
+~
+E
+look crow~
+You see a dark black crow, calling out with a faint caw.  Depressing, huh?
+~
+D1
+~
+~
+0 -1 13243
+D2
+~
+~
+0 -1 13217
+S
+#13219
+The Shopkeeper's Lane~
+A street filled with merchants and shopkeepers, villagers and guards.  
+Seeing all the people, few notice the worn down trail and broken down 
+shops.  To the north, you smell the auroma of freshly cooked lamb legs, 
+and burning wood.
+~
+0 0 1
+E
+look north~
+You see a crazed man, enjoying his job of gutting a partially alive chicken.
+~
+D0
+~
+~
+0 -1 13220
+D1
+~
+~
+0 -1 13221
+D3
+~
+~
+0 -1 13214
+S
+#13220
+The Butcher's Quarters~
+A sweet smell of roasted chicken, and grilled beef fills the air.  A ceiling 
+which is pitch-black due to the flames of the stone grill.  Freshly killed cows 
+hang in the back, most of them appear to be gutted and cleaved.  A huge giant walks
+around the room, cleaving, flipping and skining his meat.
+~
+0 8 0
+D2
+~
+~
+0 -1 13219
+S
+#13221
+The Shopkeeper's Lane~
+A street filled with merchants and shopkeepers, villagers and guards.  
+Seeing all the people, few notice the worn down trail and broken down shops.  
+To the north you hear pounding, metal clashing onto metal, it's an armory.
+~
+0 0 0
+E
+look north~
+You see a burly man pounding his large iron hammer and forging armor.
+~
+D0
+~
+~
+0 -1 13222
+D1
+~
+~
+0 -1 13223
+D3
+~
+~
+0 -1 13219
+S
+#13222
+The Fire Giant Armory~
+The room is filled with battered iron breastplates and legplates, though 
+there are few platemail which gleam with perfection.  Most of the armors are huge,
+for the giants of the village.
+~
+0 0 0
+E
+look breastplate~
+You see a large breastplate, glowing and pulsing with energy.  On the front 
+of the plate you see a pair of axes crossing one another.
+~
+D2
+~
+~
+0 -1 13221
+S
+#13223
+The Shopkeeper's Lane~
+A street filled with merchants and shopkeepers, villagers and guards.  
+Seeing all the people, few notice the worn down trail and broken down shops.  To 
+the north you see a foreign man selling various weapons.  Whereas to the east 
+and west the lane continues.
+~
+0 0 1
+E
+look north~
+You see a foreign man standing there, holding a shiny broadsword in his 
+hands.
+~
+D0
+~
+~
+0 -1 13224
+D1
+~
+~
+0 -1 13225
+D3
+~
+~
+0 -1 13221
+S
+#13224
+The Weaponsmith's Hut~
+This room is filled with both nice looking and bad looking weapons.  There 
+are racks hanging from the wooden walls, holding the items.
+~
+0 8 0
+E
+look weapons~
+You see an array of daggers, maces and broadswords laying on the ground and
+hanging from racks.
+~
+D2
+~
+~
+0 -1 13223
+S
+#13225
+The Shopkeeper's Lane~
+A street filled with merchants and shopkeepers, villagers and guards.  
+Seeing all the people, few notice the worn down trail and broken down shops.  To 
+the north you see a foreign man selling various weapons.  Whereas to the west the 
+lane continues.
+~
+0 0 1
+D0
+~
+~
+0 -1 13226
+D1
+~
+~
+0 -1 13227
+D3
+~
+~
+0 -1 13223
+S
+#13226
+The General Store~
+This room is filled with items to assist the common folk survive.  The room 
+is black with a large white counter, where a giant sells his supplies.
+~
+0 8 0
+D2
+~
+~
+0 -1 13225
+S
+#13227
+A Bend in the Shopkeeper's Lane~
+This street leads to both the village square, to the north.  And to the
+shopkeepers of the Fire giant village, to the west.
+~
+0 0 1
+D0
+~
+~
+0 -1 13228
+D3
+~
+~
+0 -1 13225
+S
+#13228
+The Southeastern Corner of the Village Square~
+This room has a nice view of the sunset.  Off to the side is a gravel 
+sidewalk and the rest is covered with dry dirt.
+~
+0 0 1
+D0
+~
+~
+0 -1 13237
+D2
+~
+~
+0 -1 13227
+D3
+~
+~
+0 -1 13229
+S
+#13229
+The Southern Side of the Village Square~
+A large statue stands off in the southern most side, a statue of the 
+mysterious Efreeti.  A gravel walkway loops around the statue and then continues 
+both eastward and westward.  A dirt road leads north, into the central part of 
+the village square.
+~
+0 0 1
+E
+look statue~
+A solid, marble statue standing nearly eighteen feet in height of the 
+Infamous Efreeti.  The statue alone sends a shiver down your spine.
+~
+D0
+~
+~
+0 -1 13236
+D1
+~
+~
+0 -1 13228
+D3
+~
+~
+0 -1 13230
+S
+#13230
+The Southcentral part of the Village Square~
+Three large mounds of dirt are here in the middle of the road, their 
+presence does absolutely nothing except for the village children to play around on.
+Looking beyond the mounds, a gravel walkway continues west, and a dirt road
+leads northward to the center of the village square, where the water 
+fountain is.
+~
+0 0 1
+E
+look mound~
+They are just large piles of dirt.
+~
+D0
+~
+~
+0 -1 13235
+D1
+~
+~
+0 -1 13229
+D3
+~
+~
+0 -1 13231
+S
+#13231
+The Southern Side of the Village Square~
+There is a gravel walkway at the southern end of this side of the village 
+square, and a dirt roads leads west, north and east.  A single tree stands to 
+the side of the walkway, glowing with lovely green coloring.  Nearly fifteen 
+feet away there is a sundial.
+~
+0 0 1
+E
+look tree~
+This appears to be the only tree within the village square, and it is a very 
+healthy tree too.
+~
+E
+look sundial~
+It isn't a very good sundial, seems as though kids have set it up, but it 
+does it's own function very well.
+~
+D0
+~
+~
+0 -1 13234
+D1
+~
+~
+0 -1 13230
+D3
+~
+~
+0 -1 13232
+S
+#13232
+The Southwestern Corner of the Village Square~
+This seems to be the main entrance to the village square, the dirt road 
+which leads to the rest of the village square here is very worn down.  Most of the
+gravel has been scattered about over the dirt road.  There is a small wooden
+sign standing here, with splattered red blotches over it.
+~
+0 0 1
+E
+look sign~
+Welcome to the Fire Giant Village Square.  There are various items which 
+make this the living center of the village square, and there has been an attempt 
+to make this place as nice as possible.  If you are a traveller in need of water, 
+there is a fountain within the center of the village square.  Signed:  Efreeti
+~
+D0
+~
+~
+0 -1 13233
+D1
+~
+~
+0 -1 13231
+D3
+~
+~
+0 -1 13215
+S
+#13233
+The Western Side of the Village Square~
+As you enter this edge of the village square, you are stunned by the 
+horrible stench, and then see a large mound of hot garbage.  This is obviously their
+dump, though it's in a bad location.
+~
+0 0 1
+D0
+~
+~
+0 -1 13234
+D2
+~
+~
+0 -1 13232
+S
+#13234
+Westcentral Section of the Village Square~
+Within the middle of this section you see a circular gravel walkway, and 
+inside the walkway is a garden of several pitch-black roses.  You hear a faint 
+sound of splashing water to the east, and you see a large fountain.
+~
+0 0 1
+E
+look roses~
+A heap of irregular pitch-black roses, they must be symbolic for something.
+~
+D0
+~
+~
+0 -1 13241
+D1
+~
+~
+0 -1 13235
+D2
+~
+~
+0 -1 13231
+S
+#13235
+The Center of the Village Square~
+This is the intersection of the village square, it leads to every direction.
+Children and villagers wonder around, some carrying buckets full of water 
+and others bathing in the white water of the stoned-hedged fountain.  A flock of
+birds rest on top of the statue within the middle of the fountain.
+~
+0 0 1
+E
+look statue~
+This is a statue of a large woman, both in height and muscular build.  Upon 
+the insignia around the neck, resembles the Mistress who has enslaved the Storm
+giant prisoners.
+~
+D0
+~
+~
+0 -1 13240
+D1
+~
+~
+0 -1 13236
+D2
+~
+~
+0 -1 13230
+D3
+~
+~
+0 -1 13234
+S
+#13236
+Eastcentral Section of the Village Square~
+Within the middle of this section you see a circular gravel walkway, and 
+inside the walkway is a garden of several pitch-black roses.  You hear a faint 
+sound of splashing water to the west, and you see a large fountain.
+~
+0 0 1
+E
+look roses~
+A heap of irregular pitch-black roses, they must be symbolic for something.
+~
+D0
+~
+~
+0 -1 13239
+D1
+~
+~
+0 -1 13237
+D2
+~
+~
+0 -1 13229
+D3
+~
+~
+0 -1 13235
+S
+#13237
+The Village Altar~
+A large marble table with a white cloth sits here, and behind the altar is a
+Priest healing those whom ask and pay him.  A fancy set of gold plates and
+cups set up on the altar.  It is rumored that the altar is considered the 
+"altar of the damned".
+~
+0 1319944 1
+D0
+~
+~
+0 -1 13238
+D2
+~
+~
+0 -1 13228
+D3
+~
+~
+0 -1 13236
+S
+#13238
+The Northeastern Corner of the Village Square~
+This room has a nice view of the sunset.  Off to the side is a gravel 
+sidewalk and the rest is covered with dry dirt.
+~
+0 0 1
+D2
+~
+~
+0 -1 13237
+D3
+~
+~
+0 -1 13239
+S
+#13239
+The Northern Side of the Village Square~
+There is a gravel walkway at the northern end of this side of the village 
+square, and a dirt roads leads west, south and east.  A patch of ivy grows over the
+trees in the near distance.
+~
+0 0 1
+E
+look ivy~
+The ivy appears to be suffocating the trees, killing them slowly, but surely.
+~
+D1
+~
+~
+0 -1 13238
+D2
+~
+~
+0 -1 13236
+D3
+~
+~
+0 -1 13240
+S
+#13240
+The Northern Side of the Village Square~
+There is a gravel walkway at the northern end of this side of the village 
+square, and a dirt roads leads west, south and east.  A patch of ivy grows over the
+trees in the near distance.
+~
+0 0 1
+E
+look ivy~
+Off in the near distance, a patch of ivy is noticeable.  The ivy seems to 
+overtake the trees and suffocates them, and they die slowly, but surely.
+~
+D1
+~
+~
+0 -1 13239
+D2
+~
+~
+0 -1 13235
+D3
+~
+~
+0 -1 13241
+S
+#13241
+The Northern Side of the Village Square~
+There is a gravel walkway at the northern end of this side of the village 
+square, and a dirt roads leads west, south and east.  A patch of ivy grows over the
+trees in the near distance.
+~
+0 0 0
+D1
+~
+~
+0 -1 13240
+D2
+~
+~
+0 -1 13234
+D3
+~
+~
+0 -1 13242
+S
+#13242
+The Northwestern Corner of the Village Square~
+This seems to be the main exit to the village square, the dirt road which 
+leads to the rest of the village square here is very worn down.  Most of the 
+gravel has been scattered about over the dirt road.
+~
+0 0 1
+D1
+~
+~
+0 -1 13241
+D3
+~
+~
+0 -1 13217
+S
+#13243
+A worn trail~
+Little more than a dirt track, this road leads east and west.  Cold, near 
+lifeless trees of grey bark stretch thier long bony limbs to mesh and intertwine 
+above you.  All around you can hear the echoing clammour of the village to the 
+south.
+~
+0 1 3
+D1
+~
+~
+0 -1 13244
+D3
+~
+~
+0 -1 13218
+S
+#13244
+The Hangman's Stump~
+A grim sight unfolds before your eyes.  The path opens somewhat, arching
+around a large tree stump.  Twenty five feet from the ground a tall sturdy 
+limb stretches across the path, a hemp rope tied into a hangman's noose dangles
+freely tossed by the gentle wind.  The noose seems a bit too short, and you
+figure that a fall from that distance would not break a giant's neck, most 
+who meet thier fate here probably spend a few days in strangulation.  The path
+continues east and west.
+~
+0 1 3
+D1
+~
+~
+0 -1 13245
+D3
+~
+~
+0 -1 13243
+S
+#13245
+A worn trail~
+Little more than a dirt track, this road leads east and west.  The ground 
+here is soggy and damp, the stark yellow mud slurps in protest as you walk.  Cold,
+near lifeless trees of grey bark stretch theirr long bony limbs to mesh and
+intertwine above you.  All around you can hear the echoing clammour of the
+village to the south.  At a glance to the west you see a large stump in the
+middle of the road.
+~
+0 1 3
+D1
+~
+~
+0 -1 13246
+D3
+~
+~
+0 -1 13244
+S
+#13246
+A Muddy Track~
+The mud here makes the east and west trail difficult to navigate.  Each step
+needing a touch more concentration and balance to avoid slipping into this
+dank muck.  Huge boot prints riddle the ground, some even deep enough to
+begin collecting the soil's water and forming footshaped puddles.
+~
+0 1 3
+D1
+~
+~
+0 -1 13247
+D3
+~
+~
+0 -1 13245
+S
+#13247
+An Open Trail~
+The trees seem to give way now to weeds and other tangled undergrowth.  A
+few stumps pock-mark the edge of the trail.  The muddy ground is torn and
+slick, making it seem like an army had marched through this place.  You also
+notice that to boot prints are of various sizes and depths now, no longer 
+souly the mark of giants, but other races aswell.  A strange awful smell reaches 
+your nose, causing you to momentarily hold your breath.  From here you can only
+wander east or west.
+~
+0 1 3
+D1
+~
+~
+0 -1 13248
+D3
+~
+~
+0 -1 13246
+S
+#13248
+An Open Trail~
+The trees seem to give way now to weeds and other tangled undergrowth.  A
+few stumps pock-mark the edge of the trail.  The muddy ground is torn and
+slick, making it seem like an army had marched through this place.  You also
+notice that to boot prints are of various sizes and depths now, no longer 
+souly the mark of giants, but other races aswell.  A strange awful smell reaches 
+your nose, causing you to momentarily hold your breath.  To the east the trail 
+takes a turn, though west allows you straight passage.
+~
+0 1 3
+D1
+~
+~
+0 -1 13249
+D3
+~
+~
+0 -1 13247
+S
+#13249
+A Muddy Bend~
+A small group of slaves work quietly here clearing the sides of the trail 
+from the under brush and stumps.  Omniously quiet, the only sound they seem to make
+is the rattle of the chains they wear.  To the south you can clearly see the
+entrance to the slave pens, the west offers you means to return to the 
+village.
+~
+0 1 3
+D2
+~
+~
+0 -1 13250
+D3
+~
+~
+0 -1 13248
+S
+#13250
+Entering the Slave Pens~
+You are greeted with a tremendous stench.  This place seems to have been
+carved out of a giant boulder, in stead of actually being built.  The walls, 
+floor and ceiling are uneaven and awkward, playing tricks on your equalibrium.  
+Very little light from a few small fires and cracks in the door above you filter 
+about the pens.  Dark forms mill about thier daily life, awaiting thier masters
+commands.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13249
+D1
+~
+~
+0 -1 13256
+D2
+~
+~
+0 -1 13251
+S
+#13251
+Inside the Slave Pens~
+Large iron rings are set into the floor here, creating a suitable place to 
+lock away slaves.  The spatters of dried blood on the walls, and small row of
+stocks, give the impression that this place is reserved for those slaves in 
+need of dicipline.  Here the slave pens look more like a torture chamber, set in 
+the middle of the stone rooms, to display the fate of those slaves who do not
+cooperate.  Looking around nearly confused you, as there doesn't seem to be
+a right angle in this place.  The room is devoid of decoration, save for the
+cobwebs on the ceiling.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13250
+D1
+~
+~
+0 -1 13255
+D2
+~
+~
+0 -1 13252
+S
+#13252
+A Dark Corner in the Slave Pens~
+Urine stains and other unmentionables litter the cold floor and walls here. 
+The stench is nearly unbearable, none the less you notice a few spots on the 
+floor which look like they serve as sleeping areas.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13251
+D1
+~
+~
+0 -1 13253
+S
+#13253
+Inside the Slave Pens~
+Large iron rings are set into the floor here, creating a suitable place to 
+lock away slaves.  The spatters of dried blood on the walls, and small row of
+stocks, give the impression that this place is reserved for those slaves in 
+need of dicipline.  Here the slave pens look more like a torture chamber, set in 
+the middle of the stone rooms, to display the fate of those slaves who do not
+cooperate.  Looking around nearly confused you, as there doesn't seem to be
+a right angle in this place.  The room is devoid of decoration, save for the
+cobwebs on the ceiling.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13255
+D1
+~
+~
+0 -1 13259
+D2
+You see a large iron door.
+~
+iron door~
+1 -1 13254
+D3
+~
+~
+0 -1 13252
+S
+#13254
+Efreeti's Domain~
+This is a large room filled with the blazing heat of the sun.  The 
+temperature is unbearable living conditions, though standing in the back is 
+an elemental.  The walls are made of thick, burning iron, and the ceiling 
+stretches nearly two stories high.
+~
+0 1318920 0
+D0
+~
+~
+0 -1 13253
+S
+#13255
+The Center of the Slave Pens~
+A large pit occupies the middle of the cold stone floor here. This room is 
+vast and spans two stories in height.  Against the southern face is a large 
+cluttered altar, it stretches nearly to the ceiling and resembles a gigantic dragon 
+skull. Large bronze brasiers light the room in a hazy orange and yellow glow.  You
+sence that this place was built with reverance, a strange feeling to be 
+directed to anything Giant.  This room itself seems to inspire a sense of awe that 
+fills you and beckons to you.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13256
+D1
+~
+~
+0 -1 13258
+D2
+~
+~
+0 -1 13253
+D3
+~
+~
+0 -1 13251
+S
+#13256
+Inside the Slave Pens~
+Large iron rings are set into the floor here, creating a suitable place to 
+lock away slaves.  The spatters of dried blood on the walls, and small row of
+stocks, give the impression that this place is reserved for those slaves in 
+need of dicipline.  Here the slave pens look more like a torture chamber, set in 
+the middle of the stone rooms, to display the fate of those slaves who do not
+cooperate.  Looking around nearly confused you, as there doesn't seem to be
+a right angle in this place.  The room is devoid of decoration, save for the
+cobwebs on the ceiling.
+~
+0 1056777 0
+D1
+~
+~
+0 -1 13257
+D2
+~
+~
+0 -1 13255
+D3
+~
+~
+0 -1 13250
+S
+#13257
+A Dark Corner in the Slave Pens~
+Urine stains and other unmentionables litter the cold floor and walls here. 
+The stench is nearly unbearable, none the less you notice a few spots on the 
+floor which look like they serve as sleeping areas.
+~
+0 1056777 0
+D2
+~
+~
+0 -1 13258
+D3
+~
+~
+0 -1 13256
+S
+#13258
+Inside the Slave Pens~
+Large iron rings are set into the floor here, creating a suitable place to 
+lock away slaves.  The spatters of dried blood on the walls, and small row of
+stocks, give the impression that this place is reserved for those slaves in 
+need of dicipline.  Here the slave pens look more like a torture chamber, set in 
+the middle of the stone rooms, to display the fate of those slaves who do not
+cooperate.  Looking around nearly confused you, as there doesn't seem to be
+a right angle in this place.  The room is devoid of decoration, save for the
+cobwebs on the ceiling.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13257
+D2
+~
+~
+0 -1 13259
+D3
+~
+~
+0 -1 13255
+S
+#13259
+A Dark Corner in the Slave Pens~
+Urine stains and other unmentionables litter the cold floor and walls here. 
+The stench is nearly unbearable, none the less you notice a few spots on the 
+floor which look like they serve as sleeping areas.  There is a small boulder 
+which slides off to the side, leading to a dark passage.
+~
+0 1056777 0
+D0
+~
+~
+0 -1 13258
+D1
+~
+~
+0 -1 13260
+D3
+~
+~
+0 -1 13253
+S
+#13260
+A Dark Passage~
+A secluded dark path, which seems to be in a small cave, leads further into
+darkness eastwards and back to the slave pens west.  A small sign of stone
+with etchings in it stands off to the side.
+~
+0 1056777 0
+E
+look sign~
+Enter at your own risk!
+~
+D1
+~
+~
+0 -1 13261
+D3
+~
+~
+0 -1 13259
+S
+#13261
+A Dark Passage~
+A steep slope causes you to fall downwards into a large pool of water.  You 
+are able to travel outwards to the west, and looking southwards you see nothing, 
+it is pitch-black.
+~
+0 3153929 6
+D2
+~
+~
+0 -1 13262
+D3
+~
+~
+0 -1 13260
+S
+#13262
+The Unholy Magicians Vault~
+All the water you were just in has been drained from this vault.  The walls 
+are made of heavy iron, the ceiling is made of rock and moss.  To the eastern 
+side of the vault is a large picture.
+~
+0 1318921 0
+E
+look picture~
+This is a picture of the one who calls himself the Unholy Magician.  He is
+obviously a giant due to his large face and stout shoulders.  He is wearing 
+long black robes and a large mantle peice around his neck.
+~
+D0
+~
+~
+0 -1 13261
+S
+#0
+
+
+
+#SPECIALS
+M 13200 spec_breath_fire
+M 13201 spec_cast_mage
+M 13202 spec_guard
+M 13203 spec_guard
+M 13206 spec_thief
+M 13214 spec_cast_adept
+S
+
+
+
+#RESETS
+D 0 13253 2 1
+M 0 13202 2 13213 1
+E 0 13217 0 16
+E 0 13213 0 1
+E 0 13219 0 10
+E 0 13220 0 12
+G 0 13216 0
+M 0 13202 2 13213 1
+E 0 13217 0 16
+E 0 13213 0 1
+E 0 13219 0 10
+E 0 13220 0 12
+G 0 13216 0
+M 0 13215 2 13214 1
+M 0 13215 2 13214 1
+M 0 13203 5 13215 1
+E 0 13213 0 1
+E 0 13214 0 16
+G 0 13222 0
+M 0 13212 1 13220 1
+G 0 13235 0
+G 0 13236 0
+M 0 13210 1 13222 1
+G 0 13237 0
+G 0 13238 0
+G 0 13239 0
+G 0 13240 0
+M 0 13211 1 13224 1
+G 0 13241 0
+G 0 13242 0
+G 0 13243 0
+M 0 13205 3 13225 1
+E 0 13225 0 5
+M 0 13213 1 13226 1
+G 0 13232 0
+G 0 13233 0
+G 0 13234 0
+M 0 13206 5 13228 1
+M 0 13203 5 13231 1
+E 0 13213 0 1
+E 0 13214 0 16
+G 0 13222 0
+M 0 13206 5 13232 1
+M 0 13209 1 13233 1
+E 0 13231 0 6
+M 0 13205 3 13235 1
+E 0 13225 0 5
+M 0 13206 5 13235 1
+M 0 13206 5 13235 1
+M 0 13206 5 13236 1
+M 0 13204 1 13237 1
+E 0 13223 0 3
+E 0 13224 0 14
+E 0 13221 0 17
+G 0 13226 0
+G 0 13215 0
+P 0 13244 1 13221 1
+M 0 13214 1 13237 1
+M 0 13203 5 13238 1
+E 0 13213 0 1
+E 0 13214 0 16
+G 0 13222 0
+M 0 13207 1 13241 1
+E 0 13227 0 17
+M 0 13203 5 13242 1
+E 0 13213 0 1
+E 0 13214 0 16
+G 0 13222 0
+M 0 13203 5 13244 1
+E 0 13213 0 1
+E 0 13214 0 16
+G 0 13222 0
+M 0 13205 3 13245 1
+E 0 13225 0 5
+M 0 13217 1 13245 1
+E 0 13243 0 16
+M 0 13216 8 13251 1
+M 0 13216 8 13251 1
+M 0 13200 1 13254 1
+E 0 13200 0 16
+E 0 13201 0 5
+E 0 13202 0 6
+E 0 13203 0 7
+M 0 13208 1 13255 1
+E 0 13230 0 1
+E 0 13218 0 3
+E 0 13229 0 5
+E 0 13228 0 16
+M 0 13216 8 13255 1
+M 0 13216 8 13256 1
+M 0 13216 8 13257 1
+M 0 13216 8 13257 1
+M 0 13216 8 13258 1
+M 0 13216 8 13259 1
+M 0 13201 1 13262 1
+E 0 13204 0 16
+E 0 13205 0 5
+E 0 13206 0 6
+E 0 13207 0 7
+E 0 13208 0 8
+E 0 13209 0 9
+E 0 13210 0 10
+E 0 13211 0 13
+E 0 13212 0 14
+S
+
+
+
+#SHOPS
+13210 9 0 0 0 0 115 95 0 23
+13211 5 0 0 0 0 115 95 0 23
+13212 19 0 0 0 0 115 95 0 23
+13213 17 0 0 0 0 115 95 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

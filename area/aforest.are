@@ -1,0 +1,514 @@
+#AREA
+~
+The Ancient Forest~
+{Quest} Jael The Ancient Forest~
+26500 26599
+
+#MOBILES
+#26500
+dwarf laegalos~
+laegalos, the ancient smith~
+A small half-dead dwarf is crumpled up near a blazing fire. 
+~
+This stocky, very old, half-dead dwarf stares at the fire at at his
+creations. 
+~
+dwarf~
+A J 1000 0
+56 50 50d10+7500 0d0+0 10d4+24 pound
+-26 -26 -26 -26
+0 D LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+M greet 26500 100~
+#26501
+oracle~
+the ancient oracle~
+An wise old man stands here, warning you of the dangers of the forest. 
+~
+This wise old man is dressed in old murky robes. His bright green eyes
+flare with holy embrace. 
+~
+human~
+ABGT H 1000 0
+60 70 50d10+9500 0d0+0 8d6+28 sting
+-30 -30 -30 -30
+K D 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK small flesh
+M greet 26501 100~
+#0
+
+
+
+#OBJECTS
+#26500
+sword longsword holy light~
+The Ancient Longsword 'Holy Light'~
+A very old yet mighy longsword lies at your feet.~
+silver~
+weapon ABIKLMZ AN
+'sword' 8 8 'wrath' C 
+56 5 0 P
+A
+18 15
+A
+19 25
+F
+A 0 0 HNVc
+A
+0 0
+L
+1
+#0
+
+
+
+#ROOMS
+#26500
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+~
+~
+0 0 26501
+D2
+~
+~
+0 0 19355
+S
+#26501
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26502
+D2
+
+~
+~
+0 0 26500
+S
+#26502
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D2
+
+~
+~
+0 0 26501
+D3
+
+~
+~
+0 0 26503
+S
+#26503
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 26502
+D3
+
+~
+~
+0 0 26504
+S
+#26504
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26505
+D1
+
+~
+~
+0 0 26503
+S
+#26505
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26506
+D2
+
+~
+~
+0 0 26504
+S
+#26506
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26507
+D2
+
+~
+~
+0 0 26505
+D3
+
+~
+~
+0 0 26509
+S
+#26507
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26508
+D2
+
+~
+~
+0 0 26506
+S
+#26508
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 26512
+D2
+
+~
+~
+0 0 26507
+S
+#26509
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 26506
+D3
+
+~
+~
+0 0 26510
+S
+#26510
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 26509
+D3
+
+~
+~
+0 0 26511
+S
+#26511
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 26510
+D3
+
+~
+~
+0 0 26517
+S
+#26512
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26515
+D1
+
+~
+~
+0 0 26513
+D3
+
+~
+~
+0 0 26508
+S
+#26513
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 26514
+D3
+
+~
+~
+0 0 26512
+S
+#26514
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. There seems to be a small camp to the south. 
+~
+0 0 2
+D2
+
+~
+~
+0 0 26519
+D3
+
+~
+~
+0 0 26513
+S
+#26515
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26516
+D2
+
+~
+~
+0 0 26512
+S
+#26516
+A Sunny Path~
+This bright sun lit path leads through a forest so dense you've alrady
+got the feeling you've lost yourself. Tall trees of hundreds of shades of
+green fill the area. The path is mostly dirt and looks as if it had not been
+tred in a thousard years. The path continesu to twist and bend in a
+northerly direction. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 26518
+D2
+
+~
+~
+0 0 26515
+S
+#26517
+A Dense Clearing~
+The forest trail comes to a sudden halt. This area is inhabited by far
+less animals than most of the forest and seems very quiet. A large rock is
+set in the center of the clearing; it has some words etched into it. You
+notice a few small rusted swords and shields hidden under layers of leaves
+and shrubs. The last leads back east, the forest as far to dense to follow
+in any other direction. 
+~
+0 0 3
+D1
+
+~
+~
+0 0 26511
+S
+#26518
+A grassy Hill~
+The forest suddenly ends here falling down a very steep hill of perfect
+green grass. The hill is covered in nothing but grass, no trees or plants.
+It looks as if there is a blade sticking up an inch or so from the ground as
+if it had been buried there for thousands of years. A vicious river cuts off
+the bottom of the hill; the only direction you could make deceit travel from
+is back south. 
+~
+0 0 3
+D2
+
+~
+~
+0 0 26516
+S
+#26519
+A small Camp~
+This small clearing serves as a camp for someone who lives in the forest.
+There is a faint fire burning to the west. Various tools, weapons, and
+utilities surprisingly made of high quality are scattered around. There is
+not a soul to be found. There is a large bush to the south which seems big
+enough to house a single person. 
+~
+0 0 3
+D0
+
+~
+~
+0 0 26514
+D2
+
+~
+~
+0 0 26520
+S
+#26520
+The Ancient Forge~
+The seemingly small bush opens to a quite large opening. There is a small
+yet blazing fire burning, set alongside the fire are many daggers and sword,
+hilts, and blades. Crumpled up near the fire is a very old and ragged dwarf.
+~
+0 0 3
+D0
+
+~
+~
+0 0 26519
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 26501 1 26500 1
+M 0 26500 1 26520 1
+G 0 26500 1
+S
+
+
+#MOBPROGS
+#26500
+	emote smiles
+	say Welcome to the Forge, I am Laegalos.
+	say Please take this.. Finish the Battle
+	give sword $n
+	say May your blade strike true
+~
+#26501
+	say Welcome to the Forest, Beware.. Nothing has been as it should since the ancient wars.
+~
+#0
+#$
+

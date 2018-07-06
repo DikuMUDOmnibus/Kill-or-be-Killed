@@ -1,0 +1,1195 @@
+#AREADATA
+Name The Coliseum~
+Builders None~
+VNUMs 26000 26099
+Credits { All } Dioxide  The Coliseum~
+Security 9
+End
+
+
+
+#MOBILES
+#26000
+healer gladiator retired~
+an old healer~
+An old, retired gladiator rests here, tending wounds.
+~
+This man is old and wrinkled.  He wears a tattered gladiator
+uniform, but seems to be healing the wounded.
+~
+human~
+ABGJKa DFHJNO 0 0
+60 50 15000d2+0 15000d2+0 50d2+10 pound
+-50 -50 -50 -50
+0 ABCDEFGHIJKLMNOPQRS 0 0
+rest rest male 1
+ADHMV ABCDEFGHIJK medium 0
+#26001
+lion arenalion~
+the huge lion~
+A huge lion roars at you.
+~
+This huge lion is awe-inspiring and bold.  Its teeth are
+razor-sharp and covered in red blood.  It is very, very angry.
+~
+unique~
+AFG DFJa -1999 0
+55 50 1d1+4500 0d0+1 20d2+40 claw
+-25 -25 -25 -25
+ADEFJMNOU A BGH NP
+stand stand either 0
+ABGMV ABCDFQU huge 0
+#0
+
+
+
+#OBJECTS
+#26000
+pill health~
+a pill of health~
+A small pill with 'HEALTH' written on it lies here.~
+plastic~
+pill BPU A
+60 'heal' 'heal' 'cure poison' 'cure disease'
+60 2 3 P
+#26002
+shotgun sawed coliseum victory~
+a sawed-off shotgun named 'Coliseum Victory'~
+A huge, stocky shotgun lies here.~
+wood~
+weapon ABHMPTUY AN
+exotic 30 2 blast A
+55 26 0 P
+A
+19 15
+A
+18 2
+A
+1 3
+A
+5 1
+A
+2 -4
+#26010
+trophy %s arenatrophy~
+a trophy of the kill of %s~
+The trophy of the kill of %s is here.~
+~
+trash H A
+0 0 0 0 0
+0 1 0 P
+#0
+
+
+
+#ROOMS
+#26000
+Below the Coliseum~
+You are in a small, dusty room.  Crude mechanical objects and
+tools lay about, and a thick red liquid drips through the
+floorboards above you. However, you feel strangely safe.
+
+Bright light comes from above, accompanied by loud sounds,
+almost like yelling and screaming.
+
+A rusty plaque stands here, and a map is nailed to the wall.
+~
+0 5252108 0
+E
+map~
+=============================================================
+Map of the Coliseum, mapped by Dioxide
+=============================================================
+
+                          To South
+                             *
+                             |
+           *  -  *  -  *  -  *  -  *  -  *  -  *
+           |  \                             /  |
+           *     *  -  *  -  *  -  *  -  *     *
+           |     |           |           |     |
+           *     *     *  -  *  -  *     *     *
+           |     |     |  \  |  /  |     |     |
+  To *  -  *     * <-  *     +     *  -> *     *  -  * To
+   East    |     |     |  /  |  \  |     |     |    West
+           *     *     *  -  *  -  *     *     *
+           |     |           |           |     |
+           *     *  -  *  -  *  -  *  -  *     *
+           |  /                             \  |
+           *  -  *  -  *  -  *  -  *  -  *  -  *
+                             |
+                             *
+                         To North
+
+=============================================================
+~
+E
+plaque~
+================== WELCOME TO THE COLISEUM ==================
+You have entered the elite fighting ground of the realms.  Do
+NOT attack anybody until an Immortal explains things. This is
+considered an irritating annoyance, and you will be slain.
+
+Here, Immortals will watch your killing prowess.  Fight well,
+for you may be considered for tattoos, quest items, or more.
+
+You are to stay in this arena until an Immortal transfers you
+out.  If you must quit, get the attention of an Immortal.
+
+You may find pills of health.  Use them, for you will need
+them. Do not hoard them, or take all of them at once. Slaying
+violators is always fun.
+
+Good luck.
+--Dioxide
+=============================================================
+
+~
+D0
+You see the northern wing of the first level.~
+~
+0 -1 26001
+D1
+You see the eastern wing of the first level.~
+~
+0 -1 26003
+D2
+You see the southern wing of the first level.~
+~
+0 -1 26005
+D3
+You see the western wing of the first level.~
+~
+0 -1 26007
+M 200 H 200
+S
+#26001
+Northern Wing of the Arena Floor~
+You are standing in the Northern Wing of the First Level of
+the Coliseum.  The Northern Wing extends west and east.  A
+passage south leads to under the Coliseum floor.  An iron
+stairwell leads up to the Second Level.
+~
+0 5252104 0
+D1
+You see the northeast corner of the first level.~
+~
+0 -1 26002
+D2
+You see a room below the Coliseum.~
+~
+0 -1 26000
+D3
+You see the northwest corner of the first level.~
+~
+0 -1 26008
+D4
+You see the northern wing of the second level.~
+~
+0 -1 26009
+S
+#26002
+Northeast Corner of the Arena Floor~
+You are standing in the Northeast Corner of the First Level
+of the Coliseum.  The Northern Wing extends west, and the 
+Eastern Wing begins to the south.  A passage down leads to 
+under the Coliseum floor.
+~
+0 5252104 0
+D2
+You see the eastern wing of the first level.~
+~
+0 -1 26003
+D3
+You see the northern wing of the first level.~
+~
+0 -1 26001
+D5
+You see a room below the Coliseum.~
+~
+0 -1 26000
+S
+#26003
+Eastern Wing of the Arena Floor~
+You are standing in the Eastern Wing of the First Level of 
+the Coliseum.  The Eastern Wing extends north and south.  A 
+passage west leads to under the Coliseum floor.  An iron 
+stairwell leads up to the Second Level.
+~
+0 5252104 0
+D0
+You see the northeast corner of the first level.~
+~
+0 -1 26002
+D2
+You see the southeast corner of the first level.~
+~
+0 -1 26004
+D3
+You see a room below the Coliseum.~
+~
+0 -1 26000
+D4
+You see the eastern wing of the second level.~
+~
+0 -1 26013
+S
+#26004
+Southeast Corner of the Arena Floor~
+You are standing in the Southeast Corner of the First Level
+of the Coliseum.  The Southern Wing extends west, and the 
+Eastern Wing begins to the north.  A passage down leads to 
+under the Coliseum floor.
+~
+0 7349256 0
+D0
+You see the eastern wing of the first level.~
+~
+0 -1 26003
+D3
+You see the southern wing of the first level.~
+~
+0 -1 26005
+D5
+You see a room below the Coliseum.~
+~
+0 -1 26000
+S
+#26005
+Southern Wing of the Arena Floor~
+You are standing in the Southern Wing of the First Level 
+of the Coliseum.  The Southern Wing extends west and
+east.  A passage north leads to under the Coliseum floor. 
+An iron stairwell leads up to the Second Level.
+~
+0 5252104 0
+D0
+You see a room below the Coliseum.~
+~
+0 -1 26000
+D1
+You see the southeast corner of the first level.~
+~
+0 -1 26004
+D3
+You see the southwest corner of the first level.~
+~
+0 -1 26006
+D4
+You see the southern wing of the second level.~
+~
+0 -1 26017
+S
+#26006
+Southwest Corner of the Arena Floor~
+You are standing in the Southwest Corner of the First
+Level of the Coliseum.  The Southern Wing extends east, 
+and the Western Wing begins to the north.  A passage 
+down leads to under the Coliseum floor.
+~
+0 5252104 0
+D0
+You see the western wing of the first level.~
+~
+0 -1 26007
+D1
+You see the southern wing of the first level.~
+~
+0 -1 26005
+D5
+You see a room below the Coliseum.~
+~
+0 -1 26000
+S
+#26007
+Western Wing of the Arena Floor~
+You are standing in the Western Wing of the First Level of 
+the Coliseum.  The Western Wing extends north and south.  A 
+passage east leads to under the Coliseum floor.  An iron 
+stairwell leads up to the Second Level.
+~
+0 5252104 0
+D0
+You see the northwest corner of the first level.~
+~
+0 -1 26008
+D1
+You see a room below the Coliseum.~
+~
+0 -1 26000
+D2
+You see the southwest corner of the first level.~
+~
+0 -1 26006
+D4
+You see the western wing of the second level.~
+~
+0 -1 26021
+S
+#26008
+Northwest Corner of the Arena Floor~
+You are standing in the Northwest Corner of the First Level 
+of the Coliseum.  The Northern Wing extends east, and the 
+Western Wing begins to the south.  A passage down leads to 
+under the Coliseum floor.
+~
+0 5252104 0
+D1
+You see the northern wing of the first level.~
+~
+0 -1 26001
+D2
+You see the western wing of the first level.~
+~
+0 -1 26007
+D5
+You see a room below the Coliseum.~
+~
+0 -1 26000
+S
+#26009
+Northern Wing of the 2nd Level~
+You are standing in the Northern Wing of the Second Level of 
+the Coliseum.  The Northern Wing extends west and east.  An 
+iron stairwell leads down to the First Level.
+~
+0 5252104 0
+D1
+You see the northern wing of the second level.~
+~
+0 -1 26010
+D3
+You see the northern wing of the second level.~
+~
+0 -1 26024
+D5
+You see the northern wing of the first level.~
+~
+0 -1 26001
+S
+#26010
+Northern Wing of the 2nd Level~
+You are standing in the Northern Wing of the Second Level of 
+the Coliseum.  The Northern Wing extends west, and the 
+Northeast Corner of the Second Level is to the east.
+~
+0 5252104 0
+D1
+You see the northeast corner of the second level.~
+~
+0 -1 26011
+D3
+You see the northern wing of the second level.~
+~
+0 -1 26009
+S
+#26011
+Northeast Corner of the 2nd Level~
+You are standing in the Northeast Corner of the Second Level 
+of the Coliseum.  The Northern Wing extends west, and the 
+Eastern Wing begins to the south.  A stairwell up leads to 
+the Third Level.
+~
+0 5252104 0
+D2
+You see the eastern wing of the second level.~
+~
+0 -1 26012
+D3
+You see the northern wing of the second level.~
+~
+0 -1 26010
+D4
+You see the northeast corner of the third level.~
+~
+0 -1 26028
+S
+#26012
+Eastern Wing of the 2nd Level~
+You are standing in the Eastern Wing of the Second Level of 
+the Coliseum.  The Eastern Wing extends south, and the 
+Northeast Corner of the Second Level is to the north.
+~
+0 5252104 0
+D0
+You see the northeast corner of the second level.~
+~
+0 -1 26011
+D2
+You see the eastern wing of the second level.~
+~
+0 -1 26013
+S
+#26013
+Eastern Wing of the 2nd Level~
+You are standing in the Eastern Wing of the Second Level of 
+the Coliseum.  The Eastern Wing extends north and south.  An 
+iron stairwell leads down to the First Level.
+~
+0 5252104 0
+D0
+You see the eastern wing of the second level.~
+~
+0 -1 26012
+D2
+You see the eastern wing of the second level.~
+~
+0 -1 26014
+D5
+You see the eastern wing of the first level.~
+~
+0 -1 26003
+S
+#26014
+Eastern Wing of the 2nd Level~
+You are standing in the Eastern Wing of the Second Level of 
+the Coliseum.  The Eastern Wing extends north, and the 
+Southeast Corner of the Second Level is to the south.
+~
+0 5252104 0
+D0
+You see the eastern wing of the second level.~
+~
+0 -1 26013
+D2
+You see the southeast corner of the second level.~
+~
+0 -1 26015
+S
+#26015
+Southeast Corner of the 2nd Level~
+You are standing in the Southeast Corner of the Second Level 
+of the Coliseum.  The Eastern Wing extends north, and the 
+Southern Wing begins to the west.  A stairwell up leads to 
+the Third Level.
+~
+0 5252104 0
+D0
+You see the eastern wing of the second level.~
+~
+0 -1 26014
+D3
+You see the southern wing of the second level.~
+~
+0 -1 26016
+D4
+You see the southeast corner of the third level.~
+~
+0 -1 26034
+S
+#26016
+Southern Wing of the 2nd Level~
+You are standing in the Southern Wing of the Second Level of 
+the Coliseum.  The Southern Wing extends west, and the 
+Southeast Corner of the Second Level is to the east.
+~
+0 5252104 0
+D1
+You see the southeast corner of the second level.~
+~
+0 -1 26015
+D3
+You see the southern wing of the second level.~
+~
+0 -1 26017
+S
+#26017
+Southern Wing of the 2nd Level~
+You are standing in the Southern Wing of the Second Level of 
+the Coliseum.  The Southern Wing extends west and east.  An 
+iron stairwell leads down to the First Level.
+~
+0 5252104 0
+D1
+You see the southern wing of the second level.~
+~
+0 -1 26016
+D3
+You see the southern wing of the second level.~
+~
+0 -1 26018
+D5
+You see the southern wing of the first level.~
+~
+0 -1 26005
+S
+#26018
+Southern Wing of the 2nd Level~
+You are standing in the Southern Wing of the Second Level of 
+the Coliseum.  The Southern Wing extends east, and the 
+Southwest Corner of the Second Level is to the west.
+~
+0 5252104 0
+D1
+You see the southern wing of the second level.~
+~
+0 -1 26017
+D3
+You see the southwest corner of the second level.~
+~
+0 -1 26019
+S
+#26019
+Southwest Corner of the 2nd Level~
+You are standing in the Southwest Corner of the Second Level 
+of the Coliseum.  The Southern Wing extends east, and the 
+Western Wing begins to the north.  A stairwell up leads to 
+the Third Level.
+~
+0 5252104 0
+D0
+You see the western wing of the second level.~
+~
+0 -1 26020
+D1
+You see the southern wing of the second level.~
+~
+0 -1 26018
+D4
+You see the southwest corner of the third level.~
+~
+0 -1 26040
+S
+#26020
+Western Wing of the 2nd Level~
+You are standing in the Western Wing of the Second Level of 
+the Coliseum.  The Western Wing extends north, and the 
+Southwest Corner of the Second Level is to the south.
+~
+0 5252104 0
+D0
+You see the western wing of the second level.~
+~
+0 -1 26021
+D2
+You see the southwest corner of the second level.~
+~
+0 -1 26019
+S
+#26021
+Western Wing of the 2nd Level~
+You are standing in the Western Wing of the Second Level of 
+the Coliseum.  The Western Wing extends north and south.  
+An iron stairwell leads down to the First Level.
+~
+0 5252104 0
+D0
+You see the western wing of the second level.~
+~
+0 -1 26022
+D2
+You see the western wing of the second level.~
+~
+0 -1 26020
+D5
+You see the western wing of the first level.~
+~
+0 -1 26007
+S
+#26022
+Western Wing of the 2nd Level~
+You are standing in the Western Wing of the Second Level of 
+the Coliseum.  The Western Wing extends south, and the 
+Northwest Corner of the Second Level is to the north.
+~
+0 5252104 0
+D0
+You see the northwest corner of the second level.~
+~
+0 -1 26023
+D2
+You see the western wing of the second level.~
+~
+0 -1 26021
+S
+#26023
+Northwest Corner of the 2nd Level~
+You are standing in the Northwest Corner of the Second Level 
+of the Coliseum.  The Northern Wing extends east, and the 
+Western Wing begins to the south.  A stairwell up leads to 
+the Third Level.
+~
+0 5252104 0
+D1
+You see the northern wing of the second level.~
+~
+0 -1 26024
+D2
+You see the western wing of the second level.~
+~
+0 -1 26022
+D4
+You see the northwest corner of the third level.~
+~
+0 -1 26046
+S
+#26024
+Northern Wing of the 2nd Level~
+You are standing in the Northern Wing of the Second Level of 
+the Coliseum.  The Northern Wing extends east, and the 
+Northwest Corner of the Second Level is to the west.
+~
+0 5252104 0
+D1
+You see the northern wing of the second level.~
+~
+0 -1 26009
+D3
+You see the northwest corner of the second level.~
+~
+0 -1 26023
+S
+#26025
+Northern Wing of the 3rd Level~
+You are standing in the Northern Wing of the Third Level of 
+the Coliseum.  The Northern Wing extends west and east.  
+A small passage leads north, to a bright portal.
+~
+0 5252104 0
+D0
+You see the northern portal.~
+~
+0 -1 26049
+D1
+You see the northern wing of the third level.~
+~
+0 -1 26026
+D3
+You see the northern wing of the third level.~
+~
+0 -1 26048
+S
+#26026
+Northern Wing of the 3rd Level~
+You are standing in the Northern Wing of the Third Level of 
+the Coliseum.  The Northern Wing extends west and east, and the 
+Northeast Corner of the Third Level can be seen far to the east.
+~
+0 5252104 0
+D1
+You see the northern wing of the third level.~
+~
+0 -1 26027
+D3
+You see the northern wing of the third level.~
+~
+0 -1 26025
+S
+#26027
+Northern Wing of the 3rd Level~
+You are standing in the Northern Wing of the Third Level of 
+the Coliseum.  The Northern Wing extends west, and the 
+Northeast Corner of the Third Level is to the east.
+~
+0 5252104 0
+D1
+You see the northeast corner of the third level.~
+~
+0 -1 26028
+D3
+You see the northern wing of the third level.~
+~
+0 -1 26026
+S
+#26028
+Northeast Corner of the 3rd Level~
+You are standing in the Northeast Corner of the Third Level 
+of the Coliseum.  The Northern Wing extends west, and the 
+Eastern Wing begins to the south.  An iron stairwell leads 
+down to the Second Level.
+~
+0 5252104 0
+D2
+You see the eastern wing of the third level.~
+~
+0 -1 26029
+D3
+You see the northern wing of the third level.~
+~
+0 -1 26027
+D5
+You see the northeast corner of the second level.~
+~
+0 -1 26011
+S
+#26029
+Eastern Wing of the 3rd Level~
+You are standing in the Eastern Wing of the Third Level of 
+the Coliseum.  The Eastern Wing extends south, and the 
+Northeast Corner of the Third Level is to the north.
+~
+0 5252104 0
+D0
+You see the northeast corner of the third level.~
+~
+0 -1 26028
+D2
+You see the eastern wing of the third level.~
+~
+0 -1 26030
+S
+#26030
+Eastern Wing of the 3rd Level~
+You are standing in the Eastern Wing of the Third Level of 
+the Coliseum.  The Eastern Wing extends north and south, and the
+Northeast Corner of the Third Level can be seen far to the north.
+~
+0 5252104 0
+D0
+You see the eastern wing of the third level.~
+~
+0 -1 26029
+D2
+You see the eastern wing of the third level.~
+~
+0 -1 26031
+S
+#26031
+Eastern Wing of the 3rd Level~
+You are standing in the Eastern Wing of the Third Level of 
+the Coliseum.  The Eastern Wing extends north and south.  
+A small passage leads east, to a bright portal.
+~
+0 5252104 0
+D0
+You see the eastern wing of the third level.~
+~
+0 -1 26030
+D1
+You see the eastern portal.~
+~
+0 -1 26050
+D2
+You see the eastern wing of the third level.~
+~
+0 -1 26032
+S
+#26032
+Eastern Wing of the 3rd Level~
+You are standing in the Eastern Wing of the Third Level of 
+the Coliseum.  The Eastern Wing extends north and south, 
+and the Southeast Corner of the Third Level can be seen far 
+to the south.
+~
+0 5252104 0
+D0
+You see the eastern wing of the third level.~
+~
+0 -1 26031
+D2
+You see the eastern wing of the third level.~
+~
+0 -1 26033
+S
+#26033
+Eastern Wing of the 3rd Level~
+You are standing in the Eastern Wing of the Third Level of 
+the Coliseum.  The Eastern Wing extends north, and the 
+Southeast Corner of the Third Level is to the south.
+~
+0 5252104 0
+D0
+You see the eastern wing of the third level.~
+~
+0 -1 26032
+D2
+You see the southeast corner of the third level.~
+~
+0 -1 26034
+S
+#26034
+Southeast Corner of the 3rd Level~
+You are standing in the Southeast Corner of the Third Level 
+of the Coliseum.  The Southern Wing extends west, and the 
+Eastern Wing begins to the north.  An iron stairwell leads 
+down to the Second Level.
+~
+0 5252104 0
+D0
+You see the eastern wing of the third level.~
+~
+0 -1 26033
+D3
+You see the southern wing of the third level.~
+~
+0 -1 26035
+D5
+You see the southeast corner of the second level.~
+~
+0 -1 26015
+S
+#26035
+Southern Wing of the 3rd Level~
+You are standing in the Southern Wing of the Third Level of 
+the Coliseum.  The Southern Wing extends west, and the 
+Southeast Corner of the Third Level is to the east.
+~
+0 5252104 0
+D1
+You see the southeast corner of the third level.~
+~
+0 -1 26034
+D3
+You see the southern wing of the third level.~
+~
+0 -1 26036
+S
+#26036
+Southern Wing of the 3rd Level~
+You are standing in the Southern Wing of the Third Level of 
+the Coliseum.  The Southern Wing extends west and east, and the 
+Southeast Corner of the Third Level can be seen far to the east.
+~
+0 5252104 0
+D1
+You see the southern wing of the third level.~
+~
+0 -1 26035
+D3
+You see the southern wing of the third level.~
+~
+0 -1 26037
+S
+#26037
+Southern Wing of the 3rd Level~
+You are standing in the Southern Wing of the Third Level of 
+the Coliseum.  The Southern Wing extends west and east.  A 
+small passage leads south, to a bright portal.
+~
+0 5252104 0
+D1
+You see the southern wing of the third level.~
+~
+0 -1 26036
+D2
+You see the southern portal.~
+~
+0 -1 26051
+D3
+You see the southern wing of the third level.~
+~
+0 -1 26038
+S
+#26038
+Southern Wing of the 3rd Level~
+You are standing in the Southern Wing of the Third Level of 
+the Coliseum.  The Southern Wing extends west and east, and the 
+Southeast Corner of the Third Level can be seen far to the west.
+~
+0 5252104 0
+D1
+You see the southern wing of the third level.~
+~
+0 -1 26037
+D3
+You see the southern wing of the third level.~
+~
+0 -1 26039
+S
+#26039
+Southern Wing of the 3rd Level~
+You are standing in the Southern Wing of the Third Level of 
+the Coliseum.  The Southern Wing extends east, and the 
+Southeast Corner of the Third Level is to the west.
+~
+0 5252104 0
+D1
+You see the southern wing of the third level.~
+~
+0 -1 26038
+D3
+You see the southwest corner of the third level.~
+~
+0 -1 26040
+S
+#26040
+Southwest Corner of the 3rd Level~
+You are standing in the Southwest Corner of the Third Level 
+of the Coliseum.  The Southern Wing extends east, and the 
+Western Wing begins to the north.  An iron stairwell leads 
+down to the Second Level.
+~
+0 5252104 0
+D0
+You see the western wing of the third level.~
+~
+0 -1 26041
+D1
+You see the southern wing of the third level.~
+~
+0 -1 26039
+D5
+You see the southwest corner of the second level.~
+~
+0 -1 26019
+S
+#26041
+Western Wing of the 3rd Level~
+You are standing in the Western Wing of the Third Level of 
+the Coliseum.  The Western Wing extends north, and the 
+Southwest Corner of the Third Level is to the south.
+~
+0 5252104 0
+D0
+You see the western wing of the third level.~
+~
+0 -1 26042
+D2
+You see the southwest corner of the third level.~
+~
+0 -1 26040
+S
+#26042
+Western Wing of the 3rd Level~
+You are standing in the Western Wing of the Third Level of 
+the Coliseum.  The Western Wing extends north and south, 
+and the Southwest Corner of the Third Level can be seen far 
+to the south.
+~
+0 5252104 0
+D0
+You see the western wing of the third level.~
+~
+0 -1 26043
+D2
+You see the western wing of the third level.~
+~
+0 -1 26041
+S
+#26043
+Western Wing of the 3rd Level~
+You are standing in the Western Wing of the Third Level of 
+the Coliseum.  The Western Wing extends north and south.  
+A small passage leads west, to a bright portal.
+~
+0 5252104 0
+D0
+You see the western wing of the third level.~
+~
+0 -1 26044
+D2
+You see the western wing of the third level.~
+~
+0 -1 26042
+D3
+You see the western portal.~
+~
+0 -1 26052
+S
+#26044
+Western Wing of the 3rd Level~
+You are standing in the Western Wing of the Third Level of 
+the Coliseum.  The Western Wing extends north and south, and the 
+Northwest Corner of the Third Level can be seen far to the north.
+~
+0 5252104 0
+D0
+You see the western wing of the third level.~
+~
+0 -1 26045
+D2
+You see the western wing of the third level.~
+~
+0 -1 26043
+S
+#26045
+Western Wing of the 3rd Level~
+You are standing in the Western Wing of the Third Level of 
+the Coliseum.  The Western Wing extends south, and the 
+Northwest Corner of the Third Level is to the north.
+~
+0 5252104 0
+D0
+You see the northwest corner of the third level.~
+~
+0 -1 26046
+D2
+You see the western wing of the third level.~
+~
+0 -1 26044
+S
+#26046
+Northwest Corner of the 3rd Level~
+You are standing in the Northwest Corner of the Third Level 
+of the Coliseum.  The Northern Wing extends east, and the 
+Western Wing begins to the south.  An iron stairwell leads 
+down to the Second Level.
+~
+0 5252104 0
+D1
+You see the northern wing of the third level.~
+~
+0 -1 26047
+D2
+You see the western wing of the third level.~
+~
+0 -1 26045
+D5
+You see the northwest corner of the second level.~
+~
+0 -1 26023
+S
+#26047
+Northern Wing of the 3rd Level~
+You are standing in the Northern Wing of the Third Level of 
+the Coliseum.  The Northern Wing extends east, and the 
+Northwest Corner of the Third Level can be seen to the west.
+~
+0 5252104 0
+D1
+You see the northern wing of the third level.~
+~
+0 -1 26048
+D3
+You see the northwest corner of the third level.~
+~
+0 -1 26046
+S
+#26048
+Northern Wing of the 3rd Level~
+You are standing in the Northern Wing of the Third Level of 
+the Coliseum.  The Northern Wing extends west and east, and the 
+Northwest Corner of the Third Level can be seen far to the west.
+~
+0 5252104 0
+D1
+You see the northern wing of the third level.~
+~
+0 -1 26025
+D3
+You see the northern wing of the third level.~
+~
+0 -1 26047
+S
+#26049
+The Northern Portal~
+You are standing in a bright room, empty besides a glowing 
+mirror mounted on the northern wall.  The mirror seems to 
+ripple and flow, while distorting all light around it in a 
+strange vortex.  A small plaque is on top of the mirror. The 
+words 'TO SOUTH' are etched on it.
+~
+0 5252104 0
+D0
+You see a teleporting mirror with the words 'TO SOUTH'.~
+mirror south~
+0 -1 26051
+D2
+You see the northern wing of the third level.~
+~
+0 -1 26025
+S
+#26050
+The Eastern Portal~
+You are standing in a bright room, empty besides a glowing 
+mirror mounted on the eastern wall.  The mirror seems to 
+ripple and flow, while distorting all light around it in a 
+strange vortex.  A small plaque is on top of the mirror. The 
+words 'TO WEST' are etched on it.
+~
+0 5252104 0
+D1
+You see a teleporting mirror with the words 'TO WEST'.~
+mirror west~
+0 -1 26052
+D3
+You see the eastern wing of the third level.~
+~
+0 -1 26031
+S
+#26051
+The Southern Portal~
+You are standing in a bright room, empty besides a glowing 
+mirror mounted on the southern wall.  The mirror seems to 
+ripple and flow, while distorting all light around it in a 
+strange vortex.  A small plaque is on top of the mirror. The 
+words 'TO NORTH' are etched on it.
+~
+0 5252104 0
+D0
+You see the southern wing of the third level.~
+~
+0 -1 26037
+D2
+You see a teleporting mirror with the words 'TO NORTH'.~
+mirror north~
+0 -1 26049
+S
+#26052
+The Western Portal~
+You are standing in a bright room, empty besides a glowing 
+mirror mounted on the western wall.  The mirror seems to 
+ripple and flow, while distorting all light around it in a 
+strange vortex.  A small plaque is on top of the mirror. The 
+words 'TO EAST' are etched on it.
+~
+0 5252104 0
+D1
+You see the western wing of the third level.~
+~
+0 -1 26043
+D3
+You see a teleporting mirror with the words 'TO EAST'.~
+mirror east~
+0 -1 26050
+S
+#26060
+The Executive Box~
+Lavishly decorated, this executive box is high above the 
+Coliseum.  The walls and floor are of glass, so you can see
+what is going on below you.  Comfortable sofas are here for
+you to sit on, and a plate of snacks is on the counter.
+~
+0 5252108 0
+S
+#26061
+The Penalty Box~
+The walls of this bare room are made of solid cement. There
+is no escape.  The room is completely empty, besides a small
+sign.
+~
+0 5252108 0
+E
+sign~
+============================
+|   BAD DUCK! BAD! BAD!    |
+============================
+
+~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 26000 1 26000 1
+O 0 26000 0 26002
+O 0 26000 0 26004
+O 0 26000 0 26006
+O 0 26000 0 26008
+O 0 26000 0 26009
+O 0 26000 0 26013
+O 0 26000 0 26017
+O 0 26000 0 26021
+O 0 26000 0 26028
+O 0 26000 0 26034
+O 0 26000 0 26040
+O 0 26000 0 26046
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

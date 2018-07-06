@@ -1,0 +1,59 @@
+#AREA
+sylvangrove.are~
+~
+{ 5 35} M.Z.F.  Prototype for New Area~
+3400 3499
+
+#ROOMS
+#3400
+Entrance to the Grove~
+You are upon the rim of a magnificant valley. Before you a hill covered in wildflowers tumbles down to the vale below. Rolling hills fill the valley, and a row of pine stand as sentinals around the outer edge of the vale,and the sweet scent of the wildflowers pervades the whole vale. Tiny creatures can be seen bustling about, living in harmony and hapiness. A large streams snakes through the valley and empties into a pond. The pond shimmers brightly and sparkles like the remnents of a shattered sun. To the east a path leads into the dense woodlands.
+~
+0 0 1
+D1
+~
+~
+0 -1 3401
+S
+#3401
+Inside a protected Vale~
+All about you light and life are intertwined in perfect harmony. The sweet harmony that natures orchestrates is at work all around you. From tree -top to tree-top birds greet you with sweet songs. The trail continues to the east and to the west is the entrance.
+~
+0 0 1
+D1
+~
+~
+0 -1 3402
+D3
+~
+~
+0 -1 3400
+S
+#3402
+Inside a protected Vale~
+orchestrates is at work all around you. From tree -top to tree-top birds greet you with sweet songs. The trail continues to the east and to the west is the entrance.
+~
+0 0 1
+D1
+~
+~
+0 -1 3403
+D3
+~
+~
+0 -1 3401
+S
+#3403
+Inside the oldest tree in the Grove~
+You are inside an ancient oak tree, twisted roots cover the floor while the massive walls of this hollowed out fortress rise above your head. In the middle of this there is a beautiful young sapling growing from the earth.
+~
+0 0 1
+D3
+~
+~
+0 -1 3402
+S
+#0
+
+
+#$

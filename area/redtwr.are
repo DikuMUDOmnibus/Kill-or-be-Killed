@@ -1,0 +1,667 @@
+#AREADATA
+Name The Red Tower~
+Builders None~
+VNUMs 23200 23225
+Credits {35 up} Ceran   Red Tinged tower~
+Security 9
+End
+
+
+
+#MOBILES
+#23200
+undead archer~
+an undead archer~
+An ancient elven archer turns his dead eyes upon you and hisses with hunger!
+~
+~
+human~
+ABFGT DEFJ -1000 0
+56 0 50d10+7500 1d1+100 10d4+24 none
+-26 -26 -26 -10
+CDEK ABLM 0 N
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#23201
+undead warrior~
+an undead elven warrior~
+An ancient elven warrior raises his sword and attacks!
+~
+~
+human~
+ABFGT DEFJ -1000 0
+58 1 50d10+8000 1d1+100 5d10+27 none
+-30 -30 -30 -15
+CDEK ABLM 0 N
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#23202
+undead paladin~
+an undead paladin~
+A tall elf in royal armor stares at you with blood red eyes.
+~
+~
+human~
+ABFGT DEFJ -1000 0
+60 0 50d10+9500 1d1+100 8d6+28 none
+-30 -30 -30 -15
+CDEK ABLM 0 N
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#23203
+elf deathknight elven~
+the elven deathknight~
+An elven knight stares at you with burning red eyes that devour your soul.
+~
+This elf has surrended his soul to the darkness that descended upon his city
+so long ago. There is no feeling in his movements, no soul in his eyes, just
+death and an uncaring need to destroy life where he has none.
+~
+human~
+ABGT DEFH -1000 0
+60 2 50d10+6000 1d1+100 8d6+30 wrath
+-30 -30 -30 -30
+ACDEFGKWX ABKLMPQ CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#23200
+red seal parchment~
+a red tinted seal~
+A piece of parchment scrawled with red tinted writing is here.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 1 0 P
+E
+red seal parchment~
+This piece of paper talks about the blood letting of the elves and the use of
+their blood to raise the evil that has spread from the ancient city of Myth
+Drannor. It describes the way that the blood was collected in a tower and used
+to fuel the burning fires of hell, and how the mages and clerics were corrupted
+in order to provide the power to initiate the rising. Blue, for the pure energy
+of magic-users, and green, for the life giving powers of nature and clerics,
+constitue the other two colours of power involved in the raising of the great
+power that resides here. Once the red, blue and green are finally
+joined the black tower will reveal it's secrets..
+~
+L
+200
+#23201
+red key~
+a blood red key~
+A key the colour of blood sits on the ground.~
+steel~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#23202
+wood wooden bow~
+an wooden bow~
+A decayed old wood bow is on the ground.~
+wood~
+weapon CE AN
+exotic 6 7 pierce 0
+36 50 12000 P
+L
+4
+#23203
+black sword~
+a black sword~
+A sword of pure black material is here.~
+obsidian~
+weapon CEJ AN
+sword 6 7 slash 0
+40 80 11000 P
+L
+4
+#23204
+ancient two handed sword~
+an ancient two-handed sword~
+A huge two handed sword lies in the ground.~
+steel~
+weapon CEGHJM AN
+sword 7 7 slash 0
+50 230 15800 P
+A
+24 5
+A
+13 -15
+A
+19 4
+A
+18 2
+L
+1
+#23205
+blood suit armor~
+a suit of blood-red armor~
+A fine set of armor the colour of red blood is here.~
+steel~
+armor CE AD
+15 15 15 15 15
+48 230 19999 P
+A
+19 3
+L
+3
+#23206
+visor blood~
+a blood-encrusted visor~
+A visor covered in dried blood is on the floor.~
+steel~
+armor BCEJ AE
+8 7 9 5 5
+40 50 19999 P
+A
+13 -20
+A
+19 4
+A
+18 1
+L
+2
+#23207
+blood hand axe~
+a blood-encrusted hand axe~
+An axe is lying on the floor in a pool of blood.~
+iron~
+weapon ACE AN
+axe 3 13 slash 0
+35 160 16000 P
+A
+19 3
+A
+18 3
+L
+7
+#23208
+thin dagger~
+a thin bladed dagger~
+A slim, thin dagger is on the ground.~
+steel~
+weapon CE AN
+dagger 3 13 pierce 0
+25 10 11000 P
+A
+19 3
+A
+18 -2
+L
+7
+#23209
+cutter hydraslayer slayer~
+a flesh-cutter named 'Hydraslayer'~
+A sharp slicing instrument is lying on the ground.~
+steel~
+weapon BG AN
+exotic 4 9 slice 0
+50 160 28800 P
+A
+19 4
+A
+18 2
+L
+10
+#0
+
+
+
+#ROOMS
+#23200
+Entrance to the Red Tower~
+You are standing at the bottom of a wide stone stairwell. The walls around you
+are bathed in a bloody red colour that looks like freshly splashed blood, yet
+which could not possibly be such after so long a time. A chilling rapsing sound
+can be heard from above, along with the familiar noises of chinking armor and
+rattling weapons. A door of red tinged stone lies in the east wall.
+~
+0 8 0
+D1
+~
+red door~
+1 0 13768
+D4
+~
+~
+0 0 23201
+S
+#23201
+In a blood red room~
+You stand in the middle of a huge room coated in what looks like sticky red
+blood. However, no bodies or signs of battle are evident and the red does not
+drip off the walls. A cold, almost freezing, chill hangs in the air and the
+sound of metal on metal can be heard from elsewhere in the tower. You can make
+out stairs to the north, east, south and west.
+~
+0 8 0
+D0
+~
+~
+0 0 23202
+D1
+~
+~
+0 0 23203
+D2
+~
+~
+0 0 23204
+D3
+~
+~
+0 0 23205
+D5
+~
+~
+0 0 23200
+S
+#23202
+Beneath a bloody stairwell~
+The stairs here are coated in what appears to be thick, recently shed blood. A
+faint trail of steam rises from the red and wafts up into the chilling air. The
+stairs lead up to where the sounds of armor clinking can be heard.
+~
+0 8 0
+D2
+~
+~
+0 0 23201
+D4
+~
+~
+0 0 23211
+S
+#23203
+Beneath a bloody stairwell~
+The stairs here are coated in what appears to be thick, recently shed blood. A
+faint trail of steam rises from the red and wafts up into the chilling air. The
+stairs lead up to where the sounds of armor clinking can be heard.
+~
+0 8 0
+D3
+~
+~
+0 0 23201
+D4
+~
+~
+0 0 23216
+S
+#23204
+Beneath a bloody stairwell~
+The stairs here are coated in what appears to be thick, recently shed blood. A
+faint trail of steam rises from the red and wafts up into the chilling air. To
+the south is a large blood red door.
+~
+0 8 0
+D0
+~
+~
+0 0 23201
+D2
+~
+blood red door~
+2 23201 23221
+S
+#23205
+Beneath a bloody stairwell~
+The stairs here are coated in what appears to be thick, recently shed blood. A
+faint trail of steam rises from the red and wafts up into the chilling air. The
+stairs lead up to where the sounds of armor clinking can be heard.
+~
+0 8 0
+D1
+~
+~
+0 0 23201
+D4
+~
+~
+0 0 23206
+S
+#23206
+Upon an blood soaked tower battlement~
+You have walked into a rounded battlement of the tower drenched in wet blood.
+The red colour washes away all signs of the stone beneath it and it is almost
+impossible to believe that so much blood could be shed in one place. Despite
+all the blood there is no sign of bodies and it appears to be just coating
+everything but not drying. There are small parapets on the battlements to the
+north, east, south and west.
+~
+0 8 0
+D0
+~
+~
+0 0 23207
+D1
+~
+~
+0 0 23208
+D2
+~
+~
+0 0 23209
+D3
+~
+~
+0 0 23210
+D5
+~
+~
+0 0 23205
+S
+#23207
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D2
+~
+~
+0 0 23206
+S
+#23208
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D3
+~
+~
+0 0 23206
+S
+#23209
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D0
+~
+~
+0 0 23206
+S
+#23210
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D1
+~
+~
+0 0 23206
+S
+#23211
+Upon an blood soaked tower battlement~
+You have walked into a rounded battlement of the tower drenched in wet blood.
+The red colour washes away all signs of the stone beneath it and it is almost
+impossible to believe that so much blood could be shed in one place. Despite
+all the blood there is no sign of bodies and it appears to be just coating
+everything but not drying. There are small parapets on the battlements to the
+north, east, south and west.
+~
+0 8 0
+D0
+~
+~
+0 0 23212
+D1
+~
+~
+0 0 23213
+D2
+~
+~
+0 0 23214
+D3
+~
+~
+0 0 23215
+D5
+~
+~
+0 0 23202
+S
+#23212
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D2
+~
+~
+0 0 23211
+S
+#23213
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D3
+~
+~
+0 0 23211
+S
+#23214
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D0
+~
+~
+0 0 23211
+S
+#23215
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D1
+~
+~
+0 0 23211
+S
+#23216
+Upon an blood soaked tower battlement~
+You have walked into a rounded battlement of the tower drenched in wet blood.
+The red colour washes away all signs of the stone beneath it and it is almost
+impossible to believe that so much blood could be shed in one place. Despite
+all the blood there is no sign of bodies and it appears to be just coating
+everything but not drying. There are small parapets on the battlements to the
+north, east, south and west.
+~
+0 8 0
+D0
+~
+~
+0 0 23217
+D1
+~
+~
+0 0 23218
+D2
+~
+~
+0 0 23219
+D3
+~
+~
+0 0 23220
+D5
+~
+~
+0 0 23203
+S
+#23217
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D2
+~
+~
+0 0 23216
+S
+#23218
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D3
+~
+~
+0 0 23216
+S
+#23219
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D0
+~
+~
+0 0 23216
+S
+#23220
+On a reddened parapet~
+You are nestled within a blood soaked parapet overlooking the ruins of the
+ancient elven city. From here the warriors could provide easy defence with bow
+and arrows, while still being protected from retaliation by the walls around
+them. Somehow the blood that soaks the stones just seems to lie there as if
+bleed from the stone itself.
+~
+0 8 0
+D1
+~
+~
+0 0 23216
+S
+#23221
+In a room of dark red stone~
+This room is unlike any other in this tower. The blood that coats the walls
+and floors of the other rooms is absent from here, and the chill that permeates
+the air is even colder. Only dark red stones make this any different from a
+normal castle room. To the north is a large red door.
+~
+0 8 0
+D0
+~
+blood red door~
+2 23201 23204
+S
+#0
+
+
+
+#SPECIALS
+M 23203 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 23200 1 1
+D 0 23204 2 2
+D 0 23221 0 2
+M 0 23200 4 23207 1
+E 0 23202 0 16
+M 0 23200 4 23208 1
+E 0 23202 0 16
+M 0 23200 4 23209 1
+E 0 23202 0 16
+G 0 23201 0
+M 0 23200 4 23210 1
+E 0 23202 0 16
+M 0 23201 4 23212 1
+E 0 23207 0 16
+E 0 23208 0 18
+M 0 23201 4 23213 1
+E 0 23207 0 16
+E 0 23208 0 18
+G 0 23201 0
+M 0 23201 4 23214 1
+E 0 23207 0 16
+E 0 23208 0 18
+M 0 23201 4 23215 1
+E 0 23207 0 16
+E 0 23208 0 18
+M 0 23202 4 23217 1
+E 0 23203 0 16
+G 0 23201 0
+M 0 23202 4 23218 1
+E 0 23203 0 16
+G 0 23201 0
+M 0 23202 4 23219 1
+E 0 23203 0 16
+G 0 23201 0
+M 0 23202 4 23220 1
+E 0 23203 0 16
+G 0 23201 0
+M 0 23203 1 23221 1
+G 0 23200 0
+E 0 23204 0 16
+E 0 13738 0 18
+E 0 23205 0 5
+E 0 23206 0 6
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

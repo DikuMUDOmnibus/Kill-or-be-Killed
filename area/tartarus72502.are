@@ -1,0 +1,1043 @@
+#HELPS
+-1 TARTARUS~
+Tartarus code was started in late 1996 and completed around mid 1997. It
+was developed at darkmists.mudservices.com for use on the mud Dark Mists
+and used Rom2.4b3 code. The original coder on the mud was Thrym who
+began the mud with Styx, who contributed ideas and help. Ceran joined
+the team and contributed most of the core code, including all the class
+and clan skills/spells as well as the majority of fully new code, before
+leaving in 1997 because of conflicts with the other immortals.
+
+This code release is named Tartarus and contains Ceran's original coding
+plus rewritten code. This code is for use on Rom2.4b muds, although it can
+be easily hacked for parts to use on other code bases. It is provided
+solely for the MUDing community as a way of giving back to it what has
+been freely given many times before.
+The following people contributed to the Tartarus release:
+
+Code --
+	Thrym who installed the MOBProgs patch into the base ROM code.
+
+Areas --
+	-Lilith (Arkham) (Unable to contact this person. See 
+         README.tararus file which comes with this derivative code)
+	-Kay, who wrote a lot of Nightfall and Thorbardin.
+	-Zenan, who did Rakshasa Domain when I got bogged down with code
+         and other areas.
+
+~
+-1 GREETING~
+.
+                                     /|   /|
+                                    / /  / /
+                                   | |  | |
+                                   ; /  ; /
+                     ___  __      / .\_/ ,(   ___ 
+                    /  {.' {     / ;;;/ ;;;`"`_.-'        KBK
+                 .--'-./ .-'    / ;;;/ ;;' .-'      ===================
+              _.-` _  `;;\_,   / ;;;/ .' ,/         Kill or be killed ?
+          ,-"` ;-= g>=- .; /  / ;;;/ ;',;;|
+           \`__/_     ; ';|  | ;;;/.',;;;;'\___,
+     _    ,=,-V-' __  ;;  _\ /.;/`.`.'` .,:---'
+     `"=="  |_.-'`  7_;;  | | ;|  .',;;;;;/         Based on Tartarus
+                   /_,;'  /  \'\ `,;;;;;;|
+                  {_,;'^ _\  /;;).,,,,,`'\          Made from Rom 2.4
+                 {_;;' ^|   /;/`.;;;;;;;-'`
+                {_,;'^  _\ //`.,..`_';/
+               (__;;  ^  \/`.;;;;;( ',|            Title Screen by: 
+               (__,;,^ .'`.;;,.`';;      _.-/    Deomanix, Merthairu
+               (__,';,/ ,;'.`;;;,._\  _.'  ( 
+                (__,';|/|;';;.';/` .-' _   /       MUD Maintained by:
+                 (__,-';|; ;;;. |._  `//)_/      Kraenesk, Swist, Detlef,
+                  (_/ '- \,'``\ | `'.//          	Deomanix 
+                .-' |'-' '-'';|/ ^   ';
+               /'-' | '-' '-' ;`;;.^   `\
+              /  '-' \  '-' '/\_, ';,  ^ \         
+              |'-' .-'\-' '-'|  \_,';,  ^ \        
+         _     \  /    '.'-' \  //\_,; ^  |
+       ,_v\     \ |      \ '-( |;/ \_ ;   |        
+       v_\ `---_-' \      ;  / |;|  <_; ^ |
+       (.-')(`` `'-'      | /  | ;`=';'  ;
+        v  </             ||    \ `'`  ^/
+                          ||     '-...-'
+                          ||
+                     __  / |_
+                   v-=_;` __ `)
+                   v-(_.-'  `v
+                      v   
+ 
+By what name do you wish to be known in KBK? ~
+
+-1 MOTD~
+[MOTD]:
+12/18/01: KBK is OPEN.
+01/08/02: If you find a bug or case of cheating - please pray/post note to immortal.
+01/09/02: You can see your pk ratio by doing 'ratings' command.
+01/16/02: Automatic Cabal induction upon character creation.
+01/18/02: You can resist effects of pandemonium now.
+04/24/02: Elemenatalist has been revamped.  Also, new race added "Illithid".
+05/14/02: ASSASSINS recieve new skill: Preparation.
+05/30/02: SYLVAN skills fixed and CABAL opened. Killer-Clowns get SITON.
+          KC's get piethrow as well.
+06/01/02: Killer-Clowns get CLOWN MALLET.
+07/13/02: Fixed Spec Warrior, hand to hand is now working.
+07/13/02: Added 'crushing blow' for HTH spec.
+	  Ironhands and Battlecry have been tweaked.
+07/23/02: AP's get "evil eye" and Necros get "acid needles".
+	  Outlaw gets new skill "call slayer". ASSASS get "spike".
+07/24/02: Necromancer will not lose Zombies after quit.
+~
+52 IMOTD~
+[IMOTD]: Cabals items loaded correctly on startup. No missing or duplicate items.
+05/30/02: Sylvan skills fixed.. (DEO)
+04/10/02: Don't YOU ever think about hit or kill to Rhondri!
+          If you do that, you die bitch! :P
+03/12/02: Check new commands are: vmstat and vostat. It's easier use than stat.
+~
+52 COMMANDMENTS 'GOD RULES' GODS~
+.
+
+		=== Commandments of Thera ===
+		
+These rules also apply to all Immortals.
+
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+    Any immortal found killing a mortal will be deleted.
+
+2)  Do not cheat for ANY mortal in ANY way, especially your own.
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,
+    and softening up or altering mobs, handing out equipment.
+    
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+
+4)  DO NOT use reboot unless you have a very good reason.
+
+5)  Do not induct anyone into a clan just because they ask. Clans grant 
+    special abilities and are a reward for good playing.
+
+6)  Do NOT create and keep objects which are limited. If you choose to
+    keep limited equipment then you should stay mortal instead. Limited
+    equipment is for mortals to fight over and earn, not for Immortals
+    whom mortal players can never kill.
+
+7)  If you are running a quest make sure you balance the prize(s). Do not 
+    hand out anything that will upset the balance of the MUD.
+
+8)  Do not undermine the authority of a higher level god.  If you
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+    
+9)  Do not try to overrule each other.
+
+10) Do not ban a site without posting a note about why it was banned.
+    Likewise do not unban a site without consulting other Immortals first.
+
+REMEMBER : 
+As an Immortal you have chosen to build and work on the mud. If you simply
+want to play then stay mortal and enjoy the fun, but as an Immortal you
+are expected to do certain duties and a minimum of building (you are also
+supposed to have fun, but if that's all you want to do - sit and talk,
+play around etc - then you should choose to be mortal and allow others to
+immort and build).
+
+These are the rules for Immortals to follow. 
+~
+0 'WESTERN THERA' WESTERN~
+
+.              Olympus                        
+                  |      
+                  |                       
+                  +-----+--Ofcol--New  Moria----Orc caves  
+                  |     |        Ofcol  |                       
+            Dark Forest |               |  Catacombs        
+                  |  Stone's            |      |                
+                  |  of G'harne         |      |   Past      Grove of
+                  |       |             | Dwarven     \       Despair
+                  |        \            | kingdom    Void         |
+               Northern   Nightfall     |    |         |          |
+                plains   /       |      +----+      Holy          | 
+                  |     |   Nightfall   |    |      Grove         |   
+                  |     |       Keep    |  Daycare  /             |       
+                  |  Thorbardin         |           | /  To Grove Despair 
+                  |                     |           | |           |       
+                  |                     |           | |   |       |       __TO legion->
+                  |                     |           | |   |       |       |
+Areas west<---Midgaard---------------Crossroads-----+-+-New----Dragon---Arkham
+                                        |               Thalos   Sea       
+                                        |                 
+                                        |
+                                        |      
+                  Old Thalos----Dwarven Forest  
+                                         \_____________---------+
+                                           |          |         |
+                                      Dead Forest     |     Mahn-tor
+                                           |       Elemental
+                                     Dying Forest   Canyon
+
+This map shows major areas east of Midgaard. Locations are relative and are
+only shown as general positions. It is not to scale. See also help 'west
+thera'.
+~
+0 'EASTERN THERA' EASTERN~
+.            Dale---Drannnor regions
+            (Dale is north and west of colossal tree)
+High Tower          |
+     |   Galaxy     |                     Shire
+     |   | Arachnos |                       |
+    Shadow     |    |                       |
+    Grove------+----+------Haon Dor---------+-----------Midgaard-->Areas
+    |                        |                  Grove of    |       East
+Dragon tower                 |                   Despair    |
+                     [River path]                       \   |
+                             |                    -Midennir-+
+                  Strange Carnival                  
+
+
+This map shows major areas west of Midgaard. Locations are relative and are
+only shown as general positions. It is not to scale. See also help 'east
+thera'.
+~
+
+-1 PK PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER
+STEALING'~
+Player Killing (PK) Rules:
+
+Player killing and player stealing are allowed for anyone over level 10.
+You will see a (PK) flag next to anyone you can attack -- you yourself
+will always be in your own PK range. If you kill in town you may become a
+criminal if an Enforcer flags you wanted. In this case cityguards and
+Enforcer guards may all attack you, even guards who's masters are out of
+PK range.
+
+Charmies of masters who are not in your PK will not be attackable, nor
+will they be able to normally harm you. If you find that people are
+somehow able to use pets/charmies to kill out of PK then note to immortal
+about it and we will look into the problem.
+
+You must be level 10 or over to PK, and anyone below level 10 is immune to
+PKers.
+~
+-1 RULES~
+Rules on KBK:
+----------------------------
+
+- Do not spam, this lags the MUD for you and everyone else. This includes
+spamming yells, tells, say, prays, emotes, etc.
+
+- Player Killing (PK), is encouraged on KBK. You may PK
+and be PK'd by anyone in your range once your "newbie" status wears off.
+
+- Roleplaying is not enforced but encouraged. Don't hope for anything but
+the norm without a bit of roleplaying. This includes things like cabals,
+tattoes, quest skills, titles, etc.
+
+- Descriptions are not mandatory but we judge your character by the effort
+put into it, this strongly helps the outcome of your character.
+
+- Your being here is a privilege, and a privilege we reserve the right to
+take away at any time. If you are caught cheating or helping someone else
+cheat, expect to be denied and/or banned. If you feel you've been pushished
+wrongly please send a note to "immortal" or bring it up on the Forum.
+
+- Multi-Charring is {RNOT{x allowed here. This includes logging on two chars
+at the same time, passing equipment between chars, using out of character
+information to obtain special things, and killing a character and looting him
+with another character of your own. This will result in your being denied,
+if the problem continues you will be banned for a long period of time.
+
+- Do not try to copy equipment, at all. If you are caught doing this you will
+be banned from the MUD and most likely not let back for a long, long time.
+
+- The word of an immortal is final, if an immortal tells you to do something,
+do it. If you feel an immortal is telling you to do something wrong, leave a
+note to "immortal" about it.
+
+- Hoarding limited items is grounds for first, it being taken from you, and
+second your being slain. Do not hold over a half screen or so of limited eq
+for long. It keeps the good stuff away from others. Just sac it or give it
+to cabal mates. *Giving it to your other chars or OOC Friends will get you
+denied without a single word in.
+
+- An immortal may find other smaller things that are cheating but not posted
+here offensive. If you are caught for something an Immortal tells you is wrong,
+it is (at least until an implementor or another implementor decides otherwise).
+
+-- These rules apply to mortals and Immortals alike. If you are caught breaking
+any of the rules above, you will be punished. You have been warned!
+~
+0 RACES RACE SPECIES~
+The following races may be chosen by players:
+
+  Human       The standard race, average stats.
+  Changling   Smart, weak creatures able to shift their shape.
+  Dwarf       Short & stout fellows, make good warriors.
+  Elf         Not very strong, but exceedingly smart. Make good mages.
+  Grey Elf    Cross breed between Dark and normal Elves. Good mages.
+  Dark Elf    Frail, make excellent clerics and varied mages. 
+  Ethereal    Living mist, marginally smart, make good mages.
+  Draconian   Offshoots of true dragons, good warriors and Anti-Paladins.
+  Gnome       Short and smart, inventors by nature. Good mages.
+  Centaur     Big and strong, like giants. Good warriors. Always good aligned.
+  Troll       Strong and dumb, lucky if they know what a sword is. Always evil.
+  Storm Giant Good Giants.
+  Cloud Giant Neutral Giantss
+  Fire Giant  Evil Giants.
+  Lich        Undead Creatures - Necromancer quest.
+  Wood-Elf    Forest elves of ancient times.
+  Illithid    A strange, tentacled humanoid, adept at sorcery and psionicism.
+
+Different races have different starting statistics, and also different
+stat maximums for magic items and training.
+
+For more information, see the help files for each race (i.e. 'help dwarf')
+~
+0 HUMAN HUMANS MAN~
+The most populous species in the world, Humans are found in every walk 
+of life and come in just about every shape, size, and coloring. They 
+average 6' in height. Magical devices tend to benefit them greatly. 
+They may follow any path (good/neutral/evil).
+~
+0 ELF ELVES~
+Slightly taller but lighter in build than Humans, Elves lack the 
+strength of other races, but are more agile, both mentally and 
+physically. Averaging 6'5" in height, Elves are fair skinned and have 
+golden blonde to reddish to brown hair, and their eyes are usually 
+green or blue (although there are some grey-eyed Elves). 
+Elves are magical in nature, and it is rare to find an Elf who has 
+forsworn magic. They are somewhat resistant to charm spells and 
+other magic, but a strong spell can penetrate that resistance. Elves 
+are difficult to locate and often walk unnoticed. Infravision allows 
+them to see in the dark. Elves must stay good in order to keep their 
+magical abilities. Elves who have turned to evil (even to neutrality) 
+are frowned upon.
+~
+
+0 DARK-ELF DARKELF DARKELVES DARK~
+Averaging 5'6", with ebony skin and stark white or silver hair, and eyes
+that spark red with infravision (although there are a few who have 
+lavender eyes), Dark-Elves are a species of renegade Elf who have turned
+their energy toward evil. They are highly intelligent but not as studious
+as Elves, and their nimbleness has been honed nearly to perfection through
+generations of thievery and trouble-making. Like Elves, they can walk
+unnoticed and are not easily locatable, and they are magical and resistant
+to charm spells. Dark-Elves must remain evil to keep their magical
+abilities. Dark-Elves who have turned to good (or neutrality) are frowned
+upon.
+~
+
+0 GREY-ELF GREYELF GREYELVES GREY~
+In physical appearance much like Elves, you really cannot tell them 
+apart just by looking at them. Grey Elves came into being as the 
+offspring of Elves and Dark-Elves, neither inherently good nor 
+inherently evil. Such breeding was common practice during surface 
+raids, a torture set upon female Elves by male Dark-Elves, and in 
+some cases as a part of the torture of male Elves by female 
+Dark-Elves (who after the breeding made a bloody sacrifice of the 
+male Elves). Grey Elves average about 5'10" in height. It is as a 
+result of their mixed heritage that Grey Elves have chosen not to 
+follow the Light, nor to walk entirely in Shadow, but to move between 
+the paths, seeking balance (although not always finding it). Grey 
+Elves may be neutral only or risk losing their ability to cast magic. 
+Grey Elves are highly intelligent and very wise, although not as
+nimble as Dark-Elves, and are, for the most part, very likeable.
+~
+
+0 CENTAUR CENTAURS~
+An offbreed species between 5'8" and 6'3" in height. They are half
+man and half beast. Brute strength and raw power are their thing. 
+They make good warriors (if you get past their infighting and 
+other untrustworthy attributes). Centaurs are resistant to most
+diseases and poisons. They excel in enhanced damage and bashing. 
+All centaurs are good.
+~
+0 GIANT GIANTS STORM CLOUD FIRE~
+        These mighty people once lived in the mountains north of Thalos.
+They lived by themselves in colonies and villages.  This was their way of
+life until people started exploring and expanding into their lands.  The
+ginats immediately took up arms against these people and tried to defend
+the invasion.  The giants soon found themselves outnumbered by the humans
+and other races invading their lands.  They gave up and accepted this new
+way of life. Eventually groups of giants dispersed throughout Thera, and
+they became just as "normal" as any other race.
+         Giants are the largest sentient species in the land. They average 
+around 12-13' in height, although some have been sighted who are 27'  
+tall. Due to their size, they tend to resist blows well. They excel at 
+bashing and enhanced damage. Due to their size they are not good  swimmers
+and cannot breathe under water easily.
+~
+
+0 TROLL TROLLS~
+Used in stories to frighten children, in war stories to impress bar lasses
+and as sources of humor in puppet shows, the troll is always a villain for
+the "civilized" world.  Standing well over the tallest human, their
+monstrous looks and unclean smell have earned them this image.
+        Living in the high mountains, the troll has grown used to the cold
+sterile air and dangerous heights.  Being some of the most hearty of many
+of the races, few wounds ever are deep enough to cause long term damage to
+a troll.  Though the fact brings much fear into human infantry, it is now
+well known that fire and acid cause great damage to these creatures.
+        Due to their nature, all trolls are evil.  And because of their
+lack of proper learning, they are often to dull to become learned in the
+ways of magely sorcery.  They are among the strongest of all the races,
+and often the most deadly.
+~
+0 DRACONIAN DRAC DRACON~
+Draconians are some of the foulest creatures that inhabit the planet. 
+They scavenge bodies left on the battlefield for little trinkets or useful
+items that they might wear. They are intelligent and strong but not very
+fast. Some of the deadliest people to walk the land have been draconians
+who have excelled in the ways of magic. Due to the wings on their back 
+they are capable of flight. They are about 5' tall. They are resistant to
+poison and disease. They must remain evil or risk losing all that they
+have
+learned.
+~
+
+0 GNOME GNOMES~
+The smallest sentient species in the land, averaging 3' in height, 
+Gnomes are usually pale grey to light brown skinned, and see in 
+the dark with infravision. Tough, wiry little cretures, Gnomes 
+live a long time and accumulate wisdom and knowledge. Resistant 
+to poisons, they are vulnerable to bashing. Gnomes walk in all
+paths, good, neutral, or evil.
+~
+
+0 ILLITHID ILLITHIDS~
+An Illithid is a medium-sized humanoid with an octopuslike head, and
+lengthly, tentacled hands. Known more for their incredibly ability with the
+less martial, Illithids possess psionic abilities, are telepathic, and
+possess a keen mind when it comes to the ways of magic. Their skin usually
+ranges from a deep purple to the odd green, giving them an unwholesome alien
+look. Their lunkish figures make them less adept in combat, but they are most
+certainly some of the strongest minds in Thera.
+
+Illithids, with such odd hands, are unable to make use of normal weapons and
+shields, but instead use their tentacles in combat with good effect. Weak to
+the pains of both light and fire, the mindflayer Illithids are quite
+resistant to both magic and mental attacks, providing them with excellent
+durability against other magely forces. 
+
+These creatures, as scholarly and secretive as they are, are inclined to take
+up the studies of necromancy, channeling and elementalism, dismissing the
+more brutish classes as uncivilized and weak.
+~
+
+0 ETHEREAL~
+Ethereals origins and species progression is unknown.  They do come from
+another plane, possibly a wizard summoned them and lost control and they
+started to reproduce on this plane.  They have no discernable body or
+mass, simply a floating mist which makes them highly resistant to weapons
+but electricity is a big weakness of theirs due to the water particles
+present in their form.  They can fly and are some of the best minds in the
+world.  They are more akin to mage professions than fighting.  They must
+be good or neutral.
+~
+0 FORAGE~
+Syntax: forage
+
+Lets a ranger in a forest search for edible berries.
+~
+0 'RANGER STAFF'~
+Syntax: cast 'ranger staff'
+
+   Creates a powerful staff that a ranger can use to fight his or her
+opponents with. It has a chance of healing in combat as well.
+~
+0 RANGER RANGERS~
+Outdoorsmen, hunters, masters of woodcraft, Rangers are the guardians of
+the forests.  In addition to having excellent fighting skills, they are
+also wielders of some powerful magic.  Some Rangers have been known to
+call large bears, lions, wolves and falcons to their aid, fashion mystical
+staves, and be able to camouflage beyond detection.  Their ability to
+ambush opponents makes them deadly foes.
+~
+0 WARRIOR WARRIORS~
+Warriors live for the combat and the thrill of battle. They are the best 
+fighters of all the current classes but lack the subtle skills that others
+possess. They possess no magical talent whatsoever and rely on brute 
+strength and combat know-how instead.
+~
+0 CLERIC CLERICS~
+Clerics are the most defensively oriented of all the classes.  Most of
+their
+spells focus on healing or defending the faithful, with their few combat
+spells being far less powerful than those of mages. However, clerics are
+the best class by far at healing magics, and they possess an impressive
+area of protective magics, as well as fair combat prowess.
+~
+0 CHANNELERS CHANNELER~
+Channelers are the local sponges, not a very outstanding title but one
+which they bare with much pride. These select few have been chosen by
+the gods to absorb the excess powers of the world and redirect them for
+their use at their descrection. It has been said that a channeler can
+stand face to face with a dragon and absorb his fireballs as if they
+were not there, and then to shoot them back at the dragon with even more
+power then they were originally formed.
+~
+0 NECROMANCER NECROMANCERS~
+
+Wielders of black magic, they study the darkest and most hated of all of
+the
+magical arts, that of giving life to something without any. In other words
+raising the dead. It is said once a necro reaches a certain level of
+efficiency with his spell weaving the dead themselves will heed his call.
+~
+0 ELEMENTALIST~
+The elementalist seeks to harness and control the powerful forces
+of earth, air, fire and water.  While lacking the sheer raw magical power
+of the channeler, and the armies of servants of the necromancer, the
+elementalist can tailor his powers to exploit the specific weaknesses of
+the creatures of Thera.  The elementalist is the caller of earthquakes and
+the summoner of tidal waves.  Truly adept elementalists can call upon
+creatures from the elemental planes to serve them.
+~
+0 MONK MONKS~
+
+   Monks are martial artists dedicated to the understanding of
+the body and the perfection of it into total control. Monks are adept
+at unarmed combat and lose much of their skill when using weapons.
+   A monk who fights hand to hand can get up to fourth attack,
+but lose the ability to hit with third and fourth attacks when using
+weapons. All monks are lawful due to their strict regime of meditation
+and martial arts parctice. They can be either good or neutral.
+~
+0 THIEF THIEVES~
+Thieves are a marginal average class. They do a few things better than any 
+other class, but have a wide range of skills available.  Thieves are 
+specialists at, of course, thieving, sneaking, and being unseen. They can
+enter areas undetected where others can not. 
+~
+0 CLASSES CLASS~
+The following classes are available for study in the Mists. 
+For more specific help on a certain class type help <classname>
+
+        Warrior       - Fighters by nature, master of weapons.
+        Thief         - Stealthy and sneaky, adept at the arts of stealing.
+        Cleric        - Master of the healing arts and blessed of the gods.
+        Paladin       - Half mage, half fighters.
+        Anti-Paladin  - Dark Paladins, those who have turned from the light.
+        Ranger        - Master Outdoorsmen.
+        Monk          - Martial art experts. Strive for perfection of the body.
+        Assassins     - Masters of fast and deadly strikes.
+        Channeler     - Magical sponges, capable of absorbing magic around them.
+        Necromancer   - Students of the dark arts.
+        Elementalist  - Controllers of the elements.
+~
+0 ANTI-PALADIN ANTI-PALADINS ANTIPALADIN ANTIPALADINS ANTI~
+
+Little is known about the origin of the Anti-Paladins. However, it is 
+clear that they came (in force) into the world shortly after the rise 
+of the Paladins. It is rumored that these warriors of chaos and evil 
+were traitor paladins, children trained by demons, or possibly even
+demons themselves.
+
+There have been those who have claimed to learn the secrets of these
+"anti-paladins", but this is all most would reveal: It is said the
+guild of Legion (which is claimed to be the true name of the AP's guild)
+is similar to that of the monks. Young men and women of all races come
+to the guilds in hope of learning to better themselves and harming the
+world. Through years of training, the Legionaires learned to embrace
+the ways of chaos and evil. It is this mindframe that allows them to 
+unleash their dangerous magics upon Thera. There are stories that tell
+of those who have left the guild to lead more peaceful lives, and found
+themselves unable to use their former magics, their powerful skills, 
+and even unable to walk or speak. 
+
+It is unknown if these stories are true or false, however, one thing is 
+clear. These mage-warriors want nothing more than the destruction of all
+that does belong to them and their guild.  
+~
+0 PALADIN PALADINS~
+These warriors have chosen the path of virtue and chivalry above all others. 
+This dedication to their cause grants them priest-like spells and healing
+powers.  They are also formidable fighters, always questing to stamp out
+evil. Paladins must stay good in order to cast their spells.  Those who
+forsake goodness are frowned upon.  Paladins are expected to be truthful,
+chivalrous, humble, merciful, kind, bold, and noble of spirit.  Paladins
+must be Lawful Good.
+~
+0 HOMETOWN HOME TOWN~
+
+You must now choose your hometown. This is the town which you will
+recall to when using word of recall, or whenever you die. Midgaard
+is for all alignments. Ofcol is for good only, New  Thalos for neutrals
+only, and Arkham for evil only.
+            
+New players should choose Midgaard as it is most central.
+~
+0 AGE~
+
+Ageing is just that, a character getting older. In Tartarus your
+characters will age slowly as you spend time exploring the world. The age
+at which you die will vary depending on your race (the biggest factor),
+your constitution and a small random factor.
+
+When you eventually die of old age you will expire premenantly. Immortals
+may be able to increase your lifespan if quests are undertaken.
+
+Expect a human to live for around 400 hours of real time, other races are
+variations on that, with some longer (elves are almost double), and some a
+little shorter.
+~
+ 
+0 MORPH MORPHDRAGON~
+Syntax: morph <color>
+
+This allows a changeling to shapeshift into a dragon form. Colors
+available are red, green, blue, black and white. In dragon form the
+player can use the 'breath' command to send forth a blast of dragonbreath
+(the breath attack depends on what color dragon you shapeshift into).
+
+Morphing is enabled only for immortals in the stock mud. 
+See also: 'help shapeshift'
+
+~
+0 SHAPESHIFT SHIFT~
+Syntax: shapeshift <form>
+
+This allows a changeling to shapeshift into bat, wolf or bear form. 
+Bats fly, wolves move faster, bears are tougher. Each form has a some
+different plusses and minuses, and the character appears as a
+bat/wolf/bear to others who see him or her.
+
+The other form currently supported is that of forming a third arm
+('shapeshift arm'). Changelings that choose this option are able to triple
+wield (if they have the dual wield skill) and also to hold up to three
+objects rather than two.
+
+See also: 'help morphdragon'
+~
+52 RENAME~
+Syntax: rename <player> <new name>
+
+Renames a player on-line
+~
+0 CLOAK~
+Syntax: cloak
+
+This puts the player into a cloaked form that hides them from others. You
+can not cloak while in another shapeshifted form.
+~
+0 RATING~
+Syntax: rating
+
+This shows your current number of PKs (player kills), mob kills, PK deaths
+and mob deaths. Mob kills are also listed with the total level worth of
+mobs that have been killed. 
+~
+0 VENUEPORT~
+Syntax: cast venueport <target>
+
+This gates the caster and anyone grouped with them and in the same room to
+the specified victim. It is an Arcana skill.
+~
+0 'TEAM SPIRIT'~
+Syntax: cast team <target>
+
+This allows one arcana member to transfer mana to another one at the cost
+of some health.
+~
+0 FAMILIAR~
+Syntax: cast familiar
+
+Summons a familiar to the caster, for Arcana members.
+~
+0 RIOT~
+Syntax: riot
+
+Causes the user to incite a riot in his or her group. Rioting characters
+gain a huge bonus to attacking but are so inflamed with indignation that
+they will attack anything they see. This is an Outlaw skill.
+~
+0 VANISH~
+Syntax: vanish
+
+Allows a person to slip away and vanish to another part of the area they
+are in. This is an Outlaw skill.
+~
+0 DECOY~
+Syntax: cast decoy <target>
+
+Creates fragile mirror decoys of the target. Decoy without a target
+creates decoys of the caster. This is an Outlaw skill.
+~
+0 REVOLT~
+Syntax: cast revolt <victim>
+
+Attempts to make any charmed followers of the victim revolt and attack
+their master. This is an Outlaw skill.
+~
+0 INDUCT~
+Syntax: induct <person> <clan>
+
+Allows a clan leader or an immortal to induct others into a clan. Only
+immortals can specifiy a particular clan, mortal leaders automatically
+induct into their own clan. Clans to induct into are: Arcana, crusader,
+outlaw, enforcer, ancient and life.
+~
+0 'STEEL NERVES'~
+Syntax: steel
+
+Grants greater resistance to physical damage. This is a Crusader skill.
+~
+0 BATTLECRY~
+Syntax: battlecry
+
+This enables the delivering of particularly powerful blows in combat. It 
+is a Crusader skill.
+~
+0 TROPHY~
+Syntax: trophy <part>
+
+Lets a Crusader make a battle trophy from a body part such as a heads,
+arms and legs. The poncho made can be worn as both a trophy and for
+beneficial uses. 
+~
+0 EVALUATION~
+Syntax: evaluation
+
+This lets you get a more detailed look at a victim's current state of
+health. Using evaluation you will be able to gauge better how wounded a
+foe is (provided you figure out what the stages of injury are represented
+by). If you fail an evaluation check your skill will improve but you will
+have to start re-evaluating again to turn it back on.
+~
+
+0 SPELLBANE~
+Syntax: spellbane
+
+A crusader using this is able to reflect a lot of magic that is cast at
+him or her.
+~
+0 'AURA OF SUSTENANCE' AURA~
+Syntax: aura
+
+Grants the character immunity to hunger and thirst for the duration of the
+affects. Aura of sustenance is a Life skill.
+~
+0 LIFELINE~
+Syntax: cast lifeline <target>
+
+Creates and ethereal line between the caster and a target. Casting it
+without any argument results in the caster being transported to the
+previously lifeline target. If a caster lifelines themself the line is
+severed from the previous target. It is a Life spell.
+
+A victim may 'nofollow' to cut a lifeline that is unwanted.
+~
+0 SAFETY~
+Syntax: cast safety
+
+Recalls all members of the casters group who are in the same room. It is a
+Life skill.
+~
+0 'LIFE TRANSFER'~
+Syntax: cast 'life transfer' <target>
+
+Transfers some health from the caster to the target for healing. It is a
+Life spell.
+~
+0 'ANIMATE DEAD' 'MUMMIFY' 'ANIMATE SKELETON' ANIMATE DECAY 'DECAY CORPSE'
+'EMBALM' SOULBIND SOUL~
+Syntax: cast 'animate dead' corpse
+	cast 'animate skeleton' skeleton
+	cast mummify corpse
+	cast decay corpse
+	cast preserve corpse
+ 	cast soulbind <target>
+
+These are the basis of a necromancer's power. Decay corpse strips the
+flesh off a corpse and leaves the skeletal remains. The skeleton may then
+be animated using the 'animate skeleton' spell.
+
+Corpses that are still intact may be animated with the more powerful
+animate dead spell, or, at much higher levels, raised as mummies with the
+mummify spell.
+
+'Embalm' skill will preserve a corpse and extend the duration before a
+it decays to dust.
+
+In all cases of animates the undead raised will have a level of power
+comparable to it's living existence but slightly lowered. Thus an orc
+zombie won't be as powerful as a demon zombie. Skeletons are weaker than
+zombies, which are in turn weaker than mummies. The number of undead you
+can raise is level dependant and also modified by the type of undead you
+already have following you.
+
+Soulbind will bind an undead follower to your soul and it will act as a
+loyal pet, entering and leaving the realms with you like a normal pet.
+
+See also: help 'animate object' for the Channeler's version of animation
+~
+0 SHADOWSELF~
+Syntax: cast shadowself
+
+Creates a shadowy, fragile mirror from your shadow. Useful to trick your
+enemies.
+~
+0 GASEOUS 'GASEOUS FORM'~
+Syntax: gaseous <direction 1> <direction 2>
+
+Allows an ethereal to turn into a cloud of gas very briefly and rip
+through one or two rooms. If you specify just one direction you will be
+go gaseous and attempt to travel two rooms in that direction. If a second
+direction is given you will attempt to travel one room in the first
+direction, then change path and go to the next room via the second
+direction. This is most useful in rushing past tracking mobs or aggressive
+ones that are blocking the way.
+~
+0 'DOOR BASH' DOOR~
+Syntax: door <direction>
+
+Attempt to bash down a door using brute force. A giant, centaur and troll
+ability. Failing can cause harm, and usually a successful bashing will
+result in the basher flying into the next room.
+~
+0 'GREATER GOLEM' 'LESSER GOLEM' GOLEM PRESERVE~
+Syntax: cast 'lesser golem'
+	cast 'greater golem'
+	cast preserve <object>
+
+A necromancer may create a lesser golem by gathering body parts and then
+forming them into a flesh automaton. The power of the golem is dependant
+on the caster's level and the number of parts. The 'preserve' spell is
+used to keep body parts such as hearts, arms, legs and heads from
+decaying. 
+
+Greater golem fashions a more powerful golem to serve and requires no
+material components to cast.
+~
+0 DISINTERGRATE~
+Syntax: cast disintergrate <victim>
+
+Allows a channeler to blast a victim into dust. Objects on the victim have
+a good chance of vaporising too unless they save against the spell.
+~
+0 TIMESTOP~
+Syntax: cast timestop
+
+Places everything in the room which fails to save into a time trap. Those
+affected by it are outside the normal flow of time and may not be harmed,
+but at the same time are unable to move or do anything themselves. Has
+varying usefulness in varying situations.
+~
+0 'ANIMATE OBJECT'~
+Syntax: cast 'animate object' <item>
+
+When cast on a weapon, armor or key it animates the item and causes it to
+follow the caster like a normal charmie. The itself is destroyed in that
+it cannot be used again. The power of the animated object is dependant on
+the level of the item animated. Animated keys may be ordered to unlock
+doors.
+~
+0 ABSORB~
+Syntax: cast absorb
+
+Forms a magic absorbing shield about the caster which also channels mana
+back to them when absorbing offensive spells.
+~
+0 'TRANSFER OBJECT'~
+Syntax: cast 'transfer object' <object> <target>
+
+Sends an item in the caster's inventory to the target. If the target has
+notransfer set on his or her autos then they will be unable to accept the
+object. You can not transfer Clan items.
+~
+0 GROUNDING~
+Syntax: cast grounding
+
+Grounds the caster and makes him or her immune to electrical attacks.
+~
+0 'SHOCK SPHERE'~
+Syntax: cast 'shock sphere' <victim>
+
+Blasts the victim with a powerful sonic boom. The first blast can damage
+their ears and result in temporary loss of hearing.
+~
+0 REGENERATION ATROPHY~
+Syntax: cast regeneration <target>
+	cast atrophy <victim>
+
+The recipient of this benedication begins to regenerate at an unnatural
+rate. Wounds will heal literally ever second or so. Trolls who have
+natural regeneration will regenerate even faster.
+
+Atrophy is the opposite to regeneration and results in health loss at a
+constant and fast rate. While not lasting long it can have a deadly effect
+on victims.
+~
+0 RESTORATION~
+Syntax: cast restoration <victim>
+
+A powerful healing spell that cures wither, forget, prevent healing and
+undead drain affects. It is the only way that level loss due to undead
+draining may be restored. Healers at temples, and clerics, have this
+power.
+~
+0 'PREVENT HEALING'~
+Syntax: cast 'prevent healing' <victim>
+
+Attempts to destroy a victim's ability to heal naturally. If successful
+the victim will stop healing on ticks until it wears off or is cured.
+Trolls who have natural fast regeneration are immune to this.
+~
+0 DUAL TRINAL 'DUAL WIELD' 'TRINAL WIELD'~
+Syntax: wield <weapon>
+
+These skills allow you to use more than one weapon at once. Most fighting
+classes gain the dual wield skill at some stage and if such a character
+attempts to wield a weapon while already using a primary weapon they will
+attempt to dual wield it. (This is provided that they are not using a
+light, shield or held item which would occupy their other hand).
+
+Trinal wield is a bit different. It requires a changeling who has
+shapeshifted to form a third arm and hand using the 'shapeshift arm'
+command. Such a changeling who has the dual wield skill and the trinal
+wield skill learned may then attempt to wield up to 3 weapons at once.
+(They may also choose to dual wield and hold a shield, or any other
+combination of three hand uses).
+~
+0 NIGHTFALL~
+Syntax: cast nightfall <victim>
+
+This binds the caster's essence to the victims and if the caster can
+deliver the killing blow on the target at any stage while the spell is in
+affect the victim's soul is ripped away and formed into a shadowy follower
+of the caster. Only very high level assassins can learn this spell.
+~
+
+0 'FIRE AND ICE'~
+Syntax: cast 'fire and ice' <victim>
+
+Blasts the victim with both a flaming blast and an icy cold one.
+-Fire and Ice will only work on Mobs.
+~
+
+0 'Knight' 'Knights'~
+The Knights of Thera are the champions of light and honor in the world of thera.
+They are always seeking to end the destruction that the forcesof darkness cause
+in the world.  The life of a knight is not an easy onebecause it is full of
+personal sacrifice.  The process to become a knightcan be long and frustrating,
+and only those who are pure of heart are ableto do so.  Your path begins with a
+note to the castle (Knights) and endswhen you take your last breath in the world.
+To be a knight is a life long commitment and is not something that is 
+taken lightly.
+~
+
+0 'Muse' 'Muses of the Valley'~
+A band of musicians and entertainers have gathered and named
+themselves the "Muses of the Valley". These people strive to
+enjoy life to its fullest and strive to express themselves
+through the arts of music and poetry. Laughter, happiness,
+and good times are what the Muses stand for. The Muses will
+defend themselves and are known to aid people according to
+their own beliefs. Those of the darkness of Chaotic ethos may
+not become Muses for they do not naturally breed beauty or art.
+~
+
+0 OOCTELL~
+Syntax: ooctell (character) (message)
+This is a command used to separate Roleplaying from out of character
+communication. You may use this for various questions to imms or other
+characters that can not be asked in character. However, this will not be
+used as a venue to curse at players when you are upset etc., that kind of
+behavior will be severely punished. Also overuse of this command will be
+looked down upon by immortals so if you want to make something out of the
+character you are playing, use OOCTELL sparingly.
+~
+
+0 DEOMANIX SEEKERS INFINITY~
+He is the Source of Magic, and the Potentate of Time. Those who chose to
+follow Deomanix are known as the Seekers of Infinity. Deomanix is
+magic, he created it, and is one with it. Magic is outside of time, only
+when wielded by mortals are limitations put upon it. Followers who seek
+the mark of Infinite Tome know that it is only by the feeble mind of most
+mortals that magic finds its limits. They seek to free thier mind and
+gather as much knowledge as possible so they may know the true powere
+availible to them. Deomanix is also the Lord of the Tower, he therefore
+holds to the ideals of the Tower as well. Seek the Shrine of Deomanix in a 
+place where magic flows freely.~
+
+0 'Knife'~
+Thieves with the this skill can surprise a opponent with a strike used at a beginning
+of a fight. This fighting technique may even be used against opponents that are injured
+or others occupied with fighting someone else. This power is used only with a dagger.
+~
+
+0 'Enforcer'~
+Enforcer is the Law. They Enforce the Laws of Thera and are the executioners ofcriminals.
+Their decisions are Final and not to be argued. Criminals are a the true enemy of Enforcer
+and they will be hunted until death as punishment for breaking the law. Only people with
+a lawful ethos and never convicted of breaking the law may hope to join Enforcer. Enforcers
+can join with other enforcers to slay criminals if needs be. An Enforcers job is to protect
+the town not hunt. All enforcers have the flag [ENFORCER] visable near 
+their name.
+~
+
+0 'Cleave'~
+Cleaver is very similur to backstab (It can only be used to start fights). It inflicts massive
+damage and can instantly kill the victim. Cleave cannot be done to a target much larger than
+the player who is cleaving. This skill is for axes and swords only.
+~
+
+0 'Strangle'~
+Monks and assassins can attempt to strangle an opponent, putting them to sleep. This skill can keep
+the victim asleep for around 2 ticks. Some people find it works best when hiding. Strangle can only
+be used to start a battle and not used more than once for a few ticks.
+~
+
+0 'Throw'~
+Throw is like and trip, it does little damage but keeps the opponent from fleeing or entering commands.
+Throw lags the victim but also the character who is throwing. Throw cannot be entered more than once
+every 2-3 rounds.
+~
+
+0 'Pugil'~
+Pugil is used by a staff, the attempt is made to do a quick combination hit with both ends of the staff.
+This is done with a quick punching movement from each hand. You can use this skill only during a fight. 
+~
+
+0 'Wrath'~
+This spell calls upon a holy wrath on an evil player. This does damage as has a small chance of cursing
+the target. This spell is only known to Paladins.
+~
+
+0 'Nerve' ~
+A skilled monk or assassin has the power to increase pressure to it's victim with various strikes to the
+vulnerable ares. This skill can be used on anyone. It deals no damage but weakens the victim. 
+~
+
+0 'Swist'~
+He is the guy who is in charge of coding here.
+~
+
+0 WOOD-ELF WOOD ELF~
+Long ago when high elves ruled Thera a sub race of elven whom only lived in the
+peace and tranquility of the forest excited. These elves where known as chaotic
+creatures and where murder and destroyed, for the most part. In modern days
+wood-elves are still rare but do exist as ancient folk lore tells us. Wood-elves
+are much like high elves but not quite as intelligent but more heartier and
+dexterous. In modern day Wood-elves may become lawful but are shunned upon by
+all other of their breed. Wood-elves may become warriors, clerics, and rangers.
+~
+
+51 'UNHOLY BLESS'~
+Syntax: cast 'unholy bless'
+
+An Anti-Paladin with this spell casted upon him will become stronger
+in many forms every time they kill someone.~
+
+51 'CURSE WEAPON'~
+Syntax: cast 'curse weapon' <object>
+
+This spell is castable on a weapon, this weapon becomes more powerful
+the more times it is castable on the object. However, this spell can
+destroy the weapon it is casted upon.
+~
+
+ 0 $~
+#$
+

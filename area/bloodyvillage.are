@@ -1,0 +1,276 @@
+#AREA	
+BloodyVillage.are~
+BloodyVillage~
+{CLAN } Rhax    Bloody Village~
+5700 5709
+
+
+
+
+#MOBILES
+#5700
+Destructor~
+the Destructor~
+The Destructor of magic is here, daring you to cast a spell.
+~
+This giant warrior has an extreme aversion to any magic performed
+in his vicinity.  If you even have the ability to cast spells, he
+won't like you.
+~
+giant~
+ABTVe DFb 0 0
+55 70 2d500+8000 1d1+4999 10d10+10 pound
+-70 -70 -70 -70
+AIJKFDONECa AB 0 0
+stand stand male 0
+A ABCDE giant 0
+ 
+#5701
+Grime~
+Grime~
+Grime the smith is here to sell his fine works.
+~
+Grime is well named since the soot of his forge covers him and
+everything in the store.
+~
+human~
+ABTV DHFV 800 0
+40 30 3d300+4000 1d1+2000 4d10+30 pound
+-30 -30 -30 -30
+IJKFEDCN AB D P
+stand stand male 0
+A ABCDE medium 0
+
+#5702
+Healer~
+A healer~
+A healer is here tending to the wounded.
+~
+nothing special about him.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 5000
+0 0 medium 0
+ 
+#0
+
+
+
+#OBJECTS
+#5700
+key~
+a bone key~
+A bone key is on the ground.~
+steel~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#5701
+battle rager head~
+Bloody head of magician~
+Bloody head of magician is here.~
+bone~
+treasure TO A
+0 0 0 0 0
+60 1 100000 P 
+C
+4
+L
+1
+#5702
+throne~
+a large throne~
+a large throne made from skulls is sitting here.~
+bone~
+container ORY P
+10 15 5700 15 100
+60 1 20 P
+#5703
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items to help Doz expand this shrine,
+~
+#0
+
+
+
+#ROOMS
+#5700
+The well-used trail~
+  Breaking off from the main path, you see a small, but well-used path leading
+into the hills.
+~
+0 WX 1
+D3
+~
+~
+0 -1 5701
+D1
+~
+~
+0 -1 5281
+S
+
+#5701
+The entrance to the Barbarian Village~
+  Before you opens a small village.  Cooking fires and scurrying kids make it
+seem like every other village...until you see the skulls.  They are everywhere:
+mounted on spears, arranged in pyramids, and stacked in crude walls.  Huge
+men, dressed in wild armor and skins, look you over before moving on.
+~
+0 WX 1
+D1
+~
+~
+0 -1 5700
+D3
+~
+~
+0 -1 5702
+S
+
+#5702
+The main road through the village~
+  The village isn't as big as you first thought.  It looks more like a resting
+or stopping point for hunting parties.  Far to the west, you see a shrine to
+the Warlords of the BattleRagers.  To the west the village opens up.
+~
+0 WX 1
+D1
+~
+~
+0 -1 5701
+D3
+w
+~
+~
+0 -1 5703
+S
+
+#5703
+Blood Square~
+  A small square opens here.  To the north you see a donation room, and to the
+south there is a sign saying "Grime's House of Weapons".  To the west you see
+a shrine to the Warlords of the Battleragers.
+~
+0 WX 1
+D0
+~
+~
+0 -1 5704
+D1
+~
+~
+0 -1 5702
+D2
+~
+~
+0 -1 5705
+D3
+~
+~
+0 -1 5706
+S
+
+#5704
+The donation room~
+  Here you find a small donation room where you can find weapons other useful
+things.  Please put only good equipment here, as it will only be used by your
+brethren to destroy the Masters.
+~
+0 WX 1
+D2
+~
+~
+0 -1 5703
+S
+
+#5705
+Grime's house of Weapons~
+  Grime is here, offering you the finest tools of destruction in the land at
+the best prices in the land.  Or so he says.  Swords, axes, and other
+varieties of weapons line the walls, waiting to be bought.
+~
+0 WX 1
+D0
+~
+~
+0 -1 5703
+S
+
+#5706
+The Shrine of Battleragers~
+  Before you is a huge throne of skulls. Shelves line the walls, upon them
+sit hundreds of small jars filled with he blood of fallen opponents. On
+the jars you see the names of the great enemies who have fallen at the
+hand of a Battle Rager. It is here you may praise the Lord Iuppiter , for 
+he lead the Battleragers from the skull throne.
+
+A massive stone tablet has been erected here
+~
+0 X 1
+D1
+~
+~
+0 -1 5703
+E
+tablet~
+-----------------------------------------------------------------------
+The Six Commandments of the Battleragers.
+
+1.  No magic, of any form, should ever be manipulated, or beseeched,
+    by any Battlerager.  Such blasphemy is forbidden.  Likewise, any
+    mortal who casts in your presence should be punished harshly.
+
+2.  Mages, Anti-paladins and those trying to master the five magics, 
+    pervert the power of the gods.  Therefore they should be culled     
+    until the point of their extinction.
+
+3.  Clerics and Paladins are the divine chosen.  As the messengers of
+    the gods, they shall be tolerated, but their magic not embraced.
+
+4.  Avoid all those afflicted by magical charms, or put them out of their
+    misery.
+ 
+5.  Courage is the difference between a warrior and a great warrior.
+    Hence, it should be seen as a part of life to every Battlerager.
+    Extend such courage to all, apart from those waring on our soil.
+
+6.  Your mortal leader and every God you encounter should be treated
+    with utmost respect and obeyed always.
+------------------------------------------------------------------------
+~
+S
+#0
+
+#SHOPS
+5701  1  5  9  11  0      150  70        0 23   * Grime
+
+0
+
+
+#RESETS
+M 0 5700 1 5700 1                 * Destructor of magic
+G 0 5701 1 3535			  * give head to destructor
+M 0 5702 1 5706 1                 * healer
+O 0 5702 1 5706 1                 * item container  throne
+O 0 5703 1 5704 1                 * pit
+M 0 5701 1 5705 1                 * grime 
+S
+
+#SPECIALS
+M 5700 spec_crusader
+S
+
+#$

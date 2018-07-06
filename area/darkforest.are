@@ -1,0 +1,763 @@
+#AREADATA
+Name Dark Forest~
+Builders None~
+VNUMs 11000 11099
+Credits {51-Up} Kraenesk Dark Forest~
+Security 9
+End
+
+
+
+#MOBILES
+#11000
+large bear~
+the bear~
+A massive brown bear is here, snarling at you. 
+~
+He is fuzzy are mean. 
+~
+bear~
+ABG DFNOVZc 0 0
+60 50 50d10+22000 0d0+0 40d20+28 claw
+-30 -30 -30 -30
+DEFKO A EI 0
+stand stand none 0
+AGV ABCDEFHJKUV tiny unknown
+#11001
+large bat~
+a large bat~
+A huge bat is flying around here. 
+~
+A huge Bat is here flying aroun the cave as though oblivious to the
+darkness. 
+~
+bat~
+ACGS DFHJNOTZ 0 0
+52 100 50d10+5500 0d0+0 6d7+20 bite
+-22 -22 -22 -22
+ADFHK AB CDEFGHIJKLMNOPQR S
+stand stand male 0
+AGHMV ABCDEFHJKP large flesh
+#11002
+wolf~
+a large grey wolf~
+A large grey wolf is standing here 
+~
+A large grey wolf is here bearing his teeth at you. It howls at the sight
+of you and stares you down with his yellow eyes. 
+~
+wolf~
+ACGT DFOPTZ 0 0
+52 100 50d10+5500 0d0+0 6d7+20 claw
+-22 -22 -22 -22
+DFHJKNO ABI CDEFGKLMNPQRS HJO
+stand stand male 0
+AGHMV ABCDEFJKQUV medium flesh
+#0
+
+
+
+#OBJECTS
+#11000
+bear's claw~
+A Large bear's Claw~
+A large bear's Claw is laying here~
+mithril~
+weapon ABGHJKMTYZ AN
+exotic 10 6 claw Dacef
+56 20 5 A
+A
+19 5
+A
+2 -3
+F
+A 0 0 Vc
+F
+V 0 0 Y
+A
+18 5
+A
+1 1
+L
+4
+#11001
+bears hide~
+A bear's hide~
+A large furry hide of a brown bear~
+fur~
+armor ABGHJKMQSTYZ AK
+0 0 0 0 0
+56 5 0 P
+A
+1 4
+A
+19 3
+A
+18 3
+A
+17 -20
+A
+24 -4
+F
+V 0 0 H
+F
+R 0 0 C
+L
+2
+#11002
+wolf's hide~
+a Wolf's hide~
+A large pelt from a wolf lies here~
+fur~
+armor ABGHJKQTY AC
+0 0 0 0 0
+0 5 0 P
+A
+14 100
+F
+A 0 0 CEGP
+A
+24 -4
+A
+19 2
+A
+18 2
+#11003
+bat's wings~
+a bat's wings~
+a pair of bat's wings lay's here twitching~
+soft leather~
+armor ABGHJKQSTY AD
+0 0 0 0 0
+0 5 0 P
+F
+A 0 0 T
+A
+24 -6
+A
+19 1
+A
+18 3
+#11004
+large bear's front claws~
+A large bear's front claws~
+a large bear's front claws lay here~
+bone~
+armor ABGHJKQST AH
+0 0 0 0 0
+56 5 0 P
+A
+18 3
+A
+19 3
+A
+2 -3
+A
+1 1
+L
+4
+#11005
+large bear's rear claws~
+a large bear's rear claws~
+A large bear's rear claws are laying here~
+bone~
+armor ABGJKQTY AGN
+0 0 0 0 0
+0 5 0 P
+A
+19 3
+A
+18 2
+A
+2 -2
+A
+1 1
+L
+3
+#0
+
+
+
+#ROOMS
+#11000
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow closer. Leaves crackle under your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 0 16100
+D2
+~
+~
+0 -1 11001
+S
+#11001
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow closer. Leaves crackle under your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11000
+D2
+~
+~
+0 -1 11002
+S
+#11002
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow closer. Leaves crackle under your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11001
+D1
+~
+~
+0 -1 11003
+S
+#11003
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow 
+~
+0 0 3
+D2
+~
+~
+0 -1 11004
+D3
+~
+~
+0 -1 11002
+S
+#11004
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow 
+~
+0 0 3
+D0
+~
+~
+0 -1 11003
+D3
+~
+~
+0 -1 11005
+S
+#11005
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow 
+~
+0 0 3
+D1
+~
+~
+0 -1 11004
+D2
+~
+~
+0 -1 11006
+S
+#11006
+A trail leading to a dense mass of trees~
+You are standing on a dusty path leading to a dense forest filled with
+trees. You can see that the trees are so dense that it is likely dark among
+many of them. You can hear the howls of wolves and other forest creatures as
+you grow 
+~
+0 0 3
+D0
+~
+~
+0 -1 11005
+D1
+~
+~
+0 -1 11007
+S
+#11007
+Pushing your way into the forest~
+You push your way through a dense wall of vines and into a dense forest.
+You are surrounded by trees in all directions. They are so dense you can
+hardly tell from which direction you came. 
+~
+0 0 3
+D1
+~
+~
+0 0 12100
+D2
+~
+~
+0 -1 11008
+D3
+~
+~
+0 -1 11006
+S
+#11008
+In a dark forest.~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. Mice scurry around on the ground all around you. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11007
+D2
+~
+~
+0 -1 11009
+S
+#11009
+In a dark forest.~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11008
+D2
+~
+~
+0 -1 11013
+D3
+~
+~
+0 -1 11010
+S
+#11010
+A trail leading to a small spring~
+Rays of light shine through the trees lightening the forest up a bit as
+you hear a trickle of water off to the west indicating there might me a
+small spring nearby. 
+~
+0 0 3
+D1
+~
+~
+0 -1 11009
+D3
+~
+~
+0 -1 11011
+S
+#11011
+A trail leading to a small spring~
+Rays of light shine through the trees lightening the forest up a bit as
+you hear a trickle of water off to the west indicating there might me a
+small spring nearby. 
+~
+0 0 3
+D1
+~
+~
+0 -1 11010
+D3
+~
+~
+0 -1 11012
+S
+#11012
+A small artesian spring~
+You are standing next to a small artesian spring. Water bubbles up from
+the ground and creates a small pool of sweet cool water, just the thing to
+refresh you on a hot day. 
+~
+0 0 3
+D1
+~
+~
+0 -1 11011
+M 150 H 150
+S
+#11013
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11009
+D1
+~
+~
+0 -1 11014
+D2
+~
+~
+0 -1 11021
+S
+#11014
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D2
+~
+~
+0 -1 11015
+D3
+~
+~
+0 -1 11013
+S
+#11015
+At the entrance to a Cave.~
+Before you you see a large outcropping of rocks, with a small opening in
+the middle, coming fromt eh cave you hear the growling of a bear. Are you
+sure you want to go in there? 
+~
+0 0 2
+D0
+~
+~
+0 -1 11014
+D5
+~
+~
+0 -1 11016
+S
+#11016
+In a dark cave~
+You are standing inside a cold dark cave. You feel hard packed dirt
+beneath you feet and as you look around you see bones littering the floor
+about the cave, dare you go any further? 
+~
+0 0 0
+D0
+~
+~
+0 -1 11017
+D4
+~
+~
+0 -1 11015
+S
+#11017
+A passage in the cave~
+You are standing in a dark passage within the cave. You feel a crunching
+beneath your feet ,as you look down you see bones line the floor beneath
+your feet The passageway twists and turns as you walk through it. 
+~
+0 0 0
+D2
+~
+~
+0 -1 11016
+D3
+~
+~
+0 -1 11018
+S
+#11018
+A passage in the cave~
+You are standing in a dark passage within the cave. You feel a crunching
+beneath your feet ,as you look down you see bones line the floor beneath
+your feet The passageway twists and turns as you walk through it. 
+~
+0 0 0
+D1
+~
+~
+0 -1 11017
+D5
+~
+~
+0 -1 11019
+S
+#11019
+A passage in the cave~
+You are standing in a dark passage within the cave. You feel a crunching
+beneath your feet ,as you look down you see bones line the floor beneath
+your feet The passageway twists and turns as you walk through it. 
+~
+0 0 0
+D2
+~
+~
+0 -1 11020
+D4
+~
+~
+0 -1 11018
+S
+#11020
+Inside the bear's den~
+You are standing in a large open room withing the dark cave, a huge bear,
+larger than any you have seen before is lying on a pile of bones in the
+corner growling at you, you feel a sudden urge to leave this place. 
+~
+0 0 0
+D0
+~
+~
+0 -1 11019
+S
+#11021
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11013
+D3
+~
+~
+0 -1 11022
+S
+#11022
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D1
+~
+~
+0 -1 11021
+D2
+~
+~
+0 -1 11023
+S
+#11023
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11022
+D3
+~
+~
+0 -1 11024
+S
+#11024
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D1
+~
+~
+0 -1 11023
+D2
+~
+~
+0 -1 11025
+S
+#11025
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11024
+D1
+~
+~
+0 -1 11026
+S
+#11026
+In a dark forest~
+You are walking through a forest so dense no light shows through the
+canope of trees overhead, you hear the howling of wolves and the snarling of
+mountain lions off in the distance, leaves and tiny insects crunch under
+your feet as you walk. 
+~
+0 0 3
+D2
+~
+~
+0 -1 11027
+D3
+~
+~
+0 -1 11025
+S
+#11027
+A trail heading out of the dark forest~
+You push through a thicket of bushes onto a trail leading south out of
+the dark forest. You can finally see the sky again. You feel a solid layer
+of earth beneath your feet as you head south. 
+~
+0 0 3
+D0
+~
+~
+0 -1 11026
+D2
+~
+~
+0 -1 11028
+S
+#11028
+A trail heading out of the dark forest~
+You are walking on a trail leading away from a dense mass of trees. You
+kick up a faint cloud of dust as you walk along the trail. 
+~
+0 0 2
+D0
+~
+~
+0 -1 11027
+D2
+~
+~
+0 -1 11029
+S
+#11029
+A trail heading out of the dark forest~
+You are walking on a trail leading away from a dense mass of trees. You
+kick up a faint cloud of dust as you walk along the trail. 
+~
+0 0 2
+D0
+~
+~
+0 -1 11028
+D2
+~
+~
+0 -1 11030
+S
+#11030
+Nearing an intersection~
+You are nearing an intersection leading to a main road. You hear the
+clickety clack of wagons and mules walking upon the road, perhaps heading
+off to market to seel thier wares. 
+~
+0 0 2
+D0
+~
+~
+0 -1 11029
+D2
+~
+~
+0 0 11031
+S
+#11031
+Mountain~
+You are climbing a large mountain which towers over Ofcol. The path
+continues up the mountain, but part of it is gone. There is no way to
+continue by land.
+~
+0 0 5
+D0
+~
+~
+0 -1 11030
+D2
+~
+~
+0 -1 324
+S
+#0
+
+
+
+#SPECIALS
+M 11001 spec_thief
+M 11002 spec_thief
+S
+
+
+
+#RESETS
+M 0 11002 1 11008 1
+E 0 11002 0 3
+M 0 11002 1 11013 1
+E 0 11002 0 3
+M 0 11001 1 11015 1
+E 0 11003 0 12
+M 0 11001 1 11016 1
+E 0 11003 0 12
+M 0 11001 1 11016 1
+E 0 11003 0 12
+M 0 11001 1 11018 1
+E 0 11003 0 5
+M 0 11001 1 11018 1
+E 0 11003 0 12
+M 0 11000 1 11020 1
+E 0 11001 0 5
+E 0 11004 0 9
+E 0 11005 0 8
+E 0 11000 0 16
+M 0 11002 1 11021 1
+E 0 11002 0 3
+M 0 11002 1 11023 1
+E 0 11002 0 3
+M 0 11002 1 11026 1
+E 0 11002 0 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

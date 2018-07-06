@@ -1,0 +1,212 @@
+#AREADATA
+Name Outlaw Cabal~
+Builders None~
+VNUMs 9900 9909
+Credits {CABAL} Macabre Circle of Chaos~
+Security 9
+End
+
+
+
+#MOBILES
+#9900
+healer adept~
+a Healer~
+An adept and healer of the Barones of Thera is here.
+~
+He is an old, wise cleric blessing his old friends of Barons of Chaos 
+to break laws.
+~
+human~
+ABQVae DFH 1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#9901
+guardian Chaos~
+the guardian of Chaos~
+A guardian of Chaos is guarding the enterance.
+~
+He is wearing a complete set of black armor.
+~
+dwarf~
+ABWde DFHJVZb 0 0
+60 70 2d500+10000 1d200+4900 5d15+40 slash
+-20 -20 -20 -20
+EFU AB LQ RS
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#9900
+key black marble~
+a black marble key~
+A black marble key is on the ground.~
+marble~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#9901
+altar~
+the altar~
+There is a huge black altar in the middle of the room.~
+gold~
+container ORY P
+10 ABCD 9900 15 100
+60 1 20 P
+#9902
+equation entropy~
+The Equation of Entropy~
+Equation of Entropy floats here, emitting a black energy.~
+energy~
+trash O A
+0 0 0 0 0
+60 1 100000 P
+C
+6
+L
+1
+#9903
+chaos blade~
+a chaos blade~
+A shiny gold weapon is on the ground.~
+gold~
+weapon AIPTW AN
+exotic 10 6 pierce D
+20 200 0 P
+A
+18 10
+A
+19 10
+#0
+
+
+
+#ROOMS
+#9900
+Archway before the Temple of Chaos~
+You are standing before a huge black archway.Some fearful devilish 
+figures engraved on it.There are two stone gargoyle mounted on the
+top of the both sides of archway, both seems like ready to get alive 
+instantly 
+ There's some corroded writings on archway, reads
+    " Welcome to our unholy sect of worship.
+      Feel at home in our black conventicle 
+      As we anathmatise, all those who oppose us
+      Don't seek the priests, don't call the gods.
+      If you need the strength, the Devil , obey. "
+~
+0 8388616 0
+D0
+The archway leads a darkened hallway.
+~
+~
+0 -1 9901
+D2
+~
+~
+0 -1 7804
+S
+#9901
+Dark hallway~
+It's dark, darker than a moonless night. Your light source's beams reflects
+on walls of hallway, luminating the fearsome scenes of man-sacrificing,
+worshipping to devil, the wreck of Chaos and amorphous shapes of infernal
+creatures. On the floor you see a stream of red fluid. Taking a closer look
+you understand it's blood and a sudden fear fills you.
+~
+0 8388616 0
+D0
+A strange glowing coming from this way.
+~
+~
+0 -1 9904
+D1
+~
+~
+0 -1 9902
+D2
+~
+~
+0 -1 9900
+D3
+~
+~
+0 -1 9903
+S
+#9902
+Squire Barracks~
+It's a typical barrack you used to see. Clothes scattered over shelves, 
+wooden tables and dirty cot stands. People scurrying where to where in 
+order to do not make them master angry.The only exit leads west to dark 
+hallways. ~
+0 8388616 0
+D3
+~
+~
+0 -1 9901
+S
+#9903
+Storage Room~
+There's every kind of item stored here.Food, lanterns, swords and other 
+combat weapons, well-crafted armors, mounts of gold and silver piles 
+which is enough to occupy all realm.The only exit is the way back you 
+came here.
+~
+0 8388616 0
+D1
+Doorway to the dark hallway.
+~
+~
+0 -1 9901
+S
+#9904
+Terror Chamber~
+You entered a dim-lighted chamber. Same devilish engravings cover the walls.
+And the aura of evil so strong that the air shimmers.On the floor you see 
+a big pentagram drawn with blood. At the tips of the pentagram there are five
+torches each flaming with different colors. A blood drained altar mounted
+on the center of it. Upon it, there's a shackled arbiter, lying prone, in 
+order to be served to devil as a victim.
+~
+0 8388616 0
+D2
+Doorway to the greater hall.
+~
+~
+0 -1 9901
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+M 9901 spec_outlaw
+S
+
+
+
+#RESETS
+M 0 9901 1 9900 1
+G 0 9902 0
+M 0 9900 1 9904 1
+O 0 9901 0 9904
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

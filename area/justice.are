@@ -1,0 +1,337 @@
+#AREADATA
+Name Enforcer Cabal~
+Builders None~
+VNUMs 23600 23609
+Credits {CABAL} GGolem  Legions of Justice~
+Security 9
+End
+
+
+
+#MOBILES
+#23600
+enforcer guard enforcerguard~
+the enforcer~
+The enforcer is waiting here protecting the entrance.
+~
+He is a strong looking guard with a sharp look in his eyes.  He seizes 
+everybody in the vicinity.  He will never let intruders inside, before he 
+dies.
+~
+human~
+ABLWde DFHJVZb 0 0
+60 60 1d500+4000 1d200+1600 5d35+60 none
+-20 -20 -20 -20
+ACEFKNU AB 0 S
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+M SPEECH 23600 midgaard~
+M SPEECH 23601 new thalos~
+M SPEECH 23602 tar valon~
+#23601
+cleric enforcercleric~
+the lawful cleric~
+The cleric with grey robes of neutrality heals and protects his cabal mates.
+~
+He is an old, wise cleric serving his cabal, the Justice, and praying his
+gods for the balance on thera.
+~
+human~
+ABLQVWa DFHJVZ -1000 0
+55 20 1d100+800 1d300+900 1d4+15 divine
+-15 -15 -1 -9
+CEFNU AB C S
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#23600
+stand bookstand~
+the bookstand~
+The bookstand is standing at the center of room.~
+ivory~
+container ORY P
+10 ABCD 23602 15 100
+60 1 20 P
+#23601
+book laws law~
+the book of laws~
+The book of laws is here.~
+paper~
+treasure O AO
+0 0 0 0 0
+60 1 100000 P
+C
+5
+L
+1
+#23602
+key small~
+a small key~
+A small key is on the ground.~
+steel~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#23603
+badge~
+silver justice badge~
+A silver bagde shines on the ground.~
+silver~
+treasure MOTWZ A
+0 0 0 0 0
+50 4 0 P
+A
+12 25
+A
+13 25
+A
+18 2
+A
+19 2
+F
+A 0 0 F
+#23604
+buckler justice shield~
+Justices' Buckler~
+A buckler of a Justice is on the ground.~
+steel~
+armor GIRYZ AJ
+8 8 8 3 0
+0 200 10000 P
+A
+17 -5
+A
+19 5
+A
+18 5
+#23605
+great justice shield~
+Justices' Great Shield~
+There is a Great Justice Shield on the ground.~
+steel~
+armor GIRYZ AJ
+9 9 9 4 0
+0 300 15000 P
+A
+17 -7
+A
+18 8
+A
+19 8
+#23606
+kite justice shield~
+Justices' Kite Shield~
+You see a large Kite Shield of Justice on the ground.~
+steel~
+armor GIRYZ AJ
+21 21 21 26 0
+0 310 20000 P
+A
+17 -10
+A
+18 9
+A
+19 10
+#23607
+tower justice shield~
+Justices' Tower Shield~
+A very big shield with a sybol of Justice covers the ground.~
+steel~
+armor GIRYZ AJ
+25 25 25 20 0
+0 340 20000 P
+A
+17 -13
+A
+18 10
+A
+19 11
+#0
+
+
+
+#ROOMS
+#23600
+The Entrance~
+You are in a large hallway.  The floor is compleately marble, and on
+several locations, there are beautiful carvings.  The walls and windows
+are decorated with red curtains, swords, and ceramonial shields.
+Bright armors decorates all exits from the room.
+~
+0 8388616 0
+D0
+The doorway looks leading to another same looking hall.
+~
+~
+0 -1 23601
+D1
+This way leads outside to the large square in front of the building.
+~
+~
+1 -1 5551
+S
+#23601
+Inside the HQ~
+This hall connects to two rooms at north and west.  There is a large
+stairway leading up.  There is a big map of thera drawn on the east wall.
+There is also a big symbol on the floor, it looks like the symbol of
+Justice, but you can't see if briefly.
+~
+0 8388616 0
+D0
+That room is the chamber of laws.  Honorable warriors walk out the door
+and many others enter.  The room presents the matters of law.
+~
+~
+0 -1 23602
+D2
+Entrance hall can be seen.
+~
+~
+0 -1 23600
+D3
+Through the oak doors, you can see the chapel.
+~
+~
+0 -1 23603
+D4
+The stairs lead to the upper floor.
+~
+~
+0 -1 23604
+S
+#23602
+Room of Laws~
+This place is the room where all Justices' study the laws, and learn how
+to use them.  There is a big big plaque on the north wall, the code of Justice.
+There is also another big notice, a red curtain with silvery letters,
+the laws.
+~
+0 8388616 0
+D2
+Through the doorway, the main all can be seen.
+~
+~
+0 -1 23601
+S
+#23603
+The chapel~
+You are in the Chapel of Head Quarters.  This place is for those defenders
+of laws, not to heal, and rest but also to pray to their gods, and listen
+their cleric to learn the manners of praying.  The western and eastern
+walls of chapel have shelves enlarging from up to down, and hunderets of
+candles emiting their soft light in to the room.
+~
+0 8388616 0
+D1
+The oak doors lead to the main hall.
+~
+~
+0 -1 23601
+S
+#23604
+Upstairs~
+You are at the upstairs next to the stairway.  Only a single door can be
+seen to the west.  The symbol on the floor at downstairs is much visible
+from here.
+~
+0 8388616 0
+D3
+~
+~
+0 -1 23605
+D5
+You look at the symbol on the first floor, from the place you are standing.
+That is the sybol of Justice,  circled with swords of guards.
+~
+~
+0 -1 23601
+S
+#23605
+Mayor's Room~
+You are in the mayor's room.  The mayor is too busy with the city
+problems and he visits his room at the HeadQuarters so rare.  There is a
+big sign with a headline saying: 'Tips for new Justices' on the wall.
+~
+0 8388616 0
+D1
+~
+~
+0 -1 23604
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 23600 1 23600 1
+G 0 23601 0
+O 0 23600 0 23602
+M 0 23601 1 23603 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#23600
+IF cabal $n enforcer
+say Very well, $n. Protect the city of Midgaard.
+mob gtransfer $n 3014
+ELSE
+yell FOOL! Feel the decree of my judgement!
+mob echoat $n The Enforcer creates a broadsword of pure energy and brings it down upon your body, searing your flesh!
+mob damage $n 500
+ENDIF
+~
+#23601
+IF cabal $n enforcer
+say Very well, $n. Protect the city of New Thalos.
+mob gtransfer $n 9506
+ELSE
+mob echoat $n The Enforcer creates a broadsword of pure energy and brings it down upon your body, searing your flesh!
+mob damage $n 500 1000
+ENDIF
+~
+#23602
+IF cabal $n enforcer
+say Very well, $n. Go protect the city of Tar Valon.
+mob gtransfer $n 1814
+ELSE
+mob echoat $n The Enforcer creates a broadsword of pure energy and brings it down upon your body, searing your flesh!
+mob damage $n 500 1000
+ENDIF
+~
+#23603
+IF cabal $n enforcer
+mob gtransfer $n 23603
+mob vforce 23601 say Welcome back, Enforcer.
+ELSE
+smirk $n
+say You do not protect this city.
+ENDIF
+~
+#23604
+IF act $n criminal
+yell You can not run from me, Criminal!!
+mob kill $n
+ELSE
+say Greetings, citizen.
+ENDIF
+~
+#0
+
+#$

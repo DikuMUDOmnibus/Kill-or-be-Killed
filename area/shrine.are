@@ -1,0 +1,75 @@
+#AREADATA
+Name Deomanix's Shrine~
+Builders None~
+VNUMs 3300 3399
+Credits {SHRINE} Deomanix The Shrine of Deomanix~
+Security 9
+End
+
+#MOBILES
+#3333
+seeker infinity~
+a Seeker of Infinity~
+A Seeker of Infinity is here watching over his Lords shrine.
+~
+He looks back at you slowly and then goes back to his meditations.
+~
+unique~
+ABGa DFHNOTU 0 0
+1 0 1d1+9 9d9+9 9d9+9 pound
+0 0 0 0
+0 0 0 0
+stand stand none 0
+AHMV ABCDEF medium 0
+M greet 3333 100~ 
+
+#0
+
+#OBJECTS
+#3333
+tome infinity~
+the Tome of Infinity~
+A tome embossed with the symbol of Infinity hovers here.~
+~
+treasure ABG N
+0 0 0 0 0
+0 5 0 P
+E
+tome infinity~
+Those who follow Deomanix are known as the Seekers of Infinity. Deomanix is magic, he created it, and is one with it. There can be no Magic without him. Magic is outside of time, only when wielded by mortals are limitations put upon it. Followers who seek the mark of Infintate Tome know that it is only by the feeble mind of most mortals that magic finds its limits. They seek to free thier mind andgather as much knowledge as possible so they may know the true power availible to them. Deomanix is also the Lord of the Tower of the Five Magics, he therefore holds to the ideals of the Tower as well. ~
+#0
+
+
+#ROOMS
+#3333
+A blinding white light~
+There is no way to tell where you are right now. All about you the air seems to ebb and flow with magic. There is a feeling of electricity around you and your skin tingles. There is a large Tome floating in the middle of the room with the mark of infinity embossed upon it.
+~
+0 NUW 9
+H 500 M 500
+D5
+~
+~
+0 -1 1450
+S
+#0
+
+
+#RESETS
+M 1 3333 1 3333 1			a Seeker of Infinity to A blinding white light
+O 1 3333 100 3333                        
+S
+
+
+#SPECIALS
+M  3333 spec_cast_cleric			a Seeker of Infinity
+S
+
+#MOBPROGS
+#3333
+	emote slowly looks you over.
+	say Unless you have business with my Lord it is not wise to loiter.
+	emote goes back to his meditations.
+~
+#0
+#$

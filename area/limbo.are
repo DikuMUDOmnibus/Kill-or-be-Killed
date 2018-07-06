@@ -1,0 +1,718 @@
+#AREADATA
+Name Limbo~
+Builders None~
+VNUMs 1 110
+Credits {None } Diku    Limbo~
+Security 9
+End
+
+
+
+#MOBILES
+#3
+massive lich~
+a massive lich~
+A massive lich stands here holding a potion, offering to sell you a way out.
+~
+~
+lich~
+A DTUZ 0 0
+100 60 100d100+1000 100d100+1000 100d100+50 defilement
+-100 -100 -100 -100
+ACDEFHIJKN ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant bone
+F vul HKN
+M GREET 3 100~
+#4
+trogdor burninator dragon~
+Trogdor the Burninator~
+Trogdor the Burninator is here burninating everything!
+~
+~
+dragon~
+AV JT -1000 0
+100 77 100d100+1000 100d100+1000 77d77+77 claw
+100 100 100 100
+ACDFHMO 0 BEH 0
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant scales
+F vul FI
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+money 0 A
+1 0 0 0 0
+0 10 0 P
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money 0 A
+0 1 0 0 0
+0 10 0 P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 P
+#6
+korinth sword~
+the Korinth d'Verin~
+The Korinth d'Verin lies here, pulsing with incredible power.~
+energy~
+weapon ABCEGHIJLMYZ AN
+sword 30 60 acidicbite DE
+60 0 1000000 P
+A
+19 500
+A
+18 500
+L
+1
+#7
+potion return~
+a potion of return~
+A potion of return lies here upon the ground.~
+glass~
+potion Y AO
+100 'power word kill' '' '' ''
+1 1 1000 P
+E
+potion~
+The label on the pill reads "GUARANTEED TO SEND YOU TO YOUR TEMPLE"
+~
+E
+return~
+The label on the pill reads "GUARANTEED TO SEND YOU TO YOUR TEMPLE"
+~
+#8
+belbol sword~
+the Belbol d`Elghinn~
+The Belbol d`Elghinn lies here, pulsing with incredible power.~
+energy~
+weapon ABCEGHIJLMYZ AN
+sword 30 60 darkwrath DE
+60 0 1000000 P
+A
+19 500
+A
+18 500
+L
+1
+#9
+dragonweapon~
+a dragonweapon~
+_~
+energy~
+weapon AGIKLP ANW
+exotic 1 1 wrath 0
+0 100 0 G
+R
+Y
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+0 1000 0 D
+#11
+corpse pccorpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+0 10000 0 D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+trash 0 A
+0 0 0 0 0
+0 50 0 D
+#13
+heart~
+the heart of %s~
+The bloodied, torn-out heart of %s is lying here.~
+meat~
+food 0 A
+16 16 0 0 0
+0 20 0 D
+#14
+arm~
+the arm of %s~
+The disembodied arm of %s is lying here.~
+meat~
+food 0 A
+20 20 0 0 0
+0 50 0 D
+#15
+leg~
+the leg of %s~
+The chopped-off leg of %s is lying here.~
+meat~
+food 0 A
+20 20 0 0 0
+0 50 0 D
+#16
+guts entrails intestines~
+the guts of %s~
+A steaming pile of %s's intestines are lying here.~
+meat~
+food 0 A
+5 5 0 A 0
+0 20 0 D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+food 0 A
+10 10 0 0 0
+0 20 0 D
+#18
+pill return~
+a pill of return~
+A potion of return lies here upon the ground.~
+glass~
+pill Y AO
+100 'power word kill' 'reserved' 'reserved' 'reserved'
+1 1 1000 P
+E
+return~
+The label on the pill reads "GUARANTEED TO SEND YOU TO YOUR TEMPLE"
+~
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+food~
+food 0 A
+8 8 0 0 0
+0 10 0 P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light A A
+0 0 999 0 0
+0 0 0 P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+water~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container GMPUYZ AQ
+0 E 0 0 0
+0 0 0 P
+#24
+guitar fender jazzmaster~
+a Fender Jazzmaster with Marijuana inlays~
+A beautifully crafted guitar lies here catching your eye.~
+wood~
+instrument AB AO
+0 0 0 0 0
+14 5 140 P
+A
+13 50
+A
+12 50
+A
+19 5
+A
+18 5
+#25
+portal acidic shimmering~
+a shimmering acidic portal~
+A shimmering portal composed of acidic secretion is erected here.~
+shadow~
+portal GOT 0
+1 0 0 3 0
+0 0 0 P
+#26
+death chair electric~
+the electric chair~
+A menacing, crackling electric chair sits in the center of the room.~
+steel~
+furniture 0 0
+10 5000 EH 1000 1000
+0 0 0 P
+#27
+graelik throne~
+Graelik's throne~
+Here is Graelik's throne, you would be well advised not to sit in it.~
+wood~
+furniture CEGOY 0
+1 0 E 0 0
+60 900 1000000 P
+L
+1
+#30
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects~
+~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#45
+scalp~
+the bloody scalp of %s~
+The blood scalp of %s lays here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#49
+tattoo crimson jackass~
+tattoo of the crimson jackass~
+You are looking at the tattoo of nobody.~
+flesh~
+armor AHTb APR
+-50 -50 -50 -50 0
+60 1 0 A
+A
+19 -50
+A
+18 -50
+A
+13 -500
+A
+12 -500
+#50
+instrument recorder~
+a newbie recorder~
+A newbie recorder lies here.~
+wood~
+instrument A AO
+ABCD ABCD ABCD ABCD 0
+51 1 1 A
+A
+18 5
+A
+19 5
+#57
+tattoo damned blunt~
+tattoo of the damned blunt~
+You are looking at the tattoo of Detlef.~
+flesh~
+armor AHTb APR
+15 15 15 15 0
+60 1 0 A
+A
+18 25
+A
+19 25
+#58
+tattoo tome infinite~
+mark of the infinite tome~
+You are looking at the tattoo of Deomanix.~
+flesh~
+armor AHTb APR
+15 15 15 15 0
+60 1 0 A
+A
+18 5
+A
+19 5
+A
+12 500
+#59
+tattoo kraenesk~
+mark of the dark dragon~
+You are looking at the tattoo of Kraenesk~
+flesh~
+armor AHTb APR
+10 10 10 10 0
+60 1 0 A
+#60
+tattoo rhiannon~
+a hoofprint of stardust~
+You are looking at the tattoo of Rhiannon~
+flesh~
+armor AHTb APR
+10 10 10 10 0
+60 1 0 A
+#64
+tattoo vasilis~
+the reticulated python~
+You are looking at the tattoo of Vasilis.~
+flesh~
+armor AHTb APR
+10 10 10 10 0
+60 1 0 A
+A
+18 8
+A
+19 8
+F
+A 0 0 c
+#65
+tattoo grikthoran golden gauntlet~
+a golden gauntlet with five gems~
+The tattoo is golden in color with five gemstones gleaming across the top.~
+flesh~
+armor AHMTYZb APR
+10 10 10 10 0
+60 1 0 P
+A
+18 5
+A
+19 5
+A
+2 1
+A
+20 -3
+#66
+tattoo kelset~
+An Anvil Wreathed in Flames~
+You are looking at kelset's brand.~
+flesh~
+armor AHTb APR
+0 0 0 0 0
+60 1 0 A
+A
+1 50
+A
+5 50
+A
+13 100
+#67
+tattoo dhayton~
+the virulent dagger~
+You are looking at the tattoo of dhayton.~
+flesh~
+armor AHTb APR
+20 20 20 20 0
+60 1 0 A
+A
+18 15
+A
+19 15
+#70
+tattoo liriel~
+golden leaf~
+This is Liriel's tattoo.~
+flesh~
+armor AHITb APR
+20 20 20 20 0
+60 1 0 A
+A
+18 15
+A
+19 15
+#71
+tattoo merthairu~
+the onyx seedling~
+You are looking at the tattoo of merthairu.~
+flesh~
+armor AHTb APR
+20 20 20 20 0
+60 1 0 A
+A
+18 15
+A
+19 15
+#72
+ceial tattoo~
+a Crimson Shroud~
+You looking at Ceial's tattoo.~
+unknown~
+trash ABCEMY AR
+0 0 0 0 0
+60 0 0 P
+#77
+tattoo graelik rotting skull~
+tattoo of a rotting skull~
+A small, thin layer of flesh with ink on it lies here.~
+flesh~
+armor AHTb APR
+20 20 20 20 0
+60 0 0 P
+A
+17 -10
+A
+24 -20
+A
+18 6
+A
+19 6
+#78
+Tattoo Oak Tree~
+a {GOak Tree{x seeming to {rBurn{x with a {gGreen Light{x~
+{YYou are Stareing At The Tattoo Of A {GGreat Ent{x~
+Leaves~
+armor AB APR
+20 20 20 20 0
+58 0 0 P
+A
+6 -2
+A
+19 2
+A
+28 2
+A
+24 -10
+A
+12 25
+A
+13 25
+#100
+sword~
+newbie sword~
+A newbie sword is here.~
+steel~
+weapon PU AN
+sword 5 9 slash 0
+50 90 100 P
+A
+18 2
+A
+19 2
+#101
+dagger~
+newbie dagger~
+A newbie dagger is here.~
+steel~
+weapon PU AN
+dagger 5 9 pierce 0
+50 5 100 P
+A
+18 2
+A
+19 2
+#102
+mace~
+newbie mace~
+A newbie mace is here.~
+steel~
+weapon PU AN
+mace 5 9 pound 0
+50 5 100 P
+A
+18 2
+A
+19 2
+#103
+spear~
+newbie spear~
+A newbie spear is here.~
+wood~
+weapon PU AN
+spear 5 9 thrust 0
+50 5 100 P
+A
+18 2
+A
+19 2
+#104
+staff~
+newbie staff~
+A newbie staff is here.~
+wood~
+weapon PU AN
+staff 5 9 pound 0
+50 5 100 P
+A
+18 2
+A
+19 2
+#105
+axe~
+newbie axe~
+A newbie axe is here.~
+bronze~
+weapon PU AN
+axe 5 9 chop 0
+50 5 100 P
+A
+18 2
+A
+19 2
+#106
+flail~
+newbie flail~
+A newbie flail is here.~
+bronze~
+weapon PU AN
+flail 5 9 crush 0
+50 50 100 P
+A
+18 2
+A
+19 2
+#107
+whip~
+newbie whip~
+A newbie whip is here.~
+~
+weapon PU AN
+whip 5 9 whip 0
+50 50 100 P
+A
+18 2
+A
+19 2
+#108
+polearm~
+newbie polearm~
+A newbie polearm is here.~
+wood~
+weapon PU AN
+polearm 5 9 slash 0
+50 100 100 P
+A
+18 2
+A
+19 2
+#109
+banner~
+newbie banner~
+A newbie banner is here.~
+cloth~
+light AG A
+0 0 200 0 0
+0 5 1 P
+#110
+armor~
+newbie armor~
+A newbie armor is here.~
+leather~
+armor U AD
+5 5 5 5 0
+0 5 1 P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are floating in nothing.
+~
+0 12 1
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+D4
+~
+~
+0 -1 3001
+S
+#3
+Graelik's Lair~
+As you look around, you can't make out much of anything.  The air is
+completely dark.  However, a rich smell of acid overcomes you as a small
+drop hits your arm causing your skin to burn slightly.  
+~
+0 13115404 0
+S
+#110
+(null)~
+~
+0 0 2
+S
+#0
+
+
+
+#SPECIALS
+M 3 spec_breath_acid
+M 4 spec_breath_fire
+S
+
+
+
+#RESETS
+O 0 27 0 3
+M 0 4 1 3 1
+M 0 3 1 3 1
+G 0 7 0
+E 0 7 0 17
+S
+
+
+
+#SHOPS
+3 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#3
+IF isimmort $n
+say You could buy one of my potions...or just use the goto command.
+mutter
+whis What a dumbass.
+ELSE
+whis Might I offer you this potion, $n?
+whis Its rather cheap, and I assure you... its the only thing that will get you out of here.
+whis Unless of course, Lord Graelik finds you worth his mercy.
+ENDIF
+~
+#4
+emote glances around the room looking for someone to torch.
+say I suppose you'll do...
+emote stares at you before opening his mouth and releasing a blast of flames at you.
+~
+#5
+IF isimmort $n
+say You don't really think your going to fighten me do you?
+smirk $n
+ELSE
+say You don't really think you can fighten me do you?
+say You may as well just have a seat instead.
+emote nudges you towards the throne with a sly look on his face.
+whisper It's really quite comfortable.
+ENDIF
+~
+#0
+
+#$

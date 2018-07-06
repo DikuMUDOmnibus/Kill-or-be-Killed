@@ -1,0 +1,3876 @@
+#AREADATA
+Name The Dragon Tower~
+Builders None~
+VNUMs 11400 11599
+Credits {35 up} Barsak  The Dragon Tower~
+Security 9
+End
+
+
+
+#MOBILES
+#11400
+young dragon small~
+a young dragon~
+A small, spotted dragon lies here, looking at you through lazy eyes.
+~
+He is a decent sized dragon, around 20 feet in height/length. You can't
+exactly make out what type of dragon he is, because his spots are not like
+any you have seen before. He spurts a little fire from his nose, yawns, and
+stretches out before you.
+~
+dragon~
+ACGH JOT -1000 11400
+38 3 10d10+1600 1d1+1 5d6+13 flame
+-13 -13 -13 -13
+DFHNU HK BEH FI
+rest stand male 0
+AHZ ACDEFGHIJKPQUVX huge 0
+#11401
+draconian guard~
+a draconian gate guard~
+A tall draconian figure stands here guarding the gate.
+~
+His muscles ripple as he clenches his sword tightly, barring passage to those
+who wish to hurt the dragons. He has sworn to protect them and that he has 
+done so far. Long black hair flows down past his shoulders, knotting in places
+and stuck together with dried blood in others. One thing you gather is that he
+will protect the Towers with his life.
+~
+human~
+ABCGT JOT -1000 11401
+35 4 10d10+1300 1d1+1 4d7+12 claw
+-11 -11 -11 -11
+CDEK 0 H I
+stand stand male 300
+AHMV ABCDEFGHIJK medium 0
+#11402
+royal draconian guard~
+a royal draconian guard~
+A tall draconian dressed in fine clothing searches the area for intruders.
+~
+He looks as though he has been through many years of training and servitude
+to the tower. His long face seems to give way to his dark eyes and hair, 
+making his somewhat pale complextion distort the contours of his face.
+~
+human~
+ABGT NOTVc -1000 11402
+45 6 25d10+3600 1d1+1 8d6+17 claw
+-16 -16 -16 -16
+ADFNV AH CD I
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#11403
+guardian dragon pain~
+the Guardian of Tiamat~
+A huge dragon rests atop a pile of bones, destroying those who defy his lady.
+~
+He is Huge indeed. He is the Guardian of the 5-Headed Dragon, Tiamat. He 
+rests atop a large pile of bones, picked clean of flesh, and is ready to 
+attack any who enter his Lady's sanctuary. He is greyish in color and large
+claws give you the impression that he is both fearless, as well as powerful
+in mind and spirit.
+~
+dragon~
+ABGRT DFHJOTV 0 0
+52 8 1d1+3499 1d1+1 9d9+35 claw
+-20 -20 -20 -20
+ACDFHVX A BCDEH FI
+stand stand male 3300
+AHZ ACDEFGHIJKPQUVX giant 0
+#11404
+Tiamat dragon~
+Tiamat~
+An enormous five-headed dragon stands here, each of it's heads hissing.
+~
+She is the power behind this very large tower. The oldest among the dragons
+and probably the strangest looking, she gained power through cheating, 
+treachery, lies and murder. Of course, the five heads, each with a distinct
+difference, give her alot of her strength, as well. None of the draconian  
+guardians know how or why with Tiamat. Only that she now controls them..
+~
+dragon~
+ABGT DFHJOTV -1000 0
+65 6 1d1+19999 1d1+1 10d50+27 claw
+-31 -31 -31 -31
+ADFVXa AEK BDEH FI
+stand stand female 15000
+AHZ ACDEFGHIJKPQUVX giant 0
+#11405
+draconian king~
+the Draconian King~
+The Draconian King sits here at the table, glowing with royalty.
+~
+His very personality shines with a ruling order. His small black eyes with a
+yellow slit down the middle of each glare down at you. He looks around the 
+banquet table and picks a few delicacies which he promptly devours, and lifts
+his head toward you. In a big grin he shows you a mouth full of razor sharp
+fangs. 
+~
+human~
+ABCGT DFHT -1000 0
+47 3 1d1+6399 1d1+1 9d7+19 claw
+-14 -14 -14 -14
+ACN ABH C FI
+sit stand male 3012
+AHMV ABCDEFGHIJK huge 0
+#11406
+dragon ancient green~
+the Ancient Green Dragon~
+A large dragon with shimmering green scales turns to you in anger.
+~
+This dragon seems to be angry at someone.. or something. The unfortunate part
+is that you have decided to enter this lair and the dragon now forces all 
+it's bottled up anger out at you. It's green dragonscales shimmer in the dim 
+light of the cavern and his dark red eyes glare down at you. 
+~
+dragon~
+ABT DFHJTV -1000 0
+53 6 1d1+5999 1d1+1 6d8+24 claw
+-22 -22 -22 -22
+ACDFKNVX ABL BCEH FI
+stand stand male 1239
+AHZ ACDEFGHIJKPQUVX giant 0
+#11407
+red dragon ancient~
+the Ancient Red Dragon~
+A huge red dragon paces around his lair, hungry for blood and meat.
+~
+It's very large body seems almost demonic in nature. When it stretches it's
+huge frame to it's fullest, the dark lair seems too small for such a beast. 
+It's bloodshot eyes hold a dark rage that seems spawn of the Dark Gods and 
+it spits fire at any who oppose it.
+~
+dragon~
+ABT DFHJTV -1000 0
+53 7 1d1+6799 1d1+1 6d11+29 claw
+-22 -22 -22 -22
+ACDEFHNVX ABH BEH FI
+stand stand male 1871
+AHZ ACDEFGHIJKPQUVX giant 0
+#11408
+white dragon ancient~
+the Ancient White Dragon~
+A brightly shimmering white dragon sits here, contemplating your life.
+~
+It's shimmering dragonscales are a bright white and it radiates a cold that
+gives a false impression of joy and peace. Note: False impression. This large
+beast is neither joyful or peaceful. It is angry that you have disturbed it's
+icy sleep. 
+~
+dragon~
+ABT DFHJTV -1000 0
+53 5 1d1+6499 1d1+1 7d11+22 claw
+-23 -21 -21 -25
+ACDEKVX ABI BDEH FHI
+stand stand either 1273
+AHZ ACDEFGHIJKPQUVX giant 0
+#11409
+blue dragon ancient~
+the Ancient Blue Dragon~
+An Ancient Blue Dragons rests here, small sparks sizzle from his body.
+~
+It's bright blue scales shimmer with electrical energy while it's huge body
+becomes an enormous current of power. He gazes at you in anger and rage for
+defiling his sacred lair, leaving no alternative than to destroy you. It is
+one of the larger dragons in the tower, almost tall enough to hit it's head 
+on the rock ceiling.
+~
+dragon~
+ABT DFHJTV -1000 0
+54 9 1d1+6199 1d1+1 7d12+21 claw
+-25 -22 -21 -23
+ACDEKVX ABJ BDEH FI
+stand stand male 1992
+AHZ ACDEFGHIJKPQUVX giant 0
+#11410
+black dragon ancient~
+the Ancient Black Dragon~
+A great black dragon is standing here, defending it's home from visitors.
+~
+It's great black scales are large and look pitted from years of acid spittle.
+The great beast smashes it's large talons into the wall, clawing at the rock
+in an ancient sharpening technique. He then turns his gaze to you and snarls 
+at you, preparing to show you another sharpening technique.
+~
+dragon~
+ABT DFHJTV -1000 0
+54 4 1d1+5299 1d1+1 6d9+26 claw
+-24 -25 -18 -26
+ADEHNVX ABK BDEH FI
+stand stand male 2342
+AHZ ACDEFGHIJKPQUVX giant 0
+#11411
+shadow dark dragon~
+the dark Shadow Dragon~
+A very shifty-eyed dragon is resting in the shadows here, awaiting victims.
+~
+It is one of the darkest beasts you have ever seen. The actual size of it 
+alone shows it to be one that is aligned with not only darkness, but the 
+surroundings, as well. It's seems almost like a cross-breed of a black dragon
+and a green dragon, seeing how it can spit both acid and a poisonous gas.
+~
+dragon~
+ABT DFHJQTV -1000 0
+55 2 1d1+6499 1d1+1 7d8+34 claw
+-22 -22 -22 -22
+ADEFGNVX AB BDEH FHI
+stand stand male 2772
+AHZ ACDEFGHIJKPQUVX giant 0
+#11412
+demon dark assassin~
+the demon assassin~
+A dark-looking demon howls in anger at your intrusion!
+~
+One of the few surviving demons that were summoned long ago by a dark mage, 
+this demon sells his services to the Great Lords of the realm in return for
+magical feed, as well as gold. Lots of gold.
+~
+human~
+ABCGOT DFHOTc -1000 0
+53 9 1d1+6999 1d1+1 8d8+27 flbite
+-24 -22 -21 -21
+CDEFJNVX ABHM D I
+stand stand male 11230
+AHMV ABCDEFGHIJK huge 0
+#11413
+draconian commoner~
+a draconian commoner~
+A tall, non-descript draconian walks by here.
+~
+~
+human~
+AC JNOTV -1000 0
+33 0 1d1+2199 1d1+1 6d4+10 pierce
+-11 -11 -11 -11
+DEFHKP 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#11414
+draconian queen~
+the Draconian Queen~
+A tall, beautiful draconian is here, jewels glittering from her large frame.
+~
+She is the beloved wife of the Draconian King. She mostly stays in her room,
+though, in fear of ruining any of her husband's precious negotiations. The
+jewels that dangle from her neck and wrist are of the finest quality, as it
+appears only royalty could afford them.
+~
+human~
+ABHQR DFHTU -1000 0
+50 3 1d1+5999 1d1+1 5d8+20 claw
+-20 -20 -20 -20
+DEFKNO ABH C I
+stand stand female 9000
+AHMV ABCDEFGHIJK medium 0
+#11415
+mage human~
+the Great mage~
+A tall human rests on his bed here, tired from magical exhaustion.
+~
+He spends day and night casting spells of binding power, trying to keep the
+portal he opened from collapsing. Long brown hair flows to his shoulders in
+a well-kept fashion, and fine silk clothes adorn his body. He tells you how
+much of a "guest" he is to the draconians. He was one of the few mages that's
+power was great enough to help re-build the entire tower. The draconians of
+course treat him almost as royalty, at the cost of his freedom. He will never
+leave and never live. 
+~
+human~
+ABHR DFHTU 1000 0
+53 0 1d1+7399 1d1+1 6d7+21 punch
+-26 -26 -26 -26
+FIK AB C 0
+rest stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#11416
+ranger human~
+the Great Ranger~
+A tall ranger sits cross-legged in the corner, contemplating his life.
+~
+Having read many books on peace, this man seems quite capable of settling any
+arguement the draconians raise. You piece together from what he says that he
+is a representative of the forests of Thera. Due to many a draconian killing
+many trees and wildlife, he has chosen to work out a deal with the king in 
+hopes of saving the forest.
+~
+human~
+ABCT DFHNV 1000 0
+54 5 1d1+7299 1d1+1 6d8+22 pound
+-25 -25 -25 -25
+ADEFJKN ABX 0 H
+sit stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#11417
+draconian fool~
+the draconian fool~
+A strangely dressed draconian dances foolishly here.
+~
+Quit the fool, dancing around in circles and juggling some balls high in
+the air. Smiling toothily, he does a backflip and jumps around, hoping that
+his attempt to entertain you didn't fail.
+~
+human~
+AC JNOTV -1000 0
+13 0 1d1+399 1d1+1 2d5+3 thwack
+-3 -2 -2 -2
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium 0
+#11418
+phase dragon~
+a phase dragon~
+A phase dragon shifts in and out of reality here.
+~
+Multi-colored, yet almost clear. These strange dragons flutter around you
+growling and chasing it's tail. It breaths a bit of fire on it's tail and 
+whimpers loudly, forcing a small chuckle out of you.
+~
+dragon~
+ACH JTUV -1000 0
+20 0 3d9+333 1d1+1 2d8+5 magic
+-4 -4 -4 -4
+FKN 0 BEH FI
+stand stand male 800
+AHZ ACDEFGHIJKPQUVX medium 0
+#11419
+small white dragon~
+a small white dragon~
+A small white dragon is here blasting ice on the walls.
+~
+Quite a small dragon indeed, standing only 18 feet in height he fits easily
+in this large corridor designed for dragons. Bright white dragonscales cover 
+his body and reflect the light beautifully. 
+~
+dragon~
+ACH JTUV -1000 0
+15 0 3d9+208 1d1+1 2d6+3 frbite
+-2 -2 -2 -2
+FKO I BDEH FHI
+stand stand male 900
+AHZ ACDEFGHIJKPQUVX huge 0
+#0
+
+
+
+#OBJECTS
+#11400
+talon chipped~
+a chipped talon~
+A small, chipped talon is here.~
+bone~
+weapon CEJM AN
+dagger 4 9 scratch D
+35 110 800 P
+A
+18 4
+E
+talon~
+It is in decent condition considering the circumstances. It looks as though 
+it was chipped in battle.
+~
+#11401
+bracer strong iron~
+a strong iron bracer~
+A small iron bracer rests here.~
+iron~
+armor AI AM
+7 7 7 7 0
+35 50 400 P
+A
+1 1
+A
+19 1
+A
+18 1
+#11402
+black iron longsword sword~
+a black iron longsword~
+A dark piece of iron has been forged into a longsword.~
+iron~
+weapon J AN
+sword 4 9 stab 0
+35 150 700 P
+A
+18 6
+#11403
+spiral dragon ring~
+a spiral dragon ring~
+A small dragon spirals around in the shape of the ring.~
+skin~
+armor ACEI AB
+9 9 9 12 0
+45 20 1000 P
+A
+19 2
+A
+13 25
+A
+1 1
+L
+20
+#11404
+ornate plate dragon draconian~
+an ornately designed dragonplate~
+An ornately designed piece of dragonplate is here.~
+dragonscale~
+armor BEM AD
+10 10 10 10 0
+45 10 900 P
+A
+1 2
+A
+19 2
+A
+18 2
+A
+5 2
+A
+17 -10
+L
+5
+#11405
+ornate dragon draconian plates leg legplates~
+some ornate dragon legplates~
+Some ornately designed legplates are here.~
+dragonscale~
+armor BEI AF
+10 10 10 10 0
+45 20 900 P
+A
+14 50
+A
+2 2
+A
+18 3
+L
+6
+#11406
+ornate dragon draconian plates arm armplates~
+a pair of ornate dragon armplates~
+A pair of ornately designed armplates are here.~
+dragonscale~
+armor BEI AI
+10 10 10 10 0
+45 90 900 P
+A
+1 2
+A
+19 2
+A
+13 45
+L
+7
+#11407
+royal claw~
+the Royal claw~
+A very finely crafted claw is here.~
+dragonscale~
+weapon AELT AN
+exotic 2 25 scratch 0
+45 140 900 P
+A
+18 5
+A
+19 2
+L
+2
+#11408
+potion shimmering~
+a shimmering potion~
+A strange looking potion shimmers here with power.~
+glass~
+potion AGHTU A
+50 'protective shield' 'curse' '' ''
+51 200 10000 P
+L
+5
+#11409
+shimmering key small~
+a small shimmering key~
+A small key is here.~
+etherealness~
+key ABPU A
+0 0 0 0 0
+1 53 0 P
+#11410
+hide protection silver~
+the Silver Hide of protection~
+A strong, tough-looking, silver hide is here.~
+flesh~
+armor CIJKQ AD
+14 15 13 19 0
+52 400 9000 P
+A
+17 -35
+A
+23 -10
+A
+4 -6
+L
+2
+#11411
+scales tiamat~
+the tight-looking scales of Tiamat~
+A large pile of beautiful scales sit here, glinting.~
+dragonscale~
+armor AGIMQ AD
+16 16 16 16 0
+52 400 9000 P
+A
+13 70
+A
+19 4
+A
+4 2
+L
+1
+#11412
+talisman heads five-headed~
+the five-headed talisman~
+A talisman is here with five dragon heads protruding from it, hissing.~
+dragonscale~
+treasure ABGMQ AC
+0 0 0 0 0
+52 100 9000 P
+A
+18 5
+A
+19 5
+E
+talisman heads~
+The heads are of five different dragons, each screaming as if being trapped
+inside the talisman by some magical force.
+~
+L
+1
+#11413
+bracelet influence draconian~
+bracelet of draconian influence~
+A small bracelet made of dragon bones, emitting raw power, is here.~
+bone~
+armor BEGMQ AM
+9 9 10 15 0
+52 12 9000 P
+A
+1 4
+A
+17 -20
+A
+19 4
+A
+13 35
+L
+2
+#11414
+claw tiamat~
+the Claw of Tiamat~
+A huge, very sharp claw of the great five-headed dragon, Tiamat, is here.~
+dragonscale~
+weapon ABHIM AN
+exotic 8 7 claw 0
+52 300 9000 P
+A
+13 20
+A
+19 4
+L
+1
+#11415
+platinum signet ring~
+a platinum signet ring~
+A small platinum ring is here, bearing a diamond studded signet.~
+platinum~
+armor AGM AB
+10 10 10 10 0
+50 30 9000 P
+A
+12 35
+A
+3 1
+A
+1 -2
+L
+10
+#11416
+crown dragon black scales~
+the Great Crown of dragon scales~
+Some dark scales have been hammered into a crown here.~
+dragonscale~
+armor ABT AE
+9 3 9 1 0
+50 200 2000 P
+A
+19 5
+A
+2 -3
+A
+13 35
+A
+24 10
+A
+3 -4
+A
+5 -4
+L
+2
+#11417
+scorched black robe fire~
+a black and scorched robe~
+A black robe that has been scorched by some fire is here.~
+cloth~
+armor EJLM AK
+4 4 5 5 0
+30 120 500 P
+A
+18 2
+A
+2 2
+A
+23 -10
+L
+10
+#11418
+flame mace~
+a huge mace named 'Flame of the Tower'~
+A flaming mace is here, glowing with a strange magic.~
+fire~
+weapon AM AN
+mace 5 10 flbite 0
+50 210 9000 P
+A
+19 1
+A
+13 20
+L
+1
+#11419
+skull bloody head green~
+the bloody skull of the Green Dragon~
+A bloody, severed skull of the Green Dragon is here.~
+flesh~
+armor BEQ AE
+11 11 12 11 0
+51 150 900 P
+A
+3 3
+A
+5 2
+A
+18 4
+A
+19 2
+L
+3
+#11420
+gloves green dragon~
+a pair of green dragonskin gloves~
+A pair of green dragonskin gloves are here, bleeding strangely.~
+flesh~
+armor MQ AH
+9 9 12 10 0
+50 80 900 P
+A
+19 3
+A
+13 45
+A
+1 1
+L
+5
+#11421
+red dragon ribcage rib cage~
+the ribcage of the Red Dragon~
+A large ribcage of some enormous beast is here steaming.~
+bone~
+armor JLQ AD
+12 6 8 9 0
+51 350 9000 P
+A
+13 45
+A
+12 40
+A
+19 2
+L
+4
+#11422
+sleeves dark red dragon~
+the pair dark, red dragonsleeves~
+A pair of dark red sleeves emitting horror and rage are here.~
+dragonscale~
+armor BGMQ AI
+15 15 15 5 0
+31 200 9000 P
+A
+1 2
+A
+13 20
+A
+19 3
+L
+6
+#11423
+girdle white dragon frozen freezing~
+the freezing girdle of the White Dragon~
+The frozen bones of the White Dragon are here in the form of a girdle.~
+dragonscale~
+armor AIQ AL
+4 5 4 2 0
+51 130 9000 P
+A
+17 -25
+A
+12 10
+A
+19 2
+L
+9
+#11424
+orb dragon dragonkind~
+the Orb of Dragonkind~
+A small, strange-looking Orb is here, humming intensively.~
+glass~
+treasure AB AO
+0 0 0 0 0
+52 20 90000 P
+A
+12 50
+A
+3 7
+A
+4 7
+A
+17 -10
+E
+orb dragonkind~
+It hums loudly when you touch the outer surface. The orb is cold to the 
+touch, yet is warm, as well. Feelings of passiveness and aggression mingle as
+peace, harmony, love, rage, destruction, darkness, light and balance all
+flow within you. 
+~
+L
+1
+#11425
+bracelet frost ice~
+a bracelet of frost~
+A small wrist bone seems to have been encased in ice here.~
+bone~
+armor AQ AM
+7 7 7 7 0
+45 60 9000 P
+A
+13 25
+A
+23 -10
+L
+17
+#11426
+blue dragon talon~
+the talon of the Blue Dragon~
+A sharp talon of the Ancient Blue Dragon is here.~
+bone~
+weapon MQ AN
+dagger 6 8 shbite D
+50 60 9000 P
+A
+18 -3
+A
+19 7
+L
+3
+#11427
+blue leggings legs scales dragon~
+the scaled Leggings of the Blue Dragon~
+A pair of scales from the Ancient Blue Dragon are here in the form of legs.~
+dragonscale~
+armor IQ AF
+9 10 9 9 0
+50 100 9000 P
+A
+19 3
+A
+24 -5
+A
+18 2
+A
+13 15
+L
+3
+#11428
+hide black dragon~
+the Hide of the Ancient Black Dragon~
+A hide of a black dragon is here.~
+dragonscale~
+armor IQ AD
+10 10 10 10 0
+50 200 9000 P
+A
+18 2
+A
+19 2
+A
+13 15
+L
+2
+#11429
+claws black dragon~
+the Claws of the Black Dragon~
+A pair of dark claws of a huge beast are here.~
+dragonscale~
+armor AQ AH
+8 9 11 12 0
+50 110 9000 P
+A
+18 3
+A
+19 2
+A
+13 25
+A
+17 -10
+L
+3
+#11430
+talons black dragon~
+the Talons of the Black Dragon~
+A pair of dark talons of a huge beast are here.~
+dragonscale~
+armor Q AG
+9 10 6 9 0
+50 80 9000 P
+A
+19 4
+A
+2 -3
+A
+1 2
+A
+20 10
+L
+1
+#11431
+hide shadow dragon~
+the Hide of the Shadow Dragon~
+A dark hide is sitting here in the corner of the room.~
+dragonscale~
+armor Q AD
+10 10 10 10 0
+50 200 7000 P
+A
+14 80
+A
+2 3
+A
+19 3
+L
+2
+#11432
+claw dark dragon~
+the Dark claw~
+A dark and deadly looking claw rests here.~
+bone~
+weapon ABMQ AN
+exotic 7 6 drain C
+51 50 9000 P
+A
+19 8
+L
+1
+#11433
+belt tongues grotesque~
+a grotesque belt of tongues~
+A pile of hideous tongues sit in the corner.~
+flesh~
+armor AEGHIJM AL
+3 4 6 2 0
+50 20 9000 P
+A
+19 2
+A
+13 50
+L
+2
+#11434
+knife demon-headed demonic~
+the demon-headed knife~
+A strange-looking knife is here, evil oozing from it.~
+iron~
+weapon BEGHIJM AN
+dagger 10 5 acbite 0
+60 90 9000 P
+A
+19 -2
+A
+1 -3
+E
+knife demon-headed~
+The knife looks to be extremely evil, radiating a red aura and almost 
+enveloping the surrounding good. A strange humming can be heard as you
+hold it.
+~
+L
+1
+#11435
+diamond necklace beautiful~
+a beautiful diamond necklace~
+A beautiful diamond necklace is here.~
+diamond~
+treasure AB AC
+0 0 0 0 0
+50 20 9000 P
+A
+13 25
+A
+17 -10
+#11436
+bracelet chain gold gold-chained~
+a gold-chained bracelet~
+A piece of chain is here, wrapped exclusively in gold.~
+gold~
+treasure A AM
+0 0 0 0 0
+50 30 9000 P
+A
+12 25
+A
+17 -10
+#11437
+fine collar~
+a fine-looking collar~
+A fine-looking collar is here.~
+gold~
+armor AB AC
+10 10 10 10 0
+55 40 90000 P
+A
+17 -10
+A
+13 20
+A
+12 25
+L
+18
+#11438
+white wizard robe magic~
+the white robe of wizardry~
+A powerful looking white robe is here, glowing with magical energy.~
+energy~
+armor ABGHL AK
+12 12 12 12 0
+55 10 9000 P
+A
+3 3
+A
+2 3
+A
+17 -13
+A
+18 4
+A
+12 20
+A
+13 20
+A
+2 2
+A
+23 -10
+L
+1
+#11439
+symbol greater magic~
+the symbol of Greater Magic~
+A strange symbol glows on the floor.~
+energy~
+armor ABGHIM AO
+1 1 1 1 0
+55 10 9000 P
+A
+12 50
+A
+24 -15
+A
+4 5
+A
+17 -14
+A
+3 5
+L
+1
+#11440
+spiked staff wood glades~
+a spiked staff of glades~
+A long, spiked staff is here.~
+wood~
+weapon AB AN
+staff 2 28 smash 0
+50 120 9000 P
+A
+13 45
+L
+3
+#11441
+wooden bracers warrior forest~
+the bracers of the forest~
+A pair of wooden bracers are here, reminding you of the forest.~
+wood~
+armor B AI
+8 8 8 8 0
+50 130 9000 P
+A
+14 55
+A
+19 4
+A
+18 4
+L
+1
+#11442
+boots forest walk~
+the boots of forest walk~
+A pair of light cloth boots sit here in the corner.~
+cloth~
+armor 0 AG
+11 11 11 11 0
+50 60 9000 P
+A
+14 30
+A
+18 3
+A
+2 2
+A
+19 2
+L
+8
+#11443
+vine bracelet~
+a vine bracelet~
+A small piece of vine has been wrapped into a bracelet here.~
+wood~
+armor B AM
+6 6 6 6 0
+35 20 9000 P
+A
+17 -14
+A
+19 2
+L
+30
+#11444
+juggling balls~
+a set of juggling balls~
+A small pile of juggling balls sit here.~
+wood~
+armor GI AO
+4 4 4 4 0
+20 50 90 P
+A
+4 1
+A
+5 3
+#11445
+jester hat~
+the jester hat~
+A large, floppy hat with bright colors and a ball attached is here.~
+cloth~
+armor GI AE
+7 7 7 7 0
+20 60 90 P
+A
+17 -10
+#11446
+scroll~
+scroll~
+A slightly unraveled scroll is here, moving with the breeze.~
+parchment~
+trash 0 A
+0 0 0 0 0
+40 5 0 P
+E
+scroll~
+You look at the writing on the scroll. It appears to be a letter.
+~
+E
+letter~
+Dear Kinsdragon,
+How is life serving the great Lady of Magic? Surely not as
+interesting as guarding a hidden hoard within the Tower of
+the Dragons. I brag this day because I have done a perfectly
+evil thing, and nobody ever comes around to visit and hear of
+my evil deeds.
+Recently a mage wandered in, one not devoted to any of the
+gods nor goddess, and saw the ancient tome I guard, the
+Ancient Grimoire of the True Dragons. It is, of course,
+written in the tongue of our people. This mage seemed to
+have some knowledge of our tongue, for he read through some
+of it, got an excited look on his face, and asked me politely
+if he could translate it for his own use, leaving me the
+original.
+He amused me, Shadows, so I let him live and work in the
+
+
+safety of my wing and breath. All who entered were toasted
+or roasted, and sometimes we ate well although if his own
+kind ended up dead on the floor he did not dine with me.
+When he finished his copy of the Ancient Grimoire of the
+True Dragons, I asked to see his translation. It was a very
+good rendering of the Old Tongue.
+Suffice it to say, translator mages are very delicious.
+Wish you had been here to share the victuals. I trust
+the elf-Lady keeps you well-fed?
+Deep-Shadow
+Tower of the Dragons
+P.S.--Send the messenger who bears this scroll to visit our
+kinsdragon Garna. He stole a trinket of mine when he thought
+I wasn't looking, the fool. Garna will return it if she
+values her life after enjoying elf-meat.
+~
+#11447
+grimoire dragons translation~
+translation of the Ancient Grimoire of the True Dragons~
+A small book is on the ground.~
+vellum~
+treasure GQY A
+0 0 0 0 0
+0 0 0 P
+E
+grimoire translation~
+This is all I managed to translate from ancient texts found while
+searching for a way to enhance our magic to such strength that it
+would defy spellbane utterly, as well as counter some of the twisted
+magics used by the killers who call themselves Ancient. I had heard
+a rumor in childhood which led me to believe the dragons of old had
+the answer, so I wandered the Tower and found this ancient tome
+within the greedy grasp of an evil shadow dragon. The dragon was kind
+enough to let me stay and translate. This is my translation copy,
+which I will probably share with draconian mages, as I know it will
+feed upon some of their desires.
+REVERSION MAGIC: Spell to undo the process of turning dragon into
+part-hominid/part-dragon (called by commoners draconians). The spell
+requires various reagents in specific quantities.
+To revert a draconian to dragon form it is *absolutely necessary* to
+gain 10 scales of a true dragon the same color as the draconian to
+be reverted.
+In addition, various colors of draconians will require different
+reagents to revert them to the right color true dragon. Failure to
+use the proper reagent will result in the draconian being exploded,
+its soul so decimated it cannot re-congeal into another mortal shell.
+For a red draconian, a bit of fire is required. Best results have
+come from the use of a ring of fire. 
+A green draconian's reversion will require something poisonous. In
+the margin of the original Grimoire were words penned in somewhat
+slanted: 'hydrocyanic acid' (?)
+A blue draconian requires the aid of nature's electricity. A very
+powerful implement which sets off a chain reaction of lightning bolts
+works best for the blue. Mere single bolts from lesser wands have 
+caused the premature death of the blue desiring reversion.
+The reversion of a white draconian requires something powerful which
+sucks in the heat of the Light, leaving Shadow and coldness. In the
+margin words penned at a slant read: 'ring of ice' (?)
+Black draconians require something that eats away at metals. Very
+powerful acids are to be found in the world but are well-guarded. 
+Slaves have lost their lives in retrieval of such things as hydro-
+fluoric acid.
+IN ADDITION to the scales and special reagents, the draconian
+requesting the reversion needs a specially brewed reagent. It is
+said that only the Lady's chosen among the great learned ArchMages of
+the world are capable of creating such brews. Not everything an
+ArchMage brews will work, however. Experience has shown that these
+items when brewed serve best for the reversion spell:
+Harp of Dragonsong
+Ring of Dragons
+Dragon Crest signet ring
+Ring of the Diamond Dragon
+They must be brewed under specific circumstances, also. One very
+important requirement often skimped upon (and if not done this
+way, the whole reversion spell turns into an annihilation of the
+draconian wishing reversion), is that the ArchMage must brew the
+object within the view of the powerful one who will work the
+reversion magic. While successful reversions have occurred under
+the watchful eyes of a mortal mage, more often than not the mortal
+has not the strength needed to command the magical weave. If a god
+would watch over the reversion, it has a better chance of succeeding.
+Dragon magic being very powerful, it is advised that weak gods, no
+matter how evil, not be asked to oversee the process. They have
+been known to ruin the entire thing and leave the draconian crippled
+or worse, because they are not powerful enough to weave the magic
+necessary to work with the draconic reagents. It is said that long
+ago Elminster once wove the magic for a reversion, and barely
+succeeded. The resulting true dragon had scales that would not
+polish to a fine lustre, and his breath did not proceed from his maw
+beyond the length of an average gnome, thus limiting him to 'in-your-
+face' combat. His wings were also mangled, making him aerodynamically
+unsound and therefore landbound.
+Succeed in mixing all these necessary ingredients in a cauldron of
+obsidian, and have all the powerful magics necessary nearby, and the
+reversion spell should not fail.
+~
+#11448
+dragonscale scale red~
+red dragonscale~
+You see a large red scale glowing with heat.~
+red dragonscale~
+treasure AEGPQSTUY A
+A A A A AC
+53 40 20000 P
+E
+red dragonscale scale~
+It appears to have once been a part of the natural body armor of the
+Ancient Red Dragon. Its red glow is warmth, a residual from the nature
+of the original owner.
+~
+#11449
+dragonscale scale green~
+green dragonscale~
+You see a large green scale, from which a wispy green mist rises.~
+dragonscale~
+treasure EGPQSTUY A
+A A A A AC
+53 40 20000 P
+E
+green dragonscale scale~
+It appears to have once been part of the natural body armor of the
+Ancient Green Dragon. The wispy green mist which rises from it is
+noxious, reminiscent of poison.
+~
+#11450
+dragonscale scale blue~
+blue dragonscale~
+A huge blue scale on the ground emits tiny sparks.~
+blue dragonscale~
+treasure AEGPQSTUY A
+A A A A AC
+54 40 200000 P
+E
+blue dragonscale scale~
+It appears to have once been part of the natural body armor of the
+Ancient Blue Dragon. >From the sparks which it emits, you know that
+it could be shocking to touch it.
+~
+#11451
+dragonscale scale white~
+white dragonscale~
+An ice-encrusted white scale is here, sucking in the heat around it.~
+white dragonscale~
+treasure EGPQSTUY A
+A A A A AC
+53 40 200000 P
+E
+dragonscale scale white~
+It is very cold to the touch, as though it were itself made of ice.
+Once a part of the natural armor of the Ancient White Dragon, it
+seeks heat from its current surroundings.
+~
+#11452
+dragonscale scale black~
+black dragonscale~
+A large black scale is here, oozing acid.~
+black dragonscale~
+treasure EGPQSTUY A
+A A A A AC
+54 40 200000 P
+E
+dragonscale scale black~
+It appears to have been at one time part of the natural armor of the
+Ancient Black Dragon. Now it oozes a liquid which appears to be very
+harmful to metals.
+~
+#11453
+etched pendant~
+an etched dragonscale pendant~
+You see a pendant deeply etched by what appears to have been dragon breath.~
+bone~
+armor 0 AC
+10 10 10 0 0
+50 11 150000 P
+A
+13 50
+A
+23 -10
+A
+1 4
+L
+2
+#11454
+hammer pendant~
+a black hammer pendant~
+You see a pendant with a large black hammer engraved upon it.~
+adamantite~
+armor 0 AC
+5 5 5 5 0
+50 3 150000 P
+A
+18 2
+A
+18 5
+A
+12 25
+L
+2
+#0
+
+
+
+#ROOMS
+#11400
+The Gate Before the Tower~
+The clouds are heavy and dark around this huge, crudely designed rock tower.
+Shrill cries can be heard far above coming from an unknown source. Before you
+is a huge silver gate, behind which lies the Dragon Tower. To the west is a 
+dark grove.
+~
+0 1048576 1
+D0
+~
+silver gate~
+1 0 11401
+D3
+~
+~
+0 0 1304
+S
+#11401
+The Foyer of the Tower~
+Dark candles rest in holders on the walls. The foyer of the tower is a decent
+sized hall as your footsteps echo loudly throughout it. Grand tapestries hang
+from the walls adorned with fine fabrics from around the world. There are 
+three doors to the north, east and west. To the south is the gate to the 
+tower.
+~
+0 1048584 0
+D0
+~
+door~
+1 0 11402
+D1
+~
+door~
+1 0 11412
+D2
+~
+gate~
+1 0 11400
+D3
+~
+door~
+1 0 11413
+S
+#11402
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the south is a doorway and to the north the hall continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11403
+D2
+~
+door~
+1 0 11401
+S
+#11403
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north and south the hallway continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11404
+D2
+~
+~
+0 0 11402
+S
+#11404
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the south the hallway continues and to the north the hallway ends
+at two doors.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11405
+D2
+~
+~
+0 0 11403
+S
+#11405
+Hall's end~
+The air in this room is well insolated. Warm and dry. The walls themselves 
+seem to have been created magically. The doors to your east and west are 
+both made of the strong wood of Arkham while to the south a hall continues.
+~
+0 1048584 1
+D1
+~
+door~
+1 0 11406
+D2
+~
+~
+0 0 11404
+D3
+~
+door~
+1 0 11424
+S
+#11406
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west is a door and to the east the hall turns.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11407
+D3
+~
+door~
+1 0 11405
+S
+#11407
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and 
+stones. The hallways from the west and south meet here in a junction that
+lets you go in either direction.
+~
+0 1048584 1
+D2
+~
+~
+0 0 11408
+D3
+~
+~
+0 0 11406
+S
+#11408
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north you notice the hall forms a turn and to the south there 
+is a split in the hallway.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11407
+D2
+~
+~
+0 0 11409
+S
+#11409
+At a junction~
+The hallway here connects with another hallway making a three-way junction.
+The walls are cold to the touch and made of some strange, glass-like material
+that sends a chill down your spine. To the east a hallway breaks away from 
+the north-south hallway.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11408
+D1
+~
+~
+0 0 11425
+D2
+~
+~
+0 0 11410
+S
+#11410
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north there is a junction and to the south is a turn.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11409
+D2
+~
+~
+0 0 11411
+S
+#11411
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the west and north meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11410
+D3
+~
+~
+0 0 11412
+S
+#11412
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east is a junction and to the west is a door.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11411
+D3
+~
+door~
+1 0 11401
+S
+#11413
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west is a junction and to the east is a door. 
+~
+0 1048584 1
+D1
+~
+door~
+1 0 11401
+D3
+~
+~
+0 0 11414
+S
+#11414
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the east and north meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11415
+D1
+~
+~
+0 0 11413
+S
+#11415
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the south is a junction and to the north the hallway continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11416
+D2
+~
+~
+0 0 11414
+S
+#11416
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. The hallway continues to the north and south.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11417
+D2
+~
+~
+0 0 11415
+S
+#11417
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north is a junction and to the south the hallway continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11418
+D2
+~
+~
+0 0 11416
+S
+#11418
+At a junction~
+The hallway here connects with another hallway making a three-way junction.
+The walls are cold to the touch and made of some strange, glass-like material
+that sends a chill down your spine. To the south a hallway breaks away from
+the east-west hallway.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11424
+D2
+~
+~
+0 0 11417
+D3
+~
+~
+0 0 11419
+S
+#11419
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east is a junction and to the west the hall ends.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11418
+D3
+~
+~
+0 0 11420
+S
+#11420
+the dead end~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. Abruptly, the hallway comes to an end here, though there is faint
+scuffing on the floor.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11419
+D5
+~
+floor~
+1 0 11421
+S
+#11421
+a small tunnel~
+Dust covers the floor and fills the air in this small and cramped tunnel.
+Looking up you see that a light shines through from above.
+~
+0 1048584 1
+D3
+~
+~
+0 0 11422
+D4
+~
+~
+1 0 11420
+S
+#11422
+a small tunnel~
+Dust covers the floor and fills the air in this small and cramped tunnel. 
+The dropping of water can be heard off in the distance which begins to 
+slowly tear away at your mind. The silence... The water... 
+~
+0 1048584 1
+D1
+~
+~
+0 0 11421
+D3
+~
+~
+0 0 11423
+S
+#11423
+a small tunnel's end~
+The dust in this end of the tunnel is a little less frequent than it is 
+off to the east. The dropping of water is much louder here and your mind 
+races with ways to escape this madness. To the east the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11422
+S
+#11424
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. The hallway continues to the north and west while to the east is a 
+door.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11474
+D1
+~
+door~
+1 0 11405
+D3
+~
+door~
+1 0 11418
+S
+#11425
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west is a junction in the hallway while to the east the hallway
+continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11426
+D3
+~
+~
+0 0 11409
+S
+#11426
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west and east the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11427
+D3
+~
+~
+0 0 11425
+S
+#11427
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west and east the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11428
+D3
+~
+~
+0 0 11426
+S
+#11428
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west the hallway continues and to the east there is a junction
+in the hallway.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11429
+D3
+~
+~
+0 0 11427
+S
+#11429
+At a junction~
+Two hallways connect here, making a three-way junction. The walls are made of
+a strange, glass-like material that is cold to the touch and sends a chill 
+down your spine. To the west a hallway breaks away to the north while to the
+south there is a tunnel.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11440
+D2
+~
+~
+0 0 11430
+D3
+~
+~
+0 0 11428
+S
+#11430
+an ice-covered tunnel~
+The walls in this tunnel are strangely covered in ice. Fog covers the floor
+making it difficult to see where your feet are. Loud cries and shreaks can 
+be heard from a general southern direction. To the north there is a junction 
+in the tunnel.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11429
+D2
+~
+~
+0 0 11431
+S
+#11431
+an ice-covered tunnel~
+The walls in this tunnel are strangely covered in ice. Fog covers the floor
+making it difficult to see where your feet are. Loud cries and shreaks can 
+be heard from a general southern direction. 
+~
+0 1048584 1
+D0
+~
+~
+0 0 11430
+D2
+~
+~
+0 0 11432
+S
+#11432
+an ice-covered tunnel~
+The walls in this tunnel are strangely covered in ice. Fog covers the floor
+making it difficult to see where your feet are. Loud cries and shreaks can 
+be heard from a general southern direction. The tunnel makes a turn here to
+the east where it meets with a stairway.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11431
+D1
+~
+~
+0 0 11433
+S
+#11433
+an ice-covered Stairway~
+The tunnel here comes to an end as it connects to a stairway leading into the
+depths of the Tower. An ice-covered railing leading down helps with the 
+stairs so you do not slip, although since it is covered with ice as well, you
+wonder how much aid it would give. 
+~
+0 1048584 1
+D3
+~
+~
+0 0 11432
+D5
+~
+~
+0 0 11434
+S
+#11434
+an ice-covered Stairway~
+Ice covers everything around you and the chilly air bites at your skin. It
+seems the further down you go, the colder it gets. An ice-covered railing 
+follows the steps up and down with you, but you wonder how much aid it would 
+provide since it is frozen, as well.
+~
+0 1048584 1
+D4
+~
+~
+0 0 11433
+D5
+~
+~
+0 0 11435
+S
+#11435
+an ice-covered Stairway~
+The tunnel here comes to an end as it connects to a stairway leading up into 
+the Tower. An ice-covered railing leading up helps with the stairs so you do 
+not slip, although since it is covered with ice as well, you wonder how much 
+aid it would give. 
+~
+0 1048584 1
+D1
+~
+~
+0 0 11436
+D4
+~
+~
+0 0 11434
+S
+#11436
+an ice-covered tunnel~
+The walls in this tunnel are strangely covered in ice. Fog covers the floor
+making it difficult to see where your feet are. Loud cries and shreaks can 
+be heard to the east of here, while to the west you see a stairway.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11437
+D3
+~
+~
+0 0 11435
+S
+#11437
+an ice-covered tunnel~
+The walls in this tunnel are strangely covered in ice. Fog covers the floor
+making it difficult to see where your feet are. Loud cries and shreaks can 
+be heard to the east of here.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11438
+D3
+~
+~
+0 0 11436
+S
+#11438
+an ice-covered tunnel~
+The walls in this tunnel are strangely covered in ice. Fog covers the floor
+making it difficult to see where your feet are. Loud cries and shreaks can 
+be heard directly east of here. It looks as though the tunnel opens up into
+a cave, the lair of some beast.
+~
+0 8 1
+D1
+~
+~
+0 0 11439
+D3
+~
+~
+0 0 11437
+S
+#11439
+The Ice-Covered Cave~
+Ice covers everything in this room. The high ceiling reaches almost into the
+heavens as you stare in awe at the intricate murals and sculptures chiseled
+into the ice. The cold air in this room makes it perfect home to the large
+and ancient white dragon. 
+~
+0 1056776 1
+D3
+~
+~
+0 0 11438
+S
+#11440
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the south there is a junction in the hallway, while to the north
+the hallway makes a turn.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11441
+D2
+~
+~
+0 0 11429
+S
+#11441
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the east and south meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11442
+D2
+~
+~
+0 0 11440
+S
+#11442
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway continues while to the west it makes a turn.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11443
+D3
+~
+~
+0 0 11441
+S
+#11443
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11444
+D3
+~
+~
+0 0 11442
+S
+#11444
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway makes a turn and to the west the hallway
+continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11445
+D3
+~
+~
+0 0 11443
+S
+#11445
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the west and south meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D2
+~
+~
+0 0 11446
+D3
+~
+~
+0 0 11444
+S
+#11446
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north the hallway turns west, while to the south it continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11445
+D2
+~
+~
+0 0 11447
+S
+#11447
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north hallway continues, while to the south it turns west.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11446
+D2
+~
+~
+0 0 11448
+S
+#11448
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the west and north meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11447
+D3
+~
+~
+0 0 11449
+S
+#11449
+A stairway~
+A cold drip can be heard off in a corner somewhere as you notice how 
+dark and lonely this small corner of the Tower is. Some type of diamond
+material has been carved and placed in a way that you can climb up them
+like stairs. To the east is a hallway.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11448
+D4
+~
+~
+0 0 11450
+S
+#11450
+Top of a stairway~
+Strange shimmering scales cover the walls at the top of this stairway. A
+railing resembling the tail of some huge dragon beast follows the stairs
+down below. To the west the hallway follows to a turn.
+~
+0 1048584 1
+D3
+~
+~
+0 0 11451
+D5
+~
+~
+0 0 11449
+S
+#11451
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east there is a stairway and to the west is a turn in the 
+hallway.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11450
+D3
+~
+~
+0 0 11452
+S
+#11452
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the east and north meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11453
+D1
+~
+~
+0 0 11451
+S
+#11453
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north there is a junction in the hallway and to the south it
+turns.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11454
+D2
+~
+~
+0 0 11452
+S
+#11454
+At a junction~
+Two hallways connect here, making a three-way junction. The walls are made of
+a strange, glass-like material that is cold to the touch and sends a chill 
+down your spine. To the south a hallway breaks away to the east and west 
+hallways.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11461
+D2
+~
+~
+0 0 11453
+D3
+~
+~
+0 0 11455
+S
+#11455
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway meets a junction and to the west it continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11454
+D3
+~
+~
+0 0 11456
+S
+#11456
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway continues while to the west is a stairway.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11455
+D3
+~
+~
+0 0 11457
+S
+#11457
+the bottom of a stairway~
+This stairway is very hot and humid in a way that is very uncomfortable. 
+The steps themselves look as though they were melted from the rock instead
+of having been carved. A hallway is to the east and you can go up the steps.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11456
+D4
+~
+~
+0 0 11458
+S
+#11458
+A hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very warm to the
+touch. A stairway has been cut from the floor and leads down into darkness,
+while to the east the warm temperature seems to rise.
+~
+0 1056776 1
+D1
+~
+~
+0 0 11459
+D5
+~
+~
+0 0 11457
+S
+#11459
+A hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very hot to the
+touch. Fierce and shrill cries can be heard coming from a dark cave to the 
+north, as does a thick stream of smoke, while to the west the hallway comes
+to an end.
+~
+0 1056776 1
+D0
+~
+~
+0 0 11460
+D3
+~
+~
+0 0 11458
+S
+#11460
+The Flaming Cave~
+This large room before you is much, much hotter than the previous few rooms 
+you've had to endure. Flames spill forth from holes in the ground and you
+notice in the corner of the cave a large pile of scorched bones.
+~
+0 1056776 1
+E
+bones scorched~
+Human, elven, dwarven... Even bones of giants rest in this large pile. One
+thing you can't help to think is the horror that they must have had to put
+put up with before they finally became the dragon's lunch.
+~
+D2
+~
+~
+0 0 11459
+S
+#11461
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11462
+D3
+~
+~
+0 0 11454
+S
+#11462
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11463
+D3
+~
+~
+0 0 11461
+S
+#11463
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11464
+D3
+~
+~
+0 0 11462
+S
+#11464
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway makes a turn while to the east it continues.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11465
+D3
+~
+~
+0 0 11463
+S
+#11465
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the west and south meet here in a junction that
+let's you go in both directions.
+~
+0 1048584 1
+D2
+~
+~
+0 0 11466
+D3
+~
+~
+0 0 11464
+S
+#11466
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north the hallway makes a turn while to the south it continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11465
+D2
+~
+~
+0 0 11467
+S
+#11467
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north and south the hallway continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11466
+D2
+~
+~
+0 0 11468
+S
+#11468
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north and south the hallway continues.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11467
+D2
+~
+~
+0 0 11469
+S
+#11469
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the south you notice the hallway has stopped, but continues to the
+north. The floor here has some strange scratches on it.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11468
+D5
+~
+floor~
+1 0 11470
+S
+#11470
+a Long, Dark Ladder~
+This ladder looks as black as midnight, and twice as mysterious. It almost
+seems to shift into and out of reality, melting into the shadows at times
+making it increasingly difficult to climb. You notice it continues down into
+the darkness and up towards an exit.
+~
+0 1056776 1
+D4
+~
+floor~
+1 0 11469
+D5
+~
+~
+0 0 11471
+S
+#11471
+a Long, Dark Ladder~
+This ladder looks as black as midnight, and twice as mysterious. It almost
+seems to shift into and out of reality, melting into the shadows at times
+making it increasingly difficult to climb. You notice it continues down into
+the darkness and up towards an exit.
+~
+0 1056776 1
+D4
+~
+~
+0 0 11470
+D5
+~
+~
+0 0 11472
+S
+#11472
+a dark tunnel~
+The lack of torches or lanterns in this small tunnel merely impairs your
+vision, as your eyes soon adjust to the darkness. On the far wall there is a
+ladder made of a strange material that leads up towards the rest of the 
+tower. To the south you hear strange noises coming from a dark cave.
+~
+0 1056776 1
+D2
+~
+~
+0 0 11473
+D4
+~
+~
+0 0 11471
+S
+#11473
+The Dark Cave~
+As with the tunnel leading into this cave, the darkness here is quite
+overwhelming. Seemingly the home of every shadow and shape available, the
+darkness toys with your mind. You seem to float in and out of consciousness
+and lose sense of what is real and what isn't. It is very obvious that this
+cave is one of magical construct, and the creator must have been quite a
+mage.
+~
+0 1056776 1
+D0
+~
+~
+0 0 11472
+S
+#11474
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch.
+~
+0 8 1
+D0
+~
+~
+0 0 11475
+D2
+~
+~
+0 0 11424
+S
+#11475
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch.
+~
+0 8 1
+D2
+~
+~
+0 0 11474
+D3
+~
+~
+0 0 11476
+S
+#11476
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. 
+~
+0 8 1
+D0
+~
+~
+0 0 11477
+D1
+~
+~
+0 0 11475
+S
+#11477
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch.
+~
+0 8 1
+D0
+~
+~
+0 0 11478
+D2
+~
+~
+0 0 11476
+S
+#11478
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch.
+~
+0 8 1
+D1
+~
+~
+0 0 11483
+D2
+~
+~
+0 0 11477
+D3
+~
+~
+0 0 11479
+S
+#11479
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north, west, and south are iron-bound doors, all with strange, 
+draconian symbols on them.
+~
+0 8 1
+D0
+~
+iron-bound door~
+1 0 11480
+D1
+~
+~
+0 0 11478
+D2
+~
+iron-bound door~
+1 0 11482
+D3
+~
+iron-bound door~
+1 0 11481
+S
+#11480
+the Royal Quarters~
+Ancient draconian paintings, framed in sculpted dwarven iron adorn the walls
+of this grand bedroom. A very large bed glowing of wealth and power sits in 
+the middle of the room, it's canopy long and glamorous. Jewels and rare gems
+rest atop a bedstand that is in the far corner of this room. A large, dark-
+elven rug, woven of the finest silk covers most of the floor. To the south
+is an iron-bound door.
+~
+0 8 1
+D2
+~
+iron-bound door~
+1 0 11479
+S
+#11481
+The Guest Room~
+This is the standard draconian guest room. One bed, one dresser, a decent
+sized mirror covers the east wall. Various semi-valuable paintings hang
+here and there on the walls. The only strange thing is that this certain 
+guest seems to be quite a mage, having spent hours of deep meditation and
+concentration, he has opened a portal in the west wall. You wonder if it is
+a temporary portal for while the mage stays here, or if he has taken up 
+residence in the Tower and will be here indefinately.
+~
+0 1048584 1
+D1
+~
+iron-bound door~
+1 0 11479
+D3
+~
+~
+0 0 3001
+S
+#11482
+The Guest Room~
+This is the standard draconian guest room. One bed, one dresser, a decent
+sized mirror covers the east wall. Various semi-valuable paintings hang
+here and there on the walls. The only strange thing is that this certain 
+guest seems to be a dark and deadly assassin. Knives and daggers rest in
+pools of dried blood and poison. You wonder if it was a good idea to come 
+here when you glance around the various instruments he uses in killing.
+~
+0 1048584 1
+D0
+~
+iron-bound door~
+1 0 11479
+S
+#11483
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 8 1
+D1
+~
+~
+0 0 11484
+D3
+~
+~
+0 0 11478
+S
+#11484
+At a junction~
+Two hallways connect here, making a three-way junction. The walls are made of
+a strange, glass-like material that is cold to the touch and sends a chill 
+down your spine. To the north a hallway breaks away to the east and west 
+hallways.
+~
+0 1048584 1
+D0
+~
+~
+0 0 11494
+D1
+~
+~
+0 0 11485
+D3
+~
+~
+0 0 11483
+S
+#11485
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues while to the south is an
+iron-bound door.
+~
+0 8 1
+D1
+~
+~
+0 0 11487
+D2
+~
+iron-bound door~
+1 0 11486
+D3
+~
+~
+0 0 11484
+S
+#11486
+The Guest Room~
+This is the standard draconian guest room. One bed, one dresser, a decent
+sized mirror covers the east wall. Various semi-valuable paintings hang
+here and there on the walls. The only strange thing is that this certain 
+guest isn't what you'd expect to find in a place like this; a Ranger of the
+forests. Books of peace and the forests clutter the floor, as do many various
+plants from all around Thera. You wonder why such a man would be visiting 
+this tower.
+~
+0 0 3
+D0
+~
+iron-bound door~
+1 0 11485
+S
+#11487
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east it looks like the hallway ends and to the west it 
+continues.
+~
+0 8 1
+D1
+~
+~
+0 0 11488
+D3
+~
+~
+0 0 11485
+S
+#11488
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. A heavy, black iron trapdoor sits tightly against the stone floor.
+~
+0 8 1
+D3
+~
+~
+0 0 11487
+D5
+~
+iron trapdoor~
+1 0 11489
+S
+#11489
+the dark corridor~
+Around the corner to the east comes a loud growl, almost shaking pieces of 
+the acid pitted walls to the floor. The smell of a nauseating sulfuric gas 
+hangs heavy in the air. The floor, like the cold, dark walls around you is 
+pitted in many places as well. Above, you see a heavy, black iron trapdoor 
+leading up into the rest of the Tower.
+~
+0 8 1
+D1
+~
+~
+0 0 11490
+D4
+~
+iron trapdoor~
+1 0 11488
+S
+#11490
+the dark corridor~
+In a southern direction comes a loud growl, almost shaking pieces of the acid
+pitted walls to the floor. The smell of a nauseating sulfuric gas hangs heavy
+in the air. The floor, like the cold, dark walls around you is pitted in many
+places as well. 
+~
+0 8 1
+D2
+~
+~
+0 0 11491
+D3
+~
+~
+0 0 11489
+S
+#11491
+the dark corridor~
+In a southern direction comes a loud growl, almost shaking pieces of the acid
+pitted walls to the floor. The smell of a nauseating sulfuric gas hangs heavy
+in the air. The floor, like the cold, dark walls around you is pitted in many
+places as well.
+~
+0 8 1
+D0
+~
+~
+0 0 11490
+D2
+~
+~
+0 0 11492
+S
+#11492
+the dark corridor~
+In a western direction comes a loud growl, almost shaking pieces of the acid
+pitted walls to the floor. The smell of a nauseating sulfuric gas hangs heavy
+in the air. The floor, like the cold, dark walls around you is pitted in many
+places as well. The corridor opens up to the west of here, leading into a 
+large cave of some sort.
+~
+0 8 1
+D0
+~
+~
+0 0 11491
+D3
+~
+~
+0 0 11493
+S
+#11493
+The Acid Pools~
+The power of the fumes from the pools is so thick and nauseating that you 
+almost turn back. Acid pours from holes in the walls and fills the pools,
+which in turn flow into a small stream of acid that follows around the floor.
+The walls of this large cave seem to have been protected somehow, because 
+they seem almost pristine in their dark nature.
+~
+0 1056776 1
+D1
+~
+~
+0 0 11492
+S
+#11494
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north you notice a large and glamorous stairway.
+~
+0 8 1
+D0
+~
+~
+0 0 11495
+D2
+~
+~
+0 0 11484
+S
+#11495
+the Large Stairway~
+Marvelous jewels, gems and dragonscales adorn the bannister of an ivory carved
+railing that follows the steps up to the next floor. The smell of a fine 
+smelling dinner wafts in from above, making your mouth tingle with a need to
+taste.
+~
+0 8 1
+D2
+~
+~
+0 0 11494
+D4
+~
+~
+0 0 11496
+S
+#11496
+the Large Stairway~
+Marvelous jewels, gems and dragonscales adorn the bannister of an ivory carved
+railing that follows the steps down to the next floor. The smell of a fine 
+smelling dinner wafts in from around you, making your mouth tingle with a 
+need to taste. You also notice a long table, extended full length through 
+this large hall leading north a bit and extended west.
+~
+0 8 1
+D0
+~
+~
+0 0 11505
+D3
+~
+~
+0 0 11497
+D5
+~
+~
+0 0 11495
+S
+#11497
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impression that it is more like a buffet table, rather than a
+fancy dining room. To the northwest you notice the King's throne.
+~
+0 8 1
+D1
+~
+~
+0 0 11496
+D3
+~
+~
+0 0 11498
+S
+#11498
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impressing that it is more like a buffet table, rather than a
+fancy dining room. To the north you notice the King's throne.
+~
+0 8 1
+D1
+~
+~
+0 0 11497
+D3
+~
+~
+0 0 11499
+S
+#11499
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impressing that it is more like a buffet table, rather than a
+fancy dining room. To the northeast you see the King's throne.
+~
+0 8 1
+D1
+~
+~
+0 0 11498
+D3
+~
+~
+0 0 11500
+S
+#11500
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impressing that it is more like a buffet table, rather than a
+fancy dining room. To the northeast you notice the King's throne.
+~
+0 8 1
+D0
+~
+~
+0 0 11501
+D1
+~
+~
+0 0 11499
+S
+#11501
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impressing that it is more like a buffet table, rather than a
+fancy dining room. To the east you notice the King's throne.
+~
+0 8 1
+D1
+~
+~
+0 0 11502
+D2
+~
+~
+0 0 11500
+S
+#11502
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impressing that it is more like a buffet table, rather than a
+fancy dining room. To the east you notice the King's throne.
+~
+0 8 1
+D1
+~
+~
+0 0 11503
+D3
+~
+~
+0 0 11501
+S
+#11503
+The Throne~
+Great scales of ancient dragons adorned with jewels of the finest quality 
+form the enormous throne before you. Cushioned with pillows so that the king
+is more comfortable, it radiates high quality. From this particular part of 
+the room, you can see why the king's negotiating skills are to be reckoned 
+with. The throne is raised a bit higher than the rest of the chairs, giving 
+the king a strategic look of great importance.
+~
+0 8 1
+D0
+~
+~
+0 0 11506
+D1
+~
+~
+0 0 11504
+D3
+~
+~
+0 0 11502
+S
+#11504
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impressing that it is more like a buffet table, rather than a
+fancy dining room. To the west you notice the King's throne.
+~
+0 8 1
+D1
+~
+~
+0 0 11505
+D3
+~
+~
+0 0 11503
+S
+#11505
+Around the Dining Table~
+As you progress around this very large table, you notice many fine wines and
+foods, some of which you sample, that originate from around the world. The
+Draconian King probably hopes this display of wealth will impress any of the
+visiting guests. You notice all the chairs at this table have been removed,
+giving you the impression that it is more like a buffet table, rather than a
+fancy dining room. To the west you notice the King's throne.
+~
+0 8 1
+D2
+~
+~
+0 0 11496
+D3
+~
+~
+0 0 11504
+S
+#11506
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the south you see what looks to be the back of a throne. To the
+north you notice a large stairway.
+~
+0 8 1
+D0
+~
+~
+0 0 11507
+D2
+~
+~
+0 0 11503
+S
+#11507
+the Large Stairway~
+Just as the strange glass-like material are of the walls, so is it of the
+stairs that lead up, towards the very heights of the tower. A loud screech
+pierces the air and sends a shiver down your spine. Following the long climb
+up, you notice a dragonscale railing disappearing above you with the stairs.
+~
+0 8 1
+D2
+~
+~
+0 0 11506
+D4
+~
+~
+0 0 11508
+S
+#11508
+the Stairs~
+Just as the strange glass-like material are of the walls, so is it of the
+stairs that lead up, towards the very heights of the tower. A loud screech
+pierces the air and sends a shiver down your spine. Following the long climb
+up, you notice a dragonscale railing disappearing above you with the stairs.
+~
+0 8 1
+D4
+~
+~
+0 0 11509
+D5
+~
+~
+0 0 11507
+S
+#11509
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. A dragonscale railing comes up out of a hole in the floor formed by
+the stairs that have been cut there. 
+~
+0 8 1
+D1
+~
+~
+0 0 11514
+D3
+~
+~
+0 0 11510
+D5
+~
+~
+0 0 11508
+S
+#11510
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 8 1
+D1
+~
+~
+0 0 11509
+D3
+~
+~
+0 0 11511
+S
+#11511
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway continues while to the west the hallway seems
+to cloud with a strange gas.
+~
+0 8 1
+D1
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11512
+S
+#11512
+The cloudy hallway~
+The hallway becomes increasingly difficult to breathe in as a thick, noxious
+gas floats in from the cave to the west. Your eyes burn as you stand here, 
+contemplating what to do next. The walls here glow with a strange, dark, 
+ethereal brilliance. To the east the clouds of gas clear up and to the west
+is a large cave.
+~
+0 1048584 1
+D1
+~
+~
+0 0 11511
+D3
+~
+~
+0 0 11513
+S
+#11513
+the Smoke-filled Cave~
+Clouds of poisonous gas fill this enormous cave. Breathing in this cave is
+very difficult, as your mind is plagued with pain and headaches. The cave 
+itself was carved out of the same stone as the tower and the gas here seems
+to keep any scratches or disruptions in the wall from being permanent. To the
+east the clouds of smoke are a little less dense.
+~
+0 1056776 1
+D1
+~
+~
+0 0 11512
+S
+#11514
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 8 1
+D1
+~
+~
+0 0 11515
+D3
+~
+~
+0 0 11509
+S
+#11515
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues while in the far corner you
+notice a ladder which leads up.
+~
+0 8 1
+D1
+~
+~
+0 0 11522
+D3
+~
+~
+0 0 11514
+D4
+~
+~
+0 0 11516
+S
+#11516
+the base of the High Tower~
+Immediately you sense you are in a hall of great importance. Glowing rocks 
+frame grand paintings of large dragons hang on the north and south walls, 
+while to the west you see the base of this enormous tower extends. The room 
+shakes a bit as you hear loud stomping and crashing coming from far above.
+You notice there is a ladder leading down.
+~
+0 1056776 1
+D3
+~
+~
+0 0 11517
+D5
+~
+~
+0 0 11515
+S
+#11517
+the base of the High Tower~
+Immediately you sense you are in a hall of great importance. Glowing rocks 
+frame grand paintings of large dragons hang on the north and south walls, 
+while to the east you see the base of this enormous tower extends. The room 
+shakes a bit as you hear loud stomping and crashing coming from far above.
+You notice there is a ladder leading up.
+~
+0 1056776 1
+D1
+~
+~
+0 0 11516
+D4
+~
+~
+0 0 11518
+S
+#11518
+the bone-filled hallway~
+Bones, picked clean of the flesh, blood, and any other things that used to 
+cover them. Stacked high and haphazardly, many fall and land near your feet.
+The smell of the flesh and dried blood, unfortunately, was not removed. The
+smell is repulsing and gives you a deep sense of doom to come. Whatever beast
+could have made these... things it's dinner, is quite dangerous indeed. You
+also notice a ladder leading down.
+~
+0 1056776 1
+D0
+~
+~
+0 0 11519
+D5
+~
+~
+0 0 11517
+S
+#11519
+the bone-filled hallway~
+Bones, picked clean of the flesh, blood, and any other things that used to 
+cover them. Stacked high and haphazardly, many fall and land near your feet.
+The smell of the flesh and dried blood, unfortunately, was not removed. The
+smell is repulsing and gives you a deep sense of doom to come. Whatever beast
+could have made these... things it's dinner, is quite dangerous indeed. 
+~
+0 1056776 1
+D0
+~
+~
+0 0 11520
+D2
+~
+~
+0 0 11518
+S
+#11520
+the bone-filled Chamber~
+This chamber, like the hallway to the south has many bones, picked clean of 
+the flesh, blood, and any other things that used to cover them. Stacked high 
+and haphazardly, many fall and land near your feet. The smell of the flesh and 
+dried blood, unfortunately, was not removed. The smell is repulsing and gives 
+you a deep sense of doom to come. Whatever beast could have made these... 
+things it's dinner, is quite dangerous indeed. To the north there is a large,
+strange looking gate.
+~
+0 1056776 1
+D0
+~
+strange gate~
+2 11409 11521
+D2
+~
+~
+0 0 11519
+S
+#11521
+the Lair of Tiamat~
+Dark storm clouds can be seen about here since the roof of this grand lair 
+has been removed. The lair of Tiamat is truely extraordinary. From this 
+height you can see all of the Shadow Grove below you, making you dizzy from 
+it's strange randomness. Lightning crackles and strikes the side of the tower
+shaking it and knocking a few bones loose of a pile in the corner. The lair
+itself seems to have been flown up here, rather than built or carved from 
+stone, since it's make up is truely magical in nature. The walls themselves
+vibrate with strange energy around you, filling your soul with a strange
+feeling.
+~
+0 5251080 1
+D2
+~
+strange gate~
+1 11409 11520
+S
+#11522
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east and west the hallway continues.
+~
+0 8 1
+D1
+~
+~
+0 0 11523
+D3
+~
+~
+0 0 11515
+S
+#11523
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway turns while to the west it continues.
+~
+0 8 1
+D1
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11522
+S
+#11524
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the west and north meet here in a junction that
+let's you go in both directions.
+~
+0 8 1
+D0
+~
+~
+0 0 11525
+D3
+~
+~
+0 0 11523
+S
+#11525
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the east and south meet here in a junction that
+let's you go in both directions.
+~
+0 8 1
+D1
+~
+~
+0 0 11526
+D2
+~
+~
+0 0 11524
+S
+#11526
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west the hallway turns a bit and you see a ladder that leads
+down. Looking down, you notice that it looks a bit longer than you'd prefer.
+~
+0 8 1
+D3
+~
+~
+0 0 11525
+D5
+~
+~
+0 0 11527
+S
+#11527
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway continues and you see a ladder that leads
+up. Looking up, you notice that it looks a bit longer than you'd prefer.
+~
+0 8 1
+D1
+~
+~
+0 0 11528
+D4
+~
+~
+0 0 11526
+S
+#11528
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the east the hallway turns and to the west down the hallway you
+notice a ladder leading up.
+~
+0 8 1
+D1
+~
+~
+0 0 11529
+D3
+~
+~
+0 0 11527
+S
+#11529
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the west and south meet here in a junction that
+let's you go in both directions.
+~
+0 8 1
+D2
+~
+~
+0 0 11530
+D3
+~
+~
+0 0 11528
+S
+#11530
+A turn in the hallway~
+Torches adorn the walls in ornate holders that sparkle with rare gems and
+stones. The hallways from the east and north meet here in a junction that
+let's you go in both directions.
+~
+0 8 1
+D0
+~
+~
+0 0 11529
+D1
+~
+~
+0 0 11531
+S
+#11531
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west the hallway turns and to the east down the hallway you
+notice a ladder leading up.
+~
+0 8 1
+D1
+~
+~
+0 0 11532
+D3
+~
+~
+0 0 11530
+S
+#11532
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the west the hallway continues and you see a ladder that leads
+up. Looking up, you notice that it looks a bit longer than you'd prefer.
+~
+0 8 1
+D3
+~
+~
+0 0 11531
+D4
+~
+~
+0 0 11533
+S
+#11533
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north the hallway continues and you see a ladder that leads
+down. Looking down, you notice that it looks a bit longer than you'd prefer.
+~
+0 8 1
+D0
+~
+~
+0 0 11534
+D5
+~
+~
+0 0 11532
+S
+#11534
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north the hallway continues, while to the south you notice a
+ladder leading down.
+~
+0 8 1
+D0
+~
+~
+0 0 11535
+D2
+~
+~
+0 0 11533
+S
+#11535
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north you see the roof has been torn from the hallway and a
+dark storm outside surrounds the tower.
+~
+0 8 1
+D0
+~
+~
+0 0 11536
+D2
+~
+~
+0 0 11534
+S
+#11536
+the hallway~
+A low rumbling can be heard through this hallway from an unknown direction.
+The walls are made of a strange glass-like material, yet very cold to the
+touch. To the north you see the roof has been torn from the hallway, as well
+as a chamber a bit further north. 
+~
+0 8 1
+D0
+~
+~
+0 0 11537
+D2
+~
+~
+0 0 11535
+S
+#11537
+the torn hallway~
+The wind picks up as you enter this loud and chaotic hallway. Dust and rain 
+fly wildly through the air, burning your skin. It is difficult to see, but 
+you get the feeling that somehow a storm was brought here and made to stay,
+raging and tearing at this tower and you, it's only enemy. 
+~
+0 1056776 1
+D0
+~
+~
+0 0 11538
+D2
+~
+~
+0 0 11536
+S
+#11538
+the Lightning Chamber~
+Without a roof, this chamber becomes a perfect home for a dragon. The fact 
+that a permanent storm has been transfered here, throwing lightning, rain and
+other articles crashing around the chamber another story. A flash of a bright
+lightning bathes the room in a blue light, almost making you forget the storm
+itself. The wind shakes the roofless tower violently, making you hope that 
+the magic that built it holds out.
+~
+0 1056776 1
+D2
+~
+~
+0 0 11537
+S
+#0
+
+
+
+#SPECIALS
+M 11403 spec_breath_any
+M 11404 spec_breath_any
+M 11405 spec_breath_fire
+M 11406 spec_breath_gas
+M 11407 spec_breath_fire
+M 11408 spec_breath_frost
+M 11409 spec_breath_lightning
+M 11410 spec_breath_acid
+M 11411 spec_breath_acid
+M 11412 spec_cast_undead
+M 11415 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 11400 0 1
+D 0 11401 0 1
+D 0 11401 1 1
+D 0 11401 2 1
+D 0 11401 3 1
+D 0 11402 2 1
+D 0 11405 1 1
+D 0 11406 3 1
+D 0 11412 3 1
+D 0 11413 1 1
+D 0 11420 5 1
+D 0 11421 4 1
+D 0 11469 5 1
+D 0 11479 0 1
+D 0 11479 2 1
+D 0 11479 3 1
+D 0 11485 2 1
+D 0 11486 0 1
+D 0 11488 5 1
+D 0 11489 4 1
+D 0 11520 0 2
+D 0 11521 2 1
+M 0 11401 2 11400 2
+E 0 11401 0 15
+E 0 11402 0 16
+M 0 11401 2 11400 2
+E 0 11401 0 15
+E 0 11402 0 16
+M 0 11400 25 11401 1
+M 0 11413 15 11403 2
+M 0 11400 25 11404 1
+M 0 11400 25 11407 1
+M 0 11400 25 11408 1
+M 0 11417 9 11408 1
+M 0 11400 25 11411 2
+M 0 11400 25 11414 1
+M 0 11413 15 11414 2
+M 0 11417 9 11414 3
+M 0 11418 16 11417 1
+M 0 11413 15 11418 1
+M 0 11400 25 11420 2
+M 0 11400 25 11423 1
+M 0 11417 9 11424 1
+M 0 11413 15 11428 2
+M 0 11419 5 11431 1
+M 0 11400 25 11433 1
+M 0 11419 5 11433 1
+M 0 11419 5 11434 1
+M 0 11419 5 11436 2
+M 0 11408 1 11439 1
+E 0 11423 0 13
+E 0 11425 0 15
+E 0 11451 0 17
+M 0 11400 25 11440 1
+M 0 11413 15 11441 1
+M 0 11417 9 11442 1
+M 0 11400 25 11446 1
+M 0 11418 16 11447 2
+M 0 11400 25 11449 4
+M 0 11418 16 11452 2
+M 0 11400 25 11453 1
+M 0 11418 16 11459 2
+M 0 11407 1 11460 1
+E 0 11421 0 5
+E 0 11422 0 10
+E 0 11448 0 17
+M 0 11418 16 11464 2
+M 0 11400 25 11467 1
+M 0 11411 1 11473 1
+E 0 11431 0 5
+E 0 11432 0 16
+G 0 11447 0
+M 0 11400 25 11475 1
+M 0 11413 15 11475 1
+M 0 11414 1 11480 1
+E 0 11435 0 4
+E 0 11436 0 15
+M 0 11415 1 11481 1
+E 0 11437 0 4
+E 0 11438 0 12
+G 0 11439 0
+M 0 11412 1 11482 1
+E 0 11433 0 13
+E 0 11434 0 16
+M 0 11402 1 11483 1
+E 0 11403 0 2
+E 0 11404 0 5
+E 0 11405 0 7
+E 0 11406 0 10
+E 0 11407 0 16
+M 0 11400 25 11484 1
+M 0 11416 1 11486 1
+E 0 11440 0 16
+E 0 11441 0 10
+E 0 11442 0 8
+E 0 11443 0 15
+M 0 11400 25 11489 1
+M 0 11400 25 11491 2
+M 0 11410 1 11493 1
+E 0 11428 0 5
+E 0 11429 0 9
+E 0 11430 0 8
+E 0 11452 0 17
+M 0 11417 9 11497 2
+E 0 11444 0 17
+E 0 11445 0 6
+M 0 11413 15 11498 3
+M 0 11400 25 11499 3
+M 0 11417 9 11502 2
+M 0 11405 1 11503 1
+E 0 11415 0 2
+E 0 11416 0 6
+E 0 11417 0 12
+E 0 11418 0 16
+M 0 11413 15 11505 1
+M 0 11417 9 11505 1
+M 0 11418 16 11508 1
+M 0 11406 1 11513 1
+E 0 11419 0 6
+E 0 11420 0 9
+E 0 11449 0 17
+M 0 11418 16 11515 1
+M 0 11403 1 11520 1
+G 0 11410 0
+G 0 11408 0
+G 0 11409 0
+G 0 11454 0
+M 0 11404 1 11521 1
+E 0 11453 0 3
+E 0 11411 0 5
+E 0 11412 0 4
+E 0 11413 0 15
+E 0 11414 0 16
+G 0 11424 0
+M 0 11418 16 11526 1
+M 0 11418 16 11528 1
+M 0 11418 16 11533 2
+M 0 11409 1 11538 1
+E 0 11426 0 16
+E 0 11427 0 7
+E 0 11450 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

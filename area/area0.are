@@ -1,0 +1,877 @@
+#AREADATA
+Name Agape~
+Builders Aino ?~
+VNUMs 111 199
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#111
+The Shore of the Sea of Agape~
+Sands of a beautiful yellow colour stretch out to the south, while to the
+west a beautiful sea of blue and green can be seen.  You notice towards what
+seems to be the middle of the see is an island with a blindingly white
+building upon it.  
+~
+0 0 10
+D1
+~
+~
+0 0 120
+D2
+~
+~
+0 0 112
+S
+#112
+The Shore of the Sea of Agape~
+Sands of a beautiful yellow colour stretch out to the south, while to the
+west a beautiful sea of blue and green can be seen.  You notice towards what
+seems to be the middle of the see is an island with a blindingly white
+building upon it.  
+~
+0 0 10
+D0
+~
+~
+0 0 111
+D1
+~
+~
+0 0 119
+D2
+~
+~
+0 0 113
+S
+#113
+The Shore of the Sea of Agape~
+Sands of a beautiful yellow colour stretch out to the south, while to the
+west a beautiful sea of blue and green can be seen.  You notice towards what
+seems to be the middle of the see is an island with a blindingly white
+building upon it.  
+~
+0 0 10
+D0
+~
+~
+0 0 112
+D1
+~
+~
+0 0 118
+D2
+~
+~
+0 0 114
+S
+#114
+The Shore of the Sea of Agape~
+Sands of a beautiful yellow colour stretch out to the south, while to the
+west a beautiful sea of blue and green can be seen.  You notice towards what
+seems to be the middle of the see is an island with a blindingly white
+building upon it.  
+~
+0 0 10
+D0
+~
+~
+0 0 113
+D1
+~
+~
+0 0 117
+D2
+~
+~
+0 0 115
+S
+#115
+The Shore of the Sea of Agape~
+Sands of a beautiful yellow colour stretch out to the south, while to the
+west a beautiful sea of blue and green can be seen.  You notice towards what
+seems to be the middle of the see is an island with a blindingly white
+building upon it.  
+~
+0 0 10
+D0
+~
+~
+0 0 114
+D1
+~
+~
+0 0 116
+S
+#116
+Just Off the Shore~
+The sea is rather comfortable in temperature, it feels like silky warm
+bath water.  You can stretch out and swim as long as you want without being
+worried about bumping into someone else.  It is so nice floating here you
+feel as if you could fall asleep and no danger would come to you.  
+~
+0 0 7
+D0
+~
+~
+0 0 117
+D1
+~
+~
+0 0 122
+D3
+~
+~
+0 0 115
+S
+#117
+Just Off the Shore~
+The sea is rather comfortable in temperature, it feels like silky warm
+bath water.  You can stretch out and swim as long as you want without being
+worried about bumping into someone else.  It is so nice floating here you
+feel as if you could fall asleep and no danger would come to you.  
+~
+0 0 7
+D0
+~
+~
+0 0 118
+D1
+~
+~
+0 0 121
+D2
+~
+~
+0 0 116
+D3
+~
+~
+0 0 114
+S
+#118
+Just Off the Shore~
+The sea is rather comfortable in temperature, it feels like silky warm
+bath water.  You can stretch out and swim as long as you want without being
+worried about bumping into someone else.  It is so nice floating here you
+feel as if you could fall asleep and no danger would come to you.  
+~
+0 0 7
+D0
+~
+~
+0 0 119
+D2
+~
+~
+0 0 117
+D3
+~
+~
+0 0 113
+S
+#119
+Just Off the Shore~
+The sea is rather comfortable in temperature, it feels like silky warm
+bath water.  You can stretch out and swim as long as you want without being
+worried about bumping into someone else.  It is so nice floating here you
+feel as if you could fall asleep and no danger would come to you.  
+~
+0 0 7
+D0
+~
+~
+0 0 120
+D2
+~
+~
+0 0 118
+D3
+~
+~
+0 0 112
+S
+#120
+Just Off the Shore~
+The sea is rather comfortable in temperature, it feels like silky warm
+bath water.  You can stretch out and swim as long as you want without being
+worried about bumping into someone else.  It is so nice floating here you
+feel as if you could fall asleep and no danger would come to you.  
+~
+0 0 7
+D2
+~
+~
+0 0 119
+D3
+~
+~
+0 0 111
+S
+#121
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 123
+D1
+~
+~
+0 0 129
+D2
+~
+~
+0 0 122
+D3
+~
+~
+0 0 117
+S
+#122
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 121
+D1
+~
+~
+0 0 130
+D3
+~
+~
+0 0 116
+S
+#123
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 124
+D2
+~
+~
+0 0 121
+S
+#124
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 125
+D1
+~
+~
+0 0 127
+D2
+~
+~
+0 0 123
+S
+#125
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 126
+D2
+~
+~
+0 0 124
+S
+#126
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 135
+D2
+~
+~
+0 0 127
+D3
+~
+~
+0 0 125
+S
+#127
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 126
+D2
+~
+~
+0 0 128
+D3
+~
+~
+0 0 124
+S
+#128
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 127
+D2
+~
+~
+0 0 129
+S
+#129
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 128
+D3
+~
+~
+0 0 121
+S
+#130
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 131
+D3
+~
+~
+0 0 122
+S
+#131
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 132
+D3
+~
+~
+0 0 130
+S
+#132
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 139
+D2
+~
+~
+0 0 131
+S
+#133
+A Small Island~
+The sand on here is very different from the sand on the shore.  It seems
+softer, and is a brilliant white colour.  Looking around you notice that the
+island isn't very big, maybe only a mile in each direction.  There is what
+looks like a stair case, but it does not look to be held up by anything. 
+The stairs are an opaque white marble looking material.  You feel the strong
+urge to go up them.  
+~
+0 9216 10
+D1
+~
+~
+0 0 138
+D4
+~
+~
+0 0 151
+S
+#134
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 135
+D1
+~
+~
+0 0 137
+S
+#135
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 136
+D2
+~
+~
+0 0 134
+D3
+~
+~
+0 0 126
+S
+#136
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 145
+D3
+~
+~
+0 0 135
+S
+#137
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D2
+~
+~
+0 0 138
+D3
+~
+~
+0 0 134
+S
+#138
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 137
+D3
+~
+~
+0 0 133
+S
+#139
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 142
+D2
+~
+~
+0 0 140
+D3
+~
+~
+0 0 132
+S
+#140
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 139
+D1
+~
+~
+0 0 141
+S
+#141
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 142
+D1
+~
+~
+0 0 150
+D3
+~
+~
+0 0 140
+S
+#142
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 143
+D2
+~
+~
+0 0 141
+D3
+~
+~
+0 0 139
+S
+#143
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 144
+D2
+~
+~
+0 0 142
+S
+#144
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 145
+D1
+~
+~
+0 0 147
+D2
+~
+~
+0 0 143
+S
+#145
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D1
+~
+~
+0 0 146
+D2
+~
+~
+0 0 144
+D3
+~
+~
+0 0 136
+S
+#146
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D2
+~
+~
+0 0 147
+D3
+~
+~
+0 0 145
+S
+#147
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 146
+D2
+~
+~
+0 0 148
+D3
+~
+~
+0 0 144
+S
+#148
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 147
+D2
+~
+~
+0 0 149
+S
+#149
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 148
+D2
+~
+~
+0 0 150
+S
+#150
+On the Sea of Agape~
+The water is a crystal blue and green colour.  Just below the surface you
+can see there is much movement.  On the water you feel at peace with the
+world and a great happiness enters your heart.  You can see out in the
+distance that there are life forms moving around.  
+~
+0 0 7
+D0
+~
+~
+0 0 149
+D3
+~
+~
+0 0 141
+S
+#151
+A Beautiful Staircase~
+This stair case is all together unordinary, but you can't help but be in
+awe of it.  It doesn't feel like you are really walking on anything, it's
+almost as if you are walking on air, so you have to continually keep looking
+down to make sure you are not going to lose your footing and fall.  
+~
+0 9216 0
+D4
+~
+~
+0 0 152
+D5
+~
+~
+0 0 133
+S
+#152
+A Great Arch~
+The stairs have finally ended into this magnificent entrance.  You can
+tell it is a grand place and someone important must live here, why else
+would someone take the great trouble of building such an extravigant
+building.  Noticing you are above the clouds is a little unsettling, but the
+creature with wings peering at you has caught your interest.  
+~
+0 9216 0
+D1
+~
+~
+0 0 153
+D5
+~
+~
+0 0 151
+S
+#153
+A Hallway of Grandure~
+This long hallway has two large and very long windows on each side.  Each
+window has a beautiful view of clouds and the sea mingled together.  The
+floor has very ornate rugs going through the middle of the room.  You see
+movement in the next room and a smell of roses is now wafting through the
+air.  
+~
+0 9216 0
+D1
+~
+~
+0 0 154
+D3
+~
+~
+0 0 152
+S
+#154
+A Shrine of Peace and Love~
+This room is in the shape of a gazebo, instead of walls the room is open
+and what little wall is left is in the shape of polls.  Obviously this place
+was made with great love and care, it just eminates from the scenery and the
+structure in which you are standing.  Looking around it is hard not to
+notice the beautiful life-like statue in the middle of the room.  
+~
+0 9216 0
+D3
+~
+~
+0 0 153
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

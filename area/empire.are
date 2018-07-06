@@ -1,0 +1,389 @@
+#AREADATA
+Name Empire Cabal~
+Builders None~
+VNUMs 8100 8199
+Credits {CABAL} Dioxide Empire Cabal~
+Security 9
+End
+
+
+
+#MOBILES
+#8100
+healer shaman~
+the old shaman~
+An old shaman stands here healing the troops.
+~
+You peer at this withered old man. His eyes are sunk back into his
+sockets. His old pale skin showing out from under his many robes.
+His hair greesy and held back with a leather strap, but you can
+sense a magic about him. Perhaps it's nothing, but  he doesn't seem
+like he's aged a day in his life.
+~
+unique~
+ABGa DFHNO -1000 0
+60 56 80d125+1234 300d200+1000 5d10+5 shbite
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#8101
+centurion omegus~
+the Centurion Omegus~
+The Centurion Omegus stands here guarding the inner gates from invasion.
+~
+The Emperor's hand picked minion. This giant beast was sworn to
+protect the Emperor at all costs, even with his own life. His body
+is dressed in the finest armor the empire has to offer, and his
+blade infused with the magical energies of the elves.
+~
+troll~
+ABTVe DFHb -1000 0
+60 80 2d500+8000 1d1+4999 10d10+20 pound
+-70 -70 -70 -70
+ACDEFIJK AB DLQ HK
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#8102
+imperial centurion~
+an Imperial Centurion~
+A Centurion stands here, collecting tithe for the Empire.
+~
+This Centurion of the Empire stands, blocking the road. He demands
+payment to pass as he collects tithe for the Empire.
+~
+human~
+Ac DFJ -1000 0
+1 3 1d1+0 1d1+0 1d1+0 slash
+0 0 0 0
+CEFIJKNOU AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#8100
+fountain~
+a fountain~
+A large fountain flows crystal clear water from a closed fist.~
+adamantite~
+fountain 0 N
+2000000 2000000 'water' 0 0
+0 5 0 P
+#8101
+imperial codex~
+the Imperial Codex~
+The Imperial Codex is here.~
+paper~
+treasure OT A
+0 0 0 0 0
+60 1 100000 P
+C
+7
+L
+1
+#8102
+throne obsidian emperor~
+the Emperor's Throne~
+The Emperor's obsidian throne is here.~
+bone~
+furniture ORY P
+1 15 EH 350 350
+60 1 20 P
+#8103
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+#8104
+tablet philosophy empire imperial~
+the obsidian tablet of Imperial philosophy~
+A huge obsidian tablet has been erected here.~
+obsidian~
+trash 0 0
+0 0 0 0 0
+60 0 0 P
+E
+tablet philosophy empire imperial~
+The principal concept of the Empire is to draw Thera under the
+Emperor's authority, which will, in effect, rid Thera of its plague
+of disorder.  Under the Emperor's reign, the chaotic influences will
+be dispersed, creating order, peace, and prosperity.
+
+The Bloodoathed, regardless of former path, are the foundation of
+the Empire.  The Bloodoathing process unites them in the pursuit of
+the Empire's goal.  Thus, even the Empire's greatest foes will
+become part of the Empire's inevitable glorious victory.
+~
+#0
+
+
+
+#ROOMS
+#8100
+Entrance to the Palace~
+You are standing at the gates to the Imperial Palace. The huge iron 
+gates are slammed shut, the iron bars gleaming in the sunlight. Two 
+huge knights stand on either side of the gate, asking citizens their 
+business and giving them clearance to enter the palace courtyard.
+~
+0 8 0
+D0
+~
+~
+0 -1 8101
+D2
+~
+~
+0 -1 8109
+S
+#8101
+Standing in the Courtyard~
+You find yourself in an open courtyard. Peasants have come to sell 
+their goods, under the watchful eye of the Empire. The palace of 
+dominance lays northward, its tall Imperial flag floating in all 
+its glory on a flag pole situated at the top of the castle.
+~
+0 8 0
+D0
+~
+~
+0 -1 8102
+D2
+~
+~
+0 -1 8100
+S
+#8102
+The Inner Gates~
+You are standing at the inner gates of the palace. The stone floor 
+here is covered with many a mans blood. A huge ugly looking man 
+stands here, with his giant blade in hand wiping the blood smears 
+from it, preparing for the next infidel that wishes to lay an 
+assault on the Empire.
+~
+0 8 0
+D0
+~
+~
+0 -1 8103
+D2
+~
+~
+0 -1 8101
+S
+#8103
+Within the Palace of Dominace~
+You find yourself within the palace of dominance. There is a large 
+fountain in the center of the room. Its stones carved into an iron 
+fist, the water spurting out of the top of the fist. There are 
+knights of the Empire marching around, following procedures and 
+gathering their training.
+~
+0 8 0
+D0
+~
+~
+0 -1 8104
+D2
+~
+~
+0 -1 8102
+S
+#8104
+The Stairwell~
+Your are standing at the base of an ornate stairwell. Its spiral 
+stairs leading upward into the heart of the castle. All around 
+you there are Imperial knights rushing by you, trying to perform 
+their tasks to the Emperor's satisfaction.
+~
+0 8 0
+D2
+~
+~
+0 -1 8103
+D4
+~
+~
+0 -1 8105
+S
+#8105
+A Hallway~
+Your walking in the hallway of the Palace. The stone floors have 
+a red carpet lining the center of the floor. There are portraits 
+of the great figures of Thera along the side of the wall. Hung 
+in the bigest frame is the picture of the Emperor, his giant 
+staff in hand.
+~
+0 8 0
+D1
+~
+~
+0 -1 8106
+D3
+~
+~
+0 -1 8107
+D5
+~
+~
+0 -1 8104
+S
+#8106
+The Altar Room~
+You find yourself in the altar room. A pit for donations to the 
+Empire and its Citizens stands in the center of the room.
+~
+0 8 0
+D3
+~
+~
+0 -1 8105
+S
+#8107
+A Hallway~
+You're walking in the hallway of the Palace. The stone floors have a 
+red carpet lining the center of the floor. There are portraits of 
+the great figures of Thera along the side of the wall. Hung in the 
+biggest frame is the picture of the Emperor, his giant staff in hand.
+~
+0 8 0
+D0
+~
+~
+0 -1 8108
+D1
+~
+~
+0 -1 8105
+S
+#8108
+The Throne Room~
+You have stumbled into the Emperors throne room. A massive obsidian 
+throne lies in the back of the room, on an ornate platform. There
+are royal servants all around, holding platters of food and 
+fans for the Emperor's pleasure. A darkened old shaman sits in 
+the corner of the room chanting incantations and healing the 
+soldiers.
+~
+0 8 0
+D2
+~
+~
+0 -1 8107
+S
+#8109
+The Imperial Road~
+You are walking along a well-used, beaten trail by the boots and carts
+of Imperials and non-Imperials alike. A huge palace can been seen in the
+distance. 
+~
+0 8 0
+D0
+~
+~
+0 -1 8100
+D2
+~
+~
+0 -1 8110
+S
+#8110
+The Imperial Road~
+You are walking along a well-used, beaten trail by the boots and carts
+of Imperials and non-Imperials alike. A huge palace can been seen in the
+distance. 
+~
+0 8 0
+D0
+~
+~
+0 -1 8109
+D2
+~
+~
+0 -1 8111
+S
+#8111
+Before the Imperial Road~
+You are walking along a well-used, beaten trail by the boots and carts
+of Imperials and non-Imperials alike. A huge palace can been seen in the
+distance. 
+~
+0 8 0
+D0
+~
+~
+0 -1 8110
+D2
+~
+~
+0 -1 8112
+S
+#8112
+Bridge before the Imperial Palace~
+You are standing on a masterfully crafted wooden bridge over a strong,
+gushing river. A large palace can be seen far in the distance. Tar
+Valon is southward.
+~
+0 8 0
+D0
+~
+~
+0 -1 8111
+D2
+~
+~
+0 -1 8113
+S
+#8113
+Before a grand bridge~
+A huge bridge over a rushing river is north of you. A large palace can
+be seen far in the distance. Tar Valon is south.
+~
+0 8 0
+D0
+~
+~
+0 -1 8112
+D2
+~
+~
+0 -1 1869
+S
+#0
+
+
+
+#SPECIALS
+M 8101 spec_omegus
+S
+
+
+
+#RESETS
+O 0 8104 0 8101
+M 0 8101 1 8102 1
+G 0 8101 0
+O 0 8100 0 8103
+O 0 8103 0 8106
+M 0 8100 1 8108 1
+O 0 8102 0 8108
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,119 @@
+#AREADATA
+Name Shrine of Valinor~
+Builders None~
+VNUMs 4456 4465
+Credits {SHRINE} Valinor The Shrine of Valinor~
+Security 9
+End
+
+
+
+#MOBILES
+#4456
+elven elf harpist~
+an elven harpist~
+A slender and strikingly beautiful elven harpist is seated before you. 
+~
+This slender elven maiden is dedicated her life to the enchanting music
+and study of her divine lords ways and the Sarn Athrael. Her curling golden
+hair falls to her shoulders. She has soft, comforting blue eyes and a gentle
+smile. 
+~
+elf~
+ABGa DFHJNOPUV 1000 0
+57 50 80d30+11000 0d0+0 12d44+28 light
+-30 -30 -30 -30
+FHKQ ABCFGHIJKLMNOPQRSTYZ BH Z
+stand stand female 0
+AHMV ABCDEFGHIJK small flesh
+#0
+
+
+
+#OBJECTS
+#4456
+silver studded harp~
+a silver harp strung with crystal tears~
+A beautiful silver harp lies at your feet.~
+silver~
+instrument AHQ AO
+0 0 0 0 0
+57 0 0 P
+#4457
+crystal shard~
+a crystal shard~
+A long, dangerous looking shard of crystal lies here.~
+crystal~
+weapon ABIKQ AN
+exotic 12 8 light BI
+57 0 0 P
+A
+19 11
+A
+18 11
+A
+13 300
+F
+A 0 0 H
+F
+A 0 0 V
+A
+0 0
+L
+1
+#0
+
+
+
+#ROOMS
+#4456
+A beautiful alcove.~
+You stand in a small, magnificent alcove. The plants and animals around
+you are stunning and breathtaking. Hundreds of small birds and soft, calm
+animals roam the alcove bathing in the golden sun. On the northwestern
+portion of the alcove is a tall shady tree; under it is a beautiful elven
+harpist. The entire alcove is filled with sweet and flagrant music. The
+small trail heads back towards where you entered. - On the ground is a small
+stone slab with writing etched into it. 
+~
+0 5242892 3
+E
+slab floor stone~
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+= The Sarn Athrael = - - = Translating into modern text the Sarn Athrael
+would simply mean = - "The Stone Athrael". Of course behind all great
+treasures there - = is a tale of beauty and love, courage and deceit, and
+the honor = - of ones virtues and desires. Unfortunately, that is a tale you
+- = shall not hear this day, but another day. For today all you must = -
+understand is the Sarn Athrael stands for beauty, Respect, and - =
+Knowledge. Seek the Divine Lord valinor if you understand those = - words I
+speak. - = =
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
+~
+S
+#0
+
+
+
+#SPECIALS
+M 4456 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 4456 1 4456 1
+E 0 4456 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

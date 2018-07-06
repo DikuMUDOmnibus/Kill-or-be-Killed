@@ -1,0 +1,2214 @@
+#AREA
+obsidian.are~ 
+The Obsidian Order~ 
+{25 51} Barsak  The Obsidian Order~ 
+18000 18099 
+ 
+#MOBILES 
+#18000 
+obsidian soldier~ 
+an obsidian soldier~ 
+A dark soldier is here, emitting the power and influence of the order. 
+~ 
+He seems almost robotic in his efficiency. Although not as powerful as  
+his elite brothers and commanders, he shows great skill in fighting and 
+makes sure he represents the strength of the order. 
+~ 
+human~ 
+ACT O -1000 0 
+30 0 6d12+853 1d1+1 4d7+9 slice 
+-9 -9 -9 -9 
+CDFJK 0 0 0 
+stand stand male 7000 
+0 0 medium 0 
+ 
+#18001 
+elite obsidian soldier~ 
+an elite obsidian soldier~ 
+An elite soldier of the obsidian order stands here observing the soldiers. 
+~ 
+The epitomy of the soldiers. He has earned his right to order the other  
+soldiers around. Clad in high obsidian gear, he is not only feared among 
+his soldiers but throughout the land as well. Dark eyes and pale skin make 
+him seem almost devoid of life and his visciousness in combat show him  
+possibly without soul. 
+~ 
+human~ 
+ABT OHc -1000 0 
+52 1 1d1+3999 1d1+1 7d7+12 slash 
+15 -15 -15 -15 
+CDEFHIKVX 0 0 0  
+stand stand male 10000 
+0 0 large 0 
+ 
+#18002 
+obsidian commander~ 
+the Obsidian Commander~ 
+A dark man seated behind a desk sneers at your disrespect for the order. 
+~ 
+He is one of the very few who have been chosen by the Founder to lead the 
+obsidian soldiers. After showing his loyalty and power by leading his men 
+to a nearby kingdom and utterly destroying it, he was given this post. Now 
+he spends his time making sure his soldiers are ready for war.  
+~ 
+human~ 
+ABFZT HDFOV -1000 0 
+55 4 1d1+5999 1d1+1 9d9+27 beating 
+-20 -20 -20 -20 
+ACDEFHVX A 0 0 
+sit stand male 100 
+0 0 large 0 
+ 
+#18003 
+founder ethereal being shape~ 
+the Founder~ 
+An ethereal being shifts shape and form while radiating a strange light. 
+~ 
+It shifts form and size while glowing with power. The temperature in the 
+room rises, and then falls to what feels like below freezing. Flashing 
+lights are all around you and you cannot focus on any of them. It is the  
+controlling force behind the order and seems to have been angered by your  
+entrance.  
+~ 
+human~ 
+ABFOR FDHOU -1000 0 
+55 4 1d1+15999 1d1+2 9d9+50 wrath 
+-23 -23 -23 -23 
+ACDGKVX A C 0 
+stand stand none 0 
+0 0 giant 0 
+ 
+#18004 
+obsidian jailor guard~ 
+the obsidian jailor~ 
+A tall, dark man stands here, guarding the prisoners of the order. 
+~ 
+He seems not to either enjoy his work nor resent it. His eyes are almost  
+lifeless in their darkness and his pale face seems like it was carved from 
+a large piece of ivory. He has been placed in the lower parts of the large 
+fortress to guard the prisoners and make sure they do not escape.  
+~ 
+human~ 
+ABCHQ HOZ -1000 0 
+50 0 1d1+4999 1d1+1 7d10+17 bite 
+-10 -10 -10 -10 
+EFK 0 0 0 
+stand stand male 0 
+0 0 medium 0 
+ 
+#18005 
+Silea grey-elf woman~ 
+Silea~ 
+A beautiful grey-elf woman sits here, wondering why she was captured. 
+~ 
+She is very beautiful and looks at you with the deepest sadness. Her  
+piercing violet eyes not only make you feel almost guilty for her capture, 
+but also seem to hope you will let her go free.  
+~ 
+elf~ 
+ABCH P 0 0 
+55 6 1d1+7999 1d1+1 9d10+25 slap 
+-23 -23 -23 -23 
+EFN 0 B Z 
+sit stand female 0 
+0 0 medium 0 
+ 
+#18006 
+Diron human~ 
+Diron~ 
+A tall human is here, pacing around his cell. 
+~ 
+He seems completely lost. Wandering around his cell still wondering what  
+went wrong with his life and how he got to be trapped in a cell of the  
+order. Supposedly he is locked here for acting against the Order and fleeing 
+from arrest. The Order obviously was not happy and now he spends his days  
+in a cell. 
+~ 
+human~ 
+ABCH 0 1000 0 
+55 9 1d1+7999 1d1+1 10d10+19 punch 
+-20 -20 -20 -20 
+CDEFK AB 0 0 
+stand stand male 0 
+0 0 medium 0 
+ 
+#18007 
+La'Shana elf princess~ 
+La'Shana~ 
+A tired and dirty-looking elf stands quietly here. 
+~ 
+Dirt is smudged on her face and her clothes are torn and shredded like 
+old rags. She was once a princess, serving her people well and helping her  
+father and husband in diplomatic situations. When the Order tried to force 
+the elves to turn their village over completely, they quite obviously  
+refused. When they made that choice, what seemed like thousands of soldiers, 
+human and giants, attacked her village. Her husband is being held somewhere 
+else, but she is unsure of where. 
+~ 
+elf~ 
+ABC N 1000 0 
+55 6 1d1+7999 1d1+1 10d9+30 slap 
+-20 -20 -20 -20 
+EFH 0 B Z 
+stand stand female 0 
+0 0 medium 0 
+ 
+#18008  
+gnome warrior~ 
+the Warrior Gnome~ 
+A strong gnome is sitting here, wondering if he'll ever get out. 
+~ 
+He is one of the strongest gnomes you have ever seen. Muscles ripple all  
+over his 3 foot tall body. He was part of the great gnomish army who risked 
+their lives to fight the order. They were set up. As the army of gnomes came  
+to destroy the soldiers of the Obsidian Order, the Founder itself fought  
+with them. Blasting off 15 gnomes at a time and crushing others under foot,  
+the army was utterly destroyed. Only a handful survived and were considered  
+the luckiest of their army to the Order and have been held captive ever since. 
+~ 
+gnome~ 
+ABT Z 0 0 
+51 10 1d1+5999 1d1+1 10d10+20 punch 
+-20 -20 -20 -20 
+CDEFK 0 0 E 
+stand stand male 0 
+0 0 medium 0 
+ 
+#18009 
+obsidian guard~ 
+the fortress guard~ 
+A strong looking obsidian guard stands here, guarding the fortress. 
+~ 
+He looks strong enough to take out one of the soldiers and keep out any  
+unwanted guests to the fortress. He must hold a rank just above the soldiers 
+yet below that of the elite guards. For now, he guards the door. 
+~ 
+human~ 
+ABT O -1000 0 
+37 1 1d1+1699 1d1+1 3d10+12 slice  
+-12 -12 -12 -12 
+CDIN 0 0 0 
+stand stand male 0 
+0 0 medium 0 
+ 
+#18010 
+cook dark human~ 
+the obsidian cook~ 
+A pale human stands here, serving food to the soldiers of the order. 
+~ 
+He bears a few scars but from the looks of his size, he isn't a soldier.  
+~ 
+human~ 
+ABCH U -1000 0 
+20 4 1d1+399 1d1+1 2d8+5 scratch 
+-3 -3 -3 -3 
+FK AB 0 0 
+stand stand male 0 
+0 0 medium 0 
+ 
+#18011 
+troll dark interrogator~ 
+the troll interrogator~ 
+A dark looking troll, hunched over a table, waits to interrogate someone. 
+~ 
+He grins at you and points to the various instruments he uses in his work. 
+He drools a bit as he describes his most recent "work" and shows off a few 
+techninques he's created over the years. You notice his muscles are very  
+well toned and the hair on his hair is beginning to grey. He looks to be 
+an experienced fighter. 
+~ 
+troll~ 
+ABFGOT Oc -1000 0 
+45 6 1d1+4999 1d1+1 8d7+20 cleave 
+-15 -15 -15 -15 
+ACDEFK A BD HK 
+stand stand male 0 
+0 0 large 0 
+ 
+#18012 
+assistant goblin~ 
+a goblin assistant~ 
+A small and disgusting goblin is here, fiddling with the torture devices. 
+~ 
+Hopefully gaining favor in his volunteer work in the new order, the goblin 
+follows everything the troll says. Not very muscular, he seems even small for 
+a goblin. Pale-green skin and rags that are torn and dirty, he seems only a 
+peasant in this grand obsidian fortress. 
+~ 
+goblin~ 
+ABCH 0 -1000 0 
+40 3 1d1+2999 1d1+1 4d9+9 pierce 
+-10 -10 -10 -10 
+CDFIKNP AB 0 0 
+stand stand male 0 
+0 0 medium 0 
+ 
+#18013 
+Rasheeka centaur~ 
+Rasheeka~ 
+Rasheeka, leader of the centaur warriors, stands here quietly. 
+~ 
+As leader of the group of centaur warriors known as the Redhawks, Rasheeka 
+has brought her best to help against the Order and the new alliance. She 
+hopes to take out as many soldiers as possible, while making it inside the 
+fortress and destroying it. Perhaps one of the best centaur warriors in the 
+realm, she is confident that she and her warriors will succeed. 
+~ 
+centaur~ 
+ABT HNV 1000 0 
+56 3 1d1+6999 1d1+1 11d9+35 divine 
+-19 -19 -19 -19 
+ACDEHIJKNRO NB D P 
+stand stand female 0 
+0 0 giant 0 
+ 
+#18014 
+Rakeesh centaur~ 
+Rakeesh~ 
+A large centaur with a wild-looking mane stands here restlessly. 
+~ 
+Brother to Rasheeka, Rakeesh is second in command of the Redhawks. Having  
+been the wilder one of his family, his sister sometimes has to remind him of 
+his responsibility to her and the others. More in it for the fighting and the 
+kill, Rakeesh is an excellent warrior and looks forward to slaughtering as 
+many soldiers as possible. The muscles that cover his body are all ready for 
+any battle that may come his way. 
+~ 
+centaur~ 
+ABT HNV 1000 0 
+55 3 1d1+3999 1d1+1 10d6+30 slash 
+-15 -15 -15 -15 
+ACDEHIJKNOR NB D P 
+stand stand male 0 
+0 0 giant 0 
+
+#18015
+Ralana centaur~
+Ralana~
+A small, yet determined centaur stands here, eyeing the Tower.
+~
+Having joined the Redhawks to aid Rasheeka in her battle against the tyrannical 
+Obsidian Order, Ralana uses her skill as a ranger to help track soldiers who 
+have wandered to far from their camp. Biding their time, it seems to her that
+every second counts against them.
+~
+centaur~
+ABT HNV 1000 0
+53 6 1d1+2999 1d1+1 10d6+25 crush
+-15 -15 -15 -15
+ACDEFHIJKNOR NB D P
+stand stand female 0
+0 0 large 0 
+
+#0 
+ 
+#OBJECTS 
+#18000 
+obsidian helm~ 
+an obsidian helm~ 
+A dark helm with the insignia of the Obsidian Order is here.~ 
+obsidian~ 
+armor AEJ AE 
+8 8 8 8 0 
+45 70 800 P 
+A 
+12 35  
+A 
+18 1 
+A  
+19 2 
+L 
+35 
+ 
+#18001 
+obsidian breastplate plate~ 
+an obsidian breastplate~ 
+A dark breastplate with the insignia of the Obsidian Order is here.~ 
+obsidian~ 
+armor JE AD 
+10 10 10 10 0 
+45 90 800 P 
+A 
+13 45  
+A 
+1 2 
+A 
+19 3 
+A 
+2 -1 
+L 
+9 
+ 
+#18002 
+insignia obsidian~ 
+insignia of the Obsidian Order~ 
+A dark insignia of the Obsidian Order is here.~ 
+obsidian~ 
+armor BEJ AC 
+10 10 10 10 0 
+45 30 800 P 
+A 
+13 15 
+A 
+19 2 
+A 
+18 2 
+L 
+10 
+ 
+#18003 
+arm armplates obsidian~ 
+pair of obsidian armplates~ 
+A dark pair of obsidian armplates are here.~ 
+obsidian~ 
+armor JE AI 
+6 6 6 6 0 
+45 80 800 P 
+A  
+2 -1 
+A 
+19 2 
+A 
+5 2 
+A 
+1 3 
+A 
+17 -10 
+L 
+10 
+ 
+#18004 
+obsidian cape~ 
+an obsidian-laced cape~ 
+A dark cape of the Obsidian Order is here.~ 
+cloth~ 
+armor AJE AK  
+8 8 8 8 0 
+45 40 800 P 
+A 
+13 35 
+ 
+#18005 
+obsidian boots~ 
+obsidian boots~ 
+A dark pair of obsidian boots are here.~ 
+obsidian~ 
+armor AE AG 
+7 7 7 7 0 
+45 50 800 P 
+A 
+2 2 
+A 
+19 1 
+ 
+#18006 
+obsidian sword longsword~ 
+an obsidian longsword~ 
+A dark longsword with the insignia of the Obsidian Order rests here.~ 
+obsidian~ 
+weapon EAM AN 
+sword 4 9 cleave 0 
+35 90 600 P 
+A 
+18 2 
+A 
+19 1 
+ 
+#18007 
+helm commander obsidian~ 
+the Helm of the Order~ 
+A Helm of pure obsidian sits here, showing the power of the Obsidian Order.~ 
+obsidian~ 
+armor ABJ AE 
+12 12 12 12 0 
+50 110 800 P 
+A 
+18 3 
+A 
+19 3 
+A  
+13 25 
+L 
+5 
+ 
+#18008 
+fists commander~ 
+the fists of the Obsidian Commander~ 
+A bloody pair of fists twitch on the ground here.~ 
+flesh~ 
+armor BJ AH 
+9 9 9 9 0 
+50 110 800 P 
+A 
+19 4 
+A 
+1 2 
+A  
+24 -5 
+L 
+4 
+ 
+#18009 
+sword obsidian~ 
+the dark sword of obsidian~ 
+A dark sword of pure obsidian sits here with the fear of the Obsidian Order.~ 
+obsidian~ 
+weapon J AN 
+sword 6 8 slash 0 
+50 210 800 P 
+A 
+18 5 
+A 
+12 20 
+L 
+7 
+ 
+#18010 
+shield obsidian~ 
+the shield of the Obsidian Order~ 
+A dark shield of pure obsidian sits here.~ 
+obsidian~ 
+armor JB AJ 
+10 10 10 10 0 
+50 120 800 P 
+A 
+24 -10 
+A 
+1 2 
+A 
+19 3 
+L 
+5
+ 
+#18011 
+bracelet control~ 
+a bracelet of control~ 
+A dark bracelet rests here emitting influence and control.~ 
+obsidian~ 
+armor JA AM 
+10 10 10 10 0 
+50 20 800 P 
+A 
+24 -10 
+A 
+12 40 
+A 
+13 40 
+L 
+9 
+ 
+#18012 
+gown ethereal founder~ 
+the Ethereal Gown of the Founder~ 
+A mystical gown shifts shape and form on the ground here.~ 
+ethereal~ 
+armor A AD 
+15 15 15 20 0 
+52 40 8000 P 
+A 
+24 -10 
+A 
+13 75 
+A  
+12 75
+F 
+A 0 0 U
+L 
+2 
+ 
+#18013 
+wrath founder~ 
+the Wrath of the Founder~ 
+A strange and mystical weapon of intense power rests here.~ 
+ethereal~ 
+weapon AB AN 
+exotic 6 10 wrath 0 
+52 120 9000 P 
+A 
+12 100 
+A 
+24 -10 
+L 
+1 
+ 
+#18014 
+orb obsidian~ 
+the Orb of the Obsidian Order~ 
+A strange and mystical orb floats here, humming loudly.~ 
+ethereal~ 
+armor B AO 
+20 20 20 20 0 
+52 30 90000 P 
+A 
+12 100 
+A 
+13 25 
+A  
+24 -10 
+L 
+1 
+ 
+#18015 
+violet tunic~ 
+a violet tunic~ 
+A beautifully crafted violet tunic is here~ 
+cloth~ 
+armor A AD 
+15 15 15 15 0 
+50 50 900 P 
+A 
+3 3 
+A 
+12 40 
+A 
+13 15 
+A 
+17 -10 
+L 
+5 
+R 
+D 
+ 
+#18016 
+flail stone~ 
+the flail of Remembrance~ 
+A large stone flail sits here reminding you of the past.~ 
+granite~ 
+weapon B AN 
+flail 4 12 shbite 0 
+40 220 8000 P 
+A 
+2 -1 
+A 
+13 45 
+A 
+12 25 
+L 
+17 
+ 
+#18017 
+bracelet emerald~ 
+a beautiful bracelet of emerald~ 
+A shiny hoop off emerald glints on the ground here.~ 
+emerald~ 
+armor A AM 
+5 5 5 5 0 
+45 70 80000 P 
+A  
+5 4 
+A 
+12 20 
+L  
+35 
+ 
+#18018 
+bracer gnome~ 
+a bracer of the Gnomish Empire~ 
+A powerful looking bracer with the insignia of the gnomish empire is here.~ 
+earth~ 
+armor AB AM 
+9 9 9 9 0 
+45 60 800 P 
+A 
+19 4 
+A  
+18 3 
+A  
+1 2 
+L 
+4 
+R 
+J 
+ 
+#18019 
+mist barsak platemail~ 
+the platemail of Mist and Mayhem~ 
+A strange platemail flickers and flashes on the floor here.~ 
+ethereal~ 
+armor AB AD 
+90 90 90 90 0 
+51 0 90000 P 
+A 
+19 50 
+A 
+18 50 
+R 
+F 
+ 
+#18020 
+destruction chaos~ 
+the Destruction of Chaos~ 
+Order itself rests here in the form of a weapon!~ 
+ethereal~ 
+weapon A AN 
+exotic 50 50 flbite E 
+51 450 90000 P 
+A 
+19 50 
+A 
+18 50 
+F 
+A 0 0 H 
+ 
+#18021 
+helm skull outlaw~ 
+a skull of an Outlaw~ 
+A large skull of an Outlaw rests on the ground here.~ 
+bone~ 
+armor B AE 
+50 50 50 50 0 
+51 0 90000 P 
+ 
+#18022 
+cloak interrogation red~ 
+the cloak of the interrogator~ 
+A red cloak sits on the ground.~ 
+cloth~ 
+armor B AC 
+10 10 10 10 0 
+45 110 900 P 
+A 
+1 3 
+A 
+19 2 
+L 
+35 
+ 
+#18023 
+dark leather leggings~ 
+a pair of dark leather leggings~ 
+A pair of dark leather leggings are here.~ 
+leather~ 
+armor 0 AF 
+7 7 7 7 7 
+40 40 900 P 
+A 
+19 2 
+A 
+13 25 
+L 
+15 
+ 
+#18024 
+platinum hoof plates hoof-plates~ 
+a set of platinum hoof-plates~ 
+A set of platinum hoof-plates are here.~ 
+platinum~ 
+armor AB AG 
+15 15 15 15 10 
+50 150 9000 P 
+A 
+1 3 
+A 
+19 4 
+A 
+13 20 
+R 
+G 
+L 
+1 
+ 
+#18025 
+bracelet redhawks red~ 
+the bracelet of the Redhawks~ 
+A red-tinted bracelet is here.~ 
+steel~ 
+armor B AM 
+10 10 10 10 10 
+50 70 9000 P
+A 
+19 3 
+A 
+18 3 
+A 
+13 50 
+R 
+G 
+L 
+6 
+ 
+#18026 
+crude fur cloak~ 
+a crudely made fur cloak~ 
+A crudely made fur cloak sits in the corner here.~ 
+fur~ 
+armor LKMT AC 
+8 8 8 8 8 
+50 120 9000 P
+A 
+19 4 
+A 
+13 85 
+A 
+3 -3 
+A 
+4 -3 
+A 
+12 -75 
+L 
+4 
+ 
+#18027 
+axe great Redhawks~ 
+the Great axe of the Redhawks~ 
+A large, beautifully crafted axe sits here.~ 
+mithril~ 
+weapon ABKMI AN  
+axe 11 5 shock D 
+50 310 9000 P 
+A 
+13 50 
+A 
+19 10 
+R 
+G 
+L 
+1 
+ 
+#18028 
+strong platinum armplates arm plates~ 
+some strong platinum armplates~ 
+A pair of strong-looking platinum armplates are here.~ 
+platinum~ 
+armor ABK AI 
+12 12 12 12 12 
+50 450 9000 P 
+A 
+13 45 
+A 
+12 45 
+A 
+18 4 
+A 
+19 4 
+A 
+17 -18 
+R 
+K 
+L 
+1 
+ 
+#18029 
+fur-lined fur huge shield Redhawks~ 
+the huge, fur-lined shield of the Redhawks~ 
+A huge, fur-lined shield is lying on the ground.~ 
+fur~ 
+armor A AJ 
+10 10 10 10 10 
+50 190 9000 P 
+A 
+19 3 
+A 
+13 35 
+L 
+4 
+ 
+#18030 
+iron plates hoof hoof-plates~ 
+a set of iron hoof-plates~ 
+A set of iron hoof-plates lies here.~ 
+iron~ 
+armor ABIM AG 
+8 8 8 8 8 
+50 290 9000 P 
+A 
+19 2 
+A 
+13 25 
+A 
+18 4 
+A 
+17 -7 
+R 
+G 
+L 
+4 
+ 
+#18031 
+fire camp campfire~ 
+a large campfire~ 
+A large campfire crackles as it warms the room.~ 
+fire~ 
+trash ORA 0 
+0 0 0 0 0 
+10 10 9000 P 
+ 
+#18032
+belt woven centaur hair~
+a belt of woven centaur hair~
+A beautiful belt made from woven bits of a centaur's mane sits here.~
+fur~
+armor ABIK AL
+13 13 13 13 1
+50 30 9000 P
+A 
+2 5
+A
+18 3
+A
+14 120
+L 
+4
+
+#18033
+wood woodsmaster hood~
+the woodsmaster's hood~
+A large, leather hood sits here, stirring the surroundings as if a soft wind is blowing.~
+leather~
+armor AK AE
+10 10 10 10 10
+50 70 9000 P
+A
+2 4
+A
+19 7
+A
+24 -15
+L
+1
+
+
+#0 
+ 
+#ROOMS 
+#18000 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals. To the south you can make out a road heading towards Arkham. 
+~ 
+0 0 4 
+D0 
+~ 
+~ 
+0 0 18001  
+D2 
+~ 
+~ 
+0 0 869 
+S 
+#18001 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D0 
+~ 
+~ 
+0 0 18002 
+D2 
+~ 
+~ 
+0 0 18000 
+S 
+#18002 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D5 
+~ 
+~ 
+0 0 18003 
+D2 
+~ 
+~ 
+0 0 18001 
+S 
+#18003 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D1 
+~ 
+~ 
+0 0 18004 
+D4 
+~ 
+~ 
+0 0 18002 
+S 
+#18004 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D0 
+~ 
+~ 
+0 0 18005 
+D3 
+~ 
+~ 
+0 0 18003 
+S 
+#18005 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D2 
+~ 
+~ 
+0 0 18004 
+D5 
+~ 
+~ 
+0 0 18006 
+S 
+#18006 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D3 
+~ 
+~ 
+0 0 18007 
+D4 
+~ 
+~ 
+00 0 18005 
+S 
+#18007 
+A rough trail~ 
+You find yourself on a rough and ragged trail. Kicking up a rock or two as 
+you walk you notice exactly how barren this trail actually is. No plants  
+along the side, no trees for atleast 50 or so paces on each side, no  
+animals.  
+~ 
+0 0 4 
+D0 
+~ 
+~ 
+0 0 18008 
+D1 
+~ 
+~ 
+0 0 18006 
+S 
+#18008 
+A clearing~ 
+This clearing seems to have been made by some unnatural force. Trees cut  
+down and no grass or plantlife of any kind. A strange smell wafts in from 
+the north. Looking closer you think you can make out tents and a large  
+fortress of some type. There is a rough trail to the south. 
+~ 
+0 0 2 
+D0 
+~ 
+~ 
+0 0 18009 
+D2 
+~ 
+~ 
+0 0 18007 
+S 
+#18009 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. There is a tent to the west.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18010  
+D1 
+~ 
+~ 
+0 0 18017 
+D2 
+~ 
+~ 
+0 0 18008 
+D3 
+~ 
+~ 
+0 0 18016 
+S 
+#18010 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. There is a tent to the west. 
+~ 
+0 A 2 
+D0  
+~ 
+~ 
+0 0 18011 
+D1 
+~ 
+~ 
+0 0 18024 
+D2 
+~ 
+~ 
+0 0 18009 
+D3 
+~ 
+~ 
+0 0 18015  
+S 
+#18011 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. There is a tent to the east. 
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18012 
+D1 
+~ 
+~ 
+0 0 18023 
+D2 
+~ 
+~ 
+0 0 18010 
+D3 
+~ 
+~ 
+0 0 18014 
+S 
+#18012 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D1  
+~ 
+~ 
+0 0 18022 
+D2 
+~ 
+~ 
+0 0 18011 
+D3 
+~ 
+~ 
+0 0 18013 
+S 
+#18013 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. There is a tent to the north. 
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18027 
+D1 
+~ 
+~ 
+0 0 18012 
+D2 
+~ 
+~ 
+0 0 18014 
+S 
+#18014 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18013 
+D1 
+~ 
+~ 
+0 0 18011 
+D3 
+~ 
+~ 
+0 0 18025 
+S 
+#18015 
+Inside the tent~ 
+The tent is filled with objects both strange and deadly in design. Jars of 
+blood litter bookshelves and a few weapons clash together in a corner. There 
+do not seem to be any beds in this room, only a few sheepskin thrown about 
+on the floor. The soldiers must not need the comforts of a soft bed. In times 
+of war one must be at their utmost level of strength. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18010 
+S 
+#18016 
+Inside the tent~ 
+The tent is filled with objects both strange and deadly in design. Jars of 
+blood litter bookshelves and a few weapons clash together in a corner. There 
+do not seem to be any beds in this room, only a few sheepskin thrown about 
+on the floor. The soldiers must not need the comforts of a soft bed. In times 
+of war one must be at their utmost level of strength. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18009 
+S 
+#18017 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18024 
+D1 
+~ 
+~ 
+0 0 18018 
+D3 
+~ 
+~ 
+0 0 18009 
+S 
+#18018 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18019 
+D1 
+~ 
+~ 
+0 0 18028 
+D3 
+~ 
+~ 
+0 0 18017 
+S 
+#18019 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18020 
+D2 
+~ 
+~ 
+0 0 18018 
+D3 
+~ 
+~ 
+0 0 18024 
+S 
+#18020 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18021 
+D2 
+~ 
+~ 
+0 0 18019 
+S 
+#18021 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. There is a tent to the east. 
+~ 
+0 A 2 
+D1 
+~ 
+~ 
+0 0 18068 
+D2 
+~ 
+~ 
+0 0 18020 
+D3 
+~ 
+~ 
+0 0 18022 
+S 
+#18022 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. To the north you see a large fortress. 
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18032 
+D1 
+~ 
+~ 
+0 0 18021  
+D3 
+~ 
+~ 
+0 0 18012 
+S 
+#18023 
+Inside the tent~ 
+The tent is filled with objects both strange and deadly in design. Jars of 
+blood litter bookshelves and a few weapons clash together in a corner. There 
+do not seem to be any beds in this room, only a few sheepskin thrown about 
+on the floor. The soldiers must not need the comforts of a soft bed. In times 
+of war one must be at their utmost level of strength. 
+~ 
+0 D 0 
+D3 
+~ 
+~ 
+0 0 18011 
+S 
+#18024 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D1 
+~ 
+~ 
+0 0 18019 
+D2 
+~ 
+~ 
+0 0 18017 
+D3 
+~ 
+~ 
+0 0 18010 
+S 
+#18025 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D1 
+~ 
+~ 
+0 0 18014 
+D3 
+~ 
+~ 
+0 0 18026 
+S 
+#18026 
+Inside the tent~ 
+The tent is filled with objects both strange and deadly in design. Jars of 
+blood litter bookshelves and a few weapons clash together in a corner. There 
+do not seem to be any beds in this room, only a few sheepskin thrown about 
+on the floor. The soldiers must not need the comforts of a soft bed. In times 
+of war one must be at their utmost level of strength. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18025 
+S 
+#18027 
+Inside the tent~ 
+The tent is filled with objects both strange and deadly in design. Jars of 
+blood litter bookshelves and a few weapons clash together in a corner. There 
+do not seem to be any beds in this room, only a few sheepskin thrown about 
+on the floor. The soldiers must not need the comforts of a soft bed. In times 
+of war one must be at their utmost level of strength. 
+~ 
+0 D 0 
+D2 
+~ 
+~ 
+0 0 18013 
+S 
+#18028 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D2 
+~ 
+~ 
+0 0 18029 
+D3 
+~ 
+~ 
+0 0 18018 
+S 
+#18029 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way.  
+~ 
+0 A 2 
+D0 
+~ 
+~ 
+0 0 18028 
+D1 
+~ 
+~ 
+0 0 18030 
+S 
+#18030 
+A dark encampment~ 
+The encampment is small at first glance, but when you see how efficiently  
+the Obsidian soldiers handle their space you see it is no problem for them. 
+The ground is somewhat muddy from recent rain and the smell of something 
+strange wafts your way. You see a hill leading down. 
+~ 
+0 A 2 
+D3 
+~ 
+~ 
+0 0 18029 
+D5 
+~ 
+~ 
+0 0 18031 
+S 
+#18031 
+At the Bottom of the Hill~ 
+At the bottom of this hill you can see many things that the soldiers have 
+discarded here. Bodies, for one thing. You also see a sharp piece of dark 
+obsidian jutting out of the hill. You see no way to pull or push to break  
+it free, and it seems to hum with life and magical power. 
+~ 
+0 0 4 
+D4 
+~ 
+~ 
+0 0 18030 
+S 
+#18032 
+Before the Obsidian Fortress~ 
+The fortress itself is made completely of obsidian, giving the impression 
+it was forged from one solid piece. The outer gates are laced with mithril 
+and quite possibly the largest you have ever seen. On the front of the door 
+there is a crest of the Obsidian Order. You notice that the outer walls of 
+this fortress seem to hum softly. 
+~ 
+0 0 1 
+D0 
+~ 
+obsidian~ 
+1 0 18033 
+D2 
+~ 
+~ 
+0 0 18022 
+S 
+#18033 
+Entrance way~ 
+This large room serves as an entrance way to the fortress. The room itself 
+is quite large and the chandelier in the center of the ceiling illumates it 
+quite well. To the south you see the large gates which lead out into the  
+encampment of the soldiers of the order and to the west is a long hallway. 
+~ 
+0 D 0 
+D2 
+~ 
+obsidian~ 
+1 0 18032 
+D3 
+~ 
+~ 
+0 0 18034 
+S 
+#18034 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18033 
+D3 
+~ 
+~ 
+0 0 18035 
+S 
+#18035 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. A 
+large set of double doors are to the north. 
+~ 
+0 D 0 
+D0 
+~ 
+double doors~ 
+1 0 18067 
+D1 
+~ 
+~ 
+0 0 18034 
+D3 
+~ 
+~ 
+0 0 18036 
+S 
+#18036 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. A 
+set of stairs lead up. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18035 
+D4 
+~ 
+~ 
+0 0 18037 
+S 
+#18037 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. A 
+set of stairs lead down. 
+~ 
+0 D 0 
+D0 
+~ 
+~ 
+0 0 18038 
+D5 
+~ 
+~ 
+0 0 18036 
+S 
+#18038 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. To 
+the east is a barred obsidian door. 
+~ 
+0 D 0 
+D0 
+~ 
+~ 
+0 0 18039 
+D1 
+~ 
+barred obsidian door~ 
+1 0 18064 
+D2 
+~ 
+~ 
+0 0 18037 
+S 
+#18039 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. 
+~ 
+0 D 0 
+D0 
+~ 
+~ 
+0 0 18040 
+D2 
+~ 
+~ 
+0 0 18038 
+S 
+#18040 
+A turn in the hall~ 
+The hall here is the same as the rest of the hallways you have seen so far.  
+Hallways go in both the southern direction as well as the eastern direction. 
+You notice your footsteps do not seem to echo as much here. On the western  
+wall you see a strange looking painting. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18041 
+D2 
+~ 
+~ 
+0 0 18039 
+D3 
+~ 
+painting~ 
+1 0 18049 
+E 
+painting~ 
+It is very strange indeed. It seems to be of a cloud of ethereal form  
+shifting and swirling in size and color.  
+~ 
+S 
+#18041 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18042 
+D3 
+~ 
+~ 
+0 0 18040 
+S 
+#18042 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. There 
+is a mystical door to the south. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18043 
+D2 
+~ 
+mystical door~ 
+1 0 18065 
+D3 
+~ 
+~ 
+0 0 18041 
+S 
+#18043 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. There 
+is an ethereal-looking door to the south. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18044 
+D2 
+~ 
+ethereal door~ 
+1 0 18066 
+D3 
+~ 
+~ 
+0 0 18042 
+S 
+#18044 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. A 
+set of stairs lead up and you see a large grate on the ground. 
+~ 
+0 D 0 
+D3 
+~ 
+~ 
+0 0 18043 
+D4 
+~ 
+~ 
+0 0 18045 
+D5 
+~ 
+grate~ 
+1 0 18056 
+S 
+#18045 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. A 
+set of stairs lead down. 
+~ 
+0 D 0 
+D3 
+~ 
+~ 
+0 0 18046 
+D5 
+~ 
+~ 
+0 0 18044 
+S 
+#18046 
+A long hallway~ 
+The hallway is somewhat dark due to the walls being made from obsidian, yet 
+they seem to provide a feeling of calmness. Nothing covers the walls which  
+seem to hum with power. The high ceiling makes your footsteps echo loudly 
+throughout the hall, making you all too aware of the emptiness of it. There 
+is a strong iron door to the west. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18045 
+D3 
+~ 
+strong iron door~ 
+1 0 18047 
+S 
+#18047 
+An Office~ 
+The room is filled with a light smoke that hangs in the air with an almost 
+sickening smell. Papers litter both the floor and the large desk that sits 
+in the center of the room. You notice there is a window that looks out over 
+the entire encampment and also gives a good view of the surrounding areas.  
+The door to the room that leads north has been torn from it's hinges and  
+thrown on the floor. 
+~ 
+0 D 0 
+D0 
+~ 
+~ 
+0 0 18048 
+D1 
+~ 
+strong iron door~ 
+1 0 18046 
+S 
+#18048 
+The Commanding Room~ 
+This is the room of the Commander of the soldiers of the Obsidian Order. The 
+floor is littered with plans that have been drawn up and discarded. The  
+center of the room has a scaled down version of much of thera, where the 
+encampment of the Obsidian soldiers is the center. There is an office to the 
+south. 
+~ 
+0 D 0 
+D2 
+~ 
+~ 
+0 0 18047 
+S 
+#18049 
+A secret room~ 
+This room is basically non-descript other than the stairway that leads up  
+and the back of a painting to the east.  
+~ 
+0 DN 0 
+D1 
+~ 
+painting~ 
+1 0 18040 
+D4 
+~ 
+~ 
+0 0 18050 
+S 
+#18050 
+Stairway~ 
+The stairway continues in both directions. Made of obsidian and humming  
+softly, this stairway is much like the rest of the walls you have seen. The 
+only difference is that the higher you climb, the louder the humming gets. 
+~ 
+0 DN 0 
+D4 
+~ 
+~ 
+0 0 18051 
+D5 
+~ 
+~ 
+0 0 18049 
+S 
+#18051 
+A landing~ 
+The walls here seem to hum louder than the hallways you have been through.  
+You feel almost as if you were floating, weightless and oblivious to the laws 
+of nature. A set of stairs leads down and the small landing continues to the  
+east.  
+~ 
+0 DN 0 
+D1 
+~ 
+~ 
+0 0 18052 
+D5 
+~ 
+~ 
+0 0 18050 
+S 
+#18052 
+A landing~ 
+The walls here seem to hum louder than the hallways you have been through.  
+You feel almost as if you were floating, weightless and oblivious to the laws 
+of nature. A set of stairs leads up and the small landing continues to the  
+west.  
+~ 
+0 DN 0 
+D3 
+~ 
+~ 
+0 0 18051 
+D4 
+~ 
+~ 
+0 0 18053 
+S 
+#18053 
+A landing~ 
+The walls here seem to hum louder than the hallways you have been through.  
+You feel almost as if you were floating, weightless and oblivious to the laws 
+of nature. A set of stairs leads down and the small landing continues to the  
+east.  
+~ 
+0 DN 0 
+D1 
+~ 
+~ 
+0 0 18054 
+D5 
+~ 
+~ 
+0 0 18052 
+S 
+#18054 
+A landing~ 
+The walls here seem to hum louder than the hallways you have been through.  
+You feel almost as if you were floating, weightless and oblivious to the laws 
+of nature. To the east there is a shimmering door while the small landing  
+continues to the west. 
+~ 
+0 DN 0 
+D1 
+~ 
+shimmering door~ 
+1 0 18055 
+D3 
+~ 
+~ 
+0 0 18053 
+S 
+#18055 
+The Large Room~ 
+As you enter the room you are hit with many sensations; taste, smell,  
+sound, and sight. All overloaded with a blinding flash of mist before you. 
+The room itself doesn't even seem like a room, but more of just space. You  
+don't even feel like you are standing on a floor, just floating in a cloud 
+of swirling colors, smells, and sounds. You cannot pinpoint any definate 
+shape in the room, only the sensations brought about by them. 
+~ 
+0 DN 0 
+D3 
+~ 
+shimmering door~ 
+1 0 18054 
+S 
+#18056 
+On a ladder~ 
+You are climbing on a ladder through a tunnel. The smooth obsidian walls  
+provide what seems like an easy climb, although you are not sure how. Just 
+above your head is a grate that leads into a hallway of the fortress and 
+below you is a small hallway. 
+~ 
+0 D 0 
+D4 
+~ 
+grate~ 
+1 0 18044 
+D5 
+~ 
+~ 
+0 0 18057 
+S 
+#18057 
+A small hallway~ 
+This hallway is much darker than the rest you have seen. Little light is  
+provided by the single torch that hangs on the wall. Cobwebs grow in a few 
+corners and a spider spins it's webbing around a fresh fly. To the east you 
+notice the hallway continues and a ladder leads up from here. 
+~ 
+0 D 0 
+D1 
+~ 
+~ 
+0 0 18058 
+D4 
+~ 
+~ 
+0 0 18056 
+S 
+#18058 
+A small hallway~ 
+This hallway is much darker than the rest you have seen. Little light is  
+provided by the single torch that hangs on the wall. Cobwebs grow in a few 
+corners and a spider spins it's webbing around a fresh fly. To the west you 
+notice the hallway continues and a ladder leads down from here. 
+~ 
+0 D 0 
+D3 
+~ 
+~ 
+0 0 18057 
+D5 
+~ 
+~ 
+0 0 18059 
+S 
+#18059 
+The Dungeon~ 
+This room is part of the dungeon of the Fortress. The Obsidian Order places  
+people here who oppose it or get in the way of it's reign of terror. There 
+is a cell door to the north, east, south, and west, as well as a ladder  
+leading up. 
+~ 
+0 D 0 
+D0 
+~ 
+cell door~ 
+1 0 18060 
+D1 
+~ 
+cell door~ 
+1 0 18061 
+D2 
+~ 
+cell door~ 
+1 0 18062 
+D3 
+~ 
+cell door~ 
+1 0 18063 
+D4 
+~ 
+~ 
+0 0 18058 
+S 
+#18060 
+A dark cell~ 
+This cell neither smells good or looks good. A constant dripping from an  
+unknown source is enough to drive the contained mad. It is also very small 
+and very dark, which makes it difficult to see. 
+~ 
+0 AD 0 
+D2 
+~ 
+cell door~ 
+1 0 18059 
+S 
+#18061 
+A dark cell~ 
+This cell neither smells good or looks good. A constant dripping from an  
+unknown source is enough to drive the contained mad. It is also very small 
+and very dark, which makes it difficult to see. 
+~ 
+0 AD 0 
+D3 
+~ 
+cell door~ 
+1 0 18059 
+S 
+#18062 
+A dark cell~ 
+This cell neither smells good or looks good. A constant dripping from an  
+unknown source is enough to drive the contained mad. It is also very small 
+and very dark, which makes it difficult to see. 
+~ 
+0 AD 0 
+D0 
+~ 
+cell door~ 
+1 0 18059 
+S 
+#18063 
+A dark cell~ 
+This cell neither smells good or looks good. A constant dripping from an  
+unknown source is enough to drive the contained mad. It is also very small 
+and very dark, which makes it difficult to see. 
+~ 
+0 AD 0 
+D1 
+~ 
+cell door~ 
+1 0 18059 
+S 
+#18064 
+Interrogation Room~ 
+This is where the Obsidian Order takes people to get knowledge from. Be it 
+spies or rebel leaders, they are subject to the harsh interrogation of the 
+Obsidian Order. In the center of this room is a large table. There are many  
+types of items used in both torture and interrogation hung on the walls and  
+closed in racks. 
+~ 
+0 D 0 
+D3 
+~ 
+barred obsidian door~ 
+1 0 18038 
+S 
+#18065 
+The Room of Invasion~ 
+This room is primarily used by the troops. Magically opened long ago it  
+serves as a doorway to the many areas of Thera. To the east you see the 
+Temple of the Gods in Midgaard, to the south you see what appears to be a
+barbarian's village, and to the west you see the Intersection in Ofcol. 
+Looking up, you notice a peculiar glow radiating from a strange magical path,
+while looking down you see nothing but shadows.
+~
+0 DNC 0 
+D0 
+~ 
+mystical door~ 
+1 0 18042 
+D1 
+~ 
+~ 
+0 0 3001 
+D2 
+~ 
+~ 
+0 0 5700 
+D3 
+~ 
+~ 
+0 0 601 
+D4
+~
+~
+0 0 5805
+D5
+~
+~
+0 0 13083
+S 
+#18066 
+Room of Magical Regeneration~ 
+This room is filled with spiritual and magical sensations, stimulating your 
+mind in many ways making you produce twice the amount of magical energy than 
+usual. Unfortunately, with all the mental activity, your physical wounds 
+seem to take twice as long to heal. Something is scrawled sloppily on one
+of the walls. 
+~ 
+0 D 0 
+D0 
+~ 
+ethereal door~ 
+1 0 18043 
+H 50 
+M 250 
+E
+sloppy scrawl~
+Tragadon sweated here.
+~
+S 
+#18067 
+The Mess Hall~ 
+Many tables fill this small room, all covered with fresh bowls of soup. This 
+is the mess hall for the soldiers of the Obsidian Order. Although they do  
+not enjoy comfort and pleasure, they need to survive, and thus are required 
+to eat. The smell from the soup wafts your way and you detect many smells  
+you wish you hadn't. 
+~ 
+0 D 0 
+D2 
+~ 
+double doors~ 
+1 0 18035 
+S 
+#18068 
+Inside the tent~ 
+The tent is filled with objects both strange and deadly in design. Jars of 
+blood litter bookshelves and a few weapons clash together in a corner. There 
+do not seem to be any beds in this room, only a few sheepskin thrown about 
+on the floor. The soldiers must not need the comforts of a soft bed. In times 
+of war one must be at their utmost level of strength. 
+~ 
+0 D 0 
+D3 
+~ 
+~ 
+1 0 18021 
+S 
+#0 
+ 
+#RESETS 
+M 0 18000 8 18015  1 
+M 0 18000 8 18024  1 
+M 0 18000 8 18026  1 
+M 0 18000 8 18018  1 
+M 0 18000 8 18020  1 
+M 0 18000 8 18022  1 
+M 0 18000 8 18027  1 
+M 0 18000 8 18029  1 
+M 0 18001 2 18047  1 
+E 0 18000 0 6 
+E 0 18001 0 5 
+E 0 18002 0 4 
+E 0 18003 0 10 
+E 0 18004 0 12 
+E 0 18005 0 8 
+E 0 18006 0 16 
+M 0 18001 2 18053  1 
+M 0 18002 1 18048  1 
+E 0 18007 0 6 
+E 0 18008 0 9 
+E 0 18004 0 12 
+E 0 18009 0 16 
+E 0 18010 0 11 
+E 0 18011 0 15 
+M 0 18003 1 18055  1 
+E 0 18012 0 5 
+E 0 18013 0 16 
+E 0 18014 0 17 
+M 0 18004 1 18058  1 
+M 0 18005 1 18060  1 
+E 0 18015 0 5 
+M 0 18006 1 18061  1 
+E 0 18016 0 16 
+M 0 18007 1 18062  1 
+E 0 18017 0 15 
+M 0 18008 1 18063  1 
+E 0 18018 0 15 
+M 0 18009 2 18032  2 
+M 0 18010 1 18067  1 
+M 0 18011 1 18064  1 
+E 0 18022 0 4 
+M 0 18012 1 18064  1 
+E 0 18023 0 7 
+M 0 18013 1 18031 1 
+E 0 18024 0 8 
+E 0 18025 0 15 
+E 0 18027 0 16 
+M 0 18014 1 18031 1 
+E 0 18026 0 3 
+E 0 18028 0 10 
+E 0 18029 0 11 
+E 0 18030 0 8 
+M 0 18015 1 18031 1
+E 0 18031 0 13
+E 0 13032 0 6
+O 0 18031 0 18031 
+D 0 18032 0 1 
+D 0 18033 2 1 
+D 0 18035 0 1 
+D 0 18067 2 1 
+D 0 18038 1 1 
+D 0 18064 3 1 
+D 0 18042 2 1 
+D 0 18065 0 1 
+D 0 18043 2 1 
+D 0 18066 0 1 
+D 0 18046 3 1 
+D 0 18040 3 1 
+D 0 18049 1 1 
+D 0 18054 1 1 
+D 0 18055 3 1 
+D 0 18059 0 1 
+D 0 18060 2 1 
+D 0 18061 3 1 
+D 0 18059 1 1 
+D 0 18059 3 1 
+D 0 18063 1 1 
+D 0 18059 2 1 
+D 0 18062 0 1 
+D 0 18044 5 1 
+S 
+ 
+ 
+#SPECIALS 
+M 18003 spec_breath_any 
+S 
+#$

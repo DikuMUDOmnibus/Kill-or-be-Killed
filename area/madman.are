@@ -1,0 +1,4557 @@
+#AREADATA
+Name Mad Man~
+Builders None~
+VNUMs 11100 11299
+Credits { 5 35} Lichen  Mad Man~
+Security 9
+End
+
+
+
+#MOBILES
+#11100
+kid irritated~
+an irritated kid~
+A small kid is foaming at the mouth through his muzzle.
+~
+A small kid stands here fighting away at his muzzle while trying to duck the 
+nearby floating
+mallet.
+~
+human~
+AGS D -200 0
+30 11 6d12+853 0d0+0 4d6+8 punch
+-9 -9 -9 -9
+FH 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11101
+purple cloud~
+some purple clouds~
+A transculent purple cloud floats slowly around the room.
+~
+The mist around you seems to have certain condensed beings that move around 
+as an entity.
+~
+unique~
+AG TU 0 0
+35 9 10d10+1300 0d0+0 4d7+11 magic
+-11 -11 -11 -11
+F 0 EFG HJ
+stand stand none 0
+AHMV ABCDEF medium 0
+#11102
+floating lights~
+Floating lights~
+A series of floating white lights seem to hover before you.
+~
+Before you is a series of white lights floating a few feet above the ground.
+~
+unique~
+AGT ITU 0 0
+35 9 10d10+1300 0d0+0 4d7+11 magic
+-11 -11 -11 -11
+F 0 0 0
+stand stand none 0
+AHMV ABCDEF medium 0
+#11103
+small vortex~
+A small vortex~
+A vortex of air and debris stands here in your path.
+~
+You see that the intersections of mist have caused a disturbance in the air, 
+creating this chaotic twister of wind.
+~
+unique~
+ABFGT DFTU 0 0
+50 4 50d10+4500 0d0+0 5d8+19 suction
+-20 -20 -20 -20
+AFHJ 0 0 0
+stand stand none 0
+AHMV ABCDEF medium 0
+#11104
+half naked woman~
+A half naked woman~
+A scantily clad woman approaches you with desire in her eyes.
+~
+A woman dressed in a leather bikini top and a thong stares right back at you 
+waiting to see what you will do.
+~
+human~
+AGT 0 0 0
+30 11 6d12+853 0d0+0 4d6+8 slap
+-9 -9 -9 -9
+FI 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#11105
+midget servant~
+A midget servant~
+A midget stands here with tray in hand waiting to serve you.
+~
+A small man stands here before you with a tray full of exotic drinks.
+~
+human~
+AGT DP 0 0
+25 12 5d10+550 0d0+0 2d10+7 punch
+-7 -7 -7 -7
+EFJ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11106
+floating mallet~
+A floating mallet~
+A mallet busily flies through the air chasing little children.
+~
+Other than flying and moving at a high rate of speed, this mallet looks as 
+ordinary as any other wooden mallet you would see.
+~
+unique~
+AGT DPT 0 0
+38 8 10d10+1600 0d0+0 5d6+12 pound
+-13 -13 -13 -13
+CF 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#11107
+male dancer~
+A male dancer~
+A man dressed in velvet pants and a leopard skinned jacket is here dancing.
+~
+A man dressed in velvet pants and a leopard skinned jacket is here dancing. 
+He looks like he's having a good time.
+~
+human~
+ABGT D 0 0
+30 11 6d12+853 0d0+0 4d6+8 punch
+-9 -9 -9 -9
+FIP 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11108
+female dancer~
+A female dancer~
+A young woman dressed in colorful clothes is here dancing her heart out.
+~
+A young woman dressed in colorful clothes is here dancing her heart out.
+~
+human~
+ABGT D 0 0
+30 11 6d12+853 0d0+0 4d6+8 slap
+-9 -9 -9 -9
+FI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11109
+stone gargoyle~
+A stone gargoyle~
+A large stone gargoyle is sitting here overlooking the area.
+~
+A large stone gargoyle is sitting here overlooking the area. Eventually the 
+creatures eyes look over in your direction.
+~
+unique~
+ABGT DFN 0 0
+40 7 15d10+1850 0d0+0 4d8+13 slash
+-13 -13 -13 -13
+CDFKM BD NS P
+stand stand none 0
+AHMV ABCDEF large 0
+#11110
+tiny squirrel~
+A tiny squirrel~
+A small squirrel is happily running around the room.
+~
+A small furry squirrel sees you staring at him and looks right back at you 
+with a big smile.
+~
+unique~
+ABGT 0 200 0
+25 12 5d10+550 0d0+0 2d10+7 scratch
+-7 -7 -7 -7
+FH 0 0 0
+stand stand male 0
+AHMV ABCDEF small 0
+#11111
+happy clam~
+A happy clam~
+A small clam stareQ up at you with a big smile.
+~
+Well, you see a happy clam on the ground before you.
+~
+unique~
+ABGT 0 0 0
+25 12 5d10+550 0d0+0 2d10+7 suction
+-7 -7 -7 -7
+F 0 0 0
+stand stand none 0
+AHMV ABCDEF small 0
+#11112
+muck scavenger~
+A muck scavenger~
+A large lizard moves sleekly through the shadows.
+~
+Before you is a large lizard unlike any you've seen before. Covered in dark 
+green and black scales the creature looks at you and hisses.
+~
+lizard~
+ABGT DF 0 0
+40 7 15d10+1850 0d0+0 4d8+13 slash
+-13 -13 -13 -13
+CDFOR 0 L I
+stand stand male 200
+AGHMVXc ABCDEFHKQV large 0
+#11113
+giant scarab~
+A giant scarab~
+A giant bug is sitting here looking for some flesh to feast on.
+~
+A large bug with glistening scales looks around the floor in search of fresh 
+meat.
+~
+centipede~
+ABFGT DFJZ -200 0
+45 6 25d10+3000 0d0+0 8d4+16 bite
+-15 -15 -15 -15
+FHOR 0 FI E
+stand stand none 0
+ABGHMOV ABCDEFK medium 0
+#11114
+living picture~
+A living picture~
+A large painting is here trying to hold a conversation with you.
+~
+A large painting is here on a wall attempting to talk about philosophy with 
+you.
+~
+unique~
+ABGHT DJT 0 0
+25 12 5d10+550 0d0+0 2d10+7 wrath
+-7 -7 -7 -7
+F 0 0 0
+stand stand none 0
+AHMV ABCDEF medium 0
+#11115
+shooting star~
+A shooting star~
+A shooting star flies past you at blinding speed.
+~
+You see a star flying past you at lightning speed with a trail of cosmic 
+dust behind it.
+~
+unique~
+ABGT DTU 0 0
+30 11 6d12+853 0d0+0 4d6+8 flame
+-9 -9 -9 -9
+FHM 0 0 0
+stand stand male 0
+AHMV ABCDEF small 0
+#11116
+man sebastian~
+Sebastian~
+A large man dressed in formal attire is here holding a large crimson sword.
+~
+A large man dressed in formal attire is here holding a large crimson sword. 
+He looks at you and decides now is not the time for business. He simply 
+wants to rend you to shreds.
+~
+unique~
+ABFGT DFH -200 0
+55 2 50d10+7000 0d0+0 10d4+23 smash
+-30 -30 -30 -30
+CFKO 0 0 0
+stand stand male 0
+0 0 large 0
+#11117
+catfish fish giant~
+A giant catfish~
+A large fish seems to be swimming around in a large pool of water.
+~
+A huge catfish is lounging around in a pool of cool refreshing water. He 
+barely seems to notice you being more concerned with relaxation.
+~
+unique~
+ABGT DFHJN 0 0
+52 3 50d10+5500 0d0+0 6d7+20 suction
+0 0 0 0
+CFMO 0 0 0
+stand stand male 0
+AHMV ABCDEF large 0
+#11118
+man moon~
+man in the moon~
+You see a man sitting on the end of a crescent moon.
+~
+A man with a prominent chin is here sitting on the end of a crescent moon. 
+He's looking up at the stars and singing whatever tune comes to mind.
+~
+human~
+ABGR BDFH 0 0
+50 0 50d10+4500 50d10+500 5d8+19 magic
+-20 -20 -20 -20
+FH A CMNOP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11119
+trevor man~
+Trevor~
+A huge man dressed in black priestly robes stands before you crackling with 
+evil energy.
+~
+The man before you is huge and quite intimidating.  Magical energies crackle 
+around him as the room itself seems to bend and shape to his will.
+~
+human~
+AFGT DFHOTU -500 0
+60 1 50d10+10000 20d10+1000 10d6+35 grep
+-30 -30 -30 -30
+FHKO AB HIJKLMO N
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+#11120
+pookie cat tiger~
+Pookie the Tiger~
+A large tiger is here cleaning herself from the last meal she ate.
+~
+A large well groomed tiger is here cleaning herself. It quickly notices a 
+change in the air of the room and starts to lick her lips grin.
+~
+cat~
+AFGT DFHJNZ 0 0
+50 4 50d10+4500 0d0+0 5d8+19 scratch
+-20 -20 -20 -20
+FHM AB 0 0
+stand stand female 0
+AGHMV ABCDEFHJKQUV large 0
+#11121
+patches cat~
+Patches, the Angry Kitten~
+A huge kitten sits here doing its best not to move.
+~
+Before you is the biggest kitten you've ever seen. This cat has been fed way 
+too many meals and wishes nothing more but to sleep away the day. 
+Unfortunately this cat hates company and has decided to have one more snack 
+before bed time, namely YOU!
+~
+cat~
+AFGT DFHJOZ -200 0
+50 4 50d10+4500 0d0+0 5d8+19 scratch
+-20 -20 -20 -20
+FHO AB JKLM HIN
+stand stand female 0
+AGHMV ABCDEFHJKQUV large 0
+#11122
+hellion kid~
+A little hellion~
+A little kid sits here with red glowing eyes and sharp little teeth.
+~
+A little kid sits here with red glowing eyes and sharp little teeth.
+~
+human~
+ACGT D -200 0
+35 9 10d10+1300 0d0+0 4d7+11 beating
+-11 -11 -11 -11
+DFI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11123
+killer clown~
+A killer clown~
+A jester of some sort looks at you with gleaming white teeth.
+~
+At first appearance this man looks like an ordinary clown. Upon closer 
+inspection you see an evil grin and a mouth full of razor sharped teeth.
+~
+human~
+AGT D -200 0
+40 7 15d10+1850 0d0+0 4d8+13 slash
+-13 -13 -13 -13
+CFI 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11124
+zombie chipmunk~
+A zombie chipmunk~
+A small chipmunk is now walking with the living dead.
+~
+A small and once furry animal is here standing before you, rotted flesh 
+hanging from its body.
+~
+fox~
+ACGT DZ -200 0
+30 11 6d12+853 0d0+0 4d6+8 bite
+-9 -9 -9 -9
+FH 0 0 0
+stand stand male 0
+AGHMV ABCDEFHJKQV small 0
+#11125
+undead sparrow~
+An undead sparrow~
+A decaying bird flutters before you just barely able to keep in flight.
+~
+A decaying bird flutters before you just barely able to keep in flight.
+~
+bat~
+ACGT DFTZ -200 0
+30 11 6d12+853 0d0+0 4d6+8 peck
+-9 -9 -9 -9
+FH 0 0 S
+stand stand male 0
+AGHMV ABCDEFHJKP small 0
+#11126
+goblin boy~
+A goblin boy~
+A small goblin is here looking to pull some sort of prank.
+~
+A small goblin looks up at you with childish yet evil eyes.
+~
+goblin~
+ACGT DJ -200 0
+30 11 6d12+853 0d0+0 4d6+8 punch
+-9 -9 -9 -9
+FIR 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11127
+cadence girl~
+Cadence~
+A little girl is here angry at you for disturbing her playtime.
+~
+A tiny girl is here covered it what little sand was left in her sandbox. 
+Obviously looking for someone to blame she turns directly at you. She grins 
+evily as foam begins to fall from her mouth.
+~
+human~
+ABFGT DFHO -300 0
+55 2 50d10+7000 0d0+0 10d4+23 slap
+-25 -25 -25 -25
+AFHO ABLM 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11128
+ethan boy~
+Ethan~
+A young boy is looking to seek revenge for his sister's misery.
+~
+A young boy is here looking to his sister who is very upset. In the blink of 
+an eye he starts to glow a crimson red and suddenly turns to look at you.
+~
+human~
+ABFGT DFHO -300 0
+55 2 50d10+7000 0d0+0 10d4+23 punch
+-25 -25 -25 -25
+AFHO ABLM 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11129
+grimlock refuse dragon~
+Grimlock, the Refuse Dragon~
+A large black dragon can be seen here covered in muck and chewing on bones.
+~
+A large black dragon can be seen here covered in muck and chewing on bones. 
+He casually looks over at you and sees that you are still moving. He likes 
+his meat fresh.
+~
+unique~
+ABFGT DFHO 0 0
+55 2 50d10+7000 0d0+0 10d4+23 slash
+-29 -29 -29 -29
+FHM AB CDHLM IN
+stand stand male 0
+AHMV ABCDEF large 0
+#11130
+old man stewart~
+Old Man Stewart~
+An old man sits here irritated by his angry wife.
+~
+An old man sits here trying to keep his wife quiet. He casually chews on his 
+gums and watches the area around him.
+~
+human~
+ABFGT DFHO 0 0
+50 4 50d10+4500 0d0+0 5d8+19 punch
+-20 -20 -20 -20
+FIN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11131
+stewart woman~
+Mrs. Stewart~
+An old woman with frizzy hair is here yelling at the park bench.
+~
+An old woman with frizzy hair is here yelling at the park bench she's 
+sitting on.
+~
+human~
+ABFGT DFHO -200 0
+50 4 50d10+4500 0d0+0 5d8+19 slap
+-20 -20 -20 -20
+FIN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11132
+spirit madman man~
+Spirit of the Madman~
+A man in dark clothing sits here in a throne made of a large skeleton.
+~
+The man behind this madness is here before you, basking in his power as he 
+sits on his throne. Looking at him, you have no idea what he plans to do 
+with you.
+~
+human~
+ABFGT DFHNO -500 0
+56 2 50d10+7500 0d0+0 10d6+24 wrath
+-26 -26 -26 -26
+AFHK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#11133
+mangler machine~
+The Mangler~
+A large machine of destruction is here waiting to devour your body and soul.
+~
+Before you is the most disturbing contraption you have ever seen. What was a 
+huge iron furnace has now been corrupted with evil energies and artistic 
+qualities making the perfect killing machine.
+~
+unique~
+AFGT DFHOa -1000 0
+60 1 50d10+15000 0d0+0 8d6+300 digestion
+-50 -50 -50 -50
+AFGHKM AB CDEFGHIKLMNOPQ R
+stand stand none 0
+AHMV ABCDEF large 0
+#0
+
+
+
+#OBJECTS
+#11100
+large italian pastry~
+a large italian pastry~
+A wonderful pastry lies here on the ground carelessly neglected.~
+energy~
+pill G AO
+30 'fly' 'detect invis' 'change sex' 'bless'
+30 1 0 P
+#11101
+bar gold~
+a bar of gold~
+A solid bar of gold lies here on the ground.~
+gold~
+treasure 0 AO
+0 0 0 0 0
+30 5 0 P
+#11102
+gem amethyst~
+an amethyst~
+A small purple gem has been left here carelessly.~
+energy~
+treasure 0 AO
+0 0 0 0 0
+20 1 0 P
+#11103
+red quartz choker~
+a red quartz choker~
+You see a choker adorned with red quartz lying on the ground.~
+energy~
+armor GS AC
+7 7 7 7 0
+35 3 0 P
+A
+17 -5
+A
+18 -1
+A
+19 2
+#11104
+gem sapphire~
+a sapphire~
+A large blue gem sits here covered in dust.~
+energy~
+treasure 0 AO
+0 0 0 0 0
+35 2 0 P
+#11105
+candy cane~
+a candy cane~
+A red and white striped piece of candy is here on the ground.~
+energy~
+pill G AO
+30 'cure blindness' 'giant strength' '' ''
+30 1 0 P
+#11106
+box chocolates chocolate~
+a box of chocolates~
+A small box of chocolates has been left here on the ground.~
+energy~
+pill G AO
+25 'calm' 'curse' '' ''
+25 2 0 P
+#11107
+ginger gingerbread~
+some gingerbread~
+A small piece of gingerbread has been left here for someone to eat.~
+energy~
+pill G AO
+30 'change sex' 'detect evil' 'detect good' ''
+25 2 0 P
+#11108
+leather muzzle~
+a leather muzzle~
+A leather strapped muzzle lies here on the ground having been removed by 
+force.~
+hard leather~
+armor GY AE
+5 5 5 5 0
+30 3 0 P
+A
+17 -10
+A
+19 -1
+#11109
+hot velvet pants~
+some hot velvet pants~
+A pair of velvet pants are lying crumpled up on the ground.~
+velvet~
+armor BY AF
+10 10 10 10 0
+40 5 0 P
+A
+24 -5
+A
+2 2
+A
+19 1
+#11110
+pair eyes kalediscope~
+a pair of kalediscope eyes~
+A pair of colorful glasses lies here on the floor.~
+energy~
+armor ABGST AE
+12 12 12 12 0
+60 1 0 P
+F
+A 0 0 F
+A
+13 10
+A
+24 -2
+A
+19 3
+L
+2
+#11111
+scarab carapace~
+a scarab's carapace~
+A scarab's carapace has been fashioned into a bracelet.~
+energy~
+armor BGSY AM
+11 11 11 11 0
+45 4 0 P
+A
+18 2
+A
+19 2
+A
+13 20
+#11112
+shard blackened obsidian stone~
+a shard of blackened stone~
+A shard of blackened stone is here on the ground.~
+stone~
+trash GS AO
+0 0 0 0 0
+30 10 0 P
+#11113
+misty purple potion~
+a misty purple potion~
+A purple misty potion has been left here for someone to pick up.~
+energy~
+potion AGSY AN
+50 'pass door' 'invisibility' '' ''
+40 1 0 P
+#11116
+scales refuse dragon~
+some scales of the refuse dragon~
+A large set of slimy scales lies here on the ground.~
+black dragonscale~
+armor BESTY AK
+20 20 20 20 0
+50 11 0 P
+A
+17 -5
+A
+24 -5
+A
+18 2
+A
+19 4
+L
+5
+#11117
+leggings tiger~
+a pair of tiger skin leggings~
+A pair of tiger skin leggings is laying here freshly cut.~
+fur~
+armor ABGQY AF
+10 10 10 30 0
+54 9 0 P
+A
+12 30
+A
+13 30
+A
+18 2
+A
+19 2
+L
+15
+#11118
+crimson avenger~
+The Crimson Avenger~
+A large ornate sword is covered in a red hue and pulsing with evil.
+energies.~
+energy~
+weapon ABMSTY AN
+sword 9 6 cleave D
+54 120 0 P
+A
+19 6
+A
+17 -10
+A
+24 -4
+L
+3
+#11119
+armguards fortitude~
+armguards of fortitude~
+A set of transparent armguards lies on the ground before you.~
+etherealness~
+armor ABTY AI
+22 22 22 22 0
+54 7 0 P
+A
+1 5
+A
+24 -5
+A
+17 -20
+L
+4
+#11120
+blue eye~
+a blue eye~
+A blue eue is here dangling from a silver chain.~
+blue dragonscale~
+armor AGTY AC
+5 5 5 5 0
+50 1 0 P
+F
+V 0 0 J
+A
+12 50
+#11121
+blue silver coat~
+a blue and silver coat~
+A coat made of blue and silver is here shimmering before you.~
+energy~
+armor FSTY AK
+10 10 10 10 0
+48 2 0 P
+F
+A 0 0 U
+A
+4 2
+A
+3 2
+A
+18 4
+L
+4
+#11122
+crystalline bracelet~
+a crystalline bracelet~
+A crystalline bracelet carved with ancient runes is lying on the ground.~
+crystal~
+armor ABGLSTY AM
+16 16 16 16 0
+54 4 0 P
+A
+12 20
+A
+23 -5
+A
+17 -4
+A
+18 4
+A
+19 4
+L
+3
+#11123
+crystalline wrietguard guard~
+a crystalline wristguard~
+A crystallineguard carved with ancient runes is lying on the ground.~
+crystal~
+armor ABGLMSTYZ AM
+10 10 10 10 0
+54 4 0 P
+F
+V 0 0 HIJN
+A
+24 -5
+A
+13 20
+A
+17 -5
+A
+19 2
+A
+18 2
+#11124
+patches claw~
+Patches' Claw~
+A large feline claw has been severed and left on the ground.~
+fur~
+weapon GSY AN
+dagger 8 5 pierce H
+55 15 0 P
+F
+A 0 0 V
+A
+1 -2
+L
+4
+#11125
+orb destruction~
+an orb of destruction~
+A simple orb sits here on the ground forcing you to pick it up.~
+energy~
+staff EGJSTY AO
+52 5 5 'gas breath' 0
+52 8 0 P
+A
+12 -50
+A
+13 0
+#11126
+flower tower straw~
+a flower tiara~
+A small tiara has been made with wilted flowers and straw.~
+energy~
+armor ESTY AE
+8 8 8 8 0
+50 1 0 P
+A
+12 30
+A
+3 2
+A
+17 -10
+A
+14 100
+#11127
+hammer energy~
+a hammer of pure energy~
+Something in the shape of a hammer shines brightly on the floor of the 
+room.~
+energy~
+weapon ASTY AN
+mace 8 6 wrath A
+51 10 0 P
+A
+19 4
+A
+18 4
+#11128
+old cane~
+an old cane~
+An old cane sits here against the wall.~
+bamboo~
+staff STY AO
+60 30 30 'frenzy' 0
+51 1 0 P
+#11129
+potion healing water~
+potion of healing water~
+A potion of glowing liquid lies here on the ground.~
+glass~
+potion AGSTY AO
+30 'heal' 'heal' 'heal' 'heal'
+51 1 0 P
+#11130
+old handbag bag~
+an old handbag~
+An old handbag has been left here probably by some old person.~
+hard leather~
+weapon ST AN
+flail 8 6 crush 0
+50 5 0 P
+A
+19 4
+A
+9 5
+A
+2 2
+#11131
+potion clear eyes~
+a potion of clear eyes~
+On the floor before you is a potion labelled "Clear Eyes".~
+glass~
+potion TY AO
+60 'cure blindness' 'cure blindness' 'cure blindness' ''
+60 1 0 P
+#11132
+pendant eternal spirit~
+Pendant of the Eternal Spirit~
+An ancient pendant containing a large gem lies here on the ground.~
+energy~
+armor ABEMSTY AC
+10 10 10 10 0
+60 2 0 P
+A
+24 -10
+F
+A 0 0 NO
+A
+13 20
+A
+12 20
+A
+19 5
+A
+18 5
+L
+2
+#0
+
+
+
+#ROOMS
+#11264
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D0
+~
+~
+0 -1 11265
+D2
+~
+~
+0 -1 11263
+S
+#11265
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D1
+~
+~
+0 -1 11266
+D2
+~
+~
+0 -1 11264
+S
+#11266
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D1
+~
+~
+0 -1 11267
+D3
+~
+~
+0 -1 11265
+S
+#11267
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D0
+~
+~
+0 -1 11268
+D3
+~
+~
+0 -1 11266
+S
+#11268
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D0
+~
+~
+0 -1 11269
+D2
+~
+~
+0 -1 11267
+S
+#11269
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D0
+~
+~
+0 -1 11270
+D2
+~
+~
+0 -1 11268
+S
+#11270
+The grand entrance~
+The grove which you were just in as led you to a large gate made of wooden
+poles and brass rings. A sign hangs over the top of the gate.
+~
+0 8 0
+E
+sign gate~
+The sign reads, "WELCOME TO AMUSEMENT PARK!"~
+D0
+~
+~
+0 -1 11271
+D2
+~
+~
+0 -1 11269
+S
+#11271
+Just inside the park~
+You have entered what looked to be a normal park from the outside of the 
+gate but is now much more than what was expected. The animals which were
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11272
+D1
+~
+~
+0 -1 11288
+D2
+~
+~
+0 -1 11270
+S
+#11272
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11273
+D1
+~
+~
+0 -1 11287
+D2
+~
+~
+0 -1 11271
+S
+#11273
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11274
+D1
+~
+~
+0 -1 11282
+D2
+~
+~
+0 -1 11272
+S
+#11274
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11275
+D1
+~
+~
+0 -1 11281
+D2
+~
+~
+0 -1 11273
+S
+#11275
+A small carousel~
+At this point of the park, a small carousel is here barely operational for
+use. Small goblin-like creatures are using it for whatever reasons they come
+up with.
+~
+0 8 0
+D1
+~
+~
+0 -1 11276
+D2
+~
+~
+0 -1 11274
+S
+#11276
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D1
+~
+~
+0 -1 11277
+D2
+~
+~
+0 -1 11281
+D3
+~
+~
+0 -1 11275
+S
+#11277
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D1
+~
+~
+0 -1 11278
+D2
+~
+~
+0 -1 11280
+D3
+~
+~
+0 -1 11276
+S
+#11278
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D2
+~
+~
+0 -1 11279
+D3
+~
+~
+0 -1 11277
+S
+#11279
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11278
+D2
+~
+~
+0 -1 11284
+D3
+~
+~
+0 -1 11280
+S
+#11280
+A refuse pit~
+Inside the park you come to find a blackened pit filled with old bones of
+animals, people, and other inhuman creatures. A large dragon sits at the 
+edge of this pit skillfully cleaning the carcass of its last victim.
+~
+0 8 0
+D0
+~
+~
+0 -1 11277
+D1
+~
+~
+0 -1 11279
+D2
+~
+~
+0 -1 11283
+D3
+~
+~
+0 -1 11281
+S
+#11281
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11276
+D1
+~
+~
+0 -1 11280
+D2
+~
+~
+0 -1 11282
+D3
+~
+~
+0 -1 11274
+S
+#11282
+An empty sandbox~
+Coming to this point of the park you see a large box sitting in the middle 
+of the grass. Little remains of the sand that was once in this box for
+children to play with and from the looks of the two kids still here they
+are looking to blame someone.
+~
+0 8 0
+D0
+~
+~
+0 -1 11281
+D1
+~
+~
+0 -1 11283
+D2
+~
+~
+0 -1 11287
+D3
+~
+~
+0 -1 11273
+S
+#11283
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11280
+D1
+~
+~
+0 -1 11284
+D2
+~
+~
+0 -1 11286
+D3
+~
+~
+0 -1 11282
+S
+#11284
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11279
+D1
+~
+~
+0 -1 11291
+D2
+~
+~
+0 -1 11285
+D3
+~
+~
+0 -1 11283
+S
+#11285
+A set of park benches~
+This part of the park is somewhat unused from the rest. Grass is slightly
+overgrown and weeds are starting to kill the wild flowers. Set in the middle
+of all this is a worn out pair of park benches which are currently occupied
+by a bitter old couple. Seems they are mad because no one will cut the 
+grass.
+~
+0 8 0
+D0
+~
+~
+0 -1 11284
+D2
+~
+~
+0 -1 11290
+D3
+~
+~
+0 -1 11286
+S
+#11286
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11283
+D1
+~
+~
+0 -1 11285
+D2
+~
+~
+0 -1 11289
+D3
+~
+~
+0 -1 11287
+S
+#11287
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11282
+D1
+~
+~
+0 -1 11286
+D2
+~
+~
+0 -1 11288
+D3
+~
+~
+0 -1 11272
+S
+#11288
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11287
+D1
+~
+~
+0 -1 11289
+D3
+~
+~
+0 -1 11271
+S
+#11289
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11286
+D1
+~
+~
+0 -1 11290
+D3
+~
+~
+0 -1 11288
+S
+#11290
+The park of the absurd~
+You are now in the midst of this hellish park. The animals which were 
+romping about outside of the gates are now grinning evily at you, flesh
+slowly rotting off their bodies. Kids who were playing are now fighting,
+looking to slay each other by any means possible. Clowns are overlooking
+everything with mischevious grins bearing razor sharp teeth.
+~
+0 8 0
+D0
+~
+~
+0 -1 11285
+D3
+~
+~
+0 -1 11289
+S
+#11291
+The throne of a madman~
+After stepping into this grove, everything around you changes into nothing
+but blackness. You cannot even see the clothes you wear. You say something
+aloud and cannot even hear yourself speak. An overwhelming fear grips your
+heart as you realize you are in total emptiness. Suddenly a light from in
+front of you begins to emanate a red glow bright enough for you to see a
+man sitting on a throne made of a large skeleton.
+~
+0 12 0
+S
+#11100
+A path through the Mountains of Dhoom~
+At the base of the Mountains of Dhoom, you notice a newly made break
+in the rock forming a walkable path. The path leads into a small rock
+quarry. You see the path continuing to the north.
+~
+0 0 5
+D0
+~
+~
+0 -1 11101
+D2
+~
+~
+0 -1 16092
+S
+#11101
+A path through the Mountains of Dhoom~
+The path through the mountains is starting to form into a formal path
+now. Boulders are becoming less frequent around the edges of the path
+and the rock faces are starting to develop a brownish red tint.
+~
+0 0 5
+D0
+~
+~
+0 -1 11102
+D2
+~
+~
+0 -1 11100
+S
+#11102
+A path through the Mountains of Dhoom~
+The path through the mountains is starting to form into a formal path
+now. Boulders are becoming less frequent around the edges of the path
+and the rock faces are starting to develop a brownish red tint.
+~
+0 0 5
+D1
+~
+~
+0 -1 11103
+D2
+~
+~
+0 -1 11101
+S
+#11103
+A path through the Mountains of Dhoom~
+The path through the mountains is starting to form into a formal path
+now. Boulders are becoming less frequent around the edges of the path
+and the rock faces are starting to develop a brownish red tint.
+~
+0 0 5
+D0
+~
+~
+0 -1 11104
+D3
+~
+~
+0 -1 11102
+S
+#11104
+The screaming cave~
+It seems someone or something has carved a large face into the side of
+this mountain before you. A look of excitement and mischevious wonder
+strikes the massive stone being as he opens his mouth to speak to you.
+~
+0 0 5
+D0
+~
+~
+0 -1 11105
+D2
+~
+~
+0 -1 11103
+S
+#11105
+Inside the mouth~
+After coming through the opening of the cave, you realize the giant mouth
+has decided to shut. Looking back at the would be exit, you see no other way
+to go but deeper into the cave.
+~
+0 0 0
+D0
+~
+~
+0 -1 11106
+S
+#11106
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.  You notice a sign floating casually around the now forming
+purple clouds off to the right of you.
+~
+0 8 0
+E
+sign clouds~
+The sign floating before you is hard to read but you eventually make out the 
+words, "You have entered the mind of a madman. Enjoy your stay."~
+D1
+~
+~
+0 -1 11107
+D2
+~
+~
+0 -1 11105
+S
+#11107
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11108
+D3
+~
+~
+0 -1 11106
+S
+#11108
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11109
+D3
+~
+~
+0 -1 11107
+S
+#11109
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11110
+D3
+~
+~
+0 -1 11108
+S
+#11110
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11111
+D2
+~
+~
+0 -1 11109
+S
+#11111
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11112
+D2
+~
+~
+0 -1 11110
+S
+#11112
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11113
+D3
+~
+~
+0 -1 11111
+S
+#11113
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11114
+D3
+~
+~
+0 -1 11112
+S
+#11114
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11115
+D3
+~
+~
+0 -1 11113
+S
+#11115
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11116
+D2
+~
+~
+0 -1 11114
+S
+#11116
+Casual thoughts~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11117
+D2
+~
+~
+0 -1 11115
+S
+#11117
+A bridge in consciousness~
+At this point in the path, everything seems to be extremely unstable. Wild
+vortexs of colors and random shapes gather around you making it hard for you
+to stand still. The ground under your feet seems to feel softer as waves
+begin to slowly grow beneath you. You think to yourself that you should move
+out of this room.
+~
+0 8 0
+D0
+~
+~
+0 -1 11152
+D1
+~
+~
+0 -1 11118
+D2
+~
+~
+0 -1 11116
+S
+#11118
+The beginning of the Id~
+Walking into this section of the hallway, you notice lots of interesting
+things. Besides the walls of solid gold and the presence of a yellow brick
+road, random items have been scattered everywhere. Large bundles of fruit,
+bottles of alcoholic beverages, large italian pastries, computer monitors
+and musical CD's can be seen in everywhere.
+~
+0 8 0
+D1
+~
+~
+0 -1 11119
+D3
+~
+~
+0 -1 11117
+S
+#11119
+The Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11120
+D2
+~
+~
+0 -1 11136
+D3
+~
+~
+0 -1 11118
+S
+#11120
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11121
+D2
+~
+~
+0 -1 11119
+S
+#11121
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11122
+D2
+~
+~
+0 -1 11120
+S
+#11122
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D1
+~
+~
+0 -1 11123
+D2
+~
+~
+0 -1 11121
+S
+#11123
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D0
+~
+~
+0 -1 11137
+D1
+~
+~
+0 -1 11124
+D3
+~
+~
+0 -1 11122
+S
+#11124
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D1
+~
+~
+0 -1 11125
+D3
+~
+~
+0 -1 11123
+S
+#11125
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D2
+~
+~
+0 -1 11126
+D3
+~
+~
+0 -1 11124
+S
+#11126
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays 
+of fine wine come to greet you. Trees bearing gold coins and jewels seem
+to be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11125
+D2
+~
+~
+0 -1 11127
+S
+#11127
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays 
+of fine wine come to greet you. Trees bearing gold coins and jewels seem
+to be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11126
+D1
+~
+~
+0 -1 11141
+D2
+~
+~
+0 -1 11128
+S
+#11128
+Inside the Id~
+You've walked into a large lab filled with all sorts of experimental plant
+life and huge growing lamps. The tops of these pungent plants reach the top
+of the room leaving a crystalline residue trailing along the ceiling. Smoke
+slowly rises from the floor leaving you very light headed.
+~
+0 8 0
+D0
+~
+~
+0 -1 11127
+D2
+~
+~
+0 -1 11129
+S
+#11129
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11128
+D2
+~
+~
+0 -1 11130
+S
+#11130
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11129
+D1
+~
+~
+0 -1 11144
+D2
+~
+~
+0 -1 11131
+S
+#11131
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D0
+~
+~
+0 -1 11130
+D3
+~
+~
+0 -1 11132
+S
+#11132
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11131
+D3
+~
+~
+0 -1 11133
+S
+#11133
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11132
+D2
+~
+~
+0 -1 11147
+D3
+~
+~
+0 -1 11134
+S
+#11134
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11135
+D1
+~
+~
+0 -1 11133
+S
+#11135
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D0
+~
+~
+0 -1 11136
+D2
+~
+~
+0 -1 11134
+S
+#11136
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11119
+D2
+~
+~
+0 -1 11135
+S
+#11137
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D0
+~
+~
+0 -1 11138
+D2
+~
+~
+0 -1 11123
+S
+#11138
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11139
+D2
+~
+~
+0 -1 11137
+S
+#11139
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11140
+D2
+~
+~
+0 -1 11138
+S
+#11140
+A cornerstone in the Id~
+The corridor here seems to come to an end. A large waterfall of colorful
+liquors slowly pours upwards into a shallow pool on the ceiling. Stone
+figures of gargoyles and small animals playfully romp in and out of the pool
+inviting you to join them.
+~
+0 8 0
+D3
+~
+~
+0 -1 11139
+S
+#11141
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D1
+~
+~
+0 -1 11142
+D3
+~
+~
+0 -1 11127
+S
+#11142
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11143
+D3
+~
+~
+0 -1 11141
+S
+#11143
+A cornerstone in the Id~
+The corridor here seems to come to an end. A large waterfall of colorful
+liquors slowly pours upwards into a shallow pool on the ceiling. Stone
+figures of gargoyles and small animals playfully romp in and out of the
+pool inviting you to join them.
+~
+0 8 0
+D2
+~
+~
+0 -1 11142
+S
+#11144
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays
+of fine wine come to greet you. Trees bearing gold coins and jewels seem to
+be the dominant plant life here.
+~
+0 8 0
+D1
+~
+~
+0 -1 11145
+D3
+~
+~
+0 -1 11130
+S
+#11145
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D2
+~
+~
+0 -1 11146
+D3
+~
+~
+0 -1 11144
+S
+#11146
+A cornerstone in the Id~
+The corridor here seems to come to an end. A large waterfall of colorful
+liquors slowly pours upwards into a shallow pool on the ceiling. Stone
+figures of gargoyles and small animals playfully romp in and out of the
+pool inviting you to join them.
+~
+0 8 0
+D0
+~
+~
+0 -1 11145
+S
+#11147
+Inside the Id~
+This room is filled with loud music coming from the walls and the ceilings.
+Young women and men are dancing their hearts out and heavily drinking beer.
+A smokey cloud is left hanging above them while multi-colored lights pierce
+through them on to the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11133
+D2
+~
+~
+0 -1 11148
+S
+#11148
+Inside the Id~
+This room is filled with the finest candies and chocolates. The floor 
+beneath your feet looks to be made of gingerbread and cinnamin sticks.
+Kids tumble around being constantly walloped on the head with a large
+mallet which effortlessly flies through the air after them. The kids
+would yell out in pain if a muzzle hadn't been securely fastened over
+their tiny little mouths.
+~
+0 8 0
+D0
+~
+~
+0 -1 11147
+D2
+~
+~
+0 -1 11149
+S
+#11149
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays 
+of fine wine come to greet you. Trees bearing gold coins and jewels seem
+to be the dominant plant life here.
+~
+0 8 0
+D0
+~
+~
+0 -1 11148
+D1
+~
+~
+0 -1 11150
+S
+#11150
+Inside the Id~
+You are surrounded by all sorts of activities, pleasing and pleasurable to
+the eye. Scantily clad women and midgets walking around with serving trays 
+of fine wine come to greet you. Trees bearing gold coins and jewels seem
+to be the dominant plant life here.
+~
+0 8 0
+D1
+~
+~
+0 -1 11151
+D3
+~
+~
+0 -1 11149
+S
+#11151
+A cornerstone in the Id~
+The corridor here seems to come to an end. A large waterfall of colorful
+liquors slowly pours upwards into a shallow pool on the ceiling. Stone
+figures of gargoyles and small animals playfully romp in and out of the
+pool inviting you to join them.
+~
+0 8 0
+D3
+~
+~
+0 -1 11150
+S
+#11152
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11153
+D2
+~
+~
+0 -1 11117
+S
+#11153
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11154
+D2
+~
+~
+0 -1 11152
+S
+#11154
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D2
+~
+~
+0 -1 11153
+D3
+~
+~
+0 -1 11155
+S
+#11155
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11154
+D3
+~
+~
+0 -1 11156
+S
+#11156
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11155
+D3
+~
+~
+0 -1 11157
+S
+#11157
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11158
+D1
+~
+~
+0 -1 11156
+S
+#11158
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11159
+D2
+~
+~
+0 -1 11157
+S
+#11159
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11160
+D2
+~
+~
+0 -1 11158
+S
+#11160
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11161
+D2
+~
+~
+0 -1 11159
+S
+#11161
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11162
+D2
+~
+~
+0 -1 11160
+S
+#11162
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D2
+~
+~
+0 -1 11161
+D3
+~
+~
+0 -1 11163
+S
+#11163
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11162
+D3
+~
+~
+0 -1 11164
+S
+#11164
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11165
+D1
+~
+~
+0 -1 11163
+S
+#11165
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11166
+D2
+~
+~
+0 -1 11164
+S
+#11166
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11167
+D2
+~
+~
+0 -1 11165
+S
+#11167
+A misty vortex~
+At this point in the path, everything seems to be extremely unstable. Wild
+vortexs of colors and random shapes gather around you making it hard for you
+to stand still. The ground under your feet seems to feel softer as waves
+begin to slowly grow beneath you. The misty essence flowing through the room
+seems to branch off in two directions: east and west.
+~
+0 8 0
+D1
+~
+~
+0 -1 11168
+D2
+~
+~
+0 -1 11166
+D3
+~
+~
+0 -1 11187
+S
+#11168
+Towards the back corner of the mind~
+This room is more placent than the previous rooms visited in this strange
+place. What this room has instead is a soft illumination emanating from the
+floor and a light breeze carrying the soft misty chain deeper into the 
+depths
+of the cave.
+~
+0 8 0
+D1
+~
+~
+0 -1 11169
+D3
+~
+~
+0 -1 11167
+S
+#11169
+Towards the back corner of the mind~
+This room is more placent than the previous rooms visited in this strange
+place. What this room has instead is a soft illumination emanating from the
+floor and a light breeze carrying the soft misty chain deeper into the 
+depths
+of the cave.
+~
+0 8 0
+D0
+~
+~
+0 -1 11170
+D3
+~
+~
+0 -1 11168
+S
+#11170
+Towards the back corner of the mind~
+This room is more placent than the previous rooms visited in this strange
+place. What this room has instead is a soft illumination emanating from the
+floor and a light breeze carrying the soft misty chain deeper into the 
+depths
+of the cave.
+~
+0 8 0
+D0
+~
+~
+0 -1 11171
+D2
+~
+~
+0 -1 11169
+S
+#11171
+Towards the back corner of the mind~
+This room is more placent than the previous rooms visited in this strange
+place. What this room has instead is a soft illumination emanating from the
+floor and a light breeze carrying the soft misty chain deeper into the 
+depths
+of the cave.
+~
+0 8 0
+D1
+~
+~
+0 -1 11172
+D2
+~
+~
+0 -1 11170
+S
+#11172
+Towards the back corner of the mind~
+This room is more placent than the previous rooms visited in this strange
+place. What this room has instead is a soft illumination emanating from the
+floor and a light breeze carrying the soft misty chain deeper into the 
+depths
+of the cave.
+~
+0 8 0
+D1
+~
+~
+0 -1 11173
+D3
+~
+~
+0 -1 11171
+S
+#11173
+Back corner of the mind~
+The room around you suddenly shifts into that of a dark room covered in
+blackened stone. A smell of mold and decay seems to set in as moisture from
+the ceiling slowly drops down on top of you. Around you is the constant 
+sound of skittering feet on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11174
+D2
+~
+~
+0 -1 11186
+D3
+~
+~
+0 -1 11172
+S
+#11174
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11175
+D2
+~
+~
+0 -1 11173
+S
+#11175
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11176
+D2
+~
+~
+0 -1 11174
+S
+#11176
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11177
+D2
+~
+~
+0 -1 11175
+S
+#11177
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11178
+D3
+~
+~
+0 -1 11176
+S
+#11178
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D2
+~
+~
+0 -1 11179
+D3
+~
+~
+0 -1 11177
+S
+#11179
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11178
+D2
+~
+~
+0 -1 11180
+S
+#11180
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11179
+D2
+~
+~
+0 -1 11181
+S
+#11181
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11180
+D2
+~
+~
+0 -1 11182
+S
+#11182
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11181
+D2
+~
+~
+0 -1 11183
+S
+#11183
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11182
+D3
+~
+~
+0 -1 11184
+S
+#11184
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11183
+D3
+~
+~
+0 -1 11185
+S
+#11185
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11186
+D1
+~
+~
+0 -1 11184
+S
+#11186
+Back corner of the mind~
+The dark room you have entered is covered in blackened stone. A smell of 
+mold and decay seems to set in as moisture from the ceiling slowly drops
+down on top of you. Around you is the constant sound of skittering feet
+on the floor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11173
+D2
+~
+~
+0 -1 11185
+S
+#11187
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11167
+D3
+~
+~
+0 -1 11188
+S
+#11188
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11187
+D3
+~
+~
+0 -1 11189
+S
+#11189
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11188
+D3
+~
+~
+0 -1 11190
+S
+#11190
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11189
+D2
+~
+~
+0 -1 11191
+S
+#11191
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11190
+D2
+~
+~
+0 -1 11192
+S
+#11192
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 11191
+D3
+~
+~
+0 -1 11193
+S
+#11193
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11192
+D3
+~
+~
+0 -1 11194
+S
+#11194
+The train of thought~
+All around you is a world which doesn't seem to have any normal bounds or
+structure. The hallway around you changes constantly. The colors, the 
+texture, the lighting, and even the sounds twist and distort before your
+very eyes. A long misty essence seems to travel down the path ahead of you.
+~
+0 8 0
+D1
+~
+~
+0 -1 11193
+D2
+~
+~
+0 -1 11195
+S
+#11195
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls,
+the floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11194
+D2
+~
+~
+0 -1 11196
+S
+#11196
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors, the
+texture, the lighting, and even the sounds twist and distort even more so
+than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11195
+D3
+~
+~
+0 -1 11197
+S
+#11197
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors, the
+texture, the lighting, and even the sounds twist and distort even more so
+than before. The misty trail continues down the corridor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11196
+D2
+~
+~
+0 -1 11198
+S
+#11198
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11197
+D2
+~
+~
+0 -1 11199
+S
+#11199
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11198
+D2
+~
+~
+0 -1 11200
+S
+#11200
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11199
+D2
+~
+~
+0 -1 11201
+S
+#11201
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors, the
+texture, the lighting, and even the sounds twist and distort even more so
+than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11200
+D2
+~
+~
+0 -1 11202
+S
+#11202
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11201
+D2
+~
+~
+0 -1 11203
+S
+#11203
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors, the
+texture, the lighting, and even the sounds twist and distort even more so
+than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11202
+D3
+~
+~
+0 -1 11204
+S
+#11204
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11203
+D3
+~
+~
+0 -1 11205
+S
+#11205
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11206
+D1
+~
+~
+0 -1 11204
+S
+#11206
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11207
+D2
+~
+~
+0 -1 11205
+S
+#11207
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even
+more so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11208
+D2
+~
+~
+0 -1 11206
+S
+#11208
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11209
+D2
+~
+~
+0 -1 11207
+S
+#11209
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11210
+D2
+~
+~
+0 -1 11208
+S
+#11210
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11211
+D2
+~
+~
+0 -1 11209
+S
+#11211
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D0
+~
+~
+0 -1 11212
+D2
+~
+~
+0 -1 11210
+S
+#11212
+Deeper in the psyche~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail continues down the corridor.
+~
+0 8 0
+D2
+~
+~
+0 -1 11211
+D3
+~
+~
+0 -1 11213
+S
+#11213
+Entering the consciousness~
+When you enter this room everything begins to come alive. The walls, the
+floor, the strange plants and pictures all around begin to speak to you.
+You can barely tell what direction you are travelling now. The colors,
+the texture, the lighting, and even the sounds twist and distort even more
+so than before. The misty trail becomes very thick here almost covering
+up the entire corridor.
+~
+0 8 0
+D1
+~
+~
+0 -1 11212
+D3
+~
+~
+0 -1 11214
+S
+#11214
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11215
+D1
+~
+~
+0 -1 11213
+D2
+~
+~
+0 -1 11226
+S
+#11215
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11216
+D2
+~
+~
+0 -1 11214
+S
+#11216
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11217
+D2
+~
+~
+0 -1 11215
+D3
+~
+~
+0 -1 11224
+S
+#11217
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11218
+D2
+~
+~
+0 -1 11216
+S
+#11218
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11219
+D2
+~
+~
+0 -1 11217
+D3
+~
+~
+0 -1 11222
+S
+#11219
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11220
+D2
+~
+~
+0 -1 11218
+S
+#11220
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D2
+~
+~
+0 -1 11219
+D3
+~
+~
+0 -1 11221
+S
+#11221
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D1
+~
+~
+0 -1 11220
+S
+#11222
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D1
+~
+~
+0 -1 11218
+D3
+~
+~
+0 -1 11223
+S
+#11223
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D1
+~
+~
+0 -1 11222
+S
+#11224
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D1
+~
+~
+0 -1 11216
+D3
+~
+~
+0 -1 11225
+S
+#11225
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D1
+~
+~
+0 -1 11224
+S
+#11226
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11214
+D2
+~
+~
+0 -1 11227
+D3
+~
+~
+0 -1 11252
+S
+#11227
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11226
+D2
+~
+~
+0 -1 11228
+S
+#11228
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11227
+D2
+~
+~
+0 -1 11229
+S
+#11229
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11228
+D2
+~
+~
+0 -1 11230
+S
+#11230
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11229
+D2
+~
+~
+0 -1 11231
+D3
+~
+~
+0 -1 11254
+S
+#11231
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11230
+D2
+~
+~
+0 -1 11232
+S
+#11232
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11231
+D2
+~
+~
+0 -1 11233
+S
+#11233
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11232
+D2
+~
+~
+0 -1 11234
+S
+#11234
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11233
+D2
+~
+~
+0 -1 11235
+S
+#11235
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11234
+D1
+~
+~
+1 -1 11259
+D2
+~
+~
+0 -1 11236
+S
+#11236
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11235
+D2
+~
+~
+0 -1 11237
+S
+#11237
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11236
+D1
+~
+~
+0 -1 11238
+D3
+~
+~
+1 -1 11260
+S
+#11238
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D1
+~
+~
+0 -1 11239
+D3
+~
+~
+0 -1 11237
+S
+#11239
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D2
+~
+~
+0 -1 11240
+D3
+~
+~
+0 -1 11238
+S
+#11240
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before you're
+eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11239
+D2
+~
+~
+0 -1 11241
+S
+#11241
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11240
+D2
+~
+~
+0 -1 11242
+S
+#11242
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes. You notice a large wooden door within all the chaos on the
+east door.
+~
+0 8 0
+D0
+~
+~
+0 -1 11241
+D1
+~
+~
+1 -1 11261
+D2
+~
+~
+0 -1 11243
+S
+#11243
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11242
+D2
+~
+~
+0 -1 11244
+S
+#11244
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11243
+D2
+~
+~
+0 -1 11245
+S
+#11245
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11244
+D3
+~
+~
+0 -1 11246
+S
+#11246
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11245
+D3
+~
+~
+0 -1 11247
+S
+#11247
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D1
+~
+~
+0 -1 11246
+D2
+~
+~
+0 -1 11248
+S
+#11248
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11247
+D2
+~
+~
+0 -1 11249
+S
+#11249
+Outer reaches of the mind~
+Walking into this room is somewhat of a shock to you to find that all the
+mist around you has started to become somewhat flammable. The mist begins
+to explode like fireworks raining colorful sparkles of red and green all
+around. Through this display you can barely see a path forming before
+you're eyes.
+~
+0 8 0
+D0
+~
+~
+0 -1 11248
+D1
+~
+~
+0 -1 11250
+D3
+~
+~
+0 -1 11251
+S
+#11250
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D3
+~
+~
+0 -1 11249
+S
+#11251
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D1
+~
+~
+0 -1 11249
+S
+#11252
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D1
+~
+~
+0 -1 11226
+D3
+~
+~
+0 -1 11253
+S
+#11253
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D1
+~
+~
+0 -1 11252
+S
+#11254
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D1
+~
+~
+0 -1 11230
+D3
+~
+~
+0 -1 11255
+S
+#11255
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D1
+~
+~
+0 -1 11254
+D2
+~
+~
+0 -1 11256
+S
+#11256
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11255
+D2
+~
+~
+0 -1 11257
+S
+#11257
+A stream of consciousness~
+The corridor once around you all of a sudden turns to mist. Looking around
+you, you see nothing but more and more of the mist. You take your hand to
+the wall and attempt to move the mist away. To your surprise behind the
+mist you see a star filled sky that goes on for miles and miles.
+~
+0 8 0
+D0
+~
+~
+0 -1 11256
+D2
+~
+~
+1 -1 11258
+S
+#11258
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D0
+~
+~
+0 -1 11257
+S
+#11259
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D3
+~
+~
+1 -1 11235
+S
+#11260
+A shadowy room~
+You enter a room covered in a green metallic room with a being sitting
+against the western wall. Energy crackles all around as the being slowly
+rises to his feet and stares at your direction. Once he is standing you
+start to hear a silent chorus chanting someone's name.
+~
+0 8 0
+D1
+~
+~
+1 -1 11237
+S
+#11261
+Entering the subconscious~
+After entering the door, everything becomes quiet. So quiet you think that
+this place could not be a part of what you have seen thus far. It seems that
+you are entering some sort of grove in the middle of the woods. Wild flowers
+and lush trees can be found all around with small animals playing oblivious
+to your presence.
+~
+0 8 0
+D1
+~
+~
+0 -1 11262
+D3
+~
+~
+1 -1 11242
+S
+#11262
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D0
+~
+~
+0 -1 11263
+D3
+~
+~
+0 -1 11261
+S
+#11263
+The subconscious~
+It seems that you are entering some sort of grove in the middle of the 
+woods.  Wild flowers and lush trees can be found all around with small
+animals playing oblivious to your presence.
+~
+0 8 0
+D0
+~
+~
+0 -1 11264
+D2
+~
+~
+0 -1 11262
+S
+#0
+
+
+
+#SPECIALS
+M 11103 spec_breath_lightning
+M 11112 spec_poison
+M 11113 spec_poison
+M 11117 spec_breath_frost
+M 11118 spec_cast_mage
+M 11119 spec_breath_any
+M 11121 spec_poison
+M 11127 spec_poison
+M 11129 spec_breath_gas
+M 11132 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 11235 1 1
+D 0 11237 3 1
+D 0 11257 2 1
+M 0 11122 6 11271 1
+M 0 11123 6 11271 1
+M 0 11122 6 11272 1
+M 0 11125 6 11272 1
+M 0 11123 6 11272 1
+M 0 11124 6 11273 1
+M 0 11122 6 11273 1
+M 0 11125 6 11273 1
+M 0 11123 6 11273 1
+M 0 11124 6 11274 1
+M 0 11122 6 11274 1
+M 0 11126 1 11275 1
+M 0 11125 6 11276 1
+M 0 11123 6 11276 1
+M 0 11124 6 11278 1
+M 0 11125 5 11279 1
+M 0 11129 1 11280 1
+E 0 11116 0 12
+M 0 11122 6 11281 1
+M 0 11123 6 11281 1
+M 0 11127 1 11282 1
+E 0 11126 0 6
+M 0 11128 1 11282 1
+E 0 11127 0 16
+M 0 11124 6 11283 1
+M 0 11123 6 11284 1
+M 0 11130 1 11285 1
+E 0 11128 0 17
+G 0 11129 0
+G 0 11129 0
+M 0 11131 1 11285 1
+E 0 11130 0 16
+G 0 11131 0
+G 0 11131 0
+M 0 11122 6 11287 1
+M 0 11125 6 11288 1
+M 0 11124 6 11289 1
+M 0 11125 6 11289 1
+M 0 11124 6 11290 1
+M 0 11132 1 11291 1
+E 0 11132 0 3
+M 0 11101 8 11106 2
+M 0 11101 8 11108 1
+G 0 11113 0
+M 0 11101 8 11110 2
+M 0 11101 8 11111 1
+M 0 11101 8 11113 1
+G 0 11113 0
+M 0 11101 8 11114 1
+G 0 11113 0
+M 0 11103 2 11117 1
+O 0 11101 0 11118
+O 0 11102 0 11118
+M 0 11105 5 11119 1
+M 0 11104 5 11119 1
+E 0 11103 0 3
+M 0 11105 5 11120 1
+M 0 11104 5 11120 1
+E 0 11103 0 3
+M 0 11104 5 11121 1
+O 0 11104 0 11121
+M 0 11100 5 11122 1
+M 0 11106 4 11122 1
+O 0 11107 0 11122
+M 0 11106 4 11123 1
+O 0 11105 0 11123
+M 0 11100 5 11124 1
+E 0 11108 0 6
+M 0 11106 4 11124 1
+M 0 11100 5 11125 1
+E 0 11108 0 6
+O 0 11107 0 11125
+M 0 11104 5 11126 1
+E 0 11103 0 3
+O 0 11101 0 11126
+M 0 11105 5 11127 1
+O 0 11101 0 11128
+M 0 11105 5 11130 1
+M 0 11104 5 11130 1
+M 0 11100 5 11131 1
+E 0 11108 0 6
+M 0 11106 4 11131 1
+M 0 11107 3 11132 1
+M 0 11108 3 11132 1
+M 0 11107 3 11133 1
+M 0 11108 3 11133 1
+E 0 11109 0 7
+M 0 11107 3 11134 1
+M 0 11108 3 11134 1
+E 0 11109 0 7
+M 0 11100 5 11135 1
+M 0 11105 5 11136 1
+O 0 11106 0 11137
+M 0 11109 4 11140 1
+M 0 11110 4 11140 1
+M 0 11111 4 11140 1
+O 0 11107 0 11141
+M 0 11109 4 11143 1
+M 0 11110 4 11143 1
+M 0 11111 4 11143 1
+M 0 11109 4 11146 1
+M 0 11110 4 11146 1
+M 0 11111 4 11146 1
+M 0 11109 4 11151 1
+M 0 11110 4 11151 1
+M 0 11111 4 11151 1
+M 0 11103 2 11167 1
+M 0 11112 7 11173 1
+M 0 11113 7 11173 1
+E 0 11111 0 15
+O 0 11112 0 11174
+M 0 11112 7 11175 1
+M 0 11113 7 11175 1
+E 0 11111 0 15
+M 0 11112 7 11177 1
+M 0 11113 7 11177 1
+M 0 11112 7 11179 1
+M 0 11113 7 11179 1
+E 0 11111 0 15
+M 0 11112 7 11181 1
+M 0 11113 7 11181 1
+M 0 11112 7 11183 1
+M 0 11113 7 11183 1
+E 0 11111 0 15
+M 0 11112 7 11185 1
+M 0 11113 7 11185 1
+M 0 11114 8 11195 1
+M 0 11114 8 11198 1
+M 0 11114 8 11200 1
+M 0 11114 8 11203 1
+M 0 11114 8 11205 1
+M 0 11114 8 11207 1
+M 0 11114 8 11209 1
+M 0 11114 8 11212 1
+M 0 11115 8 11215 1
+M 0 11115 8 11217 1
+M 0 11115 8 11219 1
+M 0 11120 1 11221 1
+E 0 11117 0 7
+M 0 11118 1 11223 1
+E 0 11121 0 12
+M 0 11115 8 11227 1
+M 0 11115 8 11229 2
+M 0 11115 8 11231 1
+M 0 11115 8 11236 1
+M 0 11119 1 11251 1
+E 0 11122 0 14
+E 0 11123 0 15
+E 0 11125 0 17
+E 0 11110 0 6
+M 0 11116 1 11258 1
+E 0 11119 0 10
+E 0 11118 0 16
+M 0 11117 1 11259 1
+E 0 11120 0 3
+M 0 11121 1 11260 1
+E 0 11124 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

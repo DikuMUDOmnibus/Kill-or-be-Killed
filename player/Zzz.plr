@@ -1,0 +1,518 @@
+#PLAYER
+Name Zzz~
+Id   887855626
+LogO 887874199
+Vers 6
+Prom <%hhp %mm %vmv> ~
+Race changeling~
+Clan arcana~
+Sex  1
+Cla  9
+Levl 60
+Plyd 4774
+Agemod 14
+Not  0 0 0 0 0
+Scro 23
+Temple 3054
+Room 25064
+HMV  3481 5025 3426 5000 5030 5030
+Noregen 0
+Deaths 0
+Sp 0
+Specialize 0
+Gold 355
+Silv 14909
+Bgold 0
+Bsilv 0
+Exp  0
+ExpT 0
+Act  CDGNQ
+Comm KNOQ
+Pos  8
+Prac 5
+Trai 3
+Save  -26
+Alig  -1000
+Etho  -1000
+Indu  0
+Hit   20
+Dam   37
+ACs -7 -6 3 -16
+Attr 25 20 19 25 16
+AMod 0 0 0 -2 0
+Pass ~
+Titl  the Scum~
+TSex 1
+LLev 1
+HMVP 4945 4950 5000
+Cnd  0 48 48 48 0 0
+kls 0 0 39 1933
+kld 0 0
+Sk 100 'reserved'
+Sk 100 'absorb'
+Sk 100 'acid blast'
+Sk 100 'embalm'
+Sk 100 'trace'
+Sk 100 'flame scorch'
+Sk 100 'soulbind'
+Sk 100 'shattered bone'
+Sk 100 'blood tide'
+Sk 100 'mutilated left hand'
+Sk 100 'mutilated right hand'
+Sk 100 'mutilated left arm'
+Sk 100 'mutilated right arm'
+Sk 100 'mutilated left leg'
+Sk 100 'mutilated right leg'
+Sk 100 'talk to dead'
+Sk 100 'deathspell'
+Sk 100 'trinal wield'
+Sk 100 'forest blending'
+Sk 100 'awareness'
+Sk 100 'door bash'
+Sk 100 'gaseous form'
+Sk 100 'breath fire'
+Sk 100 'regeneration'
+Sk 100 'brand'
+Sk 100 'silence'
+Sk 100 'hunger'
+Sk 100 'dehydrated'
+Sk 100 'rear kick'
+Sk 100 'spike'
+Sk 100 'lore'
+Sk 100 'shapeshift'
+Sk 100 'globe of darkness'
+Sk 100 'animate object'
+Sk 100 'lifebane'
+Sk 100 'demand'
+Sk 100 'animate dead'
+Sk 100 'lesser golem'
+Sk 100 'greater golem'
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'burning hands'
+Sk 100 'call lightning'
+Sk 100 'call slayer'
+Sk 100 'calm'
+Sk 100 'cancellation'
+Sk 100 'cause critical'
+Sk 100 'cause light'
+Sk 100 'cause serious'
+Sk 100 'chain lightning'
+Sk 100 'change sex'
+Sk 100 'charm person'
+Sk 100 'chill touch'
+Sk 100 'colour spray'
+Sk 100 'firestream'
+Sk 100 'fireshield'
+Sk 100 'iceshield'
+Sk 100 'concatenate'
+Sk 100 'heavenly wrath'
+Sk 100 'heavenly fire'
+Sk 100 'wrath'
+Sk 100 'continual light'
+Sk 100 'control weather'
+Sk 100 'create food'
+Sk 100 'create rose'
+Sk 100 'create spring'
+Sk 100 'create water'
+Sk 100 'cure blindness'
+Sk 100 'cure critical'
+Sk 100 'cure disease'
+Sk 100 'cure light'
+Sk 100 'cure poison'
+Sk 100 'cure serious'
+Sk 100 'curse'
+Sk 100 'dark wrath'
+Sk 100 'demonfire'
+Sk 100 'detect evil'
+Sk 100 'detect good'
+Sk 100 'detect hidden'
+Sk 100 'true sight'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 100 'detect poison'
+Sk 100 'dispel evil'
+Sk 100 'dispel good'
+Sk 100 'dispel magic'
+Sk 100 'earthquake'
+Sk 100 'enchant armor'
+Sk 100 'enchant weapon'
+Sk 100 'energy drain'
+Sk 100 'evil eye'
+Sk 100 'faerie fire'
+Sk 100 'faerie fog'
+Sk 100 'unholy fire'
+Sk 100 'acid spit'
+Sk 100 'fireball'
+Sk 100 'fireproof'
+Sk 100 'flamestrike'
+Sk 100 'fly'
+Sk 100 'frenzy'
+Sk 100 'gate'
+Sk 100 'giant strength'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'heat metal'
+Sk 100 'curse weapon'
+Sk 100 'bless weapon'
+Sk 100 'holy word'
+Sk 100 'identify'
+Sk 100 'infravision'
+Sk 100 'invisibility'
+Sk 100 'know alignment'
+Sk 75 'brew'
+Sk 100 'lightning bolt'
+Sk 100 'locate object'
+Sk 100 'magic missile'
+Sk 100 'mass healing'
+Sk 100 'mass invis'
+Sk 100 'pass door'
+Sk 100 'plague'
+Sk 100 'poison'
+Sk 100 'power word kill'
+Sk 100 'power word stun'
+Sk 100 'protection evil'
+Sk 100 'protection good'
+Sk 100 'ray of truth'
+Sk 100 'recharge'
+Sk 100 'refresh'
+Sk 100 'remove curse'
+Sk 100 'sanctuary'
+Sk 100 'shield'
+Sk 100 'shocking grasp'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'stone skin'
+Sk 100 'summon'
+Sk 100 'teleport'
+Sk 100 'turn undead'
+Sk 100 'undead drain'
+Sk 100 'ventriloquate'
+Sk 75 'team spirit'
+Sk 75 'venueport'
+Sk 100 'weaken'
+Sk 100 'web'
+Sk 100 'word of recall'
+Sk 100 'summon fire elemental'
+Sk 100 'summon earth elemental'
+Sk 100 'summon air elemental'
+Sk 100 'summon water elemental'
+Sk 100 'tsunami'
+Sk 100 'earthmaw'
+Sk 100 'windwall'
+Sk 100 'drain'
+Sk 100 'disenchant armor'
+Sk 100 'disenchant weapon'
+Sk 100 'cone of cold'
+Sk 100 'protective shield'
+Sk 100 'timestop'
+Sk 100 'timestop spell'
+Sk 100 'consecrate'
+Sk 100 'wither'
+Sk 100 'shadowstrike'
+Sk 100 'dark dream'
+Sk 100 'shadowself'
+Sk 100 'nightwalk'
+Sk 100 'lightshield'
+Sk 100 'sunbolt'
+Sk 100 'fire and ice'
+Sk 100 'utter heal'
+Sk 100 'atrophy'
+Sk 100 'acid breath'
+Sk 100 'fire breath'
+Sk 100 'frost breath'
+Sk 100 'gas breath'
+Sk 100 'lightning breath'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'flail arms'
+Sk 100 'mind sear'
+Sk 100 'mace'
+Sk 100 'polearm'
+Sk 100 'shield block'
+Sk 100 'spear'
+Sk 100 'dual wield'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'ranger staff'
+Sk 100 'counter'
+Sk 100 'tame'
+Sk 100 'find water'
+Sk 100 'shield cleave'
+Sk 100 'darkshield'
+Sk 100 'spellcraft'
+Sk 100 'power word fear'
+Sk 100 'nightfall'
+Sk 100 'decay corpse'
+Sk 100 'preserve'
+Sk 100 'imbue regeneration'
+Sk 100 'restoration'
+Sk 100 'quiet movement'
+Sk 100 'iron resolve'
+Sk 100 'ambush'
+Sk 100 'animate skeleton'
+Sk 100 'mummify'
+Sk 100 'moving ambush'
+Sk 100 'pugil'
+Sk 100 'lash'
+Sk 100 'protection heat cold'
+Sk 100 'evaluation'
+Sk 100 'enhanced damage'
+Sk 100 'enhanced damage II'
+Sk 100 'staff'
+Sk 100 'tactics'
+Sk 100 'rally'
+Sk 100 'backstab'
+Sk 100 'strange form'
+Sk 100 'cloak'
+Sk 100 'bite'
+Sk 100 'ram'
+Sk 100 'tail'
+Sk 100 'throw'
+Sk 100 'endure'
+Sk 100 'palm'
+Sk 100 'poison dust'
+Sk 100 'blindness dust'
+Sk 100 'roll'
+Sk 100 'block'
+Sk 100 'strangle'
+Sk 100 'nerve'
+Sk 100 'follow through'
+Sk 100 'bash'
+Sk 100 'berserk'
+Sk 100 'crush'
+Sk 100 'ground control'
+Sk 100 'circle stab'
+Sk 100 'spellbane'
+Sk 100 'warcry'
+Sk 100 'battlecry'
+Sk 100 'dirt kicking'
+Sk 100 'disarm'
+Sk 100 'dodge'
+Sk 100 'dual backstab'
+Sk 100 'envenom'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+Sk 100 'rescue'
+Sk 100 'downstrike'
+Sk 100 'trip'
+Sk 100 'second attack'
+Sk 100 'third attack'
+Sk 100 'fourth attack'
+Sk 100 'acute vision'
+Sk 100 'barkskin'
+Sk 100 'enlist'
+Sk 100 'animal call'
+Sk 100 'bear call'
+Sk 100 'camouflage'
+Sk 100 'camp'
+Sk 100 'fast healing'
+Sk 100 'haggle'
+Sk 100 'hide'
+Sk 100 'laying hands'
+Sk 100 'meditation'
+Sk 100 'trance'
+Sk 100 'morph black dragon'
+Sk 100 'morph white dragon'
+Sk 100 'morph blue dragon'
+Sk 100 'morph green dragon'
+Sk 100 'morph red dragon'
+Sk 100 'breath dragon'
+Sk 100 'lunge'
+Sk 100 'black guard'
+Sk 100 'blackjack'
+Sk 100 'counter parry'
+Sk 100 'vigilance'
+Sk 100 'guard call'
+Sk 100 'peek'
+Sk 100 'pick lock'
+Sk 100 'skin'
+Sk 100 'butcher'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 100 'steel nerves'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 75 'channel'
+Sk 100 'life transfer'
+Sk 100 'safety'
+Sk 100 'lifeline'
+Sk 100 'badge'
+Sk 100 'protectorate plate'
+Sk 100 'alarm'
+Sk 100 'holy fire'
+Sk 100 'blade barrier'
+Sk 100 'prevent'
+Sk 100 'prevent healing'
+Sk 100 'aura of sustenance'
+Sk 75 'spiritblade'
+Sk 100 'iceball'
+Sk 100 'hand of vengeance'
+Sk 100 'wanted'
+Sk 100 'bandage'
+Sk 100 'trophy'
+Sk 100 'shadowplane'
+Sk 100 'request'
+Sk 100 'battleshield'
+Sk 100 'herb'
+Sk 100 'cleave'
+Sk 100 'riot'
+Sk 75 'familiar'
+Sk 100 'shadowgate'
+Sk 100 'eye of the predator'
+Sk 100 'frostbolt'
+Sk 100 'icelance'
+Sk 100 'earthfade'
+Sk 100 'forget'
+Sk 100 'earthbind'
+Sk 100 'cremate'
+Sk 100 'divine touch'
+Sk 100 'transfer object'
+Sk 100 'disintergrate'
+Sk 100 'grounding'
+Sk 100 'shock sphere'
+Sk 100 'forage'
+Sk 100 'assassinate'
+Sk 100 'defend'
+Sk 100 'intimidate'
+Sk 100 'escape'
+Sk 100 'deathstrike'
+Sk 100 'empower'
+Gr 'class basics'
+Gr 'arcana'
+Affc 'animate dead'   0  58   6   0   0          0
+End
+
+#O
+Vnum 29711
+Nest 0
+Owner none~
+ExtF 6
+Cond 0
+Wear 9
+Cost 49970
+End
+
+#O
+Vnum 24003
+Nest 0
+Owner none~
+Wt   0
+Cond 0
+Wear 19
+Cost 180000
+End
+
+#O
+Vnum 23010
+Nest 0
+Owner none~
+ExtF 2646
+Cond 0
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 14105
+Nest 0
+Owner none~
+Cond 0
+Wear 6
+Cost 20000
+End
+
+#O
+Vnum 29789
+Nest 0
+Owner none~
+Cond 0
+Wear 4
+Cost 5000
+End
+
+#O
+Vnum 29788
+Nest 0
+Owner none~
+Cond 0
+Wear 3
+Cost 5000
+End
+
+#O
+Vnum 24409
+Nest 0
+Owner none~
+Cond 0
+Wear 8
+Cost 35210
+End
+
+#O
+Vnum 24422
+Nest 0
+Owner none~
+ExtF 320
+Cond 0
+Wear 18
+Cost 37300
+End
+
+#O
+Vnum 24406
+Nest 0
+Owner none~
+Cond 0
+Wear 15
+Cost 31400
+End
+
+#O
+Vnum 24406
+Nest 0
+Owner none~
+Cond 0
+Wear 14
+Cost 31400
+End
+
+#O
+Vnum 14015
+Nest 0
+Owner none~
+Cond 0
+Wear 13
+Cost 19000
+End
+
+#PET
+Vnum 2901
+Name zombie~
+LogO 887874199
+ShD  the zombie of A Legion cabal lord~
+LnD  A zombie of A Legion cabal lord is standing here.
+
+~
+Sex  1
+Levl 36
+HMV  999 999 117 117 100 100
+Gold 4
+Silv 225
+Act  AIOT
+AfBy JS
+Pos  8
+Dam  29
+ACs  -100 -100 -100 -100
+Attr 25 21 22 22 24
+AMod 0 0 0 0 0
+Affc 'soulbind'   0  60  -1   3  19          0
+Affc 'animate dead'   0  60  -1   0   0     262144
+End
+#END

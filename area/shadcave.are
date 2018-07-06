@@ -1,0 +1,358 @@
+#AREADATA
+Name The Cave of Shadows~
+Builders None~
+VNUMs 3800 3850
+Credits {CABAL} Lestregus    Cave of Shadows~
+Security 9
+End
+
+
+
+#MOBILES
+#3800
+guardian shadow shadows cloak~
+The Grand Assassin~
+A dark hooded assassin loams here.
+~
+This being has no face nor form, yet occupies every space of the
+room like a plague without a cure.
+~
+dark-elf~
+ABLR DFHJPV -1000 0
+60 40 50d10+6000 1d1+3999 5d20+55 drain
+-35 -35 -35 -35
+AEFKUV AB BI Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#3801
+dark priest~
+the dark priest~
+A dark priest stands here, awaiting the assasins to return.
+~
+Swabbed in dark robes.  He is a menacing force to be seen.  His pure
+presence invokes the darkest fears within your soul.  You surely will have
+to pay dearly for his dark arts.  
+~
+human~
+ABVae DFH -1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#3802
+ancients ancient points point pointsmaster pointmaster~
+The Ancients Pointmaster~
+The Ancients pointmaster stands here awaiting scalps.
+~
+A tall, cloaked drow, stands before you.  His red eyes piercing through
+his hood.  He peers at you with discontent as he awaits your desposit to the
+dark lords collection of scalps.  
+~
+dark-elf~
+ABGV CDFHJPV -1000 0
+60 0 1d1+1999 1d1+999 2d4+30 drain
+-35 -35 -35 -35
+FHIKOV ABCDE BI Z
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+M GRALL 3800 100~
+#0
+
+
+
+#OBJECTS
+#3800
+key skull black~
+skull hilted black key~
+a Skull hilted black key is on the ground.~
+bone~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#3801
+torch ancient~
+the Torch of Ancient~
+the Torch of Ancient is on the skull of the King of Honor.~
+wood~
+treasure AOT A
+0 0 0 0 0
+60 1 100000 P
+C
+1
+L
+1
+#3802
+altar~
+an altar~
+an altar is hidden in the shadows here.~
+bone~
+container ORY P
+10 ABCD 3800 15 100
+60 1 20 P
+#3803
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+#3804
+decayed skull rigamortis~
+a decayed skull suffering from rigamortis~
+a decayed skull lies here rotting further.~
+bone~
+weapon AEHJLP AN
+exotic 9 6 drain CD
+51 90 5000 P
+A
+18 5
+A
+19 5
+#3805
+black murky potion~
+a murky black potion~
+a black potion rests here.~
+energy~
+potion ABEGP AO
+51 'cure blindness' 'armor' 'bless' ''
+51 50 6000 P
+#3806
+sign wooden~
+a wooden sign~
+~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign wooden~
+The Cave of Shadows was conceived and created by Lestregus.
+This area is not to be traded or used in any other mud without the
+permission of the author. Author reachable at JLein@mindspring.com
+c1999
+~
+#3807
+manuscript uteroi unholy darkness ancient ancients pages~
+the unholy manuscript of the Ancients~
+An odd formation of pages is laying here, surrounded by darkness.~
+Flesh~
+treasure BCEMUZ A
+0 0 0 0 0
+60 11 0 P
+E
+cover~
+The cover, as well as back, is formed from two scales of an onyx colored
+dragon. Some have rumored it to be two existing scales of Lord Erifdel's once
+mortal form. Uteroi is engraved at the very top in a crimson color while
+directly below are the words:
+ 
+The Uteroi is only for the strong willed. Any else risk death.
+ 
+With those words ringing in your head, you have the option of looking at the
+firstpage.
+~
+E
+manuscript~
+An assortment of pages have been bound together to form an unholy manuscript
+governing the religion of the Dracolich. Each page is formed from the flesh of
+an existing race within these realms, and written upon with their own 
+lifeblood. Perhaps start by reading the cover...
+~
+R
+V
+#3810
+writhing whip~
+a writhing whip of shadows~
+A dark whip lays here.~
+shadow~
+weapon HP AN
+whip 9 6 defilement C
+55 10 0 P
+F
+A 20 -1 N
+R
+V
+#3811
+writhing sword~
+a writhing sword of shadows~
+A dark sword lays here.~
+shadow~
+weapon HP AN
+sword 9 6 defilement CD
+55 10 0 P
+A
+19 9
+A
+18 9
+R
+V
+#3812
+writhing dagger~
+a writhing dagger of shadows~
+A dark shadow lays here.~
+shadow~
+weapon HP AN
+dagger 9 6 defilement C
+55 0 0 P
+A
+19 9
+A
+18 9
+R
+V
+#0
+
+
+
+#ROOMS
+#3800
+The Mouth of a Cave~
+You stumble upon a cave, eerie yet soothing to the hearts of the wicked.
+Howling winds echo in the distance, while screams of terror and anguish
+fill your ears like an infection. To wonder....Should you even be here?
+~
+0 8 1
+D0
+~
+~
+0 -1 3801
+D1
+~
+~
+0 -1 873
+S
+#3801
+Cave Entrance~
+You get a feeling of emptiness as you enter this room, a cold chill
+running up your spine. The walls are wet as if they actually have
+been bleeding. An old rotting sign barely clings to wall.
+~
+0 8 1
+D2
+~
+~
+0 -1 3800
+D5
+~
+~
+0 -1 3802
+S
+#3802
+A Dank Tunnel~
+These tunnels are empty and dark. Only the bravest of creatures
+would dare venture further, for to do so without the proper
+mindset would surely cause one much harm.
+~
+0 8 1
+D0
+~
+~
+0 -1 3803
+D4
+~
+~
+0 -1 3801
+D5
+~
+~
+0 -1 3805
+S
+#3803
+The Flickering Tunnel~
+These tunnels are empty and dark. Only the bravest of creatures
+would dare venture further, for to do so without the proper
+mindset would surely cause one much harm. A very low chanting
+can be heard coming from the north.
+~
+0 8 1
+D0
+~
+~
+0 -1 3804
+D2
+~
+~
+0 -1 3802
+S
+#3804
+Altar of the Damned~
+The tunnel opens up in a small room filled with the sounds of
+demonic chants. A huge altar to the Lord of the Ancients rests
+against the northern wall. Small creatures scuttle about
+sliding in an out of the shadows.  Every now and then,
+a scream rings out from the distance, perhaps a sacrifice for
+the Dark One being carried out.
+~
+0 8 1
+D2
+~
+~
+0 -1 3803
+S
+#3805
+The Temple of the Dark Lord~
+A dark temple has been errected to the dark lord himself.  All around you
+are torches casting a hypnotic light upon the room.  A dark stench of
+rotting flesh nearly chokes your senses.  
+~
+0 8 1
+D4
+~
+~
+0 -1 3802
+S
+#3806
+The Crimson Room~
+Decorated entirely in crimson, from the walls, ceiling and floor,
+to the scant furniture placed asymeterically throughout, this room
+sends a shiver down your spine as you sense death is but a breath
+away.  Here and there, you can just barely discern old bloodstains
+against the blooded reds of the room.  Weapons of every conceivable
+type, and some quite unimagineable, line the walls like trophies.
+~
+0 12 1
+S
+#0
+
+
+
+#SPECIALS
+M 3800 spec_monk
+S
+
+
+
+#RESETS
+M 0 3800 1 3800 1
+G 0 3801 0
+O 0 3806 0 3801
+M 0 3801 1 3804 1
+O 0 3802 0 3804
+O 0 3803 0 3804
+M 0 3802 1 3805 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#3800
+emote sweeps his cloak behind him, and peers at you.
+say Have you a scalp for me, Whelp?
+~
+#3801
+if cabal $n ancient
+say Greetings, Whelp.
+else
+yell Another has come for death!
+endif
+~
+#0
+
+#$

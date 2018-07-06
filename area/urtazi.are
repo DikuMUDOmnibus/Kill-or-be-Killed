@@ -1,0 +1,912 @@
+#AREADATA
+Name Urtazi~
+Builders Aino~
+VNUMs 13300 13399
+Credits {45 51} Aino  Ur'Tazi~
+Security 9
+End
+
+
+
+#MOBILES
+#13300
+lynchre titan abyss~
+Lynchre~
+A giant abyss stands here hammering weapons into place.
+~
+A massive red skinned colasses with sulfuric breath, black eyes, and a
+slick black mane. He wears snugg fitting armor on his body, and has a
+massive bloody axe hung at his waist. His hand rests on the axe, ready to
+pull it out and massacre any threat that comes his way.
+~
+unique~
+ABFT DEFHJTVc -1000 0
+53 100 26d8+5500 1d4+10 20d20+200 punch
+-23 -23 -23 -23
+ACDEFHIJKNO ABELMQ 0 NS
+stand stand male 100
+0 0 giant 0
+#13301
+Larnest beast spectre specter ghost~
+Larnest~
+A spectre floats here, waiting to attack it's next victim.
+~
+Larnest is a medium sized dark spectre. He seems to draw in light and
+engulf it in the darkness that surrounds him. He has eyes of red and they
+are glaring malevolently at you.
+~
+unique~
+ABFO HJNOTVac -1000 0
+51 100 24d8+3869 1d4+10 20d20+100 none
+-19 -19 -19 -19
+AEFHK ABFMOP 0 N
+stand stand male 50
+0 0 medium 0
+#13302
+ghost~
+a ghost~
+The ghost of an abyss titan wanders here.
+~
+This is the ghost of an abyss titan. He was slain here and refuses to
+leave. He wanders the halls here forever in search of the person who killed
+him to take out his revenge.
+~
+unique~
+AFG HJNOPTUV -1000 0
+40 100 20d8+2464 1d4+10 10d20+100 chill
+-13 -13 -13 -13
+AFHK ABEFGHIM 0 N
+stand stand male 0
+0 0 medium 0
+#13303
+fire beast~
+a fire beast~
+A fire beast waits patiently for it's next victim.
+~
+Lynchre's pet fire beast is glaring at you for intruding his master's home.
+His firey red skin seems to glow a brighter red as he bares his bloody teeth
+at you. His eyes are a pure black, it feels like you are being pulled into
+the darkness as you look into them.
+~
+unique~
+AFG HNOVc -1000 0
+45 100 22d8+3177 1d4+10 10d20+100 claw
+-15 -15 -15 -15
+AEFHIKM CHLMQ 0 IN
+stand stand male 50
+0 0 medium 0
+#13304
+imp~
+an imp~
+A dirty little imp is poking you with a stick.
+~
+This imp is the servant of the fire beasts here. He is contantly trying to
+make sure the beasts are well fed and happy. He is currently looking for his
+next beast to please, so as not to make Lynchre unhappy with hi
+~
+unique~
+AFG HNOPTVc -1000 8224
+42 100 21d8+2733 1d4+10 15d20+100 none
+-14 -14 -14 -14
+FHIKN ABEHILMQ 0 NS
+stand stand male 0
+0 0 small 0
+#13305
+mimsa ghost~
+Mimsa~
+Mimsa is here haunting the halls.
+~
+Mimsa fell to the harsh hand of Lynchre ages ago. This elven ghost haunts
+Lynchre to make his living as unpleasant as possible. She is always watching
+and waiting for him to come to his demise so she can come to peace with her
+life.
+~
+unique~
+AFGO 0 -1000 8307
+42 100 21d8+2733 1d4+10 15d20+100 chill
+-14 -14 -14 -14
+FHK ABEFGLQ 0 0
+stand stand female 0
+HMV HMV medium 0
+#13306
+ghost bungo~
+Bungo~
+Bungo is roaming the halls in his ghostly form.
+~
+A halfling of great stature in his community haunts here in his unrest. 
+Slain by the powerful Lynchre.  He does all he can to make it a pain for
+Lynchre to live in the mortal world while Bungo and his companions are
+forced to be in the world of the undead.  
+~
+unique~
+AFGO 0 -1000 0
+42 100 21d8+2733 1d4+10 15d20+100 chill
+-14 -14 -14 -14
+FHK ABEFGILOPQ 0 NS
+stand stand male 0
+0 0 medium 0
+#13307
+ganisha ghost~
+Ganisha~
+Ganisha terries here before moving on to haunt his captor.
+~
+Ganisha, a slain dwarf, haunts this cave not because of riches or mining,
+but because he was slain here. Ganisha will wait until the end of time
+to see his death avenged and see Lynchre beg for mercy as he grasps to
+the last breaths of his life.
+~
+unique~
+AFGO 0 0 0
+42 100 21d8+2733 1d4+10 15d20+100 chill
+-14 -14 -14 -14
+FHK ABEFGILMQ 0 NS
+stand stand female 0
+0 0 medium 0
+#13308
+ghost centra~
+Centra~
+Centra noisily wanders the halls.
+~
+Centra is constantly banging around and tryng to create a loathsome
+environment for Lynchre to live in.  She is a slain storm giant and waits
+for her vengence like the others.  
+~
+unique~
+AFGO HTVc 1000 0
+51 100 21d8+2875 1d4+10 3d12+22 chill
+-15 -15 -15 -15
+FHK ABEFGIP 0 NS
+stand stand female 0
+0 0 medium 0
+#13309
+ghost Hamil~
+Hamil~
+Hamil is glaring at his surroundings.
+~
+Hamil is displeased with being in this rotten cave, but will not leave
+until his death is avenged. He was once a handsome sidhe with an important
+job and family, but is now a worthless ghost.
+~
+unique~
+AFGO HTV 1000 0
+43 100 21d8+2875 1d4+10 15d20+100 chill
+-15 -15 -15 -15
+FHK ABEFGIM 0 NS
+stand stand male 0
+0 0 medium 0
+#0
+
+
+
+#OBJECTS
+#13300
+blood ore torso armor~
+blood ore armor~
+A piece of bloody armor sits here untouched.~
+ore~
+armor CEJLM AD
+14 14 14 14 49
+51 60 0 P
+A
+18 4
+A
+19 4
+A
+5 1
+A
+13 60
+L
+3
+#13301
+blood ore helmet helm metal~
+blood ore helmet~
+A piece of blood covered metal lies here.~
+ore~
+armor CEJLM AE
+14 14 14 12 49
+51 30 0 P
+A
+24 -3
+A
+4 5
+A
+3 5
+A
+13 25
+A
+12 50
+L
+3
+#13302
+blood ore spear metal~
+blood ore spear~
+A long piece of thin metal lays here covered in blood.~
+ore~
+weapon CEIJLM AN
+spear 8 6 pierce F
+49 23 0 P
+A
+18 2
+A
+19 2
+A
+13 50
+L
+10
+#13303
+blood ore axe metal~
+blood ore axe~
+A large piece of metal with a wooden handle lays here in fresh blood.~
+ore~
+weapon CEJLM AN
+axe 7 8 chop 0
+51 45 0 P
+A
+18 4
+A
+19 4
+L
+3
+#13304
+Justice Nature~
+a vine of justice~
+A vine, glowing green, is here.~
+power~
+weapon AIKMT AN
+whip 29 5 nature 0
+52 8 0 P
+L
+1
+#13305
+chain~
+a large chain~
+A chain lays here forgotten.~
+metal~
+weapon K AN
+whip 5 10 whip 0
+43 30 250 P
+#13306
+fire collar~
+a collar of fire~
+A circle of fire lys here.~
+energy~
+armor ABEJLM AC
+6 6 6 6 42
+0 15 400 P
+A
+18 2
+A
+19 2
+#13307
+leash~
+a leash~
+A leash lays here unused.~
+leather~
+weapon 0 AN
+exotic 5 10 whip H
+42 20 100 P
+#13399
+map ur'tazi caves~
+a old map not for mortals~
+A old map is here, better sacrifice it~
+unknown~
+trash T A
+0 0 0 0 0
+52 0 0 P
+E
+map~
+#
+                         |
+                     #    #
+                     |    |
+                     #--#--#--#
+                         |
+                         #
+                         |
+                         #
+                         |
+                         #
+                         |
+                      #--#--#--#
+                      |    |
+                      #   #--#--#
+                      |   | | |
+                      #   #--#--#
+                      |
+                   #--#--#
+                   |
+                   #
+                   |
+                   #
+
+~
+#0
+
+
+
+#ROOMS
+#13312
+Within a cavern~
+Small, almost devilish creatures swarm about you, everywhere, they seem
+to be quite unkempt... rags and trash, litter the ground. They seem to live
+here with delight, painting strange, yet horrific images on the walls, some
+of which depicting cities, being ravaged, which you recognize. These small
+creatures seem to thrive in this cavern. The cavern continues to the east,
+west, and east, though exits through the north.
+~
+0 8201 0
+D0
+~
+~
+0 0 13311
+D1
+~
+~
+0 0 13317
+D2
+~
+~
+0 0 13315
+D3
+~
+~
+0 0 13313
+S
+#13313
+Within a cavern~
+This cavern is filthy, and littered with rags and trash. Something odd
+catches your eye, towards the north-western edge of the wall hangs a
+deceased sidhe, tormented and skinned, set up for some sort of game
+involving darts. These devilish creature's are all about you, but they only
+seem to eye you curiously, as though they hold back, in fear, to strike at
+you for entering their home.
+~
+0 8201 0
+D1
+~
+~
+0 0 13312
+D2
+~
+~
+0 0 13314
+S
+#13314
+Within a cavern~
+Creeping further into the hideous cavern, you notice that the imps seem
+to have no care in all of Shadar about their appearance. Filthy, smug grins
+seem to be permanently plastered to their small, petite faces. Though, they
+obviously lack the morale, and spirit to do anything about you invading
+their privacy. The cavern continues to the north and east.
+~
+0 8201 0
+D0
+~
+~
+0 0 13313
+D1
+~
+~
+0 0 13315
+S
+#13315
+Within a cavern~
+These small, hideous creatures pester you as a rodent would, following
+your every movement. Gathering in packs, watching you move about, studying
+each footstep carefully. Garbage piled to your ankles is all about, but
+imps just don't seem to care, indulging in this disgusting sight, they
+thrive in this waste. The cavern continues to the east, west and north.
+~
+0 8201 0
+D0
+~
+~
+0 0 13312
+D1
+~
+~
+0 0 13316
+D3
+~
+~
+0 0 13314
+S
+#13316
+Within a cavern~
+These small, hideous creatures pester you as a rodent would, following
+your every movement. Gathering in packs, watching you move about, studying
+each footstep carefully. Garbage piled to your ankles is all about, but
+imps just don't seem to care, indulging in this disgusting sight, they
+thrive in this waste. The cavern continues to the north and west.
+~
+0 8201 0
+D0
+~
+~
+0 0 13317
+D3
+~
+~
+0 0 13315
+S
+#13317
+Within a cavern~
+A small part of the imps culture can be seen here, strange paintings
+adorn the east wall, paintings of a small city, being invaded underground,
+through what seem to be the sewers. Though still, the same disgusting
+scene, of trash tossed about can be seen here, like every other portion of
+the cavern. To the south and west, the cavern continues.
+~
+0 8201 0
+D2
+~
+~
+0 0 13316
+D3
+~
+~
+0 0 13312
+S
+#13319
+A hidden passage, in the dark cave~
+Stumbling through the rocks in the wall, you manage to find yourself
+before a dark passage, in the caves. Obviously man-made, the ground is
+paved well, stretching north, for at least a few leagues. The rocks around
+here, are squared and well-kempt, carrying a smooth texture, and a lovely,
+granite color. The faint sound of footsteps can be heard all around you.
+The passage continues to the north.
+~
+0 8201 0
+D0
+~
+~
+0 0 13320
+D2
+~
+~
+0 0 13310
+S
+#13320
+A hidden passage, in the dark cave~
+The passage stretches as far as the eye can see, snaking it's way to the
+north, obviously fashioned by some, well-experienced race. It seems to
+slope downward just a bit, with each footstep, it's as though this passage
+takes you, below the surface of Shadar. The faint sound of footsteps grows
+louder to the north, it's as though something very large is here. The
+passage continues to the north and south.
+~
+0 8201 0
+D0
+~
+~
+0 0 13321
+D2
+~
+~
+0 0 13319
+S
+#13321
+A small clearing, along the hidden passage, in the dark cave~
+You seem to have stumbled unto a small clearing, along the hidden
+passage. Dark ebony stones have been set along the walls, though as you
+peer ahead, the passage seems to grow darker and darker. The air is humid,
+and the faint sound of footsteps can be heard all around you, you feel quite
+certain, that something very large lurks in this part of the cave. The
+passage continues to the north and south.
+~
+0 8201 0
+D0
+~
+~
+0 0 13322
+D2
+~
+~
+0 0 13320
+S
+#13322
+Deep within a hidden passage, in the dark cave~
+Rather thin compared to the majority of tunnels found in this cave, this
+part of the passage seems to twist on and on. Though just as you begin to
+walk through, taking little notice of your surroundings, you manage to spot
+something strange on the rock face. It seems that a few stones on the
+western side of the passage are broken and cracked. Humidity is very fierce
+around this part of the passage. The passage continues to the north, and
+leads to a small clearing, towards the south.
+~
+0 8201 0
+D0
+~
+~
+0 0 13327
+D2
+~
+~
+0 0 13321
+D3
+~
+~
+0 0 13323
+S
+#13323
+Along a secret passage, in the dark cave~
+You seem to have found a secret passage in the dark cave. Bits of broken
+stone litter the ground, though unlike the dark stones seen earlier, these
+one emit a gentle, orange light. Taking in a deep breath of air, your lungs
+begin to burn, the air around you is disgustingly humid. Towards the west,
+you hear the echo of metal being smashed against metal, as though someone or
+something is hard at work.
+~
+0 8200 0
+D1
+~
+~
+0 0 13322
+D3
+~
+~
+0 0 13324
+S
+#13324
+Before a fiery cavern, in the dark cave~
+You stand before an enormous cavern, filled with fire. The towering
+pillars of flame, seen inside, seem to light this part of the passage. The
+stones around you are unlike any other's you have seen before, they range
+from a dark emerald, to a majestic crimson in color. The sound of metal
+being smashed against metal resonates all around you. The passage continues
+to the east, and enter's a colossal cavern towards the west.
+~
+0 8192 0
+D1
+~
+~
+0 0 13323
+D3
+~
+~
+0 0 13325
+S
+#13325
+Inside a fiery cavern, in the dark cave~
+The cavern is simply amazing... crimson stalactites hang from the ceiling
+of the cavern, while set at all corners are enormous, pillars of flame. The
+cavern is well lit, and seems to be the home of some enormous titan.
+Massive hammers, thrice the size of an ordinary one you've seen hang along
+the walls, towards the north, you can hear the sound of metal, crashing
+against metal, grow louder and louder.
+~
+0 8192 0
+D0
+~
+~
+0 0 13326
+D1
+~
+~
+0 0 13324
+S
+#13326
+The Forge of Ur'Tazi~
+An anvil, crafted from a smooth, ebony metal is before you. Standing
+just behind it, is a massive titan, twice the size of any titan you have
+ever seen in Shadar. Along the walls of this cavern, hang assorted tools,
+used by a blacksmith. Each tool, being at least thrice the size of any
+ordinary tool a blacksmith would use. Assorted weapon's and armor hang
+along the walls of the forge, though they each are so large, that only a
+titan could hope to use them.
+~
+0 8200 0
+D2
+~
+~
+0 0 13325
+S
+#13327
+Along a secret passage, in the dark cave~
+The atmosphere around you, suddenly grows darker... a cold wind begins to
+sweep through the tunnel. The rocks here are jagged, twisted, and
+deformed... ebony stalactites hang from the ceiling of the passage. Sloping
+further and further down, you can only hope that this passage takes you to
+some place of safety. The passage continues to the north and south.
+~
+0 8192 0
+D0
+~
+~
+0 0 13328
+D2
+~
+~
+0 0 13322
+S
+#13328
+Along a secret passage, in the dark cave~
+The air around you is cold...  Yet not a drop of moisture can be seen
+along the rough, jagged walls of the passage.  Ebony stalactites hang from
+the ceiling, their sharp points, hanging by little more then a thread.  The
+passage seems to be curving towards the north, leading deeper and deeper
+into the cave.  Down and up the passage etches, taking you deeper and
+deeper, below the surface of Thera.  
+~
+0 8192 0
+D2
+~
+~
+0 0 13327
+S
+#13300
+Before a massive cave, on the mountainside~
+Barely managing to climb the enormous mountainside, you seem to stumble
+on to a large creation, set in cold stone. Before you is a magnificent
+sight, a massive hole has been torn into the rock face of this mountain,
+forming a dark cave. The foliage which surrounds the mountain seems to be
+parted and destroyed around the cave, giving it an eerie, bare appearance.
+~
+0 8193 0
+D0
+~
+~
+0 0 13301
+D2
+~
+~
+0 0 16094
+S
+#13301
+Within a slightly-lit cave~
+Small rays of sunlight beam in from the south, shedding light to a small
+portion of the cave. The rocks here range from a smooth gray to a slightly
+dusted black color. Though not a single drop of moisture can be seen along
+the walls. The ground below your feet is rather rough, it is quite obvious
+that few, if any men, have passed through here recently. The tunnel
+continues to the north, and exits to the south.
+~
+0 8200 0
+D0
+~
+~
+0 0 13302
+D2
+~
+~
+0 0 13300
+S
+#13302
+Within a dark cave~
+It's pitch-black in here, and the only faint bit of light you can see,
+shines from the south. The rocks are almost undetectable, but carry the
+same texture and color, a smooth pale gray, to a dusted almost coal color.
+Not a drop of moisture can be seen as these tunnels look very bare. The
+tunnel continues to the north and south.
+~
+0 8201 0
+D0
+~
+~
+0 0 13303
+D2
+~
+~
+0 0 13301
+S
+#13303
+Before a small intersection, within a dark cave~
+Not a strand of light is here, though you begin to feel as though you
+are being watched in the cold, dark cave. At times, you seem to hear a
+whisper or chuckle, though it all sounds so faint, that it seems like your
+mind is playing tricks on you. The rocks around here are a bit darker in
+shade then the one's seen before the entrance of the cave. As you feel the
+cold, rock surface, you seem to spot a small marking on the wall of the rock
+face, it's small in design, below it point two arrows, one to the east, and
+the other to the west.
+~
+0 8201 0
+D1
+~
+~
+0 0 13304
+D2
+~
+~
+0 0 13302
+S
+#13304
+Along a thin tunnel, within a dark cave~
+This tunnel is extremely thin, though much like the rest of the cave,
+it's very high, the size of at least three adult human males. The ground
+below you is a little smoother, leading you to believe that someone has been
+through here recently. Twisted, jagged rocks protrude from the walls, it's
+as through something is warning you, to pass no further.
+~
+0 8201 0
+D1
+~
+~
+0 0 13305
+D3
+~
+~
+0 0 13303
+S
+#13305
+Along a thin tunnel, within a dark cave~
+This tunnel is extremely thin, though much like the rest of the cave,
+it's very high, the size of at least three adult human males. The ground
+below you is a little smoother, leading you to believe that someone has been
+through here recently. The thin tunnel twists into a sudden curve, you may
+go north deeper into the tunnel, or back west.
+~
+0 8201 0
+D0
+~
+~
+0 0 13306
+D3
+~
+~
+0 0 13304
+S
+#13306
+Along an odd tunnel, within a dark cave~
+You stand along an odd tunnel, it's a complete semi-circle to every
+extent. You can only imagine that some form of sorcery was used to shape
+it. Dark rocks, all around you, seem to be taking on a reddish-hue. The
+air around you seems quite humid. The tunnel continues to the north. To
+the south, the tunnel begins to grow thinner.
+~
+0 8201 0
+D0
+~
+~
+0 0 13307
+D2
+~
+~
+0 0 13305
+S
+#13307
+Along an odd tunnel, within a cave~
+You stand along an odd tunnel, it's a complete semi-circle to every
+extent. You can only imagine that some form of sorcery was used to shape
+it. Dark rocks, all around you, seem to be taking on a reddish-hue. The
+air around you seems quite humid. The tunnel continues to the north and
+south.
+~
+0 8201 0
+D0
+~
+~
+0 0 13308
+D2
+~
+~
+0 0 13306
+S
+#13308
+Before a sharp turn, in the dark cave~
+You stand before a sharp turn in the tunnel. A large, jagged wall is
+before you, it's entire surface marked with etchings of odd designs and
+runes. The rocks here seem to take on a reddish hue, emitting the warm air
+around you. Something eerie is about. You feel as though you are being
+watched again. The tunnel twists to the east and heads back south.
+~
+0 8201 0
+D1
+~
+~
+0 0 13309
+D2
+~
+~
+0 0 13307
+S
+#13309
+Along a very small tunnel, in the dark cave~
+Fit for only the smallest of creatures, this room forces anything taller
+than an imp or sidhe to duck or crawl. Unlike the majority of the rocks
+seen at the entrance of the cave, the rocks here emit a faint orange glow.
+The tunnel stretches to the east and west.
+~
+0 8201 0
+D1
+~
+~
+0 0 13310
+D3
+~
+~
+0 0 13308
+S
+#13310
+Along a very small tunnel, in the dark cave~
+This tunnel is fit for only the smallest of creatures, anything taller
+than an imp or sidhe will be forced to duck or crawl. Unlike the majority of
+rocks seen at the entrance of the cave, here they emit a faint orange glow.
+To the northern wall of the tunnel, some rocks seem to be broken, chipped
+and missing, leading you to believe that their may be something beyond the
+obvious. The faint sound of water dripping, echoes from the east. The
+tunnel continues to the east and west.
+~
+0 8201 0
+D0
+~
+~
+0 0 13319
+D1
+~
+~
+0 0 13311
+D3
+~
+~
+0 0 13309
+S
+#13311
+A dark pool of water, before an enormous cavern~
+A small stream of fresh, mountain water, trickles into a pool that has
+been freshly dug into the eastern side of the wall. As the cold, fresh
+water touches the pool it turns ebony. The walls of the cave are a deep,
+warm, ebony... they are set in a intricate pattern along the southern
+portion of the tunnel, circling around a massive hole, which leads into some
+hideous cavern. Towards the south the faint sound of chuckling and laughter
+can be heard.
+~
+0 8201 0
+D2
+~
+~
+0 0 13312
+D3
+~
+~
+0 0 13310
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 13304 5 13312 1
+E 0 13307 0 16
+M 0 13304 5 13313 1
+E 0 13307 0 16
+M 0 13303 10 13314 1
+E 0 13306 0 3
+M 0 13304 5 13315 1
+E 0 13307 0 16
+M 0 13303 10 13316 1
+E 0 13306 0 3
+M 0 13304 5 13317 1
+E 0 13307 0 16
+M 0 13303 1 13317 10
+E 0 13306 0 3
+M 0 13302 1 13319 1
+M 0 13301 1 13324 1
+M 0 13300 1 13326 1
+E 0 13300 0 5
+E 0 13301 0 6
+E 0 13303 0 16
+M 0 13307 1 13300 1
+M 0 13309 1 13301 1
+M 0 13308 1 13305 1
+E 0 13305 0 16
+M 0 13306 1 13306 1
+M 0 13305 1 13308 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,912 @@
+#AREADATA
+Name Verin Meadow~
+Builders ~
+VNUMs 18011 18300
+Credits Serra~
+Security 0
+End
+
+
+
+#MOBILES
+#18011
+wolf~
+red wolf~
+A red wolf is here growling. 
+~
+A wolf with thick red fur is here prowling about. His teeth are vicious
+looking and snarls at you. 
+~
+wolf~
+A Z 0 0
+5 2 2d6+60 0d0+0 1d6+1 none
+5 5 5 5
+FH 0 0 0
+stand stand none 0
+AGV ACDEFJKQV tiny unknown
+#18012
+snake~
+small snake~
+A small snake is here hissing at you! HISSSS 
+~
+You look at this green snake, he slithers around and hissess. HISSSS! 
+~
+snake~
+A 0 0 0
+8 2 2d7+96 0d0+0 1d7+2 none
+3 3 3 3
+0 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX tiny unknown
+#18013
+troll~
+small troll~
+A small troll is here minding his own buisness 
+~
+A rather small troll is here wondering aroud. He gnarls than turns back
+to what we was doing before. 
+~
+troll~
+A FJc 0 0
+10 0 2d7+121 0d0+0 2d4+2 none
+1 1 1 1
+D 0 BE HK
+stand stand none 30
+ABHMV ABCDEFGHIJKUV tiny unknown
+#18014
+gnome~
+medium gnome~
+A medium sized gnome is here looking at you. 
+~
+You look at this medium sized gnome, He is here staring at you with
+intense looking eyes. 
+~
+troll~
+A FJc 0 0
+13 0 2d10+170 0d0+0 2d5+3 none
+-1 -1 -1 -1
+D 0 BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV tiny unknown
+#18015
+goblin~
+tall gablin~
+A tall goblin is playing here. 
+~
+A large goblin is here. He is playing joyfully with his self. He looks
+rather tough. 
+~
+goblin~
+A J 0 0
+15 0 3d9+208 0d0+0 2d6+3 none
+-2 -2 -2 -2
+0 0 Q C
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#18011
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18012
+D3
+
+~
+~
+0 0 6105
+S
+#18012
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18013
+D3
+
+~
+~
+0 0 18011
+S
+#18013
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18014
+D3
+
+~
+~
+0 0 18012
+S
+#18014
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18015
+D3
+
+~
+~
+0 0 18013
+S
+#18015
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18016
+D3
+
+~
+~
+0 0 18014
+S
+#18016
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18017
+D2
+
+~
+~
+0 0 18045
+D3
+
+~
+~
+0 0 18015
+S
+#18017
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18018
+D3
+
+~
+~
+0 0 18016
+S
+#18018
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18019
+D3
+
+~
+~
+0 0 18017
+S
+#18019
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18020
+D3
+
+~
+~
+0 0 18018
+S
+#18020
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18021
+D3
+
+~
+~
+0 0 18019
+S
+#18021
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D2
+
+~
+~
+0 0 18022
+D3
+
+~
+~
+0 0 18020
+S
+#18022
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18021
+D2
+
+~
+~
+0 0 18023
+S
+#18023
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18022
+D2
+
+~
+~
+0 0 18024
+S
+#18024
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18023
+D2
+
+~
+~
+0 0 18025
+S
+#18025
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18024
+D2
+
+~
+~
+0 0 18026
+D3
+
+~
+~
+0 0 18044
+S
+#18026
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18025
+D3
+
+~
+~
+0 0 18027
+S
+#18027
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18026
+D3
+
+~
+~
+0 0 18028
+S
+#18028
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18027
+D3
+
+~
+~
+0 0 18029
+S
+#18029
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18028
+D3
+
+~
+~
+0 0 18030
+S
+#18030
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18029
+D3
+
+~
+~
+0 0 18031
+S
+#18031
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18030
+D3
+
+~
+~
+0 0 18032
+S
+#18032
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18031
+D3
+
+~
+~
+0 0 18033
+S
+#18033
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18032
+D3
+
+~
+~
+0 0 18034
+S
+#18034
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18033
+D3
+
+~
+~
+0 0 18035
+S
+#18035
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18036
+D1
+
+~
+~
+0 0 18034
+S
+#18036
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18037
+D2
+
+~
+~
+0 0 18035
+S
+#18037
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18038
+D3
+
+~
+~
+0 0 18036
+S
+#18038
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18039
+D3
+
+~
+~
+0 0 18037
+S
+#18039
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18040
+D3
+
+~
+~
+0 0 18038
+S
+#18040
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18047
+D1
+
+~
+~
+0 0 18041
+D3
+
+~
+~
+0 0 18039
+S
+#18041
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18042
+D3
+
+~
+~
+0 0 18040
+S
+#18042
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18043
+D3
+
+~
+~
+0 0 18041
+S
+#18043
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18044
+D3
+
+~
+~
+0 0 18042
+S
+#18044
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D1
+
+~
+~
+0 0 18025
+D3
+
+~
+~
+0 0 18043
+S
+#18045
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18016
+D2
+
+~
+~
+0 0 18046
+S
+#18046
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18045
+D2
+
+~
+~
+0 0 18047
+S
+#18047
+Verin Meadow~
+You stand in the mists of a great meadow. The sun is beaming with rays of
+golden light. The heat sends sweat down your forehead. The grass is short.
+There are many things playfully wondering around. There is what seems to be
+a worn down path. A path rather made by things wondering continuesly over
+the same place crushing the grass into the earth. 
+~
+0 0 2
+D0
+
+~
+~
+0 0 18046
+D2
+
+~
+~
+0 0 18040
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 0 18011 4 18012 1
+M 0 18012 4 18012 1
+M 0 18011 1 18013 1
+M 0 18011 4 18014 1
+M 0 18012 4 18014 1
+M 0 18013 1 18015 1
+M 0 18013 4 18016 1
+M 0 18015 4 18017 1
+M 0 18014 4 18018 1
+M 0 18015 4 18019 1
+M 0 18012 1 18020 1
+M 0 18013 4 18021 1
+M 0 18014 1 18022 1
+M 0 18015 1 18023 1
+M 0 18015 4 18024 1
+M 0 18014 4 18025 1
+M 0 18011 4 18026 1
+M 0 18012 4 18027 1
+M 0 18013 1 18028 1
+M 0 18014 4 18029 1
+M 0 18015 4 18030 1
+M 0 18011 4 18031 1
+M 0 18011 1 18032 1
+M 0 18012 1 18033 1
+M 0 18014 1 18034 1
+M 0 18015 4 18035 1
+M 0 18012 1 18036 1
+M 0 18015 4 18037 1
+M 0 18013 1 18038 1
+M 0 18011 1 18039 1
+M 0 18012 4 18040 1
+M 0 18013 4 18041 1
+M 0 18013 4 18042 1
+M 0 18014 4 18043 1
+M 0 18014 4 18044 1
+M 0 18013 4 18045 1
+M 0 18014 4 18045 1
+M 0 18011 1 18046 1
+M 0 18011 1 18047 1
+S
+
+
+
+#$

@@ -1,0 +1,101 @@
+#AREA
+mprog.are~
+mprogtest~
+{ 5 35} TEST TEST TEST~
+17897 17898
+
+
+#MOBILES
+#17897
+prog~
+mobprog~
+A mob who is trying to run a mobprog is here 
+~
+
+~
+human~
+A 0 0 0
+9 0 2d6+110 0d0+0 1d8+2 none
+2 2 2 2
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+>greet_prog 100~
+			if ispc($n)
+			  if isimmort($n)
+			    bow $n
+			  else
+			    say Hello $n! How are you?
+			  endif
+			endif
+			~
+
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#17897
+Mob Prog test room~
+Hey this is test area for mobprog. Hope it works 
+~
+0 0 0
+D0
+
+~
+~
+0 0 17898
+S
+#17898
+Come here than walk in~
+Used for testing mob prog
+~
+0 0 0
+D2
+
+~
+~
+0 0 17897
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#17897
+#MOBPROG
+#17897
+if ispc($n)
+ if isimmort($n)
+  bow $n
+  else
+  say hello $n!
+  endif
+endif
+
+~
+#0
+
+#RESETS
+M 0 17897 1 17897 1
+S
+
+
+
+#$
+

@@ -1,0 +1,959 @@
+#AREADATA
+Name Strange Mansion~
+Builders None~
+VNUMs 10900 10999
+Credits {51-Up} Dioxide Strange Mansion~
+Security 9
+End
+
+
+
+#MOBILES
+#10950
+guard ogre~
+a guard ogre~
+A guard ogre looks up and attacks!
+~
+This filthy ogre patrols the halls of this mansion.
+~
+unique~
+ABFGT DFJa -1999 0
+53 10 20d10+11500 0d0+0 20d3+25 slash
+-5 -5 -5 -5
+CDEFIJKOR 0 BL 0
+stand stand male 0
+B 0 large 0
+M GREET 10950 100~
+#10951
+fire beast~
+the fire beast~
+A huge beast stumbles towards you and attacks!
+~
+This huge beast looks towards you and grins evilly.
+~
+unique~
+ABFGT DFJa -1999 0
+55 20 10d50+14999 10d50+1000 25d3+23 claw
+-1 -1 -1 -1
+DFIJN A BGH NP
+stand stand male 0
+ABHMV ABCDFU huge 0
+#10952
+woman kitchen ogre~
+the woman kitchen-ogre~
+A female ogre sharpens her glinting knife.
+~
+This ogre looks like she is preparing a meal... and you seem to be the main dish.
+~
+unique~
+ABFGT DFJa -1999 0
+55 20 10d50+16000 0d0+0 27d3+23 slice
+-20 -20 -20 -20
+DEFIJKN A 0 N
+stand stand female 0
+B 0 large 0
+M GREET 10952 100~
+#10953
+minion house~
+a house minion~
+A house minion creeps along here.
+~
+This minion was enslaved by the owners of this mansion.
+~
+goblin~
+ABCFGS DFJa -1999 0
+52 5 20d10+5500 0d0+0 15d5+10 punch
+50 50 50 50
+FIJKNQ 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M GREET 10953 100~
+#10954
+book wurm giant snake bookwurm~
+book wurm~
+The book wurm coils up and strikes!
+~
+This giant snake is covered with thick scales. His fangs look very sharp, and very poisonous.
+~
+snake~
+ABFGe DFHJa -1000 0
+56 50 5d5+25000 10d50+10000 35d3+10 bite
+-50 -50 -50 -50
+ADEFMN A DLNO I
+stand stand male 0
+AGHMVXYc ABCDEFKLQVX giant 0
+M GREET 10954 100~
+#10955
+master ogre masterogre~
+the Master Ogre~
+The Master Ogre stands here menacingly.
+~
+This ogre looks taller, larger, and more powerful than the other creatures of this house.
+~
+unique~
+ABFGTe DFHJUa -1000 0
+60 50 5d5+28000 10d50+5000 45d3+25 smash
+-100 -100 -100 -100
+ACDEFIJKNO AB DNO 0
+stand stand male 0
+B 0 huge 0
+M GREET 10955 100~
+#10956
+closet dweller~
+a closet dweller~
+A closet dweller pokes around here.
+~
+This closet dweller was enslaved by the owners of this mansion.
+~
+goblin~
+ABCFGT DFJa -1999 0
+52 5 20d10+8500 0d0+0 15d5+5 punch
+50 50 50 50
+FIJKNQ 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#10957
+bathroom dweller~
+a bathroom dweller~
+A bathroom dweller gurgles here.
+~
+This bathroom dweller was enslaved by the owners of this mansion.
+~
+goblin~
+ABCFGT DFJa -1999 0
+52 5 20d10+5000 0d0+0 15d5+5 punch
+50 50 50 50
+FIJKNQ 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#10958
+mechanical beast~
+the mechanical beast~
+A huge beast groans at you.
+~
+This huge beast looks towards you and grins evilly. He seems to be made of metal.
+~
+unique~
+ABFGT DFJa -1999 0
+54 20 10d50+15000 0d0+0 20d3+23 claw
+-1 -1 -1 -1
+DFIJN A BDGH NP
+stand stand male 0
+ABHMV ABCDFU huge 0
+#10959
+deformed ogre~
+the deformed ogre~
+This ogre spots you and covers its face.
+~
+Ugly. Its face is covered in strange cracks and deformities.
+~
+unique~
+ABGT DFJa -1999 0
+53 20 10d50+8500 0d0+0 15d3+23 slice
+-20 -20 -20 -20
+DEFIJKN A 0 N
+stand stand female 0
+B 0 large 0
+#10960
+sir eric valiant paladin~
+Sir Eric~
+Sir Eric the Valiant stands here, grinning broadly.
+~
+This tall, broad man stands tall and strong. He wields his trusted sword at his side. He is here to rest as he battles the evils of this mansion.
+~
+human~
+ABGQTa DFHJN 1000 0
+52 30 25d3+25000 5d5+6000 30d7+10 slash
+-50 -50 -50 -50
+CEFIKLQ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M GREET 10960 100~
+#10961
+sir dan valiant paladin~
+Sir Dan~
+Sir Dan the Bold stands here, grinning broadly.
+~
+This tall, broad man stands tall and strong. He wields his trusted sword at his side. He is here to rest as he battles the evils of this mansion.
+~
+human~
+ABGQTa DFHJN 1000 0
+52 30 25d3+25000 5d5+6000 30d7+10 slash
+-50 -50 -50 -50
+CEFIKLQ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+M GREET 10960 100~
+#0
+
+
+
+#OBJECTS
+#10950
+ogre guard sword~
+ogre guard sword~
+A sword of an ogre guard lies here.~
+steel~
+weapon BE AN
+sword 8 6 slash 0
+35 65 0 P
+A
+1 1
+A
+18 3
+A
+19 5
+L
+35
+#10951
+ash singed armor vest pile cloth~
+an ash-singed vest~
+A pile of thick cloth worn as armor lies here, smoldering.~
+cloth~
+armor EGPY AD
+15 15 15 15 0
+51 120 0 P
+A
+5 2
+A
+18 4
+A
+19 4
+F
+R 0 0 H
+L
+15
+#10952
+knife butcher huge glinting~
+a huge, glinting butcher knife~
+This butcher knife is larger than your head.~
+iron~
+weapon BEJ AN
+dagger 9 6 slice 0
+51 60 0 P
+A
+19 6
+A
+18 6
+L
+15
+#10953
+scales book wurm suit~
+suit from the scales of the book wurm~
+A suit formed from the scales of the book wurm lie here.~
+dragonscale~
+armor AEJY AD
+25 25 25 25 0
+51 200 0 P
+A
+2 1
+A
+19 3
+A
+18 3
+A
+24 -5
+L
+10
+#10954
+bracer book wurm scales~
+bracer from the scales of the book wurm~
+A bracer formed from the scales of the book wurm lie here.~
+dragonscale~
+armor AEJ AM
+10 10 10 10 0
+51 40 0 P
+A
+23 -5
+A
+19 3
+A
+18 3
+L
+16
+#10955
+belt scales book wurm~
+belt from the scales of the book wurm~
+A belt formed from the scales of the book wurm lie here.~
+dragonscale~
+armor AEJ AL
+15 15 15 15 0
+51 80 0 P
+A
+1 2
+A
+24 -3
+A
+19 3
+A
+18 3
+L
+10
+#10956
+master's staff master ogre~
+the Master Ogre's staff~
+A huge staff lies here, ready to destroy things.~
+adamantite~
+weapon ABEJ AN
+staff 10 6 smash FG
+55 200 0 P
+A
+13 75
+A
+12 75
+A
+18 6
+A
+19 6
+L
+6
+#10957
+helm master ogre~
+the Helm of the Master Ogre~
+A huge helm lies here.~
+adamantite~
+armor ABEJ AE
+20 20 20 20 0
+55 170 0 P
+A
+13 50
+A
+4 2
+A
+19 4
+A
+18 4
+L
+8
+#10958
+boots master ogre~
+the Boots of the Master Ogre~
+A huge pair of boots lie here.~
+adamantite~
+armor ABEJ AGN
+20 20 20 20 0
+55 150 0 P
+A
+13 50
+A
+5 1
+A
+19 4
+A
+18 3
+L
+8
+#10959
+plate mechanical beast~
+breastplate of the mechanical beast~
+A large metal plate lies here.~
+adamantite~
+armor BEJY AD
+20 20 20 20 0
+51 200 0 P
+A
+13 25
+A
+19 3
+A
+18 3
+A
+5 2
+L
+20
+#10960
+mask deformed ogre~
+the deformed ogre's mask~
+An elaborate mask lies here.~
+ivory~
+armor ABFG AE
+7 7 7 7 0
+51 50 0 P
+A
+18 5
+A
+19 1
+F
+A 0 0 B
+L
+12
+#10961
+silver flaming longsword slayer evil~
+a flaming silver longsword named 'Evil Slayer'~
+A beautiful, flawless silver longsword lies here in flames.~
+silver~
+weapon ABKLMTYZ AN
+sword 8 7 divine A
+52 170 0 P
+A
+18 6
+A
+19 6
+A
+24 -10
+A
+17 -10
+F
+A 0 0 C
+F
+R 0 0 I
+L
+8
+#10962
+fireplace key~
+the fireplace key~
+A small key for a fireplace lies here.~
+~
+key 0 AO
+0 0 0 0 0
+0 1 0 P
+#10963
+helix frozen adamantite two blade sword ~
+a frozen two-bladed sword named 'Helix'~
+An adamantite sword with two blades lies here, frozen.~
+adamantite~
+weapon ABKLMTYZ AN
+sword 8 7 divine B
+52 140 0 P
+A
+19 6
+A
+24 -10
+A
+18 6
+A
+17 -10
+F
+A 0 0 C
+F
+R 0 0 H
+L
+8
+#0
+
+
+
+#ROOMS
+#10950
+Front Door~
+You are standing in front of a grand cherry wood front door. Old-fashioned lamps hang from both sides of the door. The mansion is huge and majestic, yet a certain evil seems to come from it. You can return south if you do not want to go on.
+
+A plaque is posted, urging caution.
+~
+0 0 1
+E
+plaque~
+----------------------------------------
+|    WELCOME TO THE STRANGE MANSION    |
+----------------------------------------
+| Be warned, do not venture here alone |
+| or you will become a corpse quickly. |
+|                                      |
+| Only very high levels will survive.  |
+|                                      |
+| This area used only with permission  |
+|  from Dioxide.                       |
+|                                      | 
+| (C)Copyright 1999 Dioxide            |
+----------------------------------------
+|              GOOD LUCK.              |
+----------------------------------------
+~
+D0
+You see inside the house.~
+~
+1 -1 10951
+D2
+You see the plains.~
+~
+0 -1 9782
+S
+#10951
+Entrance Hall~
+You have entered the strange mansion. To the north is the living room, where a peculiar groaning sound can be heard. A hallway stretches east and west. Stairs lead up to the second floor. You can escape to the south.
+~
+0 9 0
+D0
+You see the living room.~
+~
+0 -1 10952
+D1
+You see a hallway.~
+~
+0 -1 10953
+D2
+You see the front door.~
+~
+1 -1 10950
+D3
+You see a hallway.~
+~
+0 -1 10974
+D4
+You see a stairwell.~
+~
+0 -1 10969
+S
+#10952
+Living Room~
+You are standing in the living room. A smelly fireplace is to the west.
+~
+0 9 0
+D2
+You see the Entrance Hall.~
+~
+0 -1 10951
+D3
+You see a fireplace.~
+~
+1 -1 10955
+S
+#10953
+A hallway~
+This dark hallway extends east where you can hear the sound of clanging pots and pans. The Entrance Hall is to the west.
+~
+0 9 0
+D1
+The hallway continues.~
+~
+0 -1 10954
+D3
+You see the Entrance Hall.~
+~
+0 -1 10951
+S
+#10954
+A hallway~
+This dark hallway extends west where you can faintly see the Entrance Hall. The Kitchen is to the north, and a stairwell can be seen to the east.
+~
+0 9 0
+D0
+You see the kitchen.~
+~
+0 -1 10956
+D1
+~
+~
+0 -1 10958
+D3
+The hallway continues.~
+~
+0 -1 10953
+S
+#10955
+The fireplace~
+You are overwhelmed by the sudden heat. Soot and ash cover the insides of this fireplace. A groaning creature emerges from the rubble...
+~
+0 9 0
+D1
+You see the Living Room.~
+~
+2 10962 10952
+S
+#10956
+Kitchen~
+You are standing in the kitchen of this house. Assorted knives lay about, with a strange maroonish stains. A foul smell emits from the ovens.
+~
+0 9 0
+D1
+~
+~
+0 -1 10957
+D2
+You see the hallway.~
+~
+0 -1 10954
+S
+#10957
+Family Room~
+You are standing in the 'family' room of this mansion. It does not look too homely, with corpses strewn about.
+~
+0 9 0
+D1
+~
+~
+0 -1 10977
+D3
+~
+~
+0 -1 10956
+S
+#10958
+Top of the main floor stairwell~
+You are standing at the top of the stairs to the basement.
+~
+0 9 0
+D3
+The hallway continues.~
+~
+0 -1 10954
+D5
+You see the stairwell.~
+~
+0 -1 10959
+S
+#10959
+On the main floor stairwell~
+You are standing on the stairwell down to the basement, or up to the main floor. Strange sounds come from the basement.
+~
+0 9 0
+D4
+You see the top of the stairwell.~
+~
+0 -1 10958
+D5
+~
+~
+0 -1 10960
+S
+#10960
+Bottom of the main floor stairwell~
+You are standing at the bottom of the main floor stairwell. The basement spans out in many directions. To the north, you see the library. To the west, you see a hallway.
+~
+0 9 0
+D0
+~
+~
+0 -1 10961
+D2
+You see a damp room.~
+~
+0 -1 10967
+D3
+You see the dark hallway.~
+~
+0 -1 10963
+D4
+You see the stairwell.~
+~
+0 -1 10959
+S
+#10961
+Library~
+You look in awe of this room, with walls covered in bookshelves. A door is to your west. The dusty smell clogs your nostrils. Something seems to move in the shadows of the corner, however...
+~
+0 9 0
+D2
+You see the bottom of the main floor stairwell.~
+~
+0 -1 10960
+D3
+~
+~
+1 -1 10962
+S
+#10962
+Master's Study~
+You are standing in the master's study. He does not look very happy at all.
+~
+0 9 0
+D1
+You see the library.~
+~
+1 -1 10961
+S
+#10963
+Dark hallway~
+This pitch-black hallway smells putrid as the air is cold and damp. The stairwell is to the east, and a large room is to the west. A beaten-up door is directly to the south. A sign hangs crooked, stating clearly, "DANGER."
+~
+0 9 0
+D0
+You see a bathroom.~
+~
+0 -1 10965
+D1
+You see the stairwell.~
+~
+0 -1 10960
+D2
+You see a strange room.~
+~
+1 -1 10964
+D3
+~
+~
+0 -1 10966
+S
+#10964
+Strange mechanical room~
+You are wading in sewage. A strong smell fills your nostrils. The walls are covered with moss.
+~
+0 9 0
+D0
+You see the dark hallway.~
+~
+1 -1 10963
+S
+#10965
+A bathroom~
+You are standing in a bathroom. Sewage is flooding slightly. A lone toilet rests in the middle of the room.
+~
+0 9 0
+E
+toilet~
+Raw sewage floods over the edge. You struggle to hold back vomit.~
+D2
+You see the dark hallway.~
+~
+0 -1 10963
+S
+#10966
+A large room~
+You are standing in large room. It seems empty.
+~
+0 13 0
+D1
+You see the dark hallway.~
+~
+0 -1 10963
+S
+#10967
+A damp room~
+This room is cluttered with strange objects all over. The walls are grimy and the hard floors have maroon colored chunks littered about.
+~
+0 9 0
+D0
+You see the stairwell.~
+~
+0 -1 10960
+D1
+You see a closet.~
+~
+0 -1 10973
+D2
+You see a bathroom.~
+~
+0 -1 10968
+S
+#10968
+A bathroom~
+You are standing in tiny bathroom. You gasp for breath.
+~
+0 9 0
+D0
+You see the stairwell.~
+~
+0 -1 10967
+S
+#10969
+Second floor stairwell~
+You are standing on the stairwell to the second floor, or down to the main floor.
+~
+0 9 0
+D4
+~
+~
+0 -1 10970
+D5
+You see the Entrance Hall.~
+~
+0 -1 10951
+S
+#10970
+Top of the second floor stairwell~
+You are standing on the top of the second floor stairwell. Bright light comes from nearby rooms. You can return to the main floor by going down the stairwell.
+~
+0 9 0
+D2
+You see a bright room.~
+~
+0 -1 10972
+D3
+You see a bright room.~
+~
+0 -1 10971
+D5
+You see the stairwell.~
+~
+0 -1 10969
+S
+#10971
+A chilly, bright room~
+You are standing in a room different from the rest in this house. It is bright with a brilliant white light. There seems to be a soft ambiance of goodness. Strange.
+~
+0 1032 0
+D1
+You see the stairwell.~
+~
+0 -1 10970
+S
+#10972
+A warm, bright room~
+You are standing in a room different from the rest in this house. It is bright with a brilliant white light. There seems to be a soft ambiance of goodness. Strange.
+~
+0 1032 0
+D0
+You see the top of the stairwell.~
+~
+0 -1 10970
+S
+#10973
+A closet~
+You are standing in a small closet. A few empty racks can been seen.
+~
+0 9 0
+D3
+You see a damp room.~
+~
+0 -1 10967
+S
+#10974
+A hallway~
+This dark hallway extends from the east, where the Entrance Hall is. To the north is a bathroom, and to the south is a closet.
+~
+0 9 0
+D0
+~
+~
+0 -1 10976
+D1
+You see the Entrance Hall.~
+~
+0 -1 10951
+D2
+~
+~
+0 -1 10975
+S
+#10975
+A closet~
+You are standing in a small closet. A few articles of clothing are hung up on racks.
+~
+0 9 0
+D0
+You see a hallway.~
+~
+0 -1 10974
+S
+#10976
+A bathroom~
+You are standing in tiny bathroom. A putrid smell comes from the place.
+~
+0 9 0
+D2
+You see a hallway.~
+~
+0 -1 10974
+S
+#10977
+A bathroom~
+You are standing in a small bathroom. It smells.
+~
+0 9 0
+D3
+You see the Family Room.~
+~
+0 -1 10957
+S
+#0
+
+
+
+#SPECIALS
+M 10951 spec_breath_fire
+M 10952 spec_troll
+M 10954 spec_spectre_king
+M 10955 spec_monk
+M 10959 spec_poison
+M 10960 spec_cast_cleric
+M 10961 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 10951 2 1
+D 0 10955 1 2
+D 0 10963 2 1
+D 0 10964 0 1
+M 0 10950 3 10951 1
+E 0 10950 0 16
+M 0 10953 50 10952 4
+M 0 10953 50 10952 4
+M 0 10953 50 10953 5
+M 0 10953 50 10953 5
+M 0 10953 50 10954 4
+M 0 10953 50 10954 4
+M 0 10951 1 10955 1
+E 0 10951 0 5
+E 0 10962 0 17
+M 0 10952 1 10956 1
+E 0 10952 0 16
+M 0 10953 50 10957 3
+M 0 10953 50 10958 3
+M 0 10953 50 10958 3
+M 0 10953 50 10960 4
+M 0 10950 3 10960 1
+E 0 10950 0 16
+M 0 10954 1 10961 1
+E 0 10953 0 12
+E 0 10954 0 14
+E 0 10954 0 15
+E 0 10955 0 13
+M 0 10955 1 10962 1
+E 0 10957 0 6
+E 0 10958 0 8
+E 0 10956 0 16
+M 0 10953 50 10963 4
+M 0 10953 50 10963 4
+M 0 10958 1 10964 1
+E 0 10959 0 5
+M 0 10957 30 10965 5
+M 0 10959 1 10967 1
+E 0 10960 0 6
+M 0 10957 30 10968 5
+M 0 10957 30 10968 5
+M 0 10957 30 10968 5
+M 0 10950 3 10970 1
+E 0 10950 0 16
+M 0 10953 50 10970 3
+M 0 10961 1 10971 1
+E 0 10963 0 16
+M 0 10960 1 10972 1
+E 0 10961 0 16
+M 0 10956 30 10973 5
+M 0 10956 30 10973 5
+M 0 10953 30 10974 3
+M 0 10953 30 10974 3
+M 0 10956 30 10975 5
+M 0 10956 30 10975 5
+M 0 10956 30 10975 5
+M 0 10956 30 10975 5
+M 0 10957 30 10976 5
+M 0 10957 30 10977 4
+M 0 10957 30 10977 4
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#10950
+yell Halt!
+	emote screams and attacks!
+~
+#10952
+say Ooh! Dinner!
+	emote drools.
+~
+#10953
+yell Kill kill KILL!
+	emote screeches at you and attacks!
+~
+#10954
+yell Protect the Master!
+	emote bellows a deep roar and whips his tail at you!
+~
+#10955
+yell How dare you disturb my presence!
+~
+#10960
+say Greetings.
+~
+#0
+
+#$

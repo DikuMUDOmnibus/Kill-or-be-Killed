@@ -1,0 +1,1683 @@
+#AREA
+snowcaves.are~
+Snow Caves~
+{45-up} Iolyth   Snow Caves~
+32000 32062
+
+#MOBILES
+#32000
+snow giant child~
+the snow giant child~
+A snow giant child stands here glaring at you. 
+~
+This young lad has ran away from the village and found himself out in the
+desolate part of the tunnels. His face is wet from tears, perhaps he is
+lost. 
+~
+unique~
+AGT 0 1000 0
+47 12 25d10+3500 0d0+0 6d6+17 pound
+-17 -17 -17 -17
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+#32001
+snow giant guard~
+a snow giant guard~
+A tall snow giant stands here guarding the tunnels. 
+~
+Dressed in warm fur pelts, he is quite a sight. He has sworn to protect
+the village from the fire giants, and will give his life to keep his oath. 
+~
+unique~
+A 0 1000 0
+50 12 50d10+4500 0d0+0 5d8+19 punch
+-20 -20 -20 -20
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+#32002
+snow guard captain~
+a snow guard captain~
+A strong looking captain stands here, watching for intruders. 
+~
+His eyes are an icey blue. His hair sticks out of the corners of his
+helmet, slicked back with sweet and frozen from the frigid weather. 
+~
+unique~
+A 0 1000 0
+52 15 50d10+5500 0d0+0 6d7+20 slash
+-22 -22 -22 -22
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+#32003
+snow giant peasent~
+a snow giant peasent~
+An ugly snow giant peasent glares at you. 
+~
+A very nasty looking snow giant peers at you from under his fur pelts.
+His face looks very frigid, and his eyes a deep blue. 
+~
+unique~
+ABG 0 1000 0
+43 0 25d10+2500 0d0+0 3d12+15 none
+-15 -15 -15 -15
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+#32004
+strong snow giant~
+a strong snow giant~
+A very strong looking snow giant stands here, sword in hand. 
+~
+Adorned in snow white battle armor. Its eyes dart from side to side,
+looking for the opertunity to put his giant broadsword to use. 
+~
+unique~
+ABGT 0 1000 0
+49 45 50d10+4000 0d0+0 4d10+18 thrust
+-19 -19 -19 -19
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+#32005
+snow giant warlord~
+a snow giant warlord~
+A snow giant warlord stands here, handing out orders. 
+~
+He has risen to the rank of warlord after many years of service in the
+D'eryth armies. His breastplate adorned with many metals of honor and
+bravery. 
+~
+unique~
+A 0 1000 0
+52 0 50d10+5500 0d0+0 6d7+20 smash
+-22 -22 -22 -22
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+#32006
+snow giant cadet~
+a snow giant cadet~
+A scrawny looking snow giant cadet stands here, griping a shortsword. 
+~
+A young lad. His parents forced him to enlist in the army. Hoping he will
+bring there family glory and honor. Although he doesn't feel like a warrior,
+his shortsword speaks another story. For frozen blood encrusts the blade. 
+~
+unique~
+A 0 1000 0
+46 12 25d10+3250 0d0+0 6d6+16 pierce
+-16 -16 -16 -16
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+#32007
+snow giant ranger~
+a snow giant ranger~
+A snow giant ranger stands here, trying to blend in with his surroundings. 
+~
+This giant has chosen to protect the forests. Even though his kind has
+never felt the forests important, as they are cave dwellers. He feels they
+must be protected, and trains in the arts of forest combat. 
+~
+unique~
+A 0 1000 0
+45 0 25d10+3000 0d0+0 8d4+16 cleave
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 0
+0 0 giant unknown
+#32008
+polar bear~
+a polar bear~
+A snarling beast rises to its feet as you near it. 
+~
+Covered in a thick dark fur. Its eyes show an unfelt rage. Its size is
+unmatched compared to some of the beasts you have seen on the surface. 
+~
+unique~
+A 0 1000 0
+45 0 25d10+3000 0d0+0 8d4+16 bite
+-15 -15 -15 -15
+0 0 0 0
+stand stand male 0
+0 0 large unknown
+#32009
+undead giant mass flesh zombie~
+an undead snow giant~
+An horrible mass of flesh stumbles toward you. 
+~
+Sworn to protect his village for all eternity, his soul couldn't pass
+into the after life once he was slain. Now he must walk these halls for all
+eternity. 
+~
+giant~
+A 0 -1000 0
+53 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+0 0 HI JP
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#32010
+undead snow giant mage~
+the undead mage~
+A darkend being is surrounded with a fiery haze. 
+~
+An outcast of the village. Its body was torn and ravaged in a bloody rage
+by the shamans of the village. Its soul forced back into its body and
+outcasted to the tombs. 
+~
+unique~
+A 0 -1000 0
+56 0 50d10+7500 0d0+0 10d4+24 magic
+-26 -26 -26 -26
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32011
+undead axe man~
+the undead axe man~
+A crimson spectre grips a fiery axe to his chest. 
+~
+Dressed in fine crimson armor. He was a tower watchman before the village
+was destroyed, and the snow giants forced to live they're lives in the snow
+caverns. 
+~
+unique~
+A 0 -1000 0
+57 0 50d10+8000 0d0+0 6d8+24 wrath
+-27 -27 -27 -27
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32012
+demon~
+the demon~
+A powerful demon floats around the room looking for a way out. 
+~
+Summoned from the depts of hell. Its powers sought out to use against the
+fire giants. When it went berserk the snow giants were forced to seal it up
+in the tombs, hopefully for all eternity. 
+~
+unique~
+A 0 -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 charge
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32013
+necromancer~
+the necromancer~
+A bloody necromancer utters an unholy incantation as you enter the room. 
+~
+His purpose was to give life back to the charred corpses of the warriors
+when they tried to pass into the abyss. Although his magics were dark, the
+snow giants had no choice but to use him, When he turned on them they forced
+him into the tombs. Biding his time, he shall escape and wreak havok on the
+giants when the time is right. 
+~
+unique~
+A 0 -1000 0
+60 0 0d0+0 0d0+0 0d0+0 smash
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32014
+thief of souls~
+the thief of souls~
+A hazy being of pure evil stands here ready to steal your soul. 
+~
+Adept of Cerebus. His mission was to gain the snow giants trust, and
+steal they're souls one by one for his dark lord. When the giants learned of
+his plot, they destroyed his body and summoned him to the tombs. For his
+failure the dark lord forced him to live out his sentence. 
+~
+unique~
+A 0 -1000 0
+57 0 0d0+0 0d0+0 0d0+0 peck
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32015
+bard of sorrow~
+the bard of sorrow~
+A sad looking man stands here, singing a song of sorrow. 
+~
+Once a great ministrel. His songs cheered up the armies of the snow
+giants, but when his wife was slain his songs turned to sorrow. The snow
+giants believed his songs caused them bad luck and forced him to sing his
+awful songs within the confines of the tombs. 
+~
+unique~
+A 0 -1000 0
+55 0 50d10+7000 0d0+0 10d4+23 stab
+-25 -25 -25 -25
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32016
+fire giant shaman~
+the fire giant shaman~
+An ugly looking giant stands here, shackled to the walls. 
+~
+For some unknown reason. His forces left him in a camp to be captured by
+the snow giants. They were more than happy to shackle him down in the tombs
+so he might feel the awful torment that his kind has caused the snow giants.
+~
+unique~
+A 0 -1000 0
+53 0 50d10+6000 0d0+0 6d7+21 magic
+-23 -23 -23 -23
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#32017
+destructor of worlds~
+the destructor of worlds~
+An evil entity surrounds the room. 
+~
+The worst and most powerful being within the tombs. It rose from the
+depts of hell when the snow giants opened the portal to attain the aid of
+the necromencers magic. It was trapped in this ancient tomb when the portal
+was slammed shut and only half its body was through. 
+~
+unique~
+A 0 -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 drain
+-30 -30 -30 -30
+0 0 0 0
+stand stand none 0
+0 0 tiny unknown
+#0
+
+
+
+#OBJECTS
+#32000
+breastplate breast plate onyx~
+a breastplate of onyx~
+A darkend plate of pure onyx lies here.~
+onyx~
+armor AE AD
+ABC ABC ABCD ACE 0 
+45 3 0 P
+A
+20 -15
+A
+19 5
+A
+18 7
+L
+4
+#32001
+forgotten lore~
+a scroll of forgotten lore~
+An ancient scroll lies in the dust.~
+paper~
+scroll AE A
+55 'acid blast' 'blindness' 0 0 
+50 1 0 P
+L
+7
+#32002
+fiery axe~
+the fiery axe of D'Aryth~
+A sharp fiery axe lies here.~
+fire~
+weapon BCE AN
+axe 7 9 flbite AD 
+50 5 0 P
+A
+18 7
+A
+19 7
+L
+4
+#32003
+a soul~
+a soul of a forgotten warrior~
+A golden enity floats just above your head.~
+~
+light ABF AO
+0 0 CEFGHI 0 0 
+51 0 0 P
+A
+20 -20
+A
+18 4
+A
+19 4
+L
+2
+#32004
+dagger named eruptor of souls~
+a dagger named 'Eruptor of Souls'~
+A long bladed daggers lies stuck in the floor.~
+steel~
+weapon ACEGM AN
+'dagger' 8 7 'blast' D 
+52 0 0 P
+L
+6
+#32005
+hammer of c'dyl~
+the Hammer of C'Dyl~
+a heavy hammer lies on the ground.~
+steel~
+weapon ABCE AN
+'mace' 9 6 'grep' C 
+53 6 0 P
+A
+20 -5
+A
+18 5
+A
+19 5
+L
+3
+#32006
+song of sorrow~
+the song of sorrow~
+A stick of oak lies here.~
+oak~
+staff A AO
+60 10 10 'sanctuary' 0 
+52 20 0 P
+L
+5
+#32007
+armbands of the apocalypse~
+the armbands of the apocalypse~
+Energy radiates from a pair of armbands lieing on the ground.~
+steel~
+armor JQT AI
+CE CE CE CE 0 
+54 0 0 P
+F
+I 0 0 N
+A
+19 5
+L
+10
+#32008
+strong broadsword~
+a strong looking broadsword~
+A large broadsword lies on the ground.~
+steel~
+weapon A AN
+'sword' 6 5 'acbite' A 
+45 5 0 P
+#0
+
+
+
+#ROOMS
+#32000
+Entrance to the Snow Caves~
+You are standing at the entrance to a massive tunnel. Snow and ice seem
+to split and make a passage way. Giant footprints lay in the snow, leading
+northward into the caves. Whomever they belong to they are very large. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32001
+D1
+~
+~
+0 0 4122
+S
+#32001
+Within the Snow Caves~
+You are wandering through the endless snow and ice. Your only light is
+the magical glow off the ice. It seems as if the snow is enchanted by the
+light. You see the same familiar footprints in the snow. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32004
+D2
+
+~
+~
+0 0 32000
+D3
+
+~
+~
+0 0 32002
+S
+#32002
+Within the Snow Caves~
+You are wandering through the endless snow and ice. Your only light is
+the magical glow off the ice. It seems as if the snow is enchanted by the
+light. You see the same familiar footprints in the snow. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32003
+D1
+
+~
+~
+0 0 32001
+D2
+
+~
+~
+0 0 32008
+S
+#32003
+Within the Snow Caves~
+You are wandering through the endless snow and ice. Your only light is
+the magical glow off the ice. It seems as if the snow is enchanted by the
+light. You see the same familiar footprints in the snow. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32002
+S
+#32004
+Within the Snow Caves~
+You are wandering through the endless snow and ice. Your only light is
+the magical glow off the ice. It seems as if the snow is enchanted by the
+light. You see the same familiar footprints in the snow. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32005
+D3
+
+~
+~
+0 0 32001
+S
+#32005
+Within the Snow Caves~
+You are wandering through the endless snow and ice. Your only light is
+the magical glow off the ice. It seems as if the snow is enchanted by the
+light. You see the same familiar footprints in the snow. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32006
+D2
+
+~
+~
+0 0 32004
+S
+#32006
+Within the Snow Caves~
+You are wandering through the endless snow and ice. Your only light is
+the magical glow off the ice. It seems as if the snow is enchanted by the
+light. You see the same familiar footprints in the snow. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32007
+D2
+
+~
+~
+0 0 32005
+S
+#32007
+An Empty Cave~
+You have stumbled upon an empty part of the caves. All that surrounds you
+is ice and snow. The cold blue-ice seems to impair your sight, but you think
+you see an evil being glowing in the corner. 
+~
+0 0 0
+D3
+
+~
+~
+0 0 32006
+S
+#32008
+Ankle-High in Snow~
+You come across an opening in the caves. Seems like the roof of ice has
+collapsed, and allowed the snow from outside to build up. You find it hard
+to move, as the snow raises up almost consuming your legs. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32002
+D2
+
+~
+~
+0 0 32009
+S
+#32009
+Ankle-High in Snow~
+You come across an opening in the caves. Seems like the roof of ice has
+collapsed, and allowed the snow from outside to build up. You find it hard
+to move, as the snow raises up almost consuming your legs. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32008
+D2
+
+~
+~
+0 0 32010
+S
+#32010
+Ankle-High in Snow~
+You come across an opening in the caves. Seems like the roof of ice has
+collapsed, and allowed the snow from outside to build up. You find it hard
+to move, as the snow raises up almost consuming your legs. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32009
+D3
+
+~
+~
+0 0 32011
+S
+#32011
+Ankle-High in Snow~
+You come across an opening in the caves. Seems like the roof of ice has
+collapsed, and allowed the snow from outside to build up. You find it hard
+to move, as the snow raises up almost consuming your legs. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32010
+D5
+
+~
+~
+0 0 32012
+S
+#32012
+Deep Under the Caves~
+You have fallen through the floor of ice. Sharp shards of ice rain down
+on your head. You can barely make out the northward glow of civilization.
+The same familiar footprints can be found in the snow. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32013
+D4
+
+~
+~
+0 0 32011
+S
+#32013
+A Village Under the Snow~
+You have found a village under the snow. Plumes of smoke rise out of the
+small buildings of ice. You can make out sharp looking figures wandering
+around in the snow. There are paths of packed down snow leading all around
+the village. 
+~
+0 0 0
+D0
+
+~
+~
+1 0 32045
+D1
+
+~
+~
+0 0 32026
+D2
+
+~
+~
+0 0 32012
+D3
+
+~
+~
+0 0 32014
+S
+#32014
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32044
+D1
+
+~
+~
+0 0 32013
+D2
+
+~
+~
+0 0 32043
+D3
+
+~
+~
+0 0 32015
+S
+#32015
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32016
+D1
+
+~
+~
+0 0 32014
+S
+#32016
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32017
+D1
+
+~
+~
+0 0 32042
+D2
+
+~
+~
+0 0 32015
+D3
+
+~
+~
+0 0 32041
+S
+#32017
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32018
+D1
+
+~
+~
+0 0 32040
+D2
+
+~
+~
+0 0 32016
+D3
+
+~
+~
+0 0 32039
+S
+#32018
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32019
+D2
+
+~
+~
+0 0 32017
+S
+#32019
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32037
+D1
+
+~
+~
+0 0 32020
+D2
+
+~
+~
+0 0 32038
+D3
+
+~
+~
+0 0 32018
+S
+#32020
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32035
+D1
+
+~
+~
+0 0 32021
+D2
+
+~
+~
+0 0 32036
+D3
+
+~
+~
+0 0 32019
+S
+#32021
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32034
+D1
+
+~
+~
+0 0 32022
+D2
+
+~
+~
+0 0 32033
+D3
+
+~
+~
+0 0 32020
+S
+#32022
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32023
+D3
+
+~
+~
+0 0 32021
+S
+#32023
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32022
+D1
+
+~
+~
+0 0 32032
+D2
+
+~
+~
+0 0 32024
+D3
+
+~
+~
+0 0 32031
+S
+#32024
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32023
+D1
+
+~
+~
+0 0 32028
+D2
+
+~
+~
+0 0 32025
+D3
+
+~
+~
+0 0 32029
+S
+#32025
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32024
+D3
+
+~
+~
+0 0 32026
+S
+#32026
+Walking in the Village~
+You find yourself walking in a spectacular village. The air is so frigid
+it feels like tiny needles against your skin. Funny looking giants peer at
+you with great intent. They are short for giants, although they're skin is
+bright white. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32027
+D1
+
+~
+~
+0 0 32025
+D2
+
+~
+~
+0 0 32030
+D3
+
+~
+~
+0 0 32013
+S
+#32027
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32026
+S
+#32028
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D3
+
+~
+~
+0 0 32024
+S
+#32029
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32024
+S
+#32030
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32026
+S
+#32031
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32023
+S
+#32032
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D3
+
+~
+~
+0 0 32023
+S
+#32033
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32021
+S
+#32034
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32021
+S
+#32035
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32020
+S
+#32036
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32020
+S
+#32037
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32019
+S
+#32038
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32019
+S
+#32039
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32017
+S
+#32040
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D3
+
+~
+~
+0 0 32017
+S
+#32041
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32016
+S
+#32042
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D3
+
+~
+~
+0 0 32016
+S
+#32043
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32014
+S
+#32044
+A Hut~
+You have stumbled upon the living quarters of these giant creatures.
+Bones of some unknown creature lay in the corner. A little meat still
+attached to it. A cot sits in the north-east corner, although it is composed
+of snow and ice, there is a cloth blanket at the foot of it. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32014
+S
+#32045
+A Snow Covered Path~
+You seem to have found a secret path through the ice and snow. It is so
+frigidly cold right now, your limps go numb. You must find your way to some
+heat fast, or you could end up a wall ornament to one of these giants. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32046
+D2
+
+~
+~
+1 0 32013
+S
+#32046
+A Snow Covered Path~
+You seem to have found a secret path through the ice and snow. It is so
+frigidly cold right now, your limps go numb. You must find your way to some
+heat fast, or you could end up a wall ornament to one of these giants. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32045
+D3
+
+~
+~
+0 0 32047
+S
+#32047
+A Clear Path~
+There is no snow or ice to be found. The path is entirely clear of ice or
+snow. The frigid weather seems to end in one spot. It almost looks like a
+force field was erected to keep the cold out, and the warmth of the world
+in. You see a small tunnel leading downwards, deep into a black nothingness.
+~
+0 0 0
+D1
+
+~
+~
+0 0 32046
+D5
+
+~
+~
+0 0 32048
+S
+#32048
+A Pitch-Black Nothingness~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32049
+D4
+
+~
+~
+0 0 32047
+S
+#32049
+A Pitch-Black Nothingness~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32050
+D2
+
+~
+~
+0 0 32048
+S
+#32050
+A Pitch-Black Nothingness~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D1
+
+~
+~
+0 0 32057
+D2
+
+~
+~
+0 0 32049
+D3
+
+~
+~
+0 0 32051
+S
+#32051
+A Pitch-Black Nothingness~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32055
+D1
+
+~
+~
+0 0 32050
+D2
+
+~
+~
+0 0 32056
+D3
+
+~
+~
+0 0 32052
+S
+#32052
+A Pitch-Black Nothingness~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32054
+D1
+
+~
+~
+0 0 32051
+D2
+
+~
+~
+0 0 32053
+S
+#32053
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32052
+S
+#32054
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32052
+S
+#32055
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32051
+S
+#32056
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32051
+S
+#32057
+A Pitch-Black Nothingess~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32059
+D1
+
+~
+~
+0 0 32058
+D2
+
+~
+~
+0 0 32060
+D3
+
+~
+~
+0 0 32050
+S
+#32058
+A Pitch-Black Nothingness~
+The air that surrounds you is warm and sweet smelling. You can't see much
+infront of you, although you hear the scuffing of little hoofs on the
+granite cave floor. There is a torch on the wall flickering, and throwing
+some light into the tunnel. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32061
+D2
+
+~
+~
+0 0 32062
+D3
+
+~
+~
+0 0 32057
+S
+#32059
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32057
+S
+#32060
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32057
+S
+#32061
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D2
+
+~
+~
+0 0 32058
+S
+#32062
+A Dark Tomb~
+You have stumbled into a dark dank cavern. The light of a camp fire in
+the center of the cave flickers and throws a pale blue red light onto a dark
+being in the corner of the cave. Its eyes burning red as it lunges toward
+you with a battle cry of rage. 
+~
+0 0 0
+D0
+
+~
+~
+0 0 32058
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#MOBPROGS
+#0
+
+#RESETS
+M 0 32001 2 32000 1
+M 0 32001 1 32002 1
+M 0 32002 1 32003 1
+M 0 32000 2 32004 1
+M 0 32000 3 32006 1
+M 0 32000 1 32009 1
+M 0 32003 1 32014 1
+M 0 32003 2 32016 1
+M 0 32003 3 32018 1
+M 0 32003 4 32020 4
+M 0 32003 5 32022 5
+M 0 32003 6 32024 6
+M 0 32003 7 32026 7
+M 0 32004 2 32027 2
+M 0 32007 4 32028 4
+M 0 32007 3 32029 3
+M 0 32004 1 32030 1
+M 0 32007 1 32031 1
+M 0 32007 2 32032 2
+G 0 32008 1
+M 0 32006 6 32033 6
+M 0 32006 5 32034 5
+M 0 32006 3 32035 3
+G 0 32008 1
+M 0 32006 4 32036 4
+M 0 32006 1 32037 1
+M 0 32006 2 32038 2
+M 0 32005 3 32039 3
+G 0 32008 1
+M 0 32005 4 32040 4
+M 0 32005 1 32041 1
+M 0 32005 2 32042 2
+M 0 32004 3 32043 3
+G 0 32008 1
+M 0 32004 4 32044 4
+M 0 32008 1 32046 1
+M 0 32009 1 32049 1
+M 0 32009 2 32051 2
+M 0 32010 1 32053 1
+G 0 32001 1
+M 0 32012 1 32054 1
+G 0 32000 1
+M 0 32011 1 32055 1
+G 0 32002 1
+M 0 32013 1 32056 1
+G 0 32003 1
+M 0 32009 3 32058 3
+M 0 32014 1 32059 1
+G 0 32004 1
+M 0 32016 1 32060 1
+G 0 32005 1
+M 0 32015 1 32061 1
+G 0 32006 1
+M 0 32017 1 32062 1
+G 0 32007 1
+S
+
+
+
+#$

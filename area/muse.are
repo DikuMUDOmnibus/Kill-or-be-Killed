@@ -1,0 +1,1036 @@
+#AREADATA
+Name The Valley Inn~
+Builders None~
+VNUMs 12100 12135
+Credits {CABAL} Merthairu The Valley Inn~
+Security 9
+End
+
+
+
+#MOBILES
+#12100
+human bouncer~
+a human bouncer~
+A large man stands here keeping a keen eye out for trouble. 
+~
+This strong man is dressed in simple cloths making him look like a normal
+citizen. 
+~
+human~
+ABGT DFH 1000 0
+60 19 50d10+9500 0d0+0 8d6+28 punch
+-30 -30 -30 -30
+EJKP AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge flesh
+#12101
+giant bouncer~
+a giant bouncer~
+A massive giant stands here eyeing the bar for drunks and trouble makers. 
+~
+This brute fellow stands perfectly still, his yes following everyone who
+enters the area. 
+~
+unique~
+ABGT DFTc 0 0
+60 30 50d10+9500 0d0+0 12d6+28 pound
+-30 -30 -30 -30
+CFKP AB HI JP
+stand stand male 0
+AHMV ABCDEFGHIJK giant flesh
+#12102
+baldur bar bartender~
+baldur the bartender~
+Baldur the bartender stands behind the bar ready to serve you. 
+~
+Baldur is a stubby man, short and fat. The only thing this old dwarf
+knows is drinks, and good ones! 
+~
+dwarf~
+ABGTc J 1000 0
+50 12 50d30+4500 0d0+0 5d8+19 smash
+-20 -20 -20 -20
+DKO ABCDQ LQ R
+stand stand male 10000
+AHMV ABCDEFGHIJK medium flesh
+#12103
+old man~
+an old man~
+An old man huddles over the porch railing, looking at the sky. 
+~
+This old man is dressed in rags, obviously poor as fuck.. Thats why he is
+out here, alone. 
+~
+unique~
+ABGT Y -1000 0
+40 0 15d10+1850 0d0+0 4d8+13 peckb
+-13 -13 -13 -13
+K 0 0 D
+stand stand male 0
+0 0 small flesh
+#12104
+elf storyteller~
+an elven storyteller~
+A small elf stands here telling his tales to anyone who will listen. 
+~
+This small elf is dressed in fine cloths, those of a jester. A shiney
+silver pocketwatch hangs out of his pocket, attracting the eyes of theives. 
+~
+elf~
+ABGT DHJPV 1000 0
+55 0 50d10+7000 0d0+0 10d4+23 thwack
+-25 -25 -25 -25
+FJKNQ AB BH Z
+stand stand male 0
+AHMV ABCDEFGHIJK small flesh
+#12105
+small fox~
+a small fox~
+A small fox is curled in on the floor. 
+~
+This small fox has dark, fuzzy grey hair striped with black. His dark
+blue eyes show little care for you or anyone else, just tiredness. 
+~
+fox~
+ABG VZ 0 0
+45 0 25d10+3000 0d0+0 8d4+16 bite
+-15 -15 -15 -15
+FHM 0 0 0
+stand stand female 0
+AGV ACDEFHJKQV tiny fox
+#12106
+human man sam~
+sam the silly~
+A tall man stands here looking over the bookshelf. 
+~
+This tall man is dressed in red suspenders and wears dark black glasses.
+His namtag says "Sam the Silly" 
+~
+human~
+ABG 0 1000 0
+30 0 6d12+853 0d0+0 4d6+8 crush
+-9 -9 -9 -9
+CIJK AB 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK small flesh
+#12107
+elf elven singer~
+an elven singer~
+A beautiful elf stands here singing proudly. 
+~
+This small elf is dressed in fine royal cloths, singing his heart out. 
+~
+elf~
+ABG CHJP 1000 0
+52 10 50d10+5500 0d0+0 6d7+20 whip
+-22 -22 -22 -22
+EFJKN A BH Z
+stand stand male 1230
+AHMV ABCDEFGHIJK small flesh
+#12108
+short woman~
+a short woman~
+A short woman stands here dancing with a friend. 
+~
+This lovely woman is dressed in a fine ball gown. Her long blond hair
+falls to her shoulders, swaying as she twirls around. 
+~
+human~
+ABG 0 1000 0
+40 0 15d10+1850 0d0+0 4d8+13 pierce
+-13 -13 -13 -13
+F A 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small flesh
+#12109
+fat man~
+a fat man~
+A rather fat man stands here dancing with a lovely girl. 
+~
+This man is quite fat and dressed in a black tux. His dark brown hair is
+cut jagged and unwashed. 
+~
+human~
+ABGT d 1000 0
+40 0 15d10+1850 0d0+0 4d8+13 scratch
+-13 -13 -13 -13
+KO AX 0 0
+stand stand male 17
+AHMV ABCDEFGHIJK large flesh
+#12110
+queer faggot~
+a queer faggot~
+A queer looking man is doing a strange dance. 
+~
+This man is dressed in a suit of gems and gold, looking foolish! 
+~
+human~
+ABG HTV 0 0
+58 30 50d10+8500 0d0+0 5d10+25 magic
+-28 -28 -28 -28
+FIK AB 0 0
+stand stand male 4059
+AHMV ABCDEFGHIJK medium flesh
+#12111
+dwarv dwarven worker~
+a stage worker~
+A dwarven stage worker is here preparing the stage for the band. 
+~
+He is dressed in ragged cloths, he seems tired and annoyed. 
+~
+dwarf~
+ABGT Jc 1000 0
+55 0 50d10+9000 0d0+0 10d4+23 suction
+-25 -25 -25 -25
+DEFKO AB LQ R
+stand stand male 50
+AHMV ABCDEFGHIJK medium flesh
+#12112
+asmira instrumentalist~
+asmira the instrumentalist~
+Asmira, Instrumentalist of the Inn stands here selling her items. 
+~
+This file elven maiden is dressed in a perfect white dress. She hace a
+great figure and bright sky-blue eyes. 
+~
+elf~
+ABG HJP 1000 0
+60 10 50d10+9500 0d0+0 8d6+28 divine
+-30 -30 -30 -30
+FKN ABCDFHIJKMNOPQZ BH Z
+stand stand female 0
+AHMV ABCDEFGHIJK tiny flesh
+#12113
+small human muse chanter~
+the valley chanter~
+A tall human man known as the Valley Chanter stands here. 
+~
+~
+human~
+ABGT DFHNOUVZ 1000 0
+60 40 50d25+9500 0d0+0 12d9+28 wrath
+-30 -30 -30 -30
+EFHK ABD 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large flesh
+#12114
+cat cat-like man~
+a cat-like man~
+A furry cat-like man 
+~
+This odd man is covered in golden brown fur, striped with white. His dark
+blue eyes are set softly into his skull. He purrs softly at you and smiles. 
+~
+cat~
+ABGT DFHPVZ 1000 0
+57 0 50d10+8000 0d0+0 6d8+24 claw
+-27 -27 -27 -27
+FHKMP AB 0 0
+stand stand male 1489
+AGV ACDEFHJKQUV small flesh
+#0
+
+
+
+#OBJECTS
+#12100
+mug dwarven ale~
+a mug of dwarven ale~
+A large mug filled with dark ale lies here.~
+wood~
+drink 0 A
+3 3 'ale' 0 0
+1 2 50 P
+#12101
+glass tea elven ample~
+a glass of elven maple tea~
+A small glass of tea lies here, steaming hot.~
+glass~
+drink 0 A
+1 1 'tea' 0 0
+1 2 80 P
+#12102
+apple cider~
+a jigger of apple cider~
+A jigger filled with apple cider lies here.~
+wood~
+drink 0 0
+8 8 'beer' 0 0
+1 0 70 P
+#12103
+bottle old beer~
+a bottle of old beer~
+A crude bottle of old beer lies here.~
+glass~
+drink 0 A
+11 11 'beer' 0 0
+1 0 90 P
+#12104
+firebreather~
+a jug of jack loukos firebreather~
+A bottle of Jack Louko's Firebreather~
+wood~
+drink 0 A
+1 1 'firebreather' 1 0
+1 5 60 P
+#12105
+a couch~
+an oak couch~
+Two oak couches are set near the fireplace.~
+wood~
+furniture 0 0
+6 999 EHK 100 100
+5 100 0 P
+#12106
+silver pocketwatch~
+a silver pocketwatch~
+A glinting silver pocketwatch.~
+silver~
+treasure AKP AO
+0 0 0 0 0
+51 5 5890 P
+A
+13 500
+L
+3
+#12107
+red suspenders~
+a pair of red suspenders~
+A pair of crude red suspenders lay here.~
+cottom~
+armor 0 AF
+5 5 5 5 0
+35 1 100 P
+A
+19 3
+A
+2 2
+A
+0 0
+L
+4
+#12108
+ivory harp~
+an ivory harp~
+A fine ivory harp lies here, glinting with beauty.~
+ivory~
+instrument A AO
+0 0 0 0 0
+52 8 6000 P
+A
+18 22
+A
+0 0
+#12109
+black tux~
+a black tux~
+A black tux lays here covered in food stains.~
+cottom~
+armor AB AD
+12 12 12 12 0
+35 2 5 P
+#12110
+white ball gown~
+a white ball gown~
+A wonderful white ball gown lies here.~
+silk~
+armor AB AD
+15 15 15 15 0
+35 1 1000 P
+A
+3 5
+A
+0 0
+#12111
+silver flute~
+a silver flute~
+A small silver flute lies here.~
+silver~
+instrument AK AO
+0 0 0 0 0
+51 5 5000 P
+A
+20 10
+A
+0 0
+#12112
+coral harp~
+a coral harp~
+A large coral harp lies here.~
+~
+instrument AK AO
+0 0 0 0 0
+51 10 5000 P
+A
+18 6
+A
+19 6
+A
+0 0
+#12113
+brass horn~
+a brass horn~
+A crude brass horn lies here.~
+brass~
+instrument AK AO
+0 0 0 0 0
+51 12 500 P
+#0
+
+
+
+#ROOMS
+#12100
+A dusty trail~
+This small dirt path leads from the forest to a clearing, in that
+clearing is the Valley Inn. The trees seem to arch over the path, giving it
+a soft aura of light and a yet a cool, refreshing shade. The path leads
+through the forest to the Valley Inn. 
+~
+0 1 4
+D1
+The dusty trail continues. 
+~
+~
+0 0 12101
+D3
+~
+~
+0 0 11007
+S
+#12101
+A dusty trail~
+This small dirt path leads from the forest to a clearing, in that
+clearing is the Valley Inn. The trees seem to arch over the path, giving it
+a soft aura of light and a yet a cool, refreshing shade. The path leads
+through the forest to the Valley Inn. 
+~
+0 1 4
+D1
+~
+~
+0 0 12102
+D3
+~
+~
+0 0 12100
+S
+#12102
+A dusty trail~
+The small dusty trail bends to the north; from here you can see the
+Valley Inn. The trail continues just a few more feets then stops at the
+clearing. 
+~
+0 1 4
+D0
+~
+~
+0 0 12103
+D3
+~
+~
+0 0 12101
+S
+#12103
+A dusty trail~
+The small trail ends here as, to the north is the Valley Inn. The forest
+around you is light and well kept to attract visitors and travelers to the
+inn. The inn lies north, the trail exits south. 
+~
+0 1 4
+D0
+~
+~
+1 0 12104
+D2
+~
+~
+0 0 12102
+S
+#12104
+The enterance~
+You stand before a set of double-doors leading into the Valley Inn. The
+porch leads around the inn; the doors allow you to enter north. The entire
+building is made of wood. The inn is quite large, its second level allowing
+guests private rooms and the lower level for the bar and entertainment. A
+small sign is posted on the left door. 
+~
+0 0 0
+E
+sign~
+Welcome to the Valley Inn, please enjoy yourself and follow the rules: *
+Please keep peaceful in the inn, violence will not be tolerated so please
+restrain from criminal acts. * You are expected to pay for anything to eat,
+or drink. And remember, friends don’t let friends drive drunk. * We do serve
+criminals but we reserve the right to ask you to leave if you attracted
+fights with Enforcers. * Please stay visible in the inn unless are you
+hiding from attack or a thief. * This is a place to enjoy yourself, have
+fun! -- Thank you, {mCeleborn, Muse of the Valley{x 
+~
+D0
+~
+~
+0 0 12105
+D1
+~
+~
+0 0 12119
+D2
+~
+~
+1 0 12103
+D3
+~
+~
+0 0 12114
+S
+#12105
+A crowded room~
+This large area is full of tables and chairs and happy people. All of the
+furnishings are made of polished oak. All around people sit and enjoy their
+drinks. The inn has many bouncers who roam the inn looking for bums wishing
+to start fights. To the east is the fireplace and west a small library. The
+tables continues north nearing the bar. 
+~
+0 8 0
+D0
+~
+~
+0 0 12106
+D1
+~
+~
+0 0 12108
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12110
+S
+#12106
+A crowded room~
+This area is even more crowded than before. Tables and chairs are packed
+end to end. To the north is the large bar, serving all kinds of drinks. To
+the east is the stage; to the west is the dance floor. The bar lies to the
+north. 
+~
+0 8 0
+D0
+~
+~
+0 0 12107
+D1
+~
+~
+0 0 12109
+D2
+~
+~
+0 0 12105
+D3
+~
+~
+0 0 12111
+S
+#12107
+The Bar~
+The Valley Inns bar is like nothing else. Behind the bar stands a rugged
+dwarf serving drinks from all across Thera. The bar is made of solid oak
+with a gold railing. Maple stools line the bar, topped with velvet seats.
+All around you hear jolly music and the sounds of good times and fond
+memories. To the west is the dance floor; east lies a door leading to the
+backstage area. 
+~
+0 8 0
+D1
+~
+~
+0 0 12113
+D2
+~
+~
+0 0 12106
+D3
+~
+~
+0 0 12112
+S
+#12108
+The Fireplace~
+This small corner of the inn is probably the only place you’ll find a bit
+of tranquility. The sounds from the back round are blocked out by the soft
+crackle of the fire. Two large velvet lines couches are set in a V shape in
+front of the fireplace. This is the perfect place to rest without taking a
+room. To the north is stage; the tables are to the west. There is a small
+stairway leading upstairs. 
+~
+0 8 0
+D0
+~
+~
+0 0 12109
+D3
+~
+~
+0 0 12105
+D4
+~
+~
+0 0 12124
+S
+#12109
+The Stage~
+This large stage is set a few feet above the floor level. Ahead of you
+are the royal blue curtains, drooping down from above. The stage is well lit
+and always clean, ready for the Inns entertainment or any traveler who has a
+song to sing or tale to well. To the west are more crowded tables, south the
+fireplace. The back stage area is north. 
+~
+0 8 0
+D0
+~
+~
+0 0 12113
+D2
+~
+~
+0 0 12108
+D3
+~
+~
+0 0 12106
+S
+#12110
+A Small Library~
+This small library is dedicated to many short stories and legends of the
+heroes of Thera, and how all things came to be. A large bookcase is set on
+the western wall. Three small oak rocking chairs lay on the floor making a
+comfortable place to sit down and read. The dance floor lies north; the
+crowded tables to the east. 
+~
+0 8 0
+E
+bookshelf~
+Some of the titles on the Bookshelf are: - The Jackass Tattoo -
+Merthairu, Herbalist of the Divine - Jerle and the Rise of the Knights -
+Arindel, Death of the Knight MORE COMING SOON! 
+~
+D0
+~
+~
+0 0 12111
+D1
+~
+~
+0 0 12105
+S
+#12111
+The Dance Floor~
+The dance floor is often crowded with people looking to have a good time.
+The first thing you notice is that the different people dance in different
+styles. Elves and Dwarves dancing together, even a drow and giant of the
+storms. Table crowded with people are east; to the south lies the small
+library. The dance floor contines to the north. 
+~
+0 8 0
+D0
+~
+~
+0 0 12112
+D1
+~
+~
+0 0 12106
+D2
+~
+~
+0 0 12110
+S
+#12112
+The Dance Floor~
+This half of the dance floor is less crowded, here a few more drunks
+gather to keep keen eyes of the woman at the bar. The floor is made of solid
+oak, shining like it was just cleaned. Near the corner on the western wall
+is a small window. To the south the dance floor continues; east is the bar. 
+~
+0 8 0
+D1
+~
+~
+0 0 12107
+D2
+~
+~
+0 0 12111
+S
+#12113
+Back Stage~
+This small are is cluttered with robes and pullies, which control the
+stages trap doors and curtains. Many props are scattered around, along with
+costumes and masks. The stage lies to the south; the bar is west. 
+~
+0 0 0
+D2
+~
+~
+0 0 12109
+D3
+~
+~
+0 0 12107
+S
+#12114
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D1
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12115
+S
+#12115
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D0
+~
+~
+0 0 12116
+D1
+~
+~
+0 0 12114
+S
+#12116
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D0
+~
+~
+0 0 12117
+D2
+~
+~
+0 0 12115
+S
+#12117
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D0
+~
+~
+0 0 12118
+D2
+~
+~
+0 0 12116
+S
+#12118
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D2
+~
+~
+0 0 12117
+S
+#12119
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D1
+~
+~
+0 0 12120
+D3
+~
+~
+0 0 12104
+S
+#12120
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D0
+~
+~
+0 0 12121
+D3
+~
+~
+0 0 12119
+S
+#12121
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D0
+~
+~
+0 0 12122
+D2
+~
+~
+0 0 12120
+S
+#12122
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D0
+~
+~
+0 0 12123
+D2
+~
+~
+0 0 12121
+S
+#12123
+The Porch~
+This narrow wooden porch is a place to get away from the festivities or
+just a place to rest. The porch bends around the inn and ends at each side
+of the back. A long oak raiding keeps people safe. Above you can see the
+overhang of the second level of the Valley Inn. The porch continues around
+the Inn. 
+~
+0 0 0
+D2
+~
+~
+0 0 12122
+S
+#12124
+A Hallway~
+This narrow hallway leads through the upper level of the Valley Inn. The
+light of the windows on the eastern wall lights the hallway. A small sign is
+posted for all to read. The hallway continues north; the stairs lead to the
+lower level. 
+~
+0 8 0
+E
+sign~
+This narrow hallway leads through the upper level of the Valley Inn. The
+light of the windows on the eastern wall lights the hallway. A small sign is
+posted for all to read. The hallway continues north; the stairs lead to the
+lower level. 
+~
+D0
+~
+~
+0 0 12125
+D5
+~
+~
+0 0 12108
+S
+#12125
+A Hallway~
+The Hallway continues, leading north and south. Portraits and paintings
+of Theras greatest musicians and jesters line the western wall. The light
+from the windows shines upon the western wall. To the north the hallway
+bends west; the hallway continues south as well. 
+~
+0 8 0
+D0
+~
+~
+0 0 12126
+D2
+~
+~
+0 0 12124
+S
+#12126
+The Hallway~
+Here the hallway bends to the west. From here on to the west a long
+velvet carpet lines the floor. The hallway continues west, towards a large
+open room. 
+~
+0 8 0
+D2
+~
+~
+0 0 12125
+D3
+~
+~
+0 0 12127
+S
+#12127
+The hallway~
+The long hallway continues to extend east and west. The windows on the
+northern wall seem to brighten everything up. The walls are lined with
+portraits and paintings. The Hallway continues east and west. 
+~
+0 8 0
+D1
+~
+~
+0 0 12126
+D3
+~
+~
+0 0 12128
+S
+#12128
+Before the Hall of Music~
+The hallway widens here, as it becomes more of an entry hall. To the
+north and south are four chairs on each side. West is a massive door leading
+to the hall of music. The hall of music is here for only the practice and
+admission of the Muses of the valley. The hallway continues east; to the
+west lies the hall of Music. 
+~
+0 8 0
+D1
+~
+~
+0 0 12127
+D3
+~
+~
+1 0 12129
+S
+#12129
+The Hall of Music~
+This massive hall is decorated with the finish of materials. The walls
+are papered with fine prints and covered in great tapestries. One massive
+chandelier lights the entire room. On the northern wall is a small stage,
+before it are two rows of benches. On the western wall is a rack of
+instruments, being sold by a jolly elf. The walls are lined with massive
+stain-glass windows letting in light of different colors. This room is truly
+magical and inspiring. 
+~
+0 8 0
+D1
+~
+~
+1 0 12128
+S
+#0
+
+
+
+#SPECIALS
+M 12101 spec_enforcer
+S
+
+
+
+#RESETS
+D 0 12103 0 1
+D 0 12104 2 1
+D 0 12128 3 1
+M 0 12114 1 12104 1
+M 0 12100 1 12105 1
+M 0 12100 1 12106 1
+M 0 12101 1 12107 1
+M 0 12102 1 12107 1
+G 0 12103 0
+G 0 12101 0
+G 0 12102 0
+G 0 12104 0
+G 0 12100 0
+O 0 12105 0 12108
+M 0 12104 1 12108 1
+G 0 12106 0
+M 0 12107 1 12109 1
+G 0 12108 0
+M 0 12105 1 12110 1
+M 0 12106 1 12110 1
+E 0 12107 0 7
+M 0 12109 1 12111 1
+E 0 12109 0 5
+M 0 12108 1 12111 1
+E 0 12110 0 5
+M 0 12110 1 12112 1
+M 0 12111 2 12113 2
+M 0 12111 2 12113 2
+M 0 12103 1 12122 1
+M 0 12113 1 12124 1
+M 0 12112 1 12129 1
+G 0 12112 0
+G 0 12111 0
+G 0 12113 0
+S
+
+
+
+#SHOPS
+12102 17 17 17 17 17 100 100 0 23
+12112 37 37 37 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#12100
+if cabal $n 'muse'
+say Welcome $n, Muse of the Valley!
+else
+say Welcome to the Valley Inn, $n.
+endif
+~
+#12101
+if cabal $n 'muse'
+say Greetings $n, the Hall os Music is down the hall!
+endif
+~
+#0
+
+#$

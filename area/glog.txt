@@ -1,0 +1,1289 @@
+SET: Detlef is setting form erifdel all 100.
+SET: Detlef is setting forms testytran.
+SET: Detlef is setting .
+SET: Detlef is setting form testytran all 100.
+LOAD: Erifdel is loading obj 65.
+SET: Ceial is setting form ceial all 100.
+SET: Detlef is setting form rhiannon horse 100.
+SET: Detlef is setting form rhiannon horse 100.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial sanctuary 100.
+SET: Ceial is setting form rhiannon all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Detlef is setting form tester all 100.
+SET: Ceial is setting form deomanix all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting char det hp 20000.
+LOAD: Detlef is loading mob 2929.
+SET: Deomanix is setting skill deomanix all 100.
+SET: Deomanix is setting skill deomanix all 100.
+SET: Detlef is setting form deomanix all 100.
+LOAD: Detlef is loading mob 3351.
+LOAD: Detlef is loading mob 3551.
+LOAD: Detlef is loading mob 3351.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef dirt 1.
+SET: Detlef is setting skill desciple 'protective shield' 75.
+SET: Detlef is setting skill desciple consecrate 75.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill brakken lore 100.
+LOAD: Detlef is loading obj 3750.
+SET: Detlef is setting skill grim zealotism 0.
+SET: Detlef is setting skill kelset zealotism 0.
+LOAD: Detlef is loading obj 29357.
+LOAD: Liriel is loading obj 101.
+LOAD: Liriel is loading obj 101.
+LOAD: Liriel is loading obj 1221.
+LOAD: Liriel is loading obj 1210.
+LOAD: Liriel is loading obj 1211.
+LOAD: Liriel is loading obj 1212.
+LOAD: Liriel is loading obj 1213.
+LOAD: Liriel is loading obj 1214.
+LOAD: Liriel is loading obj 1215.
+LOAD: Liriel is loading obj 1216.
+LOAD: Liriel is loading obj 1217.
+LOAD: Liriel is loading obj 1218.
+LOAD: Liriel is loading obj 1219.
+LOAD: Liriel is loading obj 1220.
+LOAD: Liriel is loading obj 1221.
+LOAD: Liriel is loading obj 1222.
+LOAD: Liriel is loading obj 1223.
+LOAD: Deomanix is loading obj 58.
+LOAD: Deomanix is loading obj 29723.
+STRING: Deomanix is stringing obj robes.
+STRING: Deomanix is stringing obj robes short long, flowing crimson robes.
+LOAD: Deomanix is loading obj 20920.
+STRING: Deomanix is stringing obj crown short a magnificent crown of black diamond.
+SET: Graelik is setting skill graelik all 100.
+SET: Deomanix is setting char.
+STRING: Deomanix is stringing char.
+STRING: Deomanix is stringing char deomanix short Deomanix.
+LOAD: Graelik is loading obj 100.
+STRING: Deomanix is stringing char deomanix long {BA forboding figure stands here, cloaked in shadows{x.
+LOAD: Deomanix is loading obj 58.
+LOAD: Deomanix is loading obj 29723.
+STRING: Deomanix is stringing obj robes short long, flowing crimson robes.
+LOAD: Deomanix is loading obj 13916.
+STRING: Deomanix is stringing obj crown short a magnificent crown of black diamond.
+SET: Ceial is setting char ceial gold 5000.
+SET: Deomanix is setting skill deomanix all 100.
+SET: Graelik is setting char testing class elementalist.
+LOAD: Deomanix is loading obj 27043.
+LOAD: Deomanix is loading obj 29705.
+SET: Graelik is setting skill graelik.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Deomanix is loading obj 29705.
+SET: Kraenesk is setting skill kraenesk all 100.
+SET: Ceial is setting char ceial gold 4000.
+SET: Ceial is setting char ceial gold 3000000.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting char graelik race human.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Ceial is loading mob 3802.
+SET: Graelik is setting char.
+SET: Graelik is setting char graelik immune charm.
+STRING: Graelik is stringing .
+STRING: Graelik is stringing char.
+SET: Deomanix is setting skill gibberd dodge 75.
+SET: Graelik is setting .
+SET: Graelik is setting form graelik all.
+SET: Graelik is setting form graelik all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Graelik is setting char graelik con 5.
+SET: Graelik is setting char graelik con 25.
+SET: Graelik is setting char graelik con 5.
+SET: Graelik is setting char graelik con 6.
+SET: Graelik is setting char graelik con 6.
+SET: Graelik is setting char testing hp 2500.
+SET: Graelik is setting charge testing con 8.
+SET: Graelik is setting .
+SET: Graelik is setting char testing con 11.
+SET: Graelik is setting char testing con 6.
+SET: Graelik is setting char testing con 5.
+LOAD: Graelik is loading obj 77.
+LOAD: Ceial is loading mob 3802.
+LOAD: Ceial is loading sword 21697.
+LOAD: Ceial is loading .
+LOAD: Ceial is loading obj 21697.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting char detlef class bard.
+LOAD: Detlef is loading obj 5707.
+SET: Detlef is setting skill detlef all 100.
+SET: Graelik is setting testing con 3.
+SET: Graelik is setting .
+SET: Graelik is setting char testing con 3.
+SET: Graelik is setting char testing con 6.
+SET: Graelik is setting char testing con 8.
+SET: Graelik is setting char testing con 8.
+SET: Graelik is setting char testing con 6.
+SET: Graelik is setting skill testing all 100.
+SET: Graelik is setting char testing class priest.
+SET: Graelik is setting char tester con 8.
+SET: Graelik is setting char tester con 7.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting char graelik class bard.
+STRING: Graelik is stringing obj tattoo short mark of the ancient lich.
+STRING: Graelik is stringing obj tattoo short tattoo of a pie in mid-flight.
+SET: Graelik is setting char graelik class necro.
+SET: Graelik is setting skill graelika ll 100.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 77.
+LOAD: Graelik is loading obj 77.
+LOAD: Graelik is loading obj 77.
+LOAD: Graelik is loading obj 6.
+LOAD: Graelik is loading obj 6.
+LOAD: Graelik is loading obj 8.
+SET: Graelik is setting char graelik hp 25000.
+SET: Graelik is setting char graelik mana 25000.
+SET: Graelik is setting char graelik moves 25000.
+SET: Graelik is setting char graelik move 25000.
+LOAD: Ceial is loading obj 20664.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: a glowing white mare is loading obj 13735.
+LOAD: a glowing white mare is loading obj 10432.
+STRING: Liriel is stringing .
+LOAD: a glowing white mare is loading obj 4507.
+LOAD: Graelik is loading obj 4507.
+LOAD: a glowing white mare is loading obj 4507.
+LOAD: Rhiannon is loading obj 4507.
+STRING: Graelik is stringing obj roses long blah blah blah.
+STRING: Graelik is stringing .
+STRING: Rhiannon is stringing obj white long A beautiful shield of {wwhite{x roses lies here..
+STRING: Rhiannon is stringing obj figurine short an figurine of a {wWhite{x mare of stardust.
+STRING: Rhiannon is stringing obj figurine long You see a small figurine of a {White{x mare on the ground..
+STRING: Rhiannon is stringing obj figurine long You see a small figurine of a {wWhite{x mare on the ground..
+STRING: Rhiannon is stringing obj figurine short a figurine of the {wWhite{x mare of stardust.
+STRING: Rhiannon is stringing obj figurine short a figurine of the {WWhite{x mare of stardust.
+STRING: Rhiannon is stringing obj figurine short a figurine of the {WWhite{x mare of stardust.
+STRING: Rhiannon is stringing obj figurine long You see a small figurine of a {WWhite{x mare on the ground..
+SET: Graelik is setting skill graelik all 100.
+LOAD: Ceial is loading mob 24302.
+SET: Detlef is setting skill detlef all 100.
+SET: Grikthoran is setting skill grikthoran all 100.
+LOAD: Deomanix is loading obj 72.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting char detlef align 1000.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill tester dragonsword 100.
+SET: Detlef is setting skill tester dragonweapon 100.
+SET: Detlef is setting char detlef dex 25.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting obj sword v1 7.
+SET: Detlef is setting char ptest prac 50.
+SET: Detlef is setting char detlef align 1000.
+SET: Detlef is setting char detlef align -1000.
+LOAD: Detlef is loading obj 4503.
+LOAD: Detlef is loading obj 9.
+SET: Kraenesk is setting char kraenesk align -10000.
+SET: Kraenesk is setting char kraenesk align -1000.
+LOAD: Erifdel is loading obj 29751.
+SET: Deomanix is setting skill elyndor hex 75.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting char detlef align 1000.
+SET: Detlef is setting obj shadowbane weight 1.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial all 100.
+SET: Kraenesk is setting char kraenesk race changeling.
+SET: Graelik is setting char detlef con 6.
+SET: Graelik is setting char detlef con 5.
+LOAD: Kraenesk is loading obj 13716.
+SET: Graelik is setting skill graelik all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Ceial is loading obj 13120.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Deomanix is loading obj 1245.
+LOAD: Deomanix is loading obj 13245.
+LOAD: Deomanix is loading obj 1345.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting char detlef -1000.
+SET: Detlef is setting char detlef align -1000.
+SET: Detlef is setting form llyckcha armadillo 100.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 77.
+LOAD: Graelik is loading obj 731.
+LOAD: Graelik is loading mob 731.
+LOAD: Erifdel is loading obj 72.
+SET: Detlef is setting form graelik all 100.
+SET: Grikthoran is setting char grikthoran race angel.
+SET: Grikthoran is setting char grikthoran class paladin.
+SET: Ceial is setting skill ceial all 100.
+SET: Grikthoran is setting skill seindal 'honorable combat' 100.
+SET: Grikthoran is setting char grikthoran hp 1.
+STRING: Grikthoran is stringing .
+STRING: Grikthoran is stringing obj sword short an unbreakable blade.
+SET: Grikthoran is setting char grikthoran 51.
+SET: Grikthoran is setting char grikthoran level 51.
+SET: Grikthoran is setting .
+SET: Grikthoran is setting skill seindal honorable -2.
+LOAD: Deomanix is loading obj 29726.
+SET: Grikthoran is setting char grikthoran race ethereal.
+SET: Deomanix is setting skill hrishgrin dodge 100.
+SET: Deomanix is setting skill hrishgrin parry 100.
+SET: Deomanix is setting skill hrishgrin sword 100.
+SET: Deomanix is setting skill hrishgrin enhanced 100.
+SET: Deomanix is setting skill hrishgrin 'enhanced damage ii' 100.
+SET: Deomanix is setting skill hrishgrin 'flurry' 100.
+SET: Deomanix is setting skill hrishgrin 'flourintine' 100.
+SET: Grikthoran is setting char grikthoran race angel.
+LOAD: Grikthoran is loading obj 1206.
+LOAD: Grikthoran is loading obj 1206.
+SET: Deomanix is setting char hrishgrin align -1000.
+SET: Deomanix is setting skill venristo scourge 75.
+LOAD: Grikthoran is loading mob 1206.
+LOAD: Grikthoran is loading mob 1206.
+SET: Grikthoran is setting char grikthoran race dark-elf.
+SET: Grikthoran is setting char grikthoran race angel.
+LOAD: Grikthoran is loading obj 2914.
+STRING: Grikthoran is stringing obj .
+STRING: Grikthoran is stringing obj sword name banderos knight marshall .
+STRING: Grikthoran is stringing obj banderos owner banderos.
+STRING: Grikthoran is stringing .
+STRING: Grikthoran is stringing obj banderos short The Marhsall's blade.
+STRING: Grikthoran is stringing obj banderos long The blade of the Marshall knight is here..
+STRING: Grikthoran is stringing obj banderos short the Marshall's blade.
+SET: Grikthoran is setting .
+SET: Grikthoran is setting obj banderos.
+SET: Grikthoran is setting obj banderos damage wrath.
+SET: Grikthoran is setting obj banderos.
+SET: Grikthoran is setting obj v2 8.
+SET: Grikthoran is setting obj banderos v2 8.
+SET: Grikthoran is setting obj banderos v2 6.
+SET: Grikthoran is setting obj banderos v3 6.
+SET: Grikthoran is setting obj banderos v3 13.
+SET: Grikthoran is setting obj banderos v3 15.
+SET: Grikthoran is setting obj banderos v3 18.
+STRING: Grikthoran is stringing obj.
+SET: Grikthoran is setting .
+SET: Grikthoran is setting obj banderos.
+SET: Grikthoran is setting obj banderos v0 2.
+SET: Grikthoran is setting obj banderos v0 1.
+SET: Grikthoran is setting obj banderos v0 3.
+SET: Grikthoran is setting obj banderos v0 4.
+SET: Grikthoran is setting obj banderos v0 5.
+SET: Grikthoran is setting obj banderos v0 6.
+SET: Grikthoran is setting obj banderos v0 7.
+SET: Grikthoran is setting obj banderos v0 8.
+SET: Grikthoran is setting obj banderos v0 9.
+SET: Grikthoran is setting obj banderos v0 10.
+SET: Grikthoran is setting obj banderos v0 11.
+SET: Grikthoran is setting obj banderos v0 1.
+SET: Grikthoran is setting obj banderos v0 1.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial second 100.
+SET: Ceial is setting skill ceial third 100.
+SET: Ceial is setting skill ceial fourth 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial zealot 0.
+SET: Ceial is setting skill ceial truestrike 0.
+SET: Grikthoran is setting skill banner balmy 100.
+SET: Grikthoran is setting skill banner resting 100.
+SET: Grikthoran is setting skill banner phanthom 100.
+SET: Grikthoran is setting skill banner phan 100.
+SET: Grikthoran is setting skill banner insanity 100.
+SET: Grikthoran is setting skill banner chill 100.
+SET: Grikthoran is setting skill banner chilli 100.
+SET: Grikthoran is setting skill banner songsmith 100.
+SET: Grikthoran is setting skill banner arma 100.
+SET: Grikthoran is setting skill banderos blademaster 100.
+SET: Grikthoran is setting skill banner lightwalk 100.
+LOAD: Graelik is loading obj 3059.
+LOAD: Graelik is loading obj 77.
+SET: Grikthoran is setting skill hulk blademaster 100.
+SET: Grikthoran is setting skill hulk truestrike 100.
+SET: Grikthoran is setting skill hulk chilli 100.
+SET: Grikthoran is setting skill hulk insanity 100.
+SET: Grikthoran is setting skill hulk rest 100.
+SET: Grikthoran is setting skill hulk heali 100.
+SET: Grikthoran is setting skill hulk songsmith 100.
+SET: Grikthoran is setting skill hulk phan 100.
+SET: Grikthoran is setting skill hulk parry 100.
+SET: Grikthoran is setting skill hulk shield block 100.
+SET: Grikthoran is setting skill hulk 'shield block' 100.
+SET: Grikthoran is setting skill hulk dodge 100.
+LOAD: Grikthoran is loading obj 1206.
+SET: Grikthoran is setting char adhiehi class bard.
+SET: Grikthoran is setting char adiehi class bard.
+SET: Grikthoran is setting skill adiehi all 100.
+SET: Detlef is setting skill detlef all 100.
+SET: Detlef is setting char tester class priest.
+SET: Detlef is setting skill tester all 100.
+SET: Detlef is setting char tester xptotal 685800.
+LOAD: Kraenesk is loading obj 11133.
+LOAD: Kraenesk is loading obj 11133.
+LOAD: Kraenesk is loading obj 11133.
+LOAD: Kraenesk is loading obj 11133.
+LOAD: Kraenesk is loading obj 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading mob 11133.
+LOAD: Kraenesk is loading obj 3020.
+LOAD: Kraenesk is loading obj 3020.
+LOAD: Kraenesk is loading obj 59.
+SET: Kraenesk is setting skill shardin axe 90.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Kraenesk is setting skill kraenesk all 100.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 77.
+LOAD: Graelik is loading obj 6.
+LOAD: Graelik is loading obj 8.
+SET: Graelik is setting char graelik specialization 1.
+SET: Graelik is setting char graelik specialization 0.
+LOAD: Graelik is loading obj 25.
+SET: Deomanix is setting skill deomanix all 100.
+LOAD: Erifdel is loading oak.
+LOAD: Erifdel is loading .
+LOAD: Erifdel is loading mob 1207.
+LOAD: Erifdel is loading mob 3.
+LOAD: Detlef is loading ob 1222.
+LOAD: Detlef is loading .
+LOAD: Detlef is loading obj 1222.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading mob 3059.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 25200.
+LOAD: Liriel is loading obj 401.
+SET: Deomanix is setting obj blindfold wear 'take head'.
+SET: Deomanix is setting obj blindfold wear head.
+LOAD: Deomanix is loading obj 21022.
+LOAD: Deomanix is loading obj 2079.
+LOAD: Deomanix is loading obj 3079.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading mob 3059.
+SET: Deomanix is setting skill hrishgrin flurry 75.
+SET: Deomanix is setting char hrishgrin specialization 1.
+SET: Deomanix is setting skill hrishgrin flurry 100.
+SET: Detlef is setting skill test 'wrath of purity' 100.
+LOAD: Graelik is loading mob 3059.
+LOAD: Deomanix is loading obj 13739.
+SET: Deomanix is setting char deomanix align 0.
+LOAD: Deomanix is loading obj 13739.
+LOAD: Deomanix is loading obj 13739.
+LOAD: Deomanix is loading obj 29757.
+LOAD: Rhiannon is loading obj 13714.
+LOAD: Rhiannon is loading obj 647.
+STRING: Rhiannon is stringing obj holy short The Holy Avengar named "Mistress".
+STRING: Rhiannon is stringing obj.
+LOAD: Rhiannon is loading obj 14019.
+STRING: Rhiannon is stringing obj forever short A Holy Avengar named "Mistress".
+LOAD: Detlef is loading mob 3334.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Ceial is loading obj 20283.
+LOAD: Ceial is loading obj 20282.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting ceial class bard.
+SET: Ceial is setting .
+SET: Ceial is setting char ceial class bard.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 25.
+SET: Detlef is setting char detlef gold 100000000.
+LOAD: Erifdel is loading obj 17703.
+LOAD: Graelik is loading obj 25.
+LOAD: Graelik is loading obj 50.
+LOAD: Ceial is loading obj 28717.
+LOAD: Ceial is loading obj 28717.
+LOAD: Ceial is loading obj 29717.
+LOAD: Ceial is loading obj 29717.
+SET: Ceial is setting char ceial str 25.
+SET: Ceial is setting skill ceial flurry 100.
+SET: Ceial is setting char.
+SET: Ceial is setting char ceial specialization 20.
+SET: Ceial is setting char ceial specialization 20.
+LOAD: Ceial is loading obj 23103.
+LOAD: Ceial is loading obj 13114.
+LOAD: Ceial is loading obj 20143.
+LOAD: Ceial is loading obj 5706.
+LOAD: Ceial is loading obj 29803.
+SET: Ceial is setting char ceial str 25.
+SET: Ceial is setting char ceial specialization 20.
+SET: Graelik is setting obj.
+SET: Graelik is setting obj youatt extra 3.
+SET: Graelik is setting obj 2youatt extra 9.
+SET: Graelik is setting obj 2.youatt extra 9.
+SET: Graelik is setting obj 2.youatt extra 7.
+SET: Graelik is setting obj 2.youatt extra 4.
+SET: Graelik is setting obj 2.youatt extra 5.
+SET: Graelik is setting obj 2.youatt extra 2.
+SET: Graelik is setting obj 2.youatt extra 3.
+SET: Graelik is setting skill graelik all 0.
+SET: Graelik is setting char graelik class monk.
+SET: Graelik is setting skill graelik all 1.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting char testerizor class assassin.
+SET: Graelik is setting char graelik race change.
+SET: Detlef is setting skill rinaldi 'pick locks' 75.
+SET: Detlef is setting skill rinaldi 'pick lock' 75.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+SET: Graelik is setting char graelik class necro.
+SET: Graelik is setting obj.
+LOAD: Graelik is loading obj 25.
+SET: Graelik is setting obj portal v3 3054.
+LOAD: Graelik is loading obj 25.
+SET: Graelik is setting obj portal v3 3054.
+SET: Graelik is setting char graelik all 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting char graelik class elementalist.
+SET: Graelik is setting char graelik race lich.
+SET: Graelik is setting skill graelik all.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 13119.
+LOAD: Graelik is loading obj 13119.
+LOAD: Graelik is loading obj 7633.
+LOAD: Graelik is loading obj 13119.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Ceial is loading mob 22005.
+LOAD: Ceial is loading mob 24302.
+LOAD: Graelik is loading obj 754.
+STRING: Graelik is stringing obj guitar short a Fender Jazzmaster with marijuana inlays.
+STRING: Graelik is stringing obj guitar short a Fender Jazzmaster with Marijuana inlays.
+STRING: Graelik is stringing .
+STRING: Graelik is stringing obj guitar name fender jazzmaster marijuana guitar.
+STRING: Graelik is stringing .
+SET: Graelik is setting obj.
+SET: Graelik is setting obj fender extra 3.
+STRING: Graelik is stringing .
+LOAD: Graelik is loading obj 25.
+SET: Graelik is setting obj portal v3 5700.
+LOAD: Graelik is loading obj 24.
+LOAD: Ceial is loading obj 14010.
+SET: Ceial is setting skill drystalrin wither 75.
+LOAD: Ceial is loading mob 24309.
+LOAD: Graelik is loading obj 24.
+LOAD: Graelik is loading obj 24.
+LOAD: Graelik is loading mob 3012.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Adiehi is loading 78.
+LOAD: Adiehi is loading .
+LOAD: Adiehi is loading obj 78.
+LOAD: Adiehi is loading obj 78.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial crushing blow 100.
+SET: Ceial is setting skill ceial 'crushing blow' 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill jayla wither 75.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Ceial is loading mob 22005.
+LOAD: Adiehi is loading obj 78.
+LOAD: Adiehi is loading obj 78.
+LOAD: Adiehi is loading obj 78.
+LOAD: Adiehi is loading obj 78.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Ceial is loading mob 234005.
+LOAD: Ceial is loading mob 22005.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading obj 25.
+LOAD: Ceial is loading mob 22005.
+LOAD: Graelik is loading obj 104.
+LOAD: Graelik is loading obj 105.
+LOAD: Ceial is loading mob 24005.
+LOAD: Ceial is loading mob 22005.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Ceial is loading mob 22005.
+LOAD: Graelik is loading obj 105.
+LOAD: Graelik is loading obj 104.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Graelik is loading obj 104.
+LOAD: Graelik is loading obj 105.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Adiehi is loading obj 3758.
+SET: Graelik is setting char graelik class ranger.
+SET: Graelik is setting char graelik class necro.
+LOAD: Adiehi is loading mob 3022.
+LOAD: Adiehi is loading mob 3023.
+LOAD: Adiehi is loading obj 3750.
+LOAD: Adiehi is loading obj 3040.
+LOAD: Adiehi is loading obj 12112.
+SET: Graelik is setting skill all 1.
+SET: Graelik is setting skill graelik all 1.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting skill eminem 'divine aura' 0.
+LOAD: Adiehi is loading obj 7653.
+STRING: Adiehi is stringing obj wrath short {rRhiannon's Super Duper Ass Kicking Machine.
+STRING: Adiehi is stringing obj wrath short {rRhiannon's Super Duper Ass Kicking Machine{x.
+LOAD: Adiehi is loading obj 7653.
+STRING: Adiehi is stringing obj wrath short {rRhiannon's Super Duper Ass Kicking Machine{x.
+STRING: Adiehi is stringing obj wrath long {rRhiannon's Super Duper Ass Kicking Machine{x.
+STRING: Adiehi is stringing obj wrath name Super Duper Ass Kicking Machine.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+SET: Graelik is setting skill fordus 'crushing blow' 100.
+SET: Graelik is setting skill fordus 'crushing blow' 100.
+SET: Graelik is setting skill fordus 'crushing blow' 99.
+SET: Graelik is setting skill fordus 'crushing blow' 100.
+LOAD: Graelik is loading obj 100.
+LOAD: Graelik is loading obj 100.
+LOAD: Graelik is loading obj 24.
+STRING: Graelik is stringing obj short a Fender Stratocaster.
+STRING: Graelik is stringing .
+STRING: Graelik is stringing obj fender short a Fender Stratocaster.
+LOAD: Ceial is loading mob 2906.
+SET: Graelik is setting skill fordus 'crushing blow' 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Ceial is setting skill ceial 'blunt strike' 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial bluntstrike 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting char ceial class ranger.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Ceial is loading mob 3141.
+LOAD: Ceial is loading mob 24307.
+LOAD: Ceial is loading mob 24307.
+LOAD: Graelik is loading obj 11124.
+SET: Graelik is setting skill graelika ll 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting obj korinth v1 5.
+SET: Graelik is setting obj korinth v2 5.
+LOAD: Graelik is loading obj 6.
+LOAD: Graelik is loading obj 24.
+STRING: Graelik is stringing obj fender short a Fend Stratocaster with Marijuana inlays.
+STRING: Graelik is stringing obj fender short a Fender Stratocaster with Marijuana inlays.
+STRING: Graelik is stringing .
+STRING: Graelik is stringing obj name fender stratocaster guitar.
+STRING: Graelik is stringing obj fender name fender stratocaster guitar.
+LOAD: Graelik is loading mob 3059.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Graelik is loading mob 750.
+LOAD: Graelik is loading mob 750.
+SET: Graelik is setting skill desciple 'crushing blow' 0.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Adiehi is loading obj 72.
+LOAD: Detlef is loading obj 11124.
+LOAD: Detlef is loading obj 13216.
+LOAD: Detlef is loading obj 13216.
+SET: Graelik is setting skill graelik all 100.
+SET: Graelik is setting skill opopas rot 75.
+SET: Graelik is setting char opopas practices 20.
+SET: Graelik is setting char opopas prac 20.
+LOAD: Kraenesk is loading obj 72.
+SET: Graelik is setting skill graelik all 100.
+SET: Kraenesk is setting char nosilla.
+STRING: Adiehi is stringing obj blade short Blade named "Guardian of the Forests".
+STRING: Adiehi is stringing obj blade long Blade named "Guardian of the Forests".
+STRING: Adiehi is stringing obj blade desc  If this blade is found on anyone other than the True Guardian of the Forest they will be slain onsight..
+STRING: Adiehi is stringing .
+STRING: Adiehi is stringing obj blade extended  If this blade is found on anyone other than the True Guardian of the Forest they will be slain onsight..
+STRING: Adiehi is stringing obj blade extended blade  If this blade is found on anyone other than the True Guardian of the Forest they will be slain onsight..
+LOAD: Adiehi is loading obj 8801.
+LOAD: Adiehi is loading obj 8801.
+LOAD: Adiehi is loading obj 3380.
+LOAD: Graelik is loading mob 3059.
+SET: Graelik is setting skill graelik all 100.
+LOAD: Erifdel is loading obj 66.
+LOAD: Erifdel is loading obj 21648.
+LOAD: Erifdel is loading obj 5701.
+SET: Kraenesk is setting skill nosilla shield block 100.
+SET: Kraenesk is setting skill nosilla 'parry' 100.
+SET: Kraenesk is setting skill nosilla 'songsmith' 100.
+SET: Kraenesk is setting skill nosilla 'dodge' 100.
+SET: Kraenesk is setting skill nosilla' balmy sleep 100.
+SET: Kraenesk is setting skill nosilla 'balmy sleep' 100.
+SET: Kraenesk is setting skill nosilla 'insanity' 100.
+SET: Kraenesk is setting skill nosilla 'titans' 100.
+SET: Kraenesk is setting skill nosilla 'armageddon' 100.
+SET: Kraenesk is setting skill nosilla 'divine blessing' 100.
+SET: Kraenesk is setting skill nosilla 'phantom' 100.
+SET: Kraenesk is setting skill nosilla 'resting' 100.
+SET: Kraenesk is setting skill nosilla 'deafening pitch' 100.
+SET: Kraenesk is setting skill nosilla 'chilliness of death' 100.
+SET: Kraenesk is setting skill nosilla 'flight' 100.
+SET: Kraenesk is setting skill nosilla 'guarding' 100.
+SET: Kraenesk is setting skill nosilla 'hour of rising' 100.
+SET: Kraenesk is setting skill nosilla 'storms' 100.
+SET: Graelik is setting .
+SET: Graelik is setting char.
+SET: Graelik is setting char graelik timer 2.
+SET: Graelik is setting skill zealot 0.
+SET: Graelik is setting skill graelik zealot 0.
+SET: Graelik is setting skill graelik zealot 100%.
+SET: Graelik is setting skill graelik zealot 100.
+SET: Graelik is setting char stat dex 3.
+SET: Graelik is setting char graelik stat dex 3.
+SET: Graelik is setting char graelik dex 3.
+SET: Graelik is setting char graelik dex 25.
+SET: Detlef is setting skill detlef all 100.
+SET: Graelik is setting skill graelik all 100.
+SET: Detlef is setting skill detlef all 100.
+LOAD: Liriel is loading obj 13108.
+LOAD: Liriel is loading obj 12108.
+LOAD: Erifdel is loading obj 1222.
+LOAD: Ceial is loading obj 18202.
+SET: Ceial is setting char gamache security 0.
+SET: Detlef is setting char maelgwn security 0.
+SET: Detlef is setting char Kbleddon security 0.
+LOAD: Adiehi is loading mob 2930.
+LOAD: Adiehi is loading mob 2930.
+LOAD: Adiehi is loading mob 3944.
+LOAD: Adiehi is loading mob 3943.
+LOAD: Adiehi is loading mob 2944.
+LOAD: Adiehi is loading mob 2943.
+LOAD: Adiehi is loading mob 2942.
+LOAD: Adiehi is loading mob 2946.
+LOAD: Adiehi is loading mob 2946.
+LOAD: Adiehi is loading obj 2946.
+LOAD: Adiehi is loading mob 2946.
+LOAD: Adiehi is loading mob 2946.
+STRING: Adiehi is stringing .
+SET: Ceial is setting skill eminem 'crushing blow' 0.
+LOAD: Ceial is loading mob 22005.
+STRING: Erifdel is stringing .
+STRING: Erifdel is stringing char erifdel long A large beholder hovers within the air..
+STRING: Erifdel is stringing char.
+STRING: Erifdel is stringing char erifdel short An Elder Orb.
+STRING: Erifdel is stringing char erifdel long An enormous beholder hovers within the air, eye stalks writhing in each direction..
+STRING: Erifdel is stringing char erifdel long An enormous beholder hovers within the air, eyestalks writhing in each direction..
+LOAD: Ceial is loading mob 22005.
+LOAD: Ceial is loading mob 22005.
+LOAD: Ceial is loading mob 22005.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting char ceial class ranger.
+SET: Ceial is setting char ceial class ranger.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Adiehi is loading obj 28530.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting char ceial class ranger.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Adiehi is loading obj 2960.
+LOAD: Adiehi is loading obj 2960.
+LOAD: Adiehi is loading obj 2960.
+LOAD: Adiehi is loading obj 2960.
+LOAD: Adiehi is loading obj 2960.
+LOAD: Adiehi is loading obj 2961.
+SET: Ceial is setting skill adiehi all 100.
+LOAD: Adiehi is loading obj 4622.
+LOAD: Adiehi is loading mob anti.
+LOAD: Ceial is loading mob 22005.
+LOAD: Ceial is loading obj 20664.
+LOAD: Ceial is loading obj 18206.
+LOAD: Adiehi is loading obj 3756.
+LOAD: Adiehi is loading obj 3751.
+STRING: Adiehi is stringing obj dagger short The "BIG DICK REMOVER".
+LOAD: Adiehi is loading obj 20219.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 7653.
+LOAD: Adiehi is loading obj 4602.
+LOAD: Adiehi is loading obj 8801.
+LOAD: Adiehi is loading obj 8801.
+SET: Graelik is setting skill deomanix all 100.
+SET: Deomanix is setting skill deomanix all 100.
+LOAD: Graelik is loading obj 24.
+LOAD: Graelik is loading obj 7.
+LOAD: Graelik is loading obj 18.
+SET: Kraenesk is setting skill desciple shroud -1.
+SET: Kraenesk is setting skill desciple shroud -2.
+SET: Kraenesk is setting skill desciple 'slave of purgatory' -2.
+SET: Kraenesk is setting skill desciple 'darkforge' -2.
+SET: Kraenesk is setting skill desciple 'l -2.
+LOAD: Kraenesk is loading obj 2914.
+STRING: Kraenesk is stringing obj sword long A dark sword with inscriptions of a huge black dragon in the blade.
+STRING: Kraenesk is stringing obj sword short A dark sword with inscriptions of a huge black dragon in the blade.
+STRING: Kraenesk is stringing obj sword long a leader weapon lays here, dont touch it unless you are Desciple.
+SET: Kraenesk is setting obj sword v1 10.
+SET: Kraenesk is setting obj sword v1 15.
+SET: Kraenesk is setting obj sword v2 2.
+SET: Kraenesk is setting obj sword v1 16.
+SET: Kraenesk is setting obj sword v1 18.
+SET: Kraenesk is setting obj sword v1 20.
+SET: Kraenesk is setting obj sword v2 3.
+SET: Kraenesk is setting obj sword v1 18.
+SET: Kraenesk is setting obj sword v1 17.
+SET: Kraenesk is setting obj sword v2 4.
+SET: Kraenesk is setting obj sword v1 15.
+SET: Kraenesk is setting obj sword v1 14.
+SET: Kraenesk is setting obj sword type sword.
+SET: Kraenesk is setting obj sword v4 sword.
+SET: Kraenesk is setting obj sword v3 15.
+SET: Kraenesk is setting obj sword v3 20.
+SET: Kraenesk is setting obj sword v3 21.
+LOAD: Kraenesk is loading obj 2955.
+LOAD: Kraenesk is loading obj 20979.
+LOAD: Ceial is loading obj 2979.
+LOAD: Ceial is loading obj 20979.
+SET: Kraenesk is setting obj sword v1 14.
+SET: Kraenesk is setting obj sword v2 4.
+STRING: Kraenesk is stringing obj sword long .
+LOAD: Kraenesk is loading obj 2914.
+SET: Kraenesk is setting obj sword v2 4.
+SET: Kraenesk is setting obj sword v1 14.
+STRING: Kraenesk is stringing obj sword long a sword too powerfull for anyone but desciple to touch lays here, so dont!.
+STRING: Kraenesk is stringing obj sword short A finely made sword witha huge black dragon etched on it's blade.
+SET: Kraenesk is setting obj sword v3 30.
+SET: Kraenesk is setting obj sword v3 31.
+SET: Kraenesk is setting obj sword v3 31.
+SET: Kraenesk is setting obj sword v3 32.
+SET: Kraenesk is setting obj sword v3 30.
+SET: Kraenesk is setting obj sword v3 29.
+SET: Kraenesk is setting obj sword v3 28.
+SET: Kraenesk is setting obj sword v3 27.
+SET: Kraenesk is setting obj sword v3 26.
+SET: Kraenesk is setting obj sword v3 25.
+SET: Kraenesk is setting obj sword v3 24.
+SET: Kraenesk is setting obj sword v3 23.
+SET: Kraenesk is setting obj sword v3 22.
+SET: Kraenesk is setting obj sword v3 21.
+SET: Kraenesk is setting obj sword v3 20.
+SET: Kraenesk is setting obj sword v3 19.
+SET: Kraenesk is setting obj sword v3 18.
+SET: Kraenesk is setting obj sword v3 17.
+SET: Kraenesk is setting obj sword v3 16.
+SET: Kraenesk is setting obj sword v3 15.
+SET: Kraenesk is setting obj sword v3 14.
+SET: Kraenesk is setting obj sword v3 13.
+SET: Kraenesk is setting obj sword v3 12.
+SET: Kraenesk is setting obj sword v3 11.
+SET: Kraenesk is setting obj sword v3 10.
+SET: Kraenesk is setting obj sword v3 9.
+SET: Kraenesk is setting obj sword v3 8.
+SET: Kraenesk is setting obj sword v3 7.
+SET: Kraenesk is setting obj sword v3 6.
+SET: Kraenesk is setting obj sword v3 5.
+SET: Kraenesk is setting obj sword v3 4.
+SET: Kraenesk is setting obj sword v3 3.
+SET: Kraenesk is setting obj sword v3 2.
+SET: Kraenesk is setting obj sword v3 1.
+SET: Kraenesk is setting obj sword v3 34.
+SET: Kraenesk is setting obj sword v3 35.
+SET: Kraenesk is setting obj sword v3 36.
+SET: Kraenesk is setting obj sword v3 37.
+SET: Kraenesk is setting obj sword v3 38.
+SET: Kraenesk is setting obj sword v3 39.
+SET: Kraenesk is setting obj sword v3 40.
+SET: Kraenesk is setting obj sword v3 41.
+SET: Kraenesk is setting obj sword v3 42.
+SET: Kraenesk is setting obj sword v3 43.
+SET: Kraenesk is setting obj sword v3 44.
+SET: Kraenesk is setting obj sword v3 45.
+SET: Kraenesk is setting obj sword v3 46.
+SET: Kraenesk is setting obj sword v3 47.
+SET: Kraenesk is setting obj sword v3 48.
+SET: Kraenesk is setting obj sword v3 49.
+SET: Kraenesk is setting obj sword v3 50.
+SET: Kraenesk is setting obj sword v3 51.
+SET: Kraenesk is setting obj sword v3 52.
+LOAD: Kraenesk is loading obj 59.
+SET: Kraenesk is setting skill kraenesk all 100.
+LOAD: Ceial is loading obj 16140.
+LOAD: Ceial is loading obj 16179.
+LOAD: Kraenesk is loading obj 59.
+SET: Deomanix is setting skill hrishgrin bash 100.
+LOAD: Adiehi is loading obj 8801.
+LOAD: Adiehi is loading 1317.
+LOAD: Adiehi is loading .
+LOAD: Adiehi is loading obj 1317.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 2006.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 2319.
+LOAD: Kraenesk is loading obj 29718.
+LOAD: Kraenesk is loading obj 29718.
+SET: Deomanix is setting skill liriel all 100.
+SET: Kraenesk is setting char nosilla gold 1000.
+SET: Kraenesk is setting char nosilla gold 1000.
+SET: Kraenesk is setting char nosilla gold 1000.
+SET: Kraenesk is setting char nosilla gold 10000.
+SET: Kraenesk is setting char nosilla gold 20000.
+SET: Kraenesk is setting skill nosilla storms 100.
+SET: Kraenesk is setting skill nosilla arm 100.
+SET: Kraenesk is setting skill nosilla balmy 100.
+SET: Kraenesk is setting skill nosilla chilliness 100.
+SET: Kraenesk is setting skill nosilla deafening 100.
+SET: Kraenesk is setting skill nosilla phantom 100.
+SET: Kraenesk is setting skill nosilla insanity 100.
+SET: Kraenesk is setting skill inferrio 'shield block' 100.
+SET: Kraenesk is setting skill 'imperial training' inferrio 100.
+SET: Kraenesk is setting skill inferrio'imperial training' 100.
+SET: Kraenesk is setting skill inferrio 'imperial training' 100.
+SET: Kraenesk is setting skill inferrio 'imperial training' -2.
+SET: Kraenesk is setting skill nosilla disarm 100.
+SET: Kraenesk is setting char kraenesk forms all.
+SET: Kraenesk is setting char slarg prac 250.
+SET: Kraenesk is setting char slarg prac 250.
+SET: Kraenesk is setting skill slarg parry 100.
+SET: Kraenesk is setting skill slarg 'shield block 100.
+SET: Kraenesk is setting skill slarg 'shield block' 100.
+SET: Kraenesk is setting skill slarg wall of thorns 100.
+SET: Kraenesk is setting skill slarg 'wall of thorns' 100.
+SET: Kraenesk is setting skill slarg 'hold person' 100.
+SET: Ceial is setting char ceial class anti-paladin.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill feroph all 100.
+LOAD: Ceial is loading mob 22005.
+SET: Ceial is setting .
+SET: Ceial is setting obj.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting char ceial class warrior.
+SET: Ceial is setting char ceial specialization 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Ceial is loading obj 20994.
+LOAD: Ceial is loading obj 24200.
+SET: Ceial is setting char ceial str 25.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting char ceial class anti-paladin.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 20066.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 3379.
+LOAD: Kraenesk is loading obj 30412.
+LOAD: Kraenesk is loading obj 3041.
+SET: Kraenesk is setting skill loser parry 100.
+SET: Kraenesk is setting skill loser dodge 100.
+SET: Kraenesk is setting skill loser 'shield block' 100.
+SET: Kraenesk is setting skill loser 'bearcharge' 100.
+SET: Kraenesk is setting skill loser 'bluntstrike' 100.
+SET: Kraenesk is setting skill loser 'snare' 100.
+SET: Kraenesk is setting skill loser 'second attack' 100.
+SET: Kraenesk is setting skill loser 'third attack' 100.
+SET: Kraenesk is setting skill loser 'trip' 100.
+SET: Kraenesk is setting skill loser 'ambush' 100.
+SET: Kraenesk is setting skill loser 'moving ambush' 100.
+SET: Kraenesk is setting skill loser bearcharge 100.
+SET: Kraenesk is setting skill loser dirt 100.
+SET: Kraenesk is setting skill loser disarm 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting char samrik practice 4.
+SET: Ceial is setting char fordus specialization 1.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting char ceial class ranger.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 100.
+LOAD: Ceial is loading mob 24302.
+LOAD: Rhiannon is loading obj 21813.
+LOAD: Rhiannon is loading obj 21613.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial defiance 100.
+SET: Deomanix is setting skill hrishgrin 'fourth attack' 100.
+SET: Deomanix is setting skill hrishgrin 'third attack' 100.
+SET: Deomanix is setting skill hrishgrin 'second attack' 100.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting char ceial skill 0.
+SET: Ceial is setting skill ceial all 0.
+SET: Deomanix is setting skill deomanix all 100.
+SET: Ceial is setting char ceial gold 500.
+SET: Kraenesk is setting skill kraenesk.
+SET: Kraenesk is setting skill kraenesk all 100.
+LOAD: Kraenesk is loading obj 7620.
+SET: Ceial is setting skill hru confuse 0.
+SET: Ceial is setting skill hru pandemonium 0.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial all 0.
+SET: Ceial is setting skill ceial all 100.
+SET: Ceial is setting skill sorde confuse 0.
+SET: Ceial is setting skill sorde pandemonium 0.
+SET: Ceial is setting char ceial gold 500.
+SET: Ceial is setting ceial gold 500000.
+SET: Ceial is setting .
+SET: Ceial is setting char ceial gold 500000.
+LOAD: Ceial is loading mob 22005.
+LOAD: Ceial is loading obj 14002.
+LOAD: Ceial is loading obj 14022.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Kraenesk is loading obj 21697.
+LOAD: Ceial is loading mob 500.
+LOAD: Kraenesk is loading obj 11124.
+LOAD: Kraenesk is loading obj 7631.
+SET: Kraenesk is setting char ardnas practice 100.
+SET: Kraenesk is setting char ardnas mana 1700.
+SET: Kraenesk is setting char ardnas wither 100.
+SET: Kraenesk is setting skill ardnas wither 100.
+SET: Kraenesk is setting skill ardnas plague 100.
+SET: Kraenesk is setting skill ardnas weak 100.
+SET: Kraenesk is setting skill ardnas poison 100.
+SET: Kraenesk is setting skill ardnas atrophy 100.
+SET: Kraenesk is setting skill ardnas blind 100.
+SET: Kraenesk is setting skill ardnas sanc 100.
+SET: Kraenesk is setting skill ardnas protective 100.
+SET: Kraenesk is setting skill ardnas parry.
+SET: Kraenesk is setting skill ardnas parry 100.
+SET: Kraenesk is setting skill ardnas 'shield block 100.
+SET: Kraenesk is setting skill ardnas 'shield block' 100.
+LOAD: Kraenesk is loading axe 600.
+LOAD: Kraenesk is loading .
+LOAD: Kraenesk is loading obj 600.
+LOAD: Kraenesk is loading obj 2365.
+SET: Kraenesk is setting skill pincer weaponbreaker 100.
+SET: Kraenesk is setting skill pincer whirl 100.
+SET: Kraenesk is setting skill pincer parting blow 100.
+SET: Kraenesk is setting skill pincer 'parting blow' 100.
+SET: Kraenesk is setting skill pincer pincer 100.
+SET: Kraenesk is setting skill pincer dagger 100.
+SET: Kraenesk is setting skill pincer sword 100.
+SET: Kraenesk is setting skill pincer sword 100.
+SET: Kraenesk is setting skill pincer crush 100.
+SET: Kraenesk is setting skill pincer 'ground control 100.
+SET: Kraenesk is setting skill pincer 'ground control' 100.
+LOAD: Kraenesk is loading obj 1220.
+SET: Kraenesk is setting skill pincer whip 100.
+SET: Kraenesk is setting skill pincer mace 100.
+LOAD: Ceial is loading obj 501.
+LOAD: Ceial is loading obj 501.
+LOAD: Ceial is loading obj 501.
+LOAD: Ceial is loading obj 501.
+LOAD: Ceial is loading obj 504.
+SET: Ceial is setting skill mobydck garble 75.
+LOAD: Kraenesk is loading obj 13120.
+LOAD: Kraenesk is loading obj 13120.
+LOAD: Kraenesk is loading obj owhere axe.
+LOAD: Kraenesk is loading obj 13120.
+LOAD: Kraenesk is loading obj 13908.
+LOAD: Kraenesk is loading obj 49.
+SET: Ceial is setting char ceial race drow.
+SET: Ceial is setting char ceial race illithid.

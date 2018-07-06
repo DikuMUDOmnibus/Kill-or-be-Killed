@@ -1,0 +1,87 @@
+#AREA
+vasilisshrine.ARE~
+Vasilis' Shrine~
+{SHRINE} Vasilis Shrine of Vasilis~
+4400 4499
+
+#MOBILES
+#4444
+coiled python ~
+the reticulated python~
+The great reticulated python is coiled here.
+~
+A snake the size of your thigh coils itself around a branch watching your every move. It lies motionless waiting for its moment to capture its prey.~
+snake~
+ABG HNO 0 0
+65 150 50d50+20000 0d0+0 30d30+500 suction
+0 0 0 0
+EFKMN ABCEHIJKLPQRS DFGMNO 0
+rest stand none 0
+HV 0 huge 0
+#0
+
+
+#ROOMS
+#4444
+A dense jungle area~
+The trees and foliage thicken in this area though a cobblestone path seems to call you to walk safely through. The trees overhead are filled with coiled pythons, sunning themselves as they digest their prey.
+~
+0 NUW 3
+D0
+~
+~
+0 -1 1130
+D2
+~
+~
+0 -1 4445
+S
+#4445
+The cobblestone path ~
+The path continues to lead you through the inhospitable jungle that now surrounds you. You debate turning back but something calls you closer to the blue aura emanating just around the bend.
+~
+0 NUW 3
+D0
+~
+~
+0 -1 4444
+D3
+~
+~
+0 -1 4446
+S
+#4446
+Before the altar~
+This open area has been somewhat paved with the small cobblestones to keep the encroachment of the jungle at bay. Before you stands an immence marble altar carved with large serpentine figures that flicker with a blue aura.
+~
+0 NUW 1
+D0
+~
+~
+0 -1 4447
+D1
+~
+~
+0 -1 4445
+S
+#4447
+At the altar~
+You dare to step up to the enormous altar made for a giant to make your offering. As your feet touch the high carved steps the marble snake statues seem to writhe into position to watch your every move.
+~
+0 NUW 1
+H 200 M 200
+D2
+~
+~
+0 -1 4446
+S
+#0
+
+
+#RESETS
+*
+M 1 4444 1 4444 1			the reticulated python  to A dense jungle area
+S
+
+
+#$

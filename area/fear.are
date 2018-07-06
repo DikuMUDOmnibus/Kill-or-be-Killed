@@ -1,0 +1,184 @@
+#AREA
+fear.are~
+Halls of Fear~
+{51} Tweedster  Halls of Fear~
+20600 20699
+
+#MOBILES
+#20600
+guardian halls~
+The guardian of the Halls~
+The guardian of the halls stands here, striking you with utter fear.
+~
+This figure is burried deep in the shadows, emitting fear into you with 
+his every movement.
+~
+giant~
+FGO BDFHJQT 0 0
+55 200 50d10+9000 -11276d-5356+-9940 10d8+23 beating
+-25 -25 -25 -25
+EFJKO BHILQ DEFGJ KMNSY
+stand stand male 10000
+I 0 huge 0
+#20601
+The Archangel of Fear~
+The Archangel of Fear~
+The Archangel of fear is here, corrupting your soul.
+~
+You stare your worst nightmare right in the eye...
+~
+unique~
+FG BDFHJNQT 0 0
+62 250 25d3+25000 5d5+6000 40d3+60  pound
+-25 -25 -25 -25
+EFGHJN ABHI CDEFGJKLMNOPQ 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#0
+
+
+#OBJECTS
+#20600
+sword blade shadows~
+A shimmering blade of Shadows~
+A sword made of the darkest shadows is here.~
+adamantite~
+weapon ABJMTY AN
+sword 10 5 cleave CD
+0 5 0 P
+A
+19 5
+A
+18 5
+A
+24 -20
+A
+13 200
+A
+13 0
+F
+A 0 0 HV
+F
+I 0 0 AB
+F
+R 0 0 D
+
+#20601
+sword fear~
+The Sword of Fear~
+A sword striking fear into your heart is here~
+energy~
+weapon ABJMTY AN
+sword 10 6 slash CD
+0 5 0 P
+A
+19 20
+A
+18 20
+A
+24 -30
+F
+A 0 0 FTc
+F
+I 0 0 A
+F
+R 0 0 DHI
+F
+V 0 0 C
+#0
+
+
+#ROOMS
+#20600
+Entrance to the Halls of Fear~
+You come across the entrance to a long hallway. The darkness casts itself 
+down the hall, making it almost impossible to see down, but a curious 
+feeling almost presses you to proceed.
+~
+0 CDN 1
+D0
+~
+~
+0 -1 20601
+S
+#20601
+In the Halls of Fear~
+As you take deeper steps in these dark halls, you feel your stomach turn 
+inside out with fear. The cold stone walls stare at you, almost as if 
+seeing inside your soul.
+~
+0 DN 0
+D0
+~
+~
+0 -1 20602
+D2
+~
+~
+0 -1 20600
+S
+#20602
+Steeping Deeper in the Halls of Fear~
+As you take deeper steps in these dark halls, you feel your stomach turn 
+inside out with fear. The cold stone walls stare at you, almost as if 
+seeing inside your soul.
+~
+0 DN 0
+D0
+~
+~
+0 -1 20603
+D2
+~
+~
+0 -1 20601
+S
+#20603
+Before the Archangel of Fears Chamber~
+As you come to the end of this hall, you come before a massive door of 
+twisted oak, Towering above you and becking you to come inside...
+~
+0 DN 0
+D0
+~
+~
+1 -1 20604
+D2
+~
+~
+0 -1 20602
+S
+#20604
+The Archangel of Fears Chamber~
+You stand in the center of a massive chamber, and a cold chill sends 
+shivers down your spine. Fires blazing, a dark shadow turns to you and 
+strikes fear into your heart...
+~
+0 DN 0
+D2
+~
+~
+1 -1 20603
+S
+#0
+
+
+#RESETS
+*
+M 1 20600 2 20600 2 The guardian of the Halls to Entrance to the Halls of Fear
+E 1 20600 100 16
+*
+M 1 20601 1 20604 1 The Archangel of Fear to The Archangel of Fears Chamber
+E 1 20601 100 16
+S
+
+
+#SPECIALS
+M  20600 spec_breath_acid The guardian of the Halls
+M  20601 spec_breath_any The Archangel of Fear
+S
+
+
+#$
+
+

@@ -1,0 +1,81 @@
+#AREA
+trailor.are~
+Imm TESTING~
+{IMMOR} Jael Tesing Area~
+26600 26620
+
+#MOBILES
+#26600
+bob~
+uncle bob~
+Your unble bob is here. 
+~
+Its BOB! 
+~
+human~
+ABGT 0 0 0
+51 0 50d10+5000 0d0+0 5d8+20 punch
+-21 -21 -21 -21
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large flesh
+M greet 26600 99~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#26600
+Test One~
+Testing. .. ... 
+~
+0 0 0
+D0
+
+~
+~
+0 0 26601
+S
+#26601
+Test Two~
+Testing. .. ... 
+~
+0 0 0
+D2
+
+~
+~
+0 0 26600
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 26600 1 26601 1
+S
+
+
+#MOBPROGS
+#26600
+	say Testing.. Testing.. I got Achne.. Jason K!
+	emote grins.
+~
+#0
+#$
+

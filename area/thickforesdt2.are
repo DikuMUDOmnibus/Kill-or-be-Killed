@@ -1,0 +1,1282 @@
+#AREA
+thickforesdt2.are~
+The forest~
+{30 40} Arechio Thick Forest~
+12200 12250
+
+#MOBILES
+#12200
+guardian~
+the guardian~
+A guard is here blocking the entrance to the forest. 
+~
+This guard blocks the entrance to the forest. 
+~
+giant~
+ABGT HNOV 0 0
+40 80 60d10+1800 60d10+500 10d4+20 smash
+-22 -22 -24 -22
+FJKNU 0 DHI BJP
+stand stand male 145
+AHMV ABCDEFGHIJK giant unknown
+#12201
+large tree~
+the large tree~
+There is a large tree here. 
+~
+Look out! This tree is alive! 
+~
+unique~
+AF DNV 0 0
+35 100 1d1+2000 5d5+10 10d6+25 smash
+-40 -40 -40 -40
+DFKOR FKLQRX 0 HJ
+stand stand none 2
+0 BCDF huge unknown
+#12202
+old tree~
+an old tree~
+There is a very old tree here. 
+~
+This tree appears to have been here for ages. 
+~
+unique~
+ABT DFHNOQVc 0 0
+60 85 1d1+15000 1d1+1000 20d3+45 drain
+-50 -50 -50 -50
+CEFHJKNO ABEGHIJKMNOPRSTXYZ 0 LQ
+stand stand none 5
+0 D giant unknown
+#0
+
+
+
+#OBJECTS
+#12200
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AB
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12201
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AC
+0 0 0 0 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12202
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AD
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12203
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AE
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12204
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AF
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12205
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AG
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12206
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AH
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+#12207
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AI
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+#12208
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AJ
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+65 60 12788 P
+A
+1 -30
+A
+12 300
+A
+13 200
+A
+17 -100
+A
+18 50
+A
+19 70
+A
+20 -50
+#12209
+bark~
+a piece of bark~
+~
+~
+armor GJ AK
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12210
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AL
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12211
+bark~
+a piece of bark~
+~
+wood~
+armor GJ AM
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0 
+52 33 127 P
+A
+1 3
+A
+12 65
+A
+13 50
+A
+17 -50
+A
+18 12
+A
+19 -3
+A
+20 -15
+#12212
+bark~
+a piece of bark~
+~
+wood~
+weapon GHJ AN
+'mace' 12 6 'beating' ABCDGH 
+52 45 127 P
+A
+1 -10
+A
+2 4
+A
+12 100
+A
+13 100
+A
+17 -100
+A
+18 20
+A
+19 -5
+A
+20 -20
+#0
+
+
+
+#ROOMS
+#12200
+The forest edge~
+This is the entrance to a large forest. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12201
+M 50 H 50
+S
+#12201
+The forest edge~
+This is the entrance to a large forest. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12202
+D3
+
+~
+~
+0 0 12200
+M 50 H 50
+S
+#12202
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12203
+D2
+
+~
+~
+0 0 12204
+D3
+
+~
+~
+4 0 12201
+M 50 H 50
+S
+#12203
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12206
+D2
+
+~
+~
+0 0 12205
+D3
+
+~
+~
+0 0 12202
+M 50 H 50
+S
+#12204
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12202
+D1
+
+~
+~
+0 0 12205
+M 50 H 50
+S
+#12205
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12203
+D2
+
+~
+~
+0 0 12212
+D3
+
+~
+~
+0 0 12204
+M 50 H 50
+S
+#12206
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12208
+D2
+
+~
+~
+0 0 12207
+D3
+
+~
+~
+0 0 12203
+M 50 H 50
+S
+#12207
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12206
+D1
+
+~
+~
+0 0 12209
+D2
+
+~
+~
+0 0 12211
+D3
+
+~
+~
+0 0 12205
+M 50 H 50
+S
+#12208
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D2
+
+~
+~
+0 0 12209
+D3
+
+~
+~
+0 0 12206
+M 50 H 50
+S
+#12209
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12208
+D2
+
+~
+~
+0 0 12210
+D3
+
+~
+~
+0 0 12207
+M 50 H 50
+S
+#12210
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12209
+D1
+
+~
+~
+0 0 12216
+D2
+
+~
+~
+0 0 12214
+D3
+
+~
+~
+0 0 12211
+M 50 H 50
+S
+#12211
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12207
+D1
+
+~
+~
+0 0 12210
+D2
+
+~
+~
+0 0 12213
+D3
+
+~
+~
+0 0 12212
+M 50 H 50
+S
+#12212
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12205
+D1
+
+~
+~
+0 0 12211
+M 50 H 50
+S
+#12213
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12211
+D1
+
+~
+~
+0 0 12214
+M 59 H 50
+S
+#12214
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12210
+D1
+
+~
+~
+0 0 12228
+D2
+
+~
+~
+0 0 12215
+D3
+
+~
+~
+0 0 12213
+M 50 H 50
+S
+#12215
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12214
+D1
+
+~
+~
+0 0 12230
+M 50 H 50
+S
+#12216
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12217
+D2
+
+~
+~
+0 0 12228
+D3
+
+~
+~
+0 0 12210
+M 50 H 50
+S
+#12217
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12218
+D2
+
+~
+~
+0 0 12229
+D3
+
+~
+~
+0 0 12216
+M 50 H 50
+S
+#12218
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D2
+
+~
+~
+0 0 12219
+D3
+
+~
+~
+0 0 12217
+M 50 H 50
+S
+#12219
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12218
+D1
+
+~
+~
+0 0 12235
+D2
+
+~
+~
+0 0 12220
+D3
+
+~
+~
+0 0 12229
+M 50 H 50
+S
+#12220
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12219
+D1
+
+~
+~
+0 0 12234
+D2
+
+~
+~
+0 0 12221
+D3
+
+~
+~
+0 0 12237
+M 50 H 50
+S
+#12221
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12220
+D1
+
+~
+~
+0 0 12238
+D2
+
+~
+~
+0 0 12222
+M 50 H 50
+S
+#12222
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12221
+D1
+
+~
+~
+0 0 12223
+M 50 H 50
+S
+#12223
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12238
+D1
+
+~
+~
+0 0 12224
+D3
+
+~
+~
+0 0 12222
+M 50 H 50
+S
+#12224
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12232
+D1
+
+~
+~
+0 0 12225
+D3
+
+~
+~
+0 0 12223
+M 50 H 50
+S
+#12225
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 0 3
+D0
+
+~
+~
+0 0 12231
+D1
+
+~
+~
+0 0 12226
+D3
+
+~
+~
+0 0 12224
+M 50 H 50
+S
+#12226
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D1
+
+~
+~
+0 0 12227
+D3
+
+~
+~
+0 0 12225
+M 50 H 50
+S
+#12227
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D3
+
+~
+~
+0 0 12226
+M 50 H 50
+S
+#12228
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12216
+D1
+
+~
+~
+0 0 12229
+D2
+
+~
+~
+0 0 12230
+D3
+
+~
+~
+0 0 12214
+M 50 H 50
+S
+#12229
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12217
+D1
+
+~
+~
+0 0 12219
+D2
+
+~
+~
+0 0 12237
+D3
+
+~
+~
+0 0 12228
+M 50 H 50
+S
+#12230
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12228
+D1
+
+~
+~
+0 0 12237
+D3
+
+~
+~
+0 0 12215
+M 50 H 50
+S
+#12231
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D2
+
+~
+~
+0 0 12225
+D3
+
+~
+~
+0 0 12232
+M 50 H 50
+S
+#12232
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12233
+D1
+
+~
+~
+0 0 12231
+D2
+
+~
+~
+0 0 12224
+D3
+
+~
+~
+0 0 12238
+M 50 H 50
+S
+#12233
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D2
+
+~
+~
+0 0 12232
+D3
+
+~
+~
+0 0 12234
+M 50 H 50
+S
+#12234
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12235
+D1
+
+~
+~
+0 0 12233
+D2
+
+~
+~
+0 0 12238
+D3
+
+~
+~
+0 0 12220
+M 50 H 50
+S
+#12235
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D2
+
+~
+~
+0 0 12234
+D3
+
+~
+~
+0 0 12219
+M 50 H 50
+S
+#12237
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12229
+D1
+
+~
+~
+0 0 12220
+D3
+
+~
+~
+0 0 12230
+M 50 H 50
+S
+#12238
+Within the forest~
+You are within the forest, to the north is a large wall that extends well
+above your sight. 
+~
+0 8192 3
+D0
+
+~
+~
+0 0 12234
+D1
+
+~
+~
+0 0 12232
+D2
+
+~
+~
+0 0 12223
+D3
+
+~
+~
+0 0 12221
+M 50 H 50
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 12200 1 12201 1
+M 0 12200 1 12201 1
+M 0 12200 1 12201 1
+M 0 12200 1 12201 1
+M 0 12201 1 12202 1
+M 0 12201 1 12202 1
+M 0 12201 1 12202 1
+M 0 12201 3 12203 3
+M 0 12201 3 12204 3
+M 0 12201 3 12205 3
+M 0 12201 3 12206 3
+M 0 12201 3 12207 3
+M 0 12201 3 12208 3
+M 0 12202 1 12208 1
+G 0 12200 1
+M 0 12201 3 12209 3
+M 0 12201 3 12210 3
+M 0 12202 1 12210 1
+G 0 12211 1
+M 0 12201 3 12211 3
+M 0 12201 3 12212 3
+M 0 12202 1 12212 1
+G 0 12206 1
+M 0 12201 3 12213 3
+M 0 12202 1 12213 1
+G 0 12205 1
+M 0 12201 3 12214 3
+M 0 12201 3 12215 3
+M 0 12201 3 12216 3
+M 0 12201 3 12217 3
+M 0 12201 3 12218 3
+M 0 12202 1 12218 1
+G 0 12200 1
+M 0 12201 3 12219 3
+M 0 12201 3 12220 3
+M 0 12202 1 12220 1
+G 0 12208 1
+M 0 12201 3 12221 3
+M 0 12202 1 12221 1
+G 0 12203 1
+M 0 12201 3 12222 3
+M 0 12201 3 12223 3
+M 0 12202 1 12223 1
+G 0 12202 1
+M 0 12201 3 12224 3
+M 0 12202 1 12224 1
+G 0 12210 2
+M 0 12201 3 12225 3
+M 0 12201 3 12226 3
+M 0 12202 1 12226 1
+G 0 12212 1
+M 0 12202 1 12227 1
+G 0 12201 1
+M 0 12201 3 12227 3
+M 0 12201 3 12228 3
+M 0 12202 1 12228 1
+G 0 12207 1
+M 0 12201 3 12229 3
+M 0 12201 3 12230 3
+M 0 12202 1 12230 1
+G 0 12204 1
+M 0 12201 3 12231 3
+M 0 12201 3 12232 3
+M 0 12202 1 12232 1
+G 0 12209 1
+M 0 12201 3 12233 3
+M 0 12202 1 12233 1
+G 0 12201 1
+M 0 12201 3 12234 3
+M 0 12201 3 12235 3
+M 0 12201 3 12237 3
+M 0 12201 3 12238 3
+S
+
+
+
+#$

@@ -1,0 +1,3121 @@
+#AREADATA
+Name Evil's Abode~
+Builders None~
+VNUMs 7600 7694
+Credits { 45 51}Adiehi Evil's Abode~
+Security 9
+End
+
+
+
+#MOBILES
+#7600
+Vigilant guardian man Death~
+Guardian of Death~
+An Ever Vigilant Man Guards the Passageway to Death
+~
+The Guardian of Death stands motionless beside the large iron doors. He
+seems to stares you down as you get closer to the door yet he does not move.
+~
+human~
+ABCGR DFHJOPTVa -1000 0
+50 20 50d20+6000 10d10+10 10d10+50 suction
+-16 -16 -16 -16
+CDEFHJKNOP ABEHIJR DEFG 0
+stand stand male 0
+ABHMV ABCDEFGHIJKLW giant 0
+M GREET 7600 100~
+M SPEECH 7601 pay homage~
+#7601
+Keeper Souls~
+Keeper of the Souls~
+The Keeper of the Souls stares you down as you enter the room.
+~
+The Keeper of the Souls grins and licks his lips as you can feel your soul 
+draining from you.
+~
+unique~
+ABFGO BDFHJNOTUVa -1000 1
+65 30 60d20+9000 10d4+1000 10d40+100 wrath
+-50 -19 -19 -19
+ACDEFHIJKNOPa ABCFIJKLQS CDE NY
+stand stand either 150
+ABIMV ABCDEF large 0
+#7602
+Black Keeper  Keys~
+Black Keeper of the Keys~
+The Keeper of the Keys stand here, angry at your intrusion
+~
+The Keeper of the keys is dressed in black from head to toe. Black armor 
+adorns every inch of his body.
+~
+human~
+ABFGT DFHJNOTUVa -1000 1
+50 20 50d10+5000 4d20+1000 8d10+30 pound
+-20 -20 -20 -20
+CDEFHIJKNOP AB 0 0
+stand stand male 150
+AHMV ABCDEFGHIJK medium 0
+#7603
+Acolyte man cleric~
+An Acolyte in dark robes~
+A man in dark robes stand here, eyeing every move you make.
+~
+A man in dark flowing robes stands here, his robes show the markings of a 
+clerical order.
+~
+human~
+ABFGQ DFHJNOUVa -6000 0
+55 0 50d10+7000 4d20+1000 10d4+23 pound
+-20 -20 -20 -20
+EFHIJKNOP ABI CDEFGHJNP 0
+sit stand male 230
+AHMV ABCDEFGHIJK medium 0
+#7604
+man watcher~
+A man looking into an orb~
+A man stares deep into the orb on the pedestal unaware of your presence, 
+or is he?
+~
+Looking at him he seems not even to noitce you or care of his tattered 
+robes and dirty hair. But suddenly a fire burns within his eyes as the orb glows 
+brightly on one image, it is of you entering this room.
+~
+unique~
+ABFGR DFHJNOUVa -1000 0
+55 0 50d10+6000 4d20+1000 10d6+20 magic
+-25 -25 -25 -25
+ACDFHKNP C DFG 0
+stand stand male 40
+AHMV ABCDEF medium 0
+#7605
+Harem Girl~
+Harem Girl~
+A Harem girl looks as you as you enter the room, her eyes beg for your 
+help.
+~
+An elven girl stand before you, her clothes tattered and bareing almost 
+everything. She is bleeding and battered. She moves about the room 
+surveying her master anything he bellows for.
+~
+elf~
+AGHT FIJP 1000 0
+45 0 25d10+3000 4d5+10 8d4+16 slap
+-7 -7 -7 -7
+DF 0 BH DZ
+stand stand female 0
+AHMV ABCDEFGHIJK small 0
+#7606
+Master~
+The Master~
+The Master lays here lying upon pillows and blanket.
+~
+The Master lays upon the pillows in the room being waited on hand and 
+foot. 
+His clothes are beutifully kept and although the odd stain does dabble his 
+pants.
+~
+human~
+ABFGT DFHJNOTUVa -1000 0
+55 10 50d10+6500 4d20+1000 8d10+20 slap
+-25 -25 -25 -25
+CEFHJNOP ABC DEFG 0
+rest stand male 800
+AHMV ABCDEFGHIJK medium 0
+#7607
+Blue Ringkeeper~
+Blue Ringkeeper~
+A Large Ringkeeper of the keys stands here in all blue armor.
+~
+The Ringkeeper stands here in armor bluer than the ocean. He glares at you 
+as you enter the room.
+~
+unique~
+ABFGT DFHNOUVa -1000 0
+50 10 50d10+7500 4d20+1000 5d8+19 pound
+-20 -20 -20 -20
+ACDEFHIJKNOP AB DIMQ NS
+stand stand male 40
+AHMV ABCDEF medium 0
+#7608
+Sentry Putrid~
+Putrid Sentry~
+A sentry stands here reeking of death.
+~
+The sentry looks as though it were once alive but has long since died. Its 
+armor and body send the smell of decay and rotting throughout the room.
+~
+unique~
+ACT DFOPV -1000 0
+45 0 10d20+3000 0d0+0 10d10+40 scratch
+-15 -15 -15 -15
+CDEFIJKNT HIJLQ D 0
+stand stand male 12
+AHMV ABCDEF medium 0
+#7609
+Sentry Captain~
+Sentry Captain~
+A sentry stands here decorated in blue black and red.
+~
+A sentry stands before you fashioned in clothes of blue, black and red. 
+You can tell that he is the captain and holds the other sentry's in line.
+~
+unique~
+ACFT DFHOPUa -1000 0
+53 0 50d10+6000 10d10+10 10d20+50 wrath
+-20 -20 -20 -20
+ACDEFHIJKNOS HIJKL CDEFG 0
+stand stand male 200
+AHMV ABCDEF medium 0
+#7610
+Weeping Guard~
+Weeping guard~
+A guard stands here crying, blocking the door to the west.
+~
+The guard looks back at you, his eyes red and burned from the sobbing. You 
+know he has sucum to the utter hoplessness of this place.
+~
+human~
+ABCFT DFHNPV 1000 0
+52 0 25d10+5000 0d0+0 56d6+18 pound
+-13 -13 -13 -13
+CEFHIKNOT 0 DEFG EG
+stand stand male 2
+AHMV ABCDEFGHIJK medium 0
+#7611
+Mimic Bed~
+A bed sits in the corner of the room~
+A large bed sits in the corner of the room, it seems to be breathing
+~
+As you look at the bed you notice it moving slightly as if breathing.
+~
+unique~
+ABCFS DFHNOV -1000 0
+66 10 50d10+7000 0d0+0 10d4+23 shbite
+-25 -25 -25 -25
+BCDEHIJKNOP AKLQ CDEIJ GH
+rest stand male 0
+ABGVc DKLV medium 0
+#7612
+Demon Fear~
+Demon of Fear~
+A demon stand here sending shivers down you spine with but a look.
+~
+The demon stares coldly into you eyes making you lose all hope. It licks 
+it's lips and grins as you approach. It is hungry.
+~
+unique~
+ABCFO DFHNOQVa -1000 0
+54 10 50d10+6500 4d10+100 20d10+100 flbite
+-25 -25 -25 -25
+ACDEFHJKMNOP ABHI CJKM NSY
+stand stand male 400
+AIMZ ABCDEF large 0
+#7613
+demon Hate~
+Demon of Hate~
+A demon stares you down angry at your intrustion.
+~
+A demon raises up upon his wings in this huge room, it hisses at you and 
+strikes out.
+~
+unique~
+ABCFO DFHOQVa -1000 0
+54 20 50d10+6500 1d10+100 20d10+100 flbite
+-24 -24 -24 -24
+ACDEHIJKMNO ABHMQ CIJKL Y
+stand stand male 40
+AHMV ABCDEF medium 0
+#7614
+Dragon deathwalk~
+DeathWalk Dragon~
+A Large dragon stands infront of you , Laughing as your ineptness.
+~
+He looks you up and down and a growl comes from him, a large smile grows 
+upon his lips and speaks "Ummm Fresh Meat".
+~
+unique~
+ABCFR BDFHOTa -1000 0
+60 0 50d10+9500 10d10+100 10d20+200 acbite
+-30 -30 -30 -30
+ACDEHIJKMNOP ABCHIJKM DEFG NSY
+stand stand male 2000
+ABIVZ ABCDEFUVWX medium 0
+#7615
+Hope~
+Hope~
+Hope stands infront of you making you feel warm and cozy.
+~
+As you look upon hope you heart lifts to the sky and flys through the air 
+light as a feather. No care in the world you return down before Hope, it 
+smiles and you feel better having had this expreience.
+~
+unique~
+ABCFQ BDFHNTUVa 1000 0
+55 30 50d10+6000 10d10+100 10d20+200 light
+-25 -25 -25 -25
+ACDEFHJKNOP ABHIJNS CDEFG M
+sit stand male 1001
+AHMV ABCDEF large 0
+#7616
+Peace~
+Peace~
+As you look upon Peace you will to fight is relinquished.
+~
+You look upon peace and nothing is seen of it, but you look right into 
+yourself. You see all the wrong and disjustice you have commited and you 
+begin to plead for redemption.
+~
+unique~
+ABCQ BDFHNTUVa 1000 0
+55 0 50d10+10000 10d10+100 10d20+300 divine
+-30 -30 -30 -30
+DFGHKa ABHIJNS DEFGM MQ
+stand stand male 1002
+AHMV ABCDEF medium 0
+#7617
+guardian destruction man~
+Guardian of Destruction~
+A large man stands here enveolped in a black haze.
+~
+Looking upon this man strains you eyes as no light shines from him, 
+everything he wears is black and dark.
+~
+human~
+ABCFT BDFHOTUVa -1000 0
+58 0 50d10+8500 10d10+100 10d20+200 darkwrath
+-28 -28 -28 -28
+ACDEFHIJKNOP M CDEFG 0
+stand stand male 2030
+AHMV ABCDEFGHIJK huge 0
+#7618
+Angelic Spirit~
+Angelic Spirit~
+A spirit Walks the Halls here.
+~
+A spirit roams the halls, wings of an angel upon it's back.
+~
+unique~
+ACT BDFHNTU 1000 0
+48 0 25d10+3750 10d10+100 6d6+18 divine
+-13 -13 -13 -13
+CDEJKNOU NS HIJ 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#7619
+Ethereal Angel~
+Ethereal Angelic Spirit~
+A spirit stands infront of you flickeringin and swaying with your breath.
+~
+As you stare upon the angel it flickers and shifts with the motion of he 
+air passing through it.
+~
+unique~
+ABCR BDFHNQTU 1000 0
+53 0 50d10+6000 0d0+0 6d7+21 divine
+-23 -23 -23 -23
+CKNOP ABNS I M
+stand stand male 1002
+AHMV ABCDEF medium 0
+#7620
+Easter Bunny~
+Easter Bunny~
+A large bunny stands in the corner by a vat, teeth gleaming at you.
+~
+As you look upon the Easter Bunny he no longer holds that wholesum 
+loveable bunny apeal, you see him for what he really is.... and what he really is 
+doing to the kids of the world..
+~
+rabbit~
+ABCR BDFHJOQTU -1000 0
+65 1 50d10+12500 10d10+100 10d10+100 chomp
+-32 -32 -32 -32
+CDFHJKMNO ABM CHIJK NS
+stand stand male 3000
+AGHMV ABCDEFHJK medium 0
+#7621
+Turkey~
+ThanksGiving Turkey~
+You look at the turkey and IT DOES NOT HAVE A HEAD!
+~
+You look at the turkey as blood flows from it's neck , spurting and 
+gushing as it runs around.
+~
+unique~
+ABCS DFJNO 0 0
+60 0 8d10+550 0d0+0 2d10+7 scratch
+-7 -7 -7 -7
+CFHIJKN 0 0 G
+stand stand male 10
+AGVW CDEFP small 0
+#7622
+Barney~
+Barney~
+Barney the dinosuar stands here sharpening his teeth on small children's 
+parents.
+~
+Barney the Dinosaur the one true evil of the world. He would gut you like 
+a pig with one claw behind his back. His body writhes with a million 
+childrens souls within him.
+~
+unique~
+ABFRT DFHJNOUVa -1000 0
+65 0 50d10+12000 10d10+100 40d20+200 shbite
+-35 -35 -35 -35
+ACDEFHIJKMNOP HIM CDEFG 0
+stand stand male 3000
+ABHVX ABCDEFUWX giant 0
+#7623
+Custodian~
+Custodian~
+The Custodian goes about his work completly oblivious of you.
+~
+You look upon him and he is wearing old coveralls and gloves. He goes 
+about cleaning and sorting like you are not even there.
+~
+unique~
+ABFGRT BDFHNOUV 0 0
+55 20 50d10+7000 10d10+10 10d4+23 pound
+-25 -25 -25 -25
+ADEFHJKN C DEFG 0
+stand stand male 2000
+AHMV ABCDEF medium 0
+#0
+
+
+
+#OBJECTS
+#7600
+Key Bone~
+Bone Key~
+A large key of bone lies on the ground.~
+bone~
+key ABEGPSTUZ AO
+0 0 0 0 0
+0 5 0 P
+#7601
+Halberd~
+Halberd of Death~
+A halberd Lies here, it's blade drains the light from within the room.~
+adamantite~
+weapon AEHJSTY AN
+polearm 10 6 defilement ACDF
+52 8 0 P
+F
+A 0 0 K
+A
+1 -2
+A
+5 -6
+A
+18 3
+A
+19 7
+L
+3
+#7602
+Keyring~
+Keyring filled with Black Keys~
+A keyring filled with black keys lays upon the ground.~
+adamantite~
+key AEHQSTUY AN
+0 0 0 0 0
+0 1 0 P
+#7603
+Staff Devouring~
+Light Devouring Staff~
+A Staff Lies here devouring all light~
+bone~
+weapon AEHJMSTY AN
+staff 5 10 defilement CEFH
+51 8 0 P
+A
+13 -25
+A
+1 -2
+A
+18 6
+A
+19 6
+A
+17 -11
+L
+5
+#7604
+Robes~
+Black robes of the acolyte~
+Black robes lay here unwrinkled glowing with power.~
+cloth~
+armor AEJMSTY AK
+20 20 20 20 0
+51 5 0 P
+F
+A 0 0 Ec
+A
+13 45
+A
+12 100
+A
+23 -15
+A
+24 -7
+L
+3
+#7605
+Orb~
+Orb of Time~
+An large orb lays here flickering with images.~
+glass~
+staff STUY AO
+0 5 5 'slow' 0
+0 2 0 P
+F
+A 0 0 CEGJ
+A
+24 -15
+A
+12 50
+A
+13 50
+A
+4 3
+A
+3 3
+L
+4
+#7606
+Keyring ~
+Keyring Filled with Blue Keys~
+A keyring lies here filled with keys of a deep blue.~
+adamantite~
+key EHSTUY AO
+0 0 0 0 0
+0 1 0 P
+#7607
+Book Case~
+Book Case~
+A Book Case Lies up against the wall , books kept neatly within.~
+wood~
+container STY O
+0 BD 0 0 0
+0 5 0 P
+#7608
+Plate Skulls~
+Plate of Skulls~
+Platemail adorned with skulls lies upon the ground.~
+bone~
+armor AEHJMSTY AD
+12 12 12 12 0
+50 4 0 P
+A
+5 -4
+A
+13 -20
+A
+18 5
+A
+1 -1
+A
+19 4
+L
+5
+#7609
+Legplates skulls~
+Legplates of Skulls~
+Large Legplates Lie here adorned with skulls.~
+bone~
+armor AEHMSTY AF
+10 10 10 10 0
+50 5 0 P
+F
+A 0 0 a
+A
+13 -10
+A
+1 -1
+A
+24 2
+A
+19 4
+L
+10
+#7610
+Helm skulls~
+Helm of a Skull~
+A helm made out of one single giant skull lies here.~
+bone~
+armor EHMSTY AE
+10 10 10 10 0
+50 2 0 P
+A
+5 -4
+A
+19 4
+A
+17 -15
+A
+13 -10
+A
+2 -2
+L
+5
+#7611
+Black Keepers Whip~
+Black keepers Whip~
+A whip adorned with studds and barbs lies here.~
+hard leather~
+weapon ABHQST AN
+whip 4 10 drain CDH
+55 50 0 P
+A
+9 2
+A
+18 3
+A
+19 3
+L
+5
+#7612
+Ringkeepers Spear blue~
+Blue Ringkeepers Spear~
+A spear lies here of the deepest blue.~
+~
+weapon STY AN
+spear 6 10 pierce CEFH
+0 23 0 P
+A
+19 8
+A
+18 4
+L
+6
+#7613
+Putrid Leather~
+Putrid Leather~
+Leather lies here rotting and smelling.~
+hard leather~
+armor EJY AD
+10 10 10 10 0
+10 5 0 P
+A
+24 -5
+A
+14 -50
+A
+19 4
+A
+5 -2
+#7614
+Putrid Flail~
+Putrid Flail~
+A flail lies here covered with decomposing flesh.~
+hardwood~
+weapon AEMSY AN
+flail 6 8 digestion C
+28 50 0 P
+F
+A 0 0 X
+A
+13 -5
+A
+18 5
+A
+19 6
+#7615
+bloody red vial~
+bloody Red Vial~
+A vial lies here filled with some viscus red liquid.~
+glass~
+potion QT AO
+51 'heal' 'heal' 'heal' ''
+51 1 0 P
+#7616
+Scroll~
+Scroll bound in Leather~
+A scroll bound in leather lies here.~
+~
+scroll QT AO
+52 'enchant armor' 'enchant armor' 'enchant armor' 'enchant armor'
+50 1 0 P
+L
+8
+#7617
+Flashy Key~
+Flashy Key~
+Key lies here covered in all diffrent colors, it apprears to belong to 
+someone who lusts for wealth.~
+bone~
+key ESTY AO
+0 0 0 0 0
+0 5 0 P
+#7618
+plate tears~
+Plate of Tears~
+Platemail stained with the tears of the guard lies here.~
+adamantite~
+armor ABKSTY AD
+-10 -10 -10 -10 0
+48 5 0 P
+A
+19 4
+F
+R 0 0 B
+F
+A 0 0 B
+A
+24 -3
+A
+18 5
+A
+2 3
+A
+1 2
+L
+3
+#7619
+Gloves Tears~
+Gloves of Tears~
+A pair of gloves stained with the tears of a man lies here.~
+adamantite~
+armor ABSTY AH
+8 8 8 8 0
+48 5 0 P
+A
+24 -9
+A
+13 25
+A
+19 1
+A
+18 2
+L
+4
+#7620
+Locket Tears~
+Locket of Tears~
+A locket lies here filled with tears.~
+adamantite~
+armor ABSTY AC
+8 8 8 8 0
+48 2 0 P
+A
+1 2
+A
+13 25
+A
+19 2
+A
+24 -5
+L
+4
+#7621
+Tear~
+Tear~
+A tear lies here sharp at one end.~
+crystal~
+weapon ABGKMSTY AN
+dagger 4 13 frbite CDE
+48 5 0 P
+F
+V 0 0 I
+A
+23 -8
+A
+19 4
+A
+18 4
+A
+14 50
+L
+6
+#7622
+bed leg~
+A Bed Leg~
+A bed leg lies here.~
+~
+pill QSTY AO
+55 'cure blindness' 'bless' 'frenzy' 'armor'
+0 0 0 P
+L
+20
+#7623
+Dismal Key~
+Dismal Looking Key~
+A key lies here and you abandon all hope as you grasp it.~
+adamantite~
+key EJSTY AO
+0 0 0 0 0
+1 1 0 P
+F
+A 0 0 K
+#7624
+Scaled armplates~
+Scaled armplates~
+A pair of scaled sleeves sit here.~
+black dragonscale~
+armor ABEJQSTUY AI
+12 12 12 12 0
+50 2 0 P
+A
+1 -2
+A
+24 -6
+A
+19 3
+A
+18 3
+L
+5
+#7625
+Scale~
+A dark Scale~
+A dark Scale lies here.~
+black dragonscale~
+armor ABEHMQSTUY AJ
+11 11 11 11 0
+50 5 0 P
+F
+A 0 0 V
+A
+1 -2
+A
+13 25
+A
+19 4
+L
+2
+R
+M
+#7626
+Scaled claws~
+Scaled Claws~
+The rear claws of a deathwalk dragon lay here.~
+black dragonscale~
+armor GQSTUY AG
+11 11 11 11 0
+50 5 0 P
+A
+23 -5
+A
+18 1
+A
+19 2
+A
+13 -50
+F
+R 0 0 K
+A
+2 -2
+A
+14 -50
+L
+5
+#7627
+Easter egg key~
+a small Easter egg used as a key~
+A small Easter egg used as a key~
+egg~
+key QSTY AO
+0 0 0 0 0
+0 1 0 P
+L
+5
+#7628
+Fear~
+Fear~
+Fear lies before you in physical essence~
+etherealness~
+weapon AEGHJLQSTUY AN
+flail 9 6 chill BCEH
+52 2 0 P
+A
+24 -20
+F
+R 0 0 M
+F
+A 0 0 BEG
+A
+18 4
+A
+19 4
+A
+1 -2
+A
+2 -2
+L
+4
+#7629
+Hate~
+Hate~
+Hate lies here in physcial essence~
+etherealness~
+armor AEGHJLQSTU AB
+10 10 10 10 0
+52 1 0 P
+F
+A 0 0 a
+A
+4 -6
+A
+3 -6
+A
+13 50
+A
+19 7
+L
+3
+#7630
+Glaive Hope~
+Glaive Of Hope~
+A glaive lies here brandishing a light unchallangeable by others.~
+light laen~
+weapon ABGKLQSTY AN
+polearm 9 6 wrath DEF
+52 3 0 P
+F
+R 0 0 M
+A
+9 -15
+A
+4 4
+A
+17 -15
+A
+18 8
+A
+19 12
+L
+4
+#7631
+Shield Peace~
+Shield of Peace~
+A shield lies here unused in combat.~
+nothingness~
+armor ABGKLQSTY AJ
+20 20 20 20 0
+55 3 0 P
+F
+V 0 0 M
+F
+A 0 0 H
+A
+12 40
+A
+13 40
+A
+24 -25
+A
+18 -4
+A
+19 -4
+A
+2 8
+A
+1 5
+L
+2
+R
+Y
+#7632
+Axe Desruction~
+axe Of Destruction~
+A axe lies here, everything it touches disolves.~
+etherealness~
+weapon ABEHJMSTY AN
+axe 10 6 defilement CDH
+53 80 0 P
+F
+V 0 0 N
+F
+A 0 0 O
+A
+17 40
+A
+9 -8
+A
+1 3
+A
+18 10
+A
+19 12
+L
+4
+#7633
+Wrist Chain~
+Wrist Chain~
+A chain of blackend metal lies upon the ground here.~
+granite~
+armor AEJMSTY AM
+12 12 12 12 0
+52 3 0 P
+A
+18 4
+A
+19 4
+A
+17 25
+A
+1 -2
+L
+6
+#7634
+Ring Passage~
+Ring of Passage~
+A ring lies here allowing you to pass.~
+~
+key AEGHJ AB
+0 0 0 0 0
+0 5 0 P
+A
+24 -5
+A
+17 -10
+A
+13 10
+#7635
+Angel mace heavens~
+angel's Mace of the Heavens~
+A Mace glows briliantly as a light from the heavens shines down through the dark~
+etherealness~
+weapon AKSTY AN
+mace 7 9 divine DEG
+40 1 0 P
+A
+18 9
+A
+19 6
+A
+24 -15
+L
+10
+#7636
+Whip Angel~
+Ethereal Angel's Whip~
+A Whip of brilliant golden light lies here.~
+etherealness~
+weapon ABHKMQSTY AN
+whip 10 6 divine EG
+48 90 0 P
+A
+19 7
+F
+A 0 0 U
+A
+4 2
+A
+18 8
+L
+4
+#7637
+Vat bubbling~
+A Large Bubbling Vat~
+A large vat is bubbling in the Corner, a sign is on the side of the vat.~
+~
+container 0 N
+50 0 0 20 75
+0 5 0 P
+E
+sign~
+As you look closer to the vat and read the sign you get nauseus and begin 
+to 
+vommit. The sign says 0 Children Zombiefication Exlir0~
+#7638
+Easter Egg~
+Large Easter Egg~
+A large egg beutifully painted lies her.~
+Egg~
+weapon ABEHMQSTY AN
+exotic 8 8 drain CH
+58 5 0 P
+A
+23 -5
+A
+19 6
+A
+18 6
+L
+4
+#7639
+Turkey Head~
+Turkey's Head~
+A turkey's head lies here.~
+food~
+pill AQSTUY AO
+50 'imbue regeneration' 'static charge' 'spiderhands' 'giant strength'
+48 0 0 P
+L
+40
+#7640
+Tail~
+Barney's Tail~
+Barney's Tail lies here.~
+Childrens Souls~
+weapon ABEGHJMQSTY AN
+whip 10 6 darkwrath ADE
+55 50 0 P
+F
+R 0 0 M
+A
+1 -2
+A
+5 -2
+A
+19 5
+A
+18 5
+L
+4
+#7641
+Head Cap~
+Barney's Head~
+Barney's head lies here.~
+Childrens Souls~
+armor ABEGHJSTUY AEN
+-18 -18 -18 -18 0
+65 5 0 P
+F
+A 0 0 DEFG
+A
+23 -12
+A
+19 4
+A
+18 4
+A
+1 1
+L
+2
+#7642
+Skin~
+Barney's Skin~
+After skinning Barney it looks as though you could wear it as a cloak.~
+Childrens Souls~
+armor ABEHJQSTUY AK
+-18 -18 -18 -18 0
+65 10 0 G
+F
+R 0 0 FG
+F
+A 0 0 I
+A
+12 30
+A
+13 25
+A
+18 3
+A
+19 3
+L
+4
+#7643
+Scroll overkill~
+Scroll of Overkill~
+A dangerous scroll lies here.~
+parchment~
+scroll GQTY AO
+52 'acid breath' 'fire breath' 'gas breath' 'frost breath'
+51 2 0 P
+L
+2
+#7647
+Scroll Overkill Maximum~
+Scroll of Maximum Overkill~
+A scroll looks very very deadly on the ground.~
+parchment~
+scroll GQSTY AO
+60 '' 'acid breath' 'gas breath' ''
+51 5 0 P
+L
+2
+#7648
+Corpse~
+Corpse of a Turkey~
+A corpse of a turkey rests here , head strewn across the room.~
+~
+npc_corpse 0 N
+0 0 0 0 0
+0 5 0 P
+#7649
+Childs corpse~
+corpse~
+A small childs corpse lies here~
+~
+npc_corpse 0 N
+0 0 0 0 0
+0 5 0 P
+L
+6
+#7650
+Adventures corpse~
+An Adventures corpse~
+An adventures corpse lies here.~
+~
+npc_corpse 0 N
+0 0 0 0 0
+55 5 0 P
+E
+adventures corpse~
+The corpse looks riddled with bites and claws. Its blood pools around it's 
+head and bloody clots make it hard for you to step around it.~
+#7651
+Masters thong~
+Master's Thong~
+The Master's thong lies here.~
+hard leather~
+armor QSTY AL
+18 18 18 18 0
+52 5 0 P
+F
+I 0 0 A
+F
+A 0 0 P
+A
+23 0
+A
+12 -35
+A
+18 4
+A
+2 3
+A
+13 30
+A
+5 2
+#7652
+Inhibitions weapon masters~
+Inhibitions~
+The masters weapon Inhibitions lies here~
+adamantite~
+weapon STY AN
+mace 4 10 shbite CDGH
+51 50 0 P
+#7653
+Nature Wrath~
+nature's Wrath~
+A Large Weapon lies here glowing and radiating with power~
+Magic~
+weapon PSTUY AN
+mace 50 10 nature BCDE
+60 5 0 P
+A
+17 -1000
+A
+19 100
+A
+18 100
+A
+13 10000
+A
+12 10000
+#7654
+Broom~
+Broom~
+A broom lies here for sweeping.~
+softwood~
+weapon ABHSTY AN
+exotic 8 8 pound FG
+51 0 0 P
+F
+R 0 0 H
+A
+3 -3
+A
+24 -10
+A
+19 6
+A
+18 0
+#7655
+Feather Duster~
+Feather Duster~
+A feather duster Lies here~
+feathers~
+armor ABQSTY AO
+20 20 20 20 0
+51 1 0 P
+A
+3 -2
+A
+14 -200
+A
+12 100
+A
+13 100
+#7656
+colored pants~
+a pair of cut off colored pants~
+A pair of cutoff pants with colors of the rainbow shimmer and shine from the light around~
+cloth~
+armor AQUY AF
+18 18 18 18 0
+51 0 0 P
+A
+2 2
+A
+24 5
+A
+19 4
+A
+18 4
+L
+4
+#7657
+scaled belt~
+scaled belt~
+Scales from the dragon of death are shaped into a makeshift belt~
+Dragon scale~
+armor ABEJQY AL
+18 18 18 18 0
+0 2 0 P
+A
+1 3
+A
+19 4
+A
+18 4
+A
+13 20
+L
+5
+#7658
+scroll time space~
+a Scroll of Time and Space~
+A Scroll depicting time and space rolled tightly upon itself~
+parchment~
+scroll AQUY AO
+80 'shield' 'stone skin' 'displacement' 'imbue regeneration'
+51 1 0 P
+L
+5
+#7659
+Soul Crystal Encasement~
+soul's Crystal Encasement~
+A Crystal Encasement of Souls lies here in a sword shape~
+souls~
+weapon ABIJM AN
+sword 6 10 mental CDE
+52 0 0 P
+A
+12 25
+A
+13 25
+A
+18 8
+A
+19 8
+L
+3
+#7660
+Dark Scaled Key~
+a Key covered in dark dragonscales~
+A Key covered in dark dragonscales~
+dragon scale~
+key ABPQ AO
+0 0 0 0 0
+50 1 0 P
+#7661
+Ethereal Holy Key~
+holy Ethereal key~
+Holy Ethereal key lies here~
+Etherealness~
+key ABQ AO
+0 0 0 0 0
+60 2 0 P
+L
+1
+#7662
+child souls~
+childrens Souls Bound Inside a Crystal~
+Childrens Souls Bound Inside a Crystal lies upon the ground here~
+crystal~
+key AH AO
+0 0 0 0 0
+51 0 0 P
+L
+2
+#7663
+Throne Souls~
+throne Of Souls~
+A Crystal Throne swirling with Souls taken from those who dare stride within the Keeper's reach.~
+Crystal~
+container AE P
+100 ABCD 7664 10 100
+1 1 0 P
+#7664
+Crystal Key~
+a Small Crystal Key~
+A Small Crystal Key lies here.~
+crystal~
+key ABHMQU AO
+0 0 0 0 0
+50 1 0 P
+L
+3
+#7665
+Crystal Robes~
+crystal Robes~
+Crystal Robes lie here~
+Crystal~
+armor ABCMUYZ AS
+20 20 20 20 0
+52 2 0 P
+A
+1 1
+A
+2 2
+A
+17 -5
+A
+20 -10
+A
+19 2
+A
+18 5
+L
+4
+#7666
+no name~
+(no short description)~
+(no description)~
+unknown~
+scroll 0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#7600
+Standing on a beach.~
+Standing on a beach the water foams behind you. The sea writhing looks as 
+if it has a life of it's own. Mountains loom in the distance and a small path 
+heads up towards them to the North.
+~
+0 0 2
+D0
+~
+~
+0 -1 7601
+D2
+~
+~
+0 0 716
+S
+#7601
+Hills~
+Walking up the hills the path grows steeper and steeper. The green grasses 
+fading away to rocks and bolders. In the distance you can see a door 
+carved into the side of the mountain.
+~
+0 0 4
+D0
+~
+~
+0 -1 7602
+D2
+~
+~
+0 -1 7600
+S
+#7602
+Standing before an Iron bound door.~
+A huge Iron bound door cuts off the path into the mountain. Although as 
+old as the world itself, it looks as though it were made but yesterday. Beside 
+the door words of an unknown language are etched into the mountain. 
+Strange writings upon the walls around the door catches your eye.
+~
+0 0 4
+E
+writings~
+You see markings all over the walls scrawled in blood and feces.  You can
+make out only parts of words and phrases.  You can make out a phrase saying
+"Only Death and Dismemberment Lie Beyond.  Some other words you make out
+barely speaks of the Lord and paying Homage to meet him.  
+~
+D0
+~
+~
+4 7600 7603
+D2
+~
+~
+0 -1 7601
+S
+#7603
+Within the Mountain~
+As you step a foot within the room the door behind you closes and 
+dissapears completly. The room's air is stale and reeks of death. Nothing can be 
+heard not even your footsteps.
+~
+0 13 0
+D0
+~
+~
+3 -1 7604
+S
+#7604
+Corridor Crossing~
+Moving from the last room your footfalls sound as if beat upon drums. You
+feel tired and lethargic just moving between the rooms.The corridor runs 
+along to the east. The walls are black and smooth to the east they seem to 
+absorb all light that touches it. The corridor to the west is a red and 
+looks as though painted with blood itself. The Northern corridor shines a 
+blue that compared to the black almost blinds you . The exits to the 
+North, west and east a corridor long and seemingly endless lay.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7632
+D1
+~
+~
+0 -1 7605
+D2
+~
+~
+3 -1 7603
+D3
+~
+~
+0 -1 7631
+S
+#7605
+Black Corridor to the East~
+The corridor runs along to the east. The walls are black and smooth to the 
+touch they seem to absorb all light that touches it. The corridor 
+continues to the east and back to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7606
+D3
+~
+~
+0 -1 7604
+S
+#7606
+Black Corridor to the East~
+The corridor runs along to the east. The walls are black and smooth to the 
+touch they seem to absorb all light that touches it. The corridor 
+continues to the east and back to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7607
+D3
+~
+~
+0 -1 7605
+S
+#7607
+Black Corridor to the East~
+The corridor runs along to the east. The walls are black and smooth to the 
+touch and absorb all light that shines upon it. The corridor continues to 
+the east and back to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7608
+D3
+~
+~
+0 -1 7606
+S
+#7608
+Turn in the Black Corridor~
+The corridor comes to an end, the walls are so black they absorb the light 
+and you almost run into the end of the corridor. The corridor goes back to 
+the West or continues to the North
+~
+0 8201 0
+D0
+~
+~
+0 -1 7609
+D3
+~
+~
+0 -1 7607
+S
+#7609
+Two doors in the Black Corridor~
+Two doors in the walls are barely visable and made of something that 
+absorbs light like the walls. The doors have writing glowing upon the locks in 
+them. "Keeper of the Keys" read upon the door to the east and "Keeper of 
+Souls" read upon the door to the west. You can continue north in the 
+corridor or South.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7612
+D1
+~
+~
+4 -1 7610
+D2
+~
+~
+0 -1 7608
+D3
+~
+~
+4 7602 7611
+S
+#7610
+The Keepers Room~
+The room is bare save for a figure standing in the middle. A permenant 
+grin upon it's face as you enter.
+~
+0 8201 0
+D3
+~
+~
+4 -1 7609
+S
+#7611
+The Keepers Room~
+Bodies and carcases lie strewn about in this room.  Sitting upon a dark
+throne a figure stares at you making you blood run cold.  
+~
+0 8201 0
+D1
+~
+~
+4 7602 7609
+S
+#7612
+Black Corridor~
+The corridor moves to the North and South. The walls are black and smooth 
+to the touch absorbing all light cast upon them.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7613
+D2
+~
+~
+0 -1 7609
+S
+#7613
+Two doors in the Black Corridor~
+Two doors in the walls are barely visable and made of something that 
+absorbs light like the walls.  You can continue north in the corridor or South.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7616
+D1
+~
+~
+4 7602 7614
+D2
+~
+~
+0 -1 7612
+D3
+~
+~
+4 7602 7615
+S
+#7614
+Watchers Room~
+Within the room a lone man stand faceing a glowing ball upon a pedestal. 
+The man looks as if to be looking into the past and future at the same time 
+images flicker about the ball , making you dizzy.
+~
+0 8201 0
+D3
+~
+~
+4 7602 7613
+S
+#7615
+Cleric's Room~
+Within the room object of clerical prayers and spiritual summonings adorn 
+the walls. Standing within the room is the head cleric. You can go back 
+out 
+to the east.
+~
+0 8201 0
+D1
+~
+~
+4 7602 7613
+S
+#7616
+Turn in the Black Corridor~
+The Black corridor turns. You can go to the west or to the south.
+~
+0 8201 0
+D2
+~
+~
+0 -1 7613
+D3
+~
+~
+0 -1 7617
+S
+#7617
+Black Corridor~
+The walls are black and smooth to the touch they seem to absorb all light 
+that touches it. The corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7616
+D3
+~
+~
+0 -1 7618
+S
+#7618
+Black Corridor~
+The walls are black and smooth to the touch they seem to absorb all light 
+that touches it. The corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7617
+D3
+~
+~
+0 -1 7619
+S
+#7619
+Black Corridor~
+The walls are black and smooth to the touch they seem to absorb all light 
+that touches it. The corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7618
+D3
+~
+~
+0 -1 7620
+S
+#7620
+Crossing of the Corridors~
+The corridors come to a cross in this room, each one of the colors give 
+way to the grey in the room. To the south is the red the east is the black and 
+to the west is blue. To the north the grey continues.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7639
+D1
+~
+~
+0 -1 7619
+D2
+~
+~
+0 -1 7636
+D3
+~
+~
+0 -1 7621
+S
+#7621
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7620
+D3
+~
+~
+0 -1 7622
+S
+#7622
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7621
+D3
+~
+~
+0 -1 7623
+S
+#7623
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7622
+D3
+~
+~
+0 -1 7624
+S
+#7624
+Turn In The Blood Corridor~
+The corridor comes to an end and the walls seem as if they writh and drip 
+the blood upon the ground. The corridor goes  to the south or to the east.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7623
+D2
+~
+~
+0 -1 7625
+S
+#7625
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the south and to the north.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7624
+D2
+~
+~
+0 -1 7626
+S
+#7626
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the south and to the north.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7625
+D2
+~
+~
+0 -1 7627
+S
+#7627
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the south and to the north.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7626
+D2
+~
+~
+0 -1 7628
+S
+#7628
+Turn In The Blood Corridor~
+The corridor comes to an end and the walls seem as if they writh and drip 
+the blood upon the ground. The corridor goes to the north or to the east.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7627
+D1
+~
+~
+0 -1 7629
+S
+#7629
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7630
+D3
+~
+~
+0 -1 7628
+S
+#7630
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7631
+D3
+~
+~
+0 -1 7629
+S
+#7631
+Blood Corridor~
+The walls are blood red and looks as though painted with blood itself. The 
+corridor continues to the east and to the west.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7604
+D3
+~
+~
+0 -1 7630
+S
+#7632
+Blue Corridor~
+The Corridor is a blue so deep and vibrant not even the oceans could give 
+it justice. Doors line the corridor to the east and west.  Upon the Locks are 
+markings.The language is the Same as upon the Entrance door. It sounds 
+within your mind. The door to the east speaks "Ringkeeper's Room" and the 
+Door to the west speaks "Library Room". 
+~
+0 8201 0
+D0
+~
+~
+0 -1 7635
+D1
+~
+~
+4 -1 7634
+D2
+~
+~
+0 -1 7604
+D3
+~
+~
+4 7606 7633
+S
+#7633
+Blue Library~
+Shelves upon shelves of books line the room. Books that are now a blue hue 
+from the light of the walls in the room. A lone Custodian keeps the books 
+prestine.
+~
+0 8201 0
+D1
+~
+~
+4 7606 7632
+S
+#7634
+Ringkeeper's Room~
+This room houses the blue ringkeeper. He guards the keys upon his belt 
+with his life and eyes you suspicously as you walk in.
+~
+0 8201 0
+D3
+~
+~
+4 -1 7632
+S
+#7635
+Blue Corridor~
+The Corridor is a blue so deep and vibrant not even the oceans could give 
+it justice. The corridor continues to the south and to the north.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7636
+D2
+~
+~
+0 -1 7632
+S
+#7636
+Blue Corridor~
+The Corridor is a blue so deep and vibrant not even the oceans could give 
+it justice. Doors line the corridor to the east and west.  Upon the Locks are 
+markings.The language is the Same as upon the Entrance door. It sounds 
+within your mind. The door to the east speaks "Slaves Room" and the Door 
+to the west speaks "Master's Room".
+~
+0 8201 0
+D0
+~
+~
+0 -1 7620
+D1
+~
+~
+4 7617 7638
+D2
+~
+~
+0 -1 7635
+D3
+~
+~
+4 7606 7637
+S
+#7637
+Master's Room~
+In this room a obese man lays upon pillows and blankets and is waited upon 
+by his harem girls.
+~
+0 8201 0
+D1
+~
+~
+4 7606 7636
+S
+#7638
+Slaves Room~
+In this room you see the harem girls that have disobeyed or lost thier 
+use. They are tied up and are bled into a drain in the floor. They are 
+kept alive barely..
+~
+0 8201 0
+D3
+~
+~
+4 7617 7636
+S
+#7639
+Grey Room~
+The room looks of a dull grey, it seems as though there once was color 
+upon the walls but it has been stripped somehow.. You look up and you can see 
+the green of the grass outside, it shimmers and flickers for a moment. You can 
+not see anything down and a voice booms within your head " Last chance to
+getting out, there is no going back once you go down." You can go south ,
+or down.
+~
+0 8205 1
+D2
+~
+~
+0 -1 7620
+D5
+~
+~
+0 -1 7640
+S
+#7640
+Dismal room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D3
+~
+~
+0 -1 7641
+S
+#7641
+Dismal room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7640
+D3
+~
+~
+0 -1 7642
+S
+#7642
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7641
+D3
+~
+~
+0 -1 7643
+S
+#7643
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east, west or north. All seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+3 -1 7644
+D1
+~
+~
+0 -1 7642
+D3
+~
+~
+0 -1 7646
+S
+#7644
+Guard Room~
+Standing in the room are guards weeping uncontrolably. You can tell that 
+they have been here a long time.
+~
+0 8201 1
+D2
+~
+~
+3 -1 7643
+D3
+~
+~
+4 7623 7645
+S
+#7645
+Prisoner's Room~
+The room is dank and dismal it looks clean, a bit too clean...
+~
+0 8201 1
+D1
+~
+~
+4 7623 7644
+S
+#7646
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7643
+D3
+~
+~
+0 -1 7647
+S
+#7647
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7646
+D3
+~
+~
+0 -1 7648
+S
+#7648
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 9225 1
+D1
+~
+~
+0 -1 7647
+D3
+~
+~
+0 -1 7649
+S
+#7649
+Dismal Corner~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and north both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7650
+D1
+~
+~
+0 -1 7648
+S
+#7650
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east, north and south all seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7652
+D1
+~
+~
+4 7623 7651
+D2
+~
+~
+0 -1 7649
+S
+#7651
+Demon room~
+The walls seem to breath and move with the demon that fades slowly into 
+view through the protal on the wall.
+~
+0 8201 1
+D3
+~
+~
+4 7623 7650
+S
+#7652
+Dismal room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the north and south both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7653
+D2
+~
+~
+0 -1 7650
+S
+#7653
+Dismal room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east, north and south all seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7655
+D1
+~
+~
+4 -1 7654
+D2
+~
+~
+0 -1 7652
+S
+#7654
+Demon Room~
+The walls shimmer and flash as the protal at the end of the room bursts to 
+life as you enter.
+~
+0 8201 1
+D3
+~
+~
+4 7623 7653
+S
+#7655
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the north and south both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7656
+D2
+~
+~
+0 -1 7653
+S
+#7656
+Dismal Corner~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and south both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7657
+D2
+~
+~
+0 -1 7655
+S
+#7657
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7658
+D3
+~
+~
+0 -1 7656
+S
+#7658
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7659
+D3
+~
+~
+0 -1 7657
+S
+#7659
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 9225 1
+D1
+~
+~
+0 -1 7660
+D3
+~
+~
+0 -1 7658
+S
+#7660
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7661
+D3
+~
+~
+0 -1 7659
+S
+#7661
+Dismal Room~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the east and west both seem as utterly hopeless to continue down.
+~
+0 8201 1
+D1
+~
+~
+0 -1 7662
+D3
+~
+~
+0 -1 7660
+S
+#7662
+Dismal Intersection~
+You feel burdened by some unseen force here. You can barely keep you legs 
+under you as you take a few steps to get used to the weakness. You can go 
+to the north, east and west all seem as utterly hopeless to continue down.
+~
+0 8201 1
+D0
+~
+~
+0 0 7663
+D3
+~
+~
+0 -1 7661
+S
+#7663
+Down to the Death Walk~
+As you enter the room your uneasyness gets worse, your stomach begins to 
+heave and sway and your eyes get blurry. You can go south or go down to 
+death.
+~
+0 8205 1
+D5
+~
+~
+0 -1 7664
+S
+#7664
+Death Walk~
+This is your walk of death, there is no life beyond this, there is no love 
+no hope, only your death.
+~
+0 8201 1
+D4
+~
+~
+0 -1 7663
+D5
+~
+~
+0 -1 7665
+S
+#7665
+Death Walk~
+This is your walk of death, there is no life beyond this, there is no love 
+no hope, only your death.
+~
+0 8201 1
+D4
+~
+~
+0 -1 7664
+D5
+~
+~
+0 -1 7666
+S
+#7666
+Death Walk~
+This is your walk of death, there is no life beyond this, there is no love 
+no hope, only your death.
+~
+0 8201 1
+D4
+~
+~
+0 -1 7665
+D5
+~
+~
+0 -1 7667
+S
+#7667
+Death Walk~
+This is your walk of death, there is no life beyond this, there is no love 
+no hope, only your death.
+~
+0 8201 1
+D4
+~
+~
+0 -1 7666
+D5
+~
+~
+0 -1 7668
+S
+#7668
+Death walk~
+This is your walk of death, there is no life beyond this, there is no love 
+no hope, only your death. The walk comes to an end with a giant dragon 
+standing infront of a door.
+~
+0 8201 1
+D1
+~
+~
+4 7660 7669
+D4
+~
+~
+0 -1 7667
+S
+#7669
+Beyond the Dragon Door~
+Takeing a few deep breaths you seem to feel better than before the door. 
+You gain you footing and the nausea has gone away.. hopefully the worst is 
+over, you hope. You can continue to the east.
+~
+0 8205 1
+D1
+~
+~
+0 -1 7670
+S
+#7670
+Walk of Tranquility~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the east and west
+~
+0 8201 1
+D1
+~
+~
+0 -1 7671
+D3
+~
+~
+0 -1 7669
+S
+#7671
+Turn In The Walk Of Tranqulity~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the north and west.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7672
+D3
+~
+~
+0 -1 7670
+S
+#7672
+Walk Of Tranquility~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the north and south.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7673
+D2
+~
+~
+0 -1 7671
+S
+#7673
+Turn In the Walk Of Tranquility~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the west and south.
+~
+0 8201 1
+D2
+~
+~
+0 -1 7672
+D3
+~
+~
+0 -1 7674
+S
+#7674
+Turn In the Walk Of Tranquilty~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the north and east.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7675
+D1
+~
+~
+0 -1 7673
+S
+#7675
+Walk Of Tranquility~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the north and south.
+~
+0 9225 1
+D0
+~
+~
+0 -1 7676
+D2
+~
+~
+0 -1 7674
+S
+#7676
+Tranquil Room~
+In this room you feel more at peace than you ever have. The room seems to 
+be basked in an aura comming from the doors on the west and east. You can 
+continue to the north , east , west and south.
+~
+0 8201 1
+D0
+~
+~
+0 -1 7679
+D1
+~
+~
+4 7661 7678
+D2
+~
+~
+0 -1 7675
+D3
+~
+~
+4 7661 7677
+S
+#7677
+Golden Room~
+In this room the light is golden and fresh. You realize this is not just a 
+room, but a prison. It is the prison for Hope. You can go back out to the 
+east.
+~
+0 8201 1
+D1
+~
+~
+4 -1 7676
+S
+#7678
+Silver Room~
+In this room the silver fills you with a sense of peace more other than 
+you have ever felt before. It is so lovely and beautifull in the room you 
+could lay down and sleep forever. You can go back out to the west.
+~
+0 8201 1
+D3
+~
+~
+4 7661 7676
+S
+#7679
+Blessed Walkway~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the north and south.
+~
+0 9225 1
+D0
+~
+~
+0 -1 7680
+D2
+~
+~
+0 -1 7676
+S
+#7680
+Turn In The Blessed Walkway~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the west and south.
+~
+0 9225 1
+D2
+~
+~
+0 -1 7679
+D3
+~
+~
+0 -1 7681
+S
+#7681
+Turn In the Blessed Walkway~
+The room is blessed and seems to have a light of it's own, it fills you 
+with serentiy and peace. You know that your journey has been for naught if but 
+you can bask in the light here. The path continues to the north and east.
+~
+0 9225 1
+D0
+~
+~
+0 -1 7682
+D1
+~
+~
+0 -1 7680
+S
+#7682
+End Of The Blessed Walkway.~
+Standing in this room the peace and hopefull feeling you had diminishes. 
+The fear and vomitus rise again in you chest. The Door before you stands thick 
+and well insulated. No light plays before it nor does any come from within 
+it's hinges. A lone guard stands before the doorway above.
+~
+0 8201 1
+D2
+~
+~
+0 -1 7681
+D4
+~
+~
+4 7634 7684
+S
+#7684
+Top Of The Stairs~
+At the top of the stairs the darkness overwhelms you. A great fog covers 
+the Door to the room to the South.
+~
+0 13 1
+D2
+~
+~
+4 7634 7688
+S
+#7685
+Fog~
+This room Make you queezy, you can not tell up from down or left from 
+right.
+~
+0 532493 1
+D1
+~
+~
+0 -1 7686
+D3
+~
+~
+4 0 7688
+S
+#7686
+Other Side of the Fog~
+Fog passes by your face as you step near the exit to the west. You can 
+continue into the blackness to the east.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7689
+D3
+~
+~
+0 -1 7685
+S
+#7687
+ThankGiving Turkey's Room~
+As you look in this room ThanksGiving turkeys run around with their heads 
+chopped off.
+~
+0 8201 0
+D1
+~
+~
+4 0 7688
+S
+#7688
+Easter Bunny's Secret Lair~
+This room is filled with large colourfull eggs, candy lines shelves from 
+one wall to another. There are some large vats bubbling in the corner of the 
+room, as a large bunny stirs.
+~
+0 8201 1
+D0
+~
+~
+4 7634 7684
+D1
+~
+~
+4 7627 7685
+D3
+~
+~
+4 7627 7687
+S
+#7689
+Hallway to the End~
+The halway streches east and you stomach turns you know you are near the 
+source of all this darkness. You can go west to the fog.
+~
+0 8201 0
+D1
+~
+~
+0 -1 7690
+D3
+~
+~
+0 -1 7686
+S
+#7690
+Turn in Hallway to the End~
+The Hallway Curves towards the south from the west.
+~
+0 9 0
+D2
+~
+~
+0 -1 7691
+D3
+~
+~
+0 -1 7689
+S
+#7691
+Hallway to the End.~
+The halway streches south and you stomach turns you know you are near the 
+source of all this darkness. You can go north and the feeling lifts a 
+little 
+bit.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7690
+D2
+~
+~
+0 -1 7692
+S
+#7692
+Door Before the End~
+The door is large and pitted , something has beaten against this door many 
+a times and has been burned and etched with magics and weapons. Behind it 
+you know lies the root of all this death and evil.
+~
+0 8201 0
+D0
+~
+~
+0 -1 7691
+D2
+~
+~
+4 7634 7693
+S
+#7693
+Barney's Room~
+Yes it is Barney, the true evil of the land , he pretended to be a lovable 
+childs toy but twisted and turned their fragile little minds.
+~
+0 8201 0
+D0
+~
+~
+4 7634 7692
+D5
+~
+~
+4 7662 7694
+S
+#7694
+Room Beyond Barney~
+In this room the light sheds upon you again, the worst is over and you 
+know you have defeated you worst demons... You are safe for now
+<<< Till BARNEY RETURNS!!!>>>
+~
+0 4 0
+D4
+~
+~
+4 -1 7693
+S
+#0
+
+
+
+#SPECIALS
+M 7600 spec_breath_any
+M 7601 spec_cast_undead
+M 7602 spec_breath_fire
+M 7603 spec_cast_cleric
+M 7604 spec_cast_mage
+M 7606 spec_cast_mage
+M 7608 spec_guard
+M 7609 spec_guard
+M 7610 spec_guard
+M 7611 spec_breath_acid
+M 7612 spec_breath_fire
+M 7613 spec_breath_fire
+M 7614 spec_breath_any
+M 7615 spec_breath_any
+M 7616 spec_breath_any
+M 7617 spec_cast_undead
+M 7618 spec_guard
+M 7619 spec_cast_mage
+M 7620 spec_breath_gas
+M 7621 spec_thief
+M 7622 spec_breath_any
+M 7623 spec_breath_acid
+S
+
+
+
+#RESETS
+D 0 7602 0 2
+D 0 7603 0 1
+D 0 7604 2 1
+D 0 7609 1 1
+D 0 7609 3 2
+D 0 7610 3 1
+D 0 7611 1 2
+D 0 7613 1 2
+D 0 7613 3 2
+D 0 7614 3 2
+D 0 7615 1 2
+D 0 7632 1 1
+D 0 7632 3 2
+D 0 7633 1 2
+D 0 7634 3 1
+D 0 7636 1 2
+D 0 7636 3 2
+D 0 7637 1 2
+D 0 7638 3 2
+D 0 7643 0 1
+D 0 7644 2 1
+D 0 7644 3 2
+D 0 7645 1 2
+D 0 7650 1 2
+D 0 7651 3 2
+D 0 7653 1 2
+D 0 7654 3 2
+D 0 7668 1 2
+D 0 7676 1 2
+D 0 7676 3 2
+D 0 7677 1 2
+D 0 7678 3 2
+D 0 7682 4 2
+D 0 7684 2 2
+D 0 7685 3 2
+D 0 7687 1 2
+D 0 7688 0 2
+D 0 7688 1 2
+D 0 7688 3 2
+D 0 7692 2 2
+D 0 7693 0 2
+D 0 7693 5 2
+D 0 7694 4 2
+M 0 7600 1 7602 1
+E 0 7600 0 17
+E 0 7601 0 16
+M 0 7608 20 7604 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7608 20 7605 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7609 4 7606 1
+E 0 7608 0 5
+E 0 7610 0 6
+E 0 7609 0 7
+M 0 7608 20 7607 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7602 1 7610 1
+E 0 7611 0 16
+G 0 7602 0
+M 0 7601 1 7611 1
+G 0 7659 0
+G 0 7664 0
+O 0 7663 0 7611
+P 0 7665 1 7663 1
+M 0 7608 20 7612 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7604 1 7614 1
+E 0 7603 0 16
+E 0 7605 0 17
+G 0 7616 0
+G 0 7658 0
+M 0 7603 1 7615 1
+E 0 7604 0 12
+M 0 7608 20 7617 2
+E 0 7614 0 16
+E 0 7613 0 5
+M 0 7608 20 7620 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7608 20 7629 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7609 4 7630 1
+E 0 7608 0 5
+E 0 7610 0 6
+E 0 7609 0 7
+M 0 7608 20 7631 2
+E 0 7613 0 5
+E 0 7614 0 16
+O 0 7607 0 7633
+M 0 7623 1 7633 1
+E 0 7654 0 16
+G 0 7655 0
+M 0 7607 1 7634 1
+E 0 7606 0 17
+E 0 7612 0 16
+M 0 7608 20 7636 2
+E 0 7613 0 5
+E 0 7614 0 16
+M 0 7605 20 7637 3
+G 0 7615 0
+M 0 7605 20 7637 3
+G 0 7615 0
+M 0 7605 20 7637 3
+G 0 7615 0
+M 0 7606 1 7637 1
+E 0 7651 0 13
+G 0 7652 0
+G 0 7617 0
+M 0 7605 20 7638 5
+G 0 7615 0
+M 0 7605 20 7638 5
+G 0 7615 0
+M 0 7605 20 7638 5
+G 0 7615 0
+M 0 7605 20 7638 5
+G 0 7615 0
+M 0 7610 3 7644 2
+E 0 7620 0 4
+E 0 7618 0 5
+E 0 7619 0 9
+E 0 7621 0 16
+M 0 7610 3 7644 1
+E 0 7620 0 4
+E 0 7618 0 5
+E 0 7619 0 9
+E 0 7621 0 16
+E 0 7623 0 17
+M 0 7611 1 7645 1
+G 0 7622 0
+M 0 7612 1 7651 1
+G 0 7628 0
+M 0 7613 1 7654 1
+E 0 7629 0 1
+O 0 7650 0 7664
+O 0 7650 0 7665
+O 0 7650 0 7666
+O 0 7650 0 7667
+M 0 7614 1 7668 1
+E 0 7626 0 8
+E 0 7624 0 10
+E 0 7657 0 13
+G 0 7660 0
+E 0 7625 0 11
+O 0 7650 0 7668
+M 0 7618 6 7672 1
+E 0 7635 0 16
+M 0 7618 6 7674 1
+E 0 7635 0 16
+M 0 7619 1 7675 1
+E 0 7636 0 16
+G 0 7661 0
+M 0 7618 6 7676 1
+E 0 7635 0 16
+M 0 7615 1 7677 1
+E 0 7630 0 16
+M 0 7616 1 7678 1
+E 0 7631 0 11
+M 0 7618 6 7679 1
+E 0 7635 0 16
+M 0 7618 6 7680 1
+E 0 7635 0 16
+M 0 7618 6 7681 1
+E 0 7635 0 16
+M 0 7617 1 7682 1
+E 0 7633 0 14
+E 0 7633 0 15
+E 0 7632 0 16
+E 0 7634 0 1
+R 0 7685 2
+M 0 7621 6 7687 6
+G 0 7639 0
+O 0 7648 0 7687
+O 0 7648 0 7687
+O 0 7648 0 7687
+O 0 7637 0 7688
+M 0 7620 1 7688 1
+E 0 7638 0 16
+E 0 7656 0 7
+G 0 7627 0
+M 0 7622 1 7693 1
+E 0 7641 0 6
+E 0 7642 0 12
+G 0 7640 0
+G 0 7662 0
+E 0 7643 0 17
+O 0 7649 0 7693
+O 0 7649 0 7693
+O 0 7649 0 7693
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#7600
+say So you wish to enter my Lords domain do you?
+emote give $n a toothy grin.
+~
+#7601
+IF isevil $n
+say So you wish to pay hommage to the Lord? 
+mob oload 7600
+give key $n
+say You may see him, $n. As long as you are deamed worthy..
+ELSE
+say You Think I am a fool?
+mob cast sleep $n
+ENDIF
+~
+#0
+
+#$

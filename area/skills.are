@@ -1,0 +1,1182 @@
+#AREADATA
+Name Skills~
+Builders None~
+VNUMs 2900 2999
+Credits (Imm) Odd Stuff~
+Security 9
+End
+
+
+
+#MOBILES
+#2901
+zombie~
+the zombie~
+A zombie stands rotting here, awaiting his masters command.
+~
+White bones peek out from beneath tattered rags as he grins at you with
+a malevolent aura.
+~
+human~
+AOT J -1000 0
+45 5 25d10+3000 4d10+100 4d4+1 none
+-10 -10 -10 -10
+CDFJ ABLQ 0 0
+stand stand male 500
+AHIMV ABCDEFGHIJKL medium 0
+#2902
+fire elemental~
+a fire elemental~
+A burning column of flames stands here.
+~
+Like a huge bonfire he stands there burning, the heat he emits is overwhelming
+to you. 
+~
+human~
+AT J -1000 0
+45 5 25d10+3000 4d10+100 5d4+1 flbite
+-10 -10 -10 -10
+CDFJ ABHL 0 I
+stand stand male 500
+AHMV ABCDEFGHIJKL medium 0
+#2903
+water elemental~
+a water elemental~
+A mass of surging water is here.
+~
+Shaped from salt water it stands here, gurgling and swirling. Awaiting his
+masters command.
+~
+human~
+AT J -1000 0
+45 5 25d10+3000 4d10+100 5d4+3 frbite
+-10 -10 -10 -10
+CDFJ ABR I H
+stand stand male 500
+AHMV ABCDEFGHIJKL medium 0
+#2904
+air elemental~
+an air elemental~
+A violent vortex of swirling air is here.
+~
+Seemingly made of pure air, it twirls about here awaiting for its masters
+mere word to do his bidding.
+~
+human~
+AT J -1000 0
+45 5 25d10+3000 4d10+100 4d4+3 beating
+-10 -10 -10 -10
+CDFJ ABLQ 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKL medium 0
+#2905
+earth elemental~
+an earth elemental~
+A huge mass of solid earth stands here.
+~
+A tall mass of earth moves slowly here, with roots and small branches
+mixxed in with the dirt it makes quiet an impressive sight.
+~
+human~
+AT J -1000 0
+45 5 25d10+3000 4d10+100 4d4+4 crush
+-10 -10 -10 -10
+CDFJ ABLQ 0 0
+stand stand male 500
+AHMV ABCDEFGHIJKL medium 0
+#2906
+falcon~
+a falcon~
+A majestic looking falcon circles overhead.
+~
+With fine feathers he looks young, his eyes dart quickly to and fro looking
+for danger..or for dinner. 
+~
+unique~
+AT JT 0 0
+1 0 25d10+3000 4d10+100 4d4+1 claw
+-10 -10 -10 -10
+0 AR 0 J
+stand stand either 0
+0 0 small 0
+#2907
+wolf~
+a wolf~
+A grey wolf stands here, snarling softly.
+~
+A thick heavy coat covers this beast and long sharp teeth protrude from his
+mouth. Making him look like something that is best seen, and not touched.
+~
+dog~
+AT JV 0 0
+1 0 25d10+3000 4d10+100 4d4+1 bite
+-10 -10 -10 -10
+H AR 0 J
+stand stand either 0
+AGV ACDEFHJKUV small 0
+#2908
+bear~
+a bear~
+A large bear is here, sharpening is claws on the ground.
+~
+Larger then most men he towers above almost anything. Sharp claws, sharp
+teeth. One word sums it all up...sharp.
+~
+bear~
+AT J 0 0
+1 0 25d10+3000 4d10+100 6d4+1 none
+-10 -10 -100 -100
+DEKO AR EI 0
+stand stand either 0
+AGV ABCDEFHJKUV large 0
+#2909
+lion~
+a lion~
+A large mountain lion stands here, eyeing you suspiciously.
+~
+It looks very mean, with sharp claws and intelligent eyes you'd better think
+twice before tangling with it.
+~
+cat~
+AT JZ 0 0
+1 0 25d10+3000 4d10+100 4d4+1 slash
+-10 -10 -100 -100
+DFHK AR 0 0
+stand stand either 0
+AGV ACDEFHJKQUV medium 0
+#2910
+guard special~
+a special guard~
+A special guard is standing here.
+~
+Selected from the strongest guard corp, these guards will stop at nothing
+to protect and uphold the law.
+~
+human~
+AT DFJ 1000 0
+51 30 15d15+350 1d1+200 1d1+35 slash
+-10 -10 -10 -8
+DEKN 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0
+#2911
+flesh golem~
+a flesh golem~
+A disgusting mass of stitched flesh stands here.
+~
+The product of some twisted mage who has been tampering with the powers 
+of necromancy. This horrible being is not quite alive, yet also not dead.
+~
+human~
+AT 0 0 0
+1 0 25d10+3000 4d10+100 3d6+8 slash
+-10 -10 -10 -10
+0 AR 0 J
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0
+#2912
+spirit unicorn~
+a spirit unicorn~
+A powerful white unicorn is here.
+~
+This unicorn is the spirit familiar of it's mortal form, summoned by a 
+master of the arcane arts to serve as a familiar on the mortal planes.~
+human~
+AR DF 0 0
+1 0 25d10+3000 25d10+3000 3d6+8 pierce
+-10 -10 -10 -10
+0 AB 0 J
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0
+#2913
+spirit dragon~
+a spirit dragon~
+A strange dragon is here.
+~
+This familiar is the spirit familiar of it's mortal form, summoned by a 
+master of the arcane arts to serve as a familiar on the mortal planes.~
+human~
+AR DF 0 0
+1 0 25d10+3000 25d10+3000 3d6+8 slash
+-10 -10 -10 -10
+0 AB 0 J
+stand stand either 0
+AHMV ABCDEFGHIJK giant 0
+#2914
+shadow~
+a shadow~
+The shadow of %s has been severed and given substance.
+~
+A strange moving shadow is standing here restlessly, every few moments you 
+think you can make out a face below it's veil of darkness but as quickly 
+as it appears it is gone again.~
+human~
+AT 0 0 0
+0 0 1d1+1 1d1+1 1d1+1 chill
+10 10 10 10
+0 B 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#2915
+iron golem~
+an iron golem~
+A large iron golem is here.
+~
+The product of some twisted mage who has been tampering with the powers 
+of necromancy. This horrible being is not quite alive, yet also not dead.
+~
+human~
+AT 0 0 0
+1 0 25d10+3000 4d10+100 3d6+8 slash
+-10 -10 -10 -10
+0 AR 0 J
+stand stand either 0
+AHMV ABCDEFGHIJK medium 0
+#2916
+decoy~
+a decoy~
+The shadow of %s has been severed and given substance.
+~
+This life sized, scaled dummy looks exactly like someone...yet it also is
+strangely silent and unmoving.
+~
+human~
+AT 0 0 0
+0 0 1d1+1 1d1+1 1d1+1 chill
+10 10 10 10
+0 B 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#2917
+armor~
+a piece of armor~
+A large piece of armor is here.
+~
+This piece of armor seems to be impossibly alive. It floats in the air with
+a life of it's own, awaiting it's creator's command.
+~
+human~
+AGT 0 0 0
+1 -5 1d1+1 1d1+100 2d4+1 beating
+-18 -17 -17 -15
+V AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#2918
+weapon~
+an animated weapon~
+A living weapon floats here.
+~
+This weapon seems to be impossibly alive. It floats in the air with a life of
+it's own, awaiting it's creator's command.
+~
+human~
+AGT 0 0 0
+1 3 1d1+1 1d1+100 2d4+1 none
+-7 -7 -7 -5
+V AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#2919
+key~
+an animated key~
+A key is floating here.
+~
+This key seems to be impossibly alive. It floats in the air with a life of
+it's own, awaiting it's creator's command.
+~
+human~
+AGT 0 0 0
+1 -6 1d1+1 1d1+100 2d4+1 none
+0 0 0 0
+V AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny 0
+#2920
+fire giant slave~
+a fire-giant slave~
+A boughten fire-giant slave stands here.
+~
+A dark fire-giant stands here.  His entire body caked with dirt.  He
+peers around himself trying to be useful to his master.  
+~
+fire~
+AFGT DEF -1000 0
+45 0 25d10+3000 1d1+100 8d4+16 drain
+-15 -15 -15 -5
+CDEGK ABILM DEH IJNOPS
+stand stand male 0
+AHMV ABCDEFGHIJK giant 0
+#2921
+skeleton~
+the skeleton~
+A zombie stands rotting here, awaiting his masters command.
+~
+The bones of this undead are pristine clean and move with an impossible
+life of their own. Small burning points of red reside within the eye
+sockets, gleaming with dark magic.
+ ~
+human~
+AOT J -1000 0
+45 5 25d10+3000 4d10+100 4d4+1 none
+-10 -10 -10 -10
+CDFJ ABLQ 0 0
+stand stand male 500
+AHIMV ABCDEFGHIJKL medium 0
+#2922
+mummie mummy~
+the mummy~
+A disgusting bloody mummy is here.
+~
+The tatttered and bloody remains of a corpse is here bound together by
+ragger bits of cloth. A dark set of hollow eyes stare back at you
+menacingly.
+~
+human~
+AOT J -1000 0
+45 5 25d10+3000 4d10+100 6d7+1 pound
+-10 -10 -10 -10
+CDFJ ABLQ 0 0
+stand stand male 500
+AHIMV ABCDEFGHIJKL medium 0
+#2923
+shadow~
+a shadow~
+The shadow of %s has been severed and given substance.
+~
+A strange moving shadow is standing here restlessly, every few moments you 
+think you can make out a face below it's veil of darkness but as quickly 
+as it appears it is gone again.~
+human~
+AT 0 0 0
+0 0 1d1+1 1d1+1 5d6+1 chill
+100 100 100 100
+K ABILMPQ 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#2924
+slave purgatory~
+a slave of purgatory~
+A dark figure floats here, lurking amongst the shadows.
+~
+*growl*
+~
+unique~
+AHIT DFJT -1000 0
+55 35 25d10+4000 1d1+200 8d6+45 drain
+-22 -22 -22 -15
+ACGIKNO AB 0 0
+stand stand either 0
+0 0 giant 0
+#2925
+stalker guard~
+the stalker~
+A stalker stands here, red with anger!
+~
+Angry, very angry.
+~
+unique~
+Ac DFHJPTUVc 1000 0
+1 3 1d1+0 1d1+0 1d1+0 slash
+0 0 0 0
+CEFIJKNO AB M 0
+stand stand male 0
+0 0 medium 0
+#2926
+beast~
+a beast~
+A great beast stands here, impatiently clawing at the ground.
+~
+A snarling ball of claws, teeth, and fur stand before you, you should
+think twice before making it mad.
+~
+dog~
+AT JV 0 0
+1 0 25d10+3000 4d10+100 4d4+1 bite
+-10 -10 -10 -10
+H AR 0 J
+stand stand either 0
+AGV ACDEFHJKUV small 0
+#2927
+storm~
+an electric storm~
+A storm rages on here.
+~
+This is a mighty storm made by magic.
+~
+human~
+AT JV 0 0
+1 0 25d10+1000 1d1+0 4d4+9 bite
+0 0 0 0
+0 AR 0 J
+stand stand either 0
+AHMV ABCDEFGHIJK small 0
+#2928
+blizzard~
+a raging blizzard~
+A blizzard rages on.
+~
+This is a blizzard.
+~
+human~
+AT JV 0 0
+1 0 25d100+1 1d1+0 1d1+1 bite
+0 0 0 0
+0 AR 0 J
+stand stand either 0
+AHMV ABCDEFGHIJK small 0
+#2929
+phantom~
+the phantom~
+A phantom flickers brightly here!
+~
+Ethereal Translucense
+~
+unique~
+Ac 0 0 0
+1 3 1d1+0 1d1+0 1d1+0 claw
+0 0 0 0
+0 0 0 0
+stand stand either 0
+AHMV 0 medium 0
+#2930
+RATTLESNAKE~
+A large Rattlesnake~
+A large Rattlesnake is coiled here.
+~
+A large snake coils tightly shaking it's tail with a errie rattle sending shivers down your spine
+~
+snake~
+AI PZc 0 0
+51 0 10d10+100 1d1+50 10d10+25 bite
+1 1 1 1
+DFHLM 0 L I
+stand stand none 2
+AGXYc ADEFKLQVX medium unknown
+#2931
+SPRITE~
+A radiant Sprite~
+A small radiant Sprite stands here.
+~
+A small sprite weaves back and forth between the trees as it conjures magics to play with your head.
+~
+nymph~
+AI DJNPUbe 0 0
+51 0 10d10+100 1d1+10 10d10+100 magic
+0 0 0 0
+DFHILN J 0 G
+stand stand none 2
+ABG ACDEFHJKVX medium unknown
+#2932
+Lynx~
+A agile Lynx~
+A agile Lynx bounces all around.
+~
+A short tailed cat like creature bounds all over, agile as any cat could
+be.  It's paws are massive looking able to swat you with a pwerfull blow or
+disembowl you with its razor sharp claws and teeth.  
+~
+wolf~
+AI FPVZae 0 0
+51 0 10d10+100 1d1+10 10d10+100 claw
+0 0 0 0
+DEFHJL 0 DE H
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#2933
+LEECH~
+A large Leech~
+A very large Leech tries to attach to your leg.
+~
+Squirming all over this creature tries to bite you with its mouth opening
+it widely you see more teeth than you could count.  It flatens it's body and
+contorts around your boots as you try to kick it away.  
+~
+unique~
+AI Pc 0 0
+51 0 10d10+100 10d10+100 10d10+100 drain
+1 1 1 1
+FHIJL 0 EK H
+stand stand none 0
+Rc Q medium unknown
+#2934
+MOUND~
+A Mound~
+A huge Mound of leaves sways in the wind.
+~
+A large mound of leaves and twigs and rotting material seems to be given
+life and lunges towards you trying to smother you within its massive body 
+~
+human~
+AI Jae 0 0
+51 0 10d10+100 10d10+100 10d10+100 digestion
+1 1 1 1
+DEHJKL 0 EF GH
+stand stand none 0
+A DN medium unknown
+F for HMV
+F par ABCEFGHIJK
+#2935
+VINE~
+A Vine~
+A Vine tries to wrap around your neck.
+~
+A large vine wriggles about behind it's master.  With but a moments
+notice it is wraped about your feet and neck trying to strangle the life out
+of you.  
+~
+human~
+AI PZe 0 0
+51 0 10d10+100 10d10+100 10d10+100 none
+1 1 1 1
+DEFHIL 0 EF H
+stand stand none 2
+AE DEFQ medium unknown
+F for HMV
+F par ABCGHIJK
+#2936
+ALLIGATOR ~
+An Alligator lies here looking like a log~
+An Alligator lies here looking like a log.
+~
+Laying so still that you can not even see breath from it's gaping mouth. 
+It looks as though it has aged more then a milenium 
+~
+unique~
+AI Pace 0 0
+51 0 10d10+100 10d10+100 10d10+100 bite
+1 1 1 1
+DIJLMNO 0 DEFG H
+stand stand none 0
+X ACDEFKQUX medium unknown
+#2937
+BAT~
+A large Bat~
+A large Bat flys high above.
+~
+Flying way overhead a large Bat divebombs you trying to suck the very
+lifeblood from your viens.  
+~
+song bird~
+AI DFTV 0 0
+51 0 10d10+100 10d10+100 10d10+100 drain
+1 1 1 1
+DFHL 0 0 H
+stand stand none 0
+AGWX ACDEFHKP medium unknown
+#2938
+GRIFFIN~
+A Griffin~
+A Griffin stands firm sending a shiver down your spine.
+~
+Standing over ten feet this half falcon half lion creature sends shivers
+down the base of your spine.  With claws of a lion that could disembowl you
+with but a quick swipe and the beak of a giant falcon to tear your eyes from
+your sockets, this beasts looks like it would eat you and pick your bones
+without a second thought.  
+~
+unique~
+AI TVc 0 0
+51 0 10d10+100 10d10+100 10d10+100 claw
+1 1 1 1
+CDFHIJLO L HI 0
+stand stand none 2
+V CDEFPQUV medium unknown
+#2939
+BEAR~
+A brown Bear~
+A big brown Bear bounds towards you.
+~
+A very large brown bear paws the ground.  Its feet are almost the size of
+your torso and it's claws could rip you in two with ease.  
+~
+human~
+AI e 0 0
+51 0 10d10+100 10d10+100 10d10+100 crush
+0 0 0 0
+DFIJKLa 0 DEFG CH
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2940
+WOLF~
+A large Wolf~
+A large wolf foams at the mouth ready to strike.
+~
+Standing at least six feet in height this wolf looks as though it is big
+enough to swollow you whole.  It drools so much you think it might be rabid,
+and the sent of your blood throws it into a frenzy.  
+~
+wolf~
+AI Z 0 0
+51 0 10d10+100 10d10+100 10d10+100 scratch
+1 1 1 1
+DEFHIJL 0 0 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#2941
+WOLVERINE~
+A large Wolverine~
+A large Wolverine brandishes its claws at you.
+~
+The size of a large dog, this beast is all muscle.  It ripples as it
+moves with gracelike fluidity.  Showings it's claws they are nearly as long
+as it's entire body, and as sharp as the blade at it's master's side.  
+~
+unique~
+AI VZ 0 0
+51 0 10d10+100 10d10+100 10d10+100 claw
+1 1 1 1
+DFHIJLO 0 DE H
+stand stand none 0
+AV DEF medium unknown
+#2942
+WITCH~
+A cackling Witch~
+A Witch cackles gleefully at you.
+~
+With a manacle laughter this woman sends shivers down your spine.  Frail
+and gaunt this woman looks like she could not fight a cat for a scrap of
+food and win.  Yet there seems to be power radiating from her.  
+~
+human~
+AI BHNOTU 0 0
+51 0 10d10+100 10d10+100 10d10+100 nature
+1 1 1 1
+0 CP HIKLR D
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#2943
+JAGUAR ~
+A golden Jaguar~
+A golden Jaguar stands ready to pounce on you.
+~
+A golden of the sun this beast does not hide from it's foes it meats them
+with speed and agility ready to pounce with a moments notice.  
+~
+unique~
+AI DFV 0 0
+51 0 10d10+100 10d10+100 10d10+100 claw
+1 1 1 1
+DFHIJK 0 FG H
+stand stand none 0
+AGV DEFU medium unknown
+#2944
+WSNAKE WaterSnake Water Snake~
+A WaterSnake~
+A WaterSnake glides around looking for something.
+~
+A Snake gildes gracefully over land as well as water.  Not detered from
+anything except to bask in the sun and digest it's prey.  
+~
+snake~
+AI bc 0 0
+51 0 10d10+100 10d10+100 10d10+100 bite
+1 1 1 1
+FHJL LR 0 I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+F res L
+#2945
+FISH Winged~
+A Winged Fish~
+A winged Fish flys about looking in mid jump.
+~
+Able to leap from the water this fish can soar about the land for a time.
+Using its wings it is able to flap them with such force it blows you almost
+over 
+~
+fish~
+AI Vb 0 0
+51 0 10d10+100 10d10+100 10d10+100 sound
+1 1 1 1
+FHL R AB J
+stand stand none 0
+AGV ADEFKOQX medium unknown
+#2946
+Naga~
+A greater Naga~
+A greater Naga gazes at you silently.
+~
+This half snake half something stares at you with cold eyes.  Seemingly
+statuesk yet able to strike with a swiftness unfathomable.  
+~
+unique~
+AI BOPQZabc 0 0
+51 0 10d10+100 10d10+100 10d10+100 defilement
+1 1 1 1
+HLMO CR HI 0
+stand stand none 0
+Ac DEFQ medium unknown
+#2947
+LION~
+A lion~
+A lion sets itself ready for the hunt.
+~
+Ready for the hunt this lion body ripples with every movement.  Muscles
+taunt and strained from the wait for the prey to come within reach.  
+~
+unique~
+AI JVa 0 0
+51 0 10d10+100 10d10+100 10d10+100 claw
+1 1 1 1
+ACDEFHKL 0 DE H
+stand stand none 0
+AV DEFU medium unknown
+#2948
+FALCON~
+A large Falcon~
+A large Falcon soar though the air magesticly.
+~
+Soaring in the sky at times you are not even able to see it.  All you
+hear is the rush of wind as it passes by your face for another try to
+debiliate you.  
+~
+human~
+AI DPTVae 0 0
+51 0 10d10+100 10d10+100 10d10+100 peck
+1 1 1 1
+FHJL 0 E 0
+stand stand none 0
+AW DEF large unknown
+F for HMV
+F par ABCGHIJK
+#2949
+rat~
+a rabid rat~
+A rabid rat loams here staggering slightly.
+~
+Its eyes glow with a crimson red.  It is obvious it is enslaved by some
+form of evil.  It mouth opens slightly to show a set of dagger like teeth.  
+~
+unique~
+A PV -1000 0
+51 0 0d0+0 0d0+0 0d0+0 bite
+-10 -10 -10 -10
+0 BM C G
+stand stand male 100
+B ACDFQ small guts
+#0
+
+
+
+#OBJECTS
+#2901
+ranger sack~
+a rangers sack~
+a sack lies here.~
+flesh~
+container 0 AK
+250 0 0 5 0
+0 10 9 P
+#2902
+steak~
+a steak~
+a steak lies here.~
+flesh~
+food 0 A
+30 20 0 0 0
+0 5 5 P
+#2903
+potion silver~
+a silver potion~
+a potion of silver liquid lies here.~
+glass~
+potion G AO
+1 'cure serious' '' '' ''
+0 5 5 P
+#2904
+shield battleshield battle crusader~
+a Crusader Battleshield~
+a shield of the fineste make lies here waiting to be used.~
+steel~
+armor AB AJ
+0 0 0 0 0
+0 12 0 P
+#2905
+staff~
+a ranger staff~
+a staff of purest wood lies here.~
+wood~
+weapon AG AN
+staff 1 1 smash ABDFG
+0 100 0 P
+#2906
+longsword sword avenger~
+a holy avenger~
+a beautiful sword of divine make lies here.~
+steel~
+weapon ABGHIKLP AN
+sword 1 1 divine 0
+0 160 0 P
+#2907
+poncho carcass~
+a poncho from the carcass of someone~
+A blood stained carcass lies here.~
+flesh~
+armor 0 AK
+8 9 7 10 10
+1 8 0 P
+A
+18 6
+A
+19 6
+A
+13 35
+A
+12 35
+#2910
+sword enforcer~
+the sword of Enforcers~
+A steel sword engraved with a clenched fist is here.~
+steel~
+weapon AMOY AN
+sword 9 5 slash 0
+52 150 200000 P
+#2911
+map north thera~
+a map of nother Thera~
+A map of north Thera lies here.~
+paper~
+map 0 A
+0 0 0 0 0
+1 10 20 P
+E
+map north thera~
+A map of Northern Thera
+
+	Icywastes       Elven Valley    Olympus         Ofcol--New Ofcol
+		|            |             |            |
+		|             \            |            |
+	Magic Forest           |           |            |
+		\               --------Plains----------+       
+		 \                         |            |
+		  --------------------Gallow Hills      Stone of G'Harne
+					   |                    |
+					   |                  Nightfall
+					[Midgaard]              
+
+This map shows the major areas north of midgaard. It is NOT to scale, and
+some of the directions are general only, indicating the basic location
+of each area relative to others.
+~
+#2912
+protectorate plate~
+a suit of protectorate platemail~
+Some platemail with the symbol of a clenched fist is here.~
+steel~
+armor IP AD
+10 10 10 10 10
+1 200 0 P
+A
+17 -5
+#2913
+black blood badge~
+a black and bloody sherrif's badge~
+A charred and blood smeared badge lies here.~
+steel~
+armor 0 AC
+5 5 5 5 5
+1 10 0 P
+A
+17 -10
+A
+1 1
+A
+5 1
+#2914
+quest sword~
+A quest sword~
+A sword for a quest is here.~
+steel~
+weapon ABHIMZ AN
+exotic 10 10 none 0
+1 70 100000 P
+A
+18 8
+A
+19 5
+#2920
+potion ARCPOTION~
+a silver potion~
+A small glass flask containing a silvery liquid is here.~
+glass~
+potion AG AO
+1 '' '' '' ''
+1 5 1000 P
+#2921
+scroll ARCSCROLL~
+a scroll~
+A rolled up parchment is here.~
+parchment~
+scroll AG AO
+1 '' '' '' ''
+1 5 1000 P
+#2922
+wand ARCWAND~
+a glowing wand~
+A long silvery rod with a blue-green glow lies here.~
+silver~
+wand AG AO
+1 1 1 '(null)' 0
+1 5 1000 P
+#2923
+staff ARCSTAFF~
+a glowing staff~
+A long smooth stick is here, pulsing with magical power.~
+wood~
+staff AG AO
+1 1 1 '(null)' 0
+1 5 1000 P
+#2924
+berry~
+a good berry~
+A nice juicy berry is lying here.~
+vegetable~
+food 0 A
+10 10 0 0 0
+0 10 0 P
+#2925
+skeleton npcskeleton npc_skeleton~
+a skeleton~
+A rotting skeleton lies here.~
+bone~
+skeleton 0 A
+0 0 0 0 0
+1 240 1 P
+#2951
+sword unholy~
+an unholy sword~
+An unholy sword lies here, pulsing with power.~
+steel~
+weapon 0 AN
+sword 1 1 darkwrath 0
+0 160 0 P
+#2952
+dagger unholy~
+an unholy dagger~
+An unholy dagger lies here, pulsing with power.~
+steel~
+weapon 0 AN
+dagger 1 1 darkwrath 0
+0 160 0 P
+#2953
+spear unholy~
+an unholy spear~
+An unholy spear lies here, pulsing with power.~
+steel~
+weapon 0 AN
+spear 1 1 darkwrath 0
+0 160 0 P
+#2954
+mace unholy~
+an unholy mace~
+An unholy mace lies here, pulsing with power.~
+steel~
+weapon 0 AN
+mace 1 1 darkwrath 0
+0 160 0 P
+#2955
+axe unholy~
+an unholy axe~
+An unholy axe lies here, pulsing with power.~
+steel~
+weapon 0 AN
+axe 1 1 darkwrath 0
+0 160 0 P
+#2956
+flail unholy~
+an unholy flail~
+An unholy flail lies here, pulsing with power.~
+steel~
+weapon 0 AN
+flail 1 1 darkwrath 0
+0 160 0 P
+#2957
+whip unholy~
+an unholy whip~
+An unholy whip lies here, pulsing with power.~
+steel~
+weapon 0 AN
+whip 1 1 darkwrath 0
+0 160 0 P
+#2958
+polearm unholy~
+an unholy polearm~
+An unholy polearm lies here, pulsing with power.~
+steel~
+weapon 0 AN
+polearm 1 1 darkwrath 0
+0 160 0 P
+#2959
+clown mallet huge oversized hammer~
+a huge oversized hammer~
+A grossly oversized hammer is here, begging to be touched.~
+steel~
+weapon 0 AN
+mace 1 1 darkwrath 0
+0 40 100000 P
+R
+D
+#2960
+chunk maple wood~
+a large chunk of maple wood~
+A large chunk of maple wood lies here.~
+maple~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#2961
+large chunk magic~
+a large chunk of magic wood~
+A large chunk of magic wood lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#2962
+large chunk oak~
+a large chunk of oak~
+A large chunk of oak lies here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#2963
+maple wood staff~
+a longstaff made of maple~
+A large longstaff of maple lies here.~
+maple~
+weapon 0 AN
+staff 0 0 smash 0
+0 20 0 P
+A
+19 10
+A
+18 10
+#2964
+magic staff~
+a shortstaff made of magic wood~
+A shortstaff made of magic wood lies here.~
+unknown~
+weapon GI AN
+staff 0 0 magic 0
+0 10 0 P
+A
+19 8
+A
+18 8
+A
+13 50
+#2965
+oak staff~
+a shortstaff made of oak~
+A shortstaff made of oak lies here.~
+oak~
+weapon 0 AN
+staff 0 0 smash 0
+0 10 0 P
+A
+19 8
+A
+18 8
+A
+13 50
+R
+P
+#0
+
+
+
+#ROOMS
+#2900
+Inside a darkened plane~
+You find yourself within a plane of darkness, penetrated only by small
+points of light where strange shimmering gates can be found. Through the
+floating gates you can make out the strange flickering shapes of the real
+world beyond.
+~
+0 273687553 0
+D1
+Inside a darkened plane.
+~
+~
+0 0 2901
+D2
+The Dark Road.
+~
+~
+0 0 873
+D3
+A hole in the southern wall. 
+~
+~
+0 0 4632
+D4
+A very dark room.
+~
+~
+0 0 1462
+D5
+The entrance to Purgatory.
+~
+~
+0 0 27000
+M -20 H -20
+S
+#2901
+Inside a darkened plane~
+You find yourself within a plane of darkness, penetrated only by small
+points of light where strange shimmering gates can be found. Through the
+floating gates you can make out the strange flickering shapes of the real
+world beyond.
+~
+0 273687553 0
+D1
+Among the Seven Towers.
+~
+~
+0 0 17004
+D3
+In a darkened plane.
+~
+~
+0 0 2900
+S
+#2920
+Death!~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 2910 spec_enforcer
+M 2912 spec_familiar
+M 2913 spec_familiar
+M 2930 spec_cast_mage
+M 2942 spec_cast_mage
+M 2944 spec_poison
+M 2946 spec_familiar
+M 2949 spec_poison
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

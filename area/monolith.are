@@ -1,0 +1,714 @@
+#AREADATA
+Name Nhalijah, the Astral Prison~
+Builders Mephistilis~
+VNUMs 28200 28250
+Credits {CLOSED} Mephistilis  Nhalijah, the Astral Prison~
+Security 1
+End
+
+
+
+#MOBILES
+#28200
+no name~
+a sandy-cloaked paladin~
+A sandy-cloaked storm giant stands here, grim and silent.
+~
+A tall, quiet giant with deep blue skin, this paladin stands careful
+watch over the face of this mountain, appearing steadfast and alert even in
+the sweltering heat of the desert.  A set of sandy cloaks pulled over him as
+his only attire, he fades against the background as a chameleon would.  
+~
+human~
+A 0 0 0
+55 0 0d0+0 0d0+0 0d0+0 none
+-50 -50 -50 -50
+CDEFHIKa 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#28200
+no name~
+(no short description)~
+(no description)~
+unknown~
+armor 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#28200
+A Trail Through the Desert~
+A small trail, marked only by the occasional lumping of deep blue rock,
+leads off through the sands and towards a large mountain.  The cacti of the
+desert stand out against the bright coppery reflection of the sand, casting
+deep shadows over the trail as it continues its westward descent. 
+Eastwards, the Long Sands continue.  
+~
+0 0 0
+D3
+~
+~
+0 0 28201
+S
+#28201
+A Trail Through the Desert~
+A small trail, marked only by the occasional lumping of deep blue rock,
+leads off through the sands and towards a large mountain.  The cacti of the
+desert stand out against the bright coppery reflection of the sand, casting
+deep shadows over the trail as it continues its northward descent. 
+Eastwards, the trail climbs up towards the Long Sands.  
+~
+0 0 0
+D0
+~
+~
+0 0 28202
+D1
+~
+~
+0 0 28200
+S
+#28202
+A Trail Through the Desert~
+A small trail, marked only by the occasional lumping of deep blue rock,
+leads off through the sands and towards a large mountain.  The cacti of the
+desert stand out against the bright coppery reflection of the sand, casting
+deep shadows over the trail as it continues its northward descent. 
+Southwards, the trail climbs up towards the Long Sands.  
+~
+0 0 10
+D0
+~
+~
+0 0 28203
+D2
+~
+~
+0 0 28201
+S
+#28203
+Approaching the Mountain, On a Trail Through the Desert~
+A small trail, marked only by the occasional lumping of deep blue rock,
+leads off through the sands and towards the large mountain before you.  The
+cacti of the desert stand out against the bright coppery reflection of the
+sand, casting deep shadows over the trail as it continues towards the face
+of the mountain, a rough, sandy brown clump of rock.  Southwards, the trail
+leads back up towards the Long Sands.  
+~
+0 0 0
+D0
+~
+~
+0 0 28204
+D2
+~
+~
+0 0 28202
+S
+#28204
+Before the Face of Mount Nhalijah~
+A wall of rough, jagged rock rises up before you, casting an overwhelming
+shadow on the coppery sand below.  An odd species of cacti, purple-skinned
+and covered with long barbs, surrounds the majority of the mountain, almost
+rising up against it as if it were a mess of vines.  The trail ends here,
+before this mighty pillar of earthen strength, and there appears to be no
+reasonable passage beyond.  Southwards, the trail leads away from the
+mountain.  
+~
+0 0 0
+D2
+~
+~
+0 0 28203
+S
+#28205
+A Violet-lit Junction~
+~
+0 0 0
+D0
+~
+~
+1 0 28239
+D1
+~
+~
+0 0 28206
+D2
+~
+~
+0 0 28250
+D3
+~
+~
+0 0 28219
+S
+#28206
+A Violet-lit Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 28207
+D3
+~
+~
+0 0 28205
+S
+#28207
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28208
+D3
+~
+~
+0 0 28206
+S
+#28208
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28209
+D2
+~
+~
+0 0 28207
+S
+#28209
+A Violet-lit Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 28208
+D4
+~
+~
+0 0 28210
+S
+#28210
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28211
+D5
+~
+~
+0 0 28209
+S
+#28211
+A Turn in the Violet-lit Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 28210
+D3
+~
+~
+0 0 28212
+D4
+~
+~
+0 0 28240
+S
+#28212
+A Violet-lit Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 28211
+D3
+~
+~
+0 0 28213
+S
+#28213
+A Violet-lit Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 28212
+D2
+~
+~
+0 0 28220
+D3
+~
+~
+0 0 28214
+S
+#28214
+A Turn in the Violet-lit Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 28213
+D2
+~
+~
+0 0 28215
+D4
+~
+~
+0 0 28243
+S
+#28215
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28214
+D5
+~
+~
+0 0 28216
+S
+#28216
+A Violet-lit Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 28217
+D4
+~
+~
+0 0 28215
+S
+#28217
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28216
+D2
+~
+~
+0 0 28218
+S
+#28218
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28217
+D1
+~
+~
+0 0 28219
+S
+#28219
+A Violet-lit Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 28205
+D3
+~
+~
+0 0 28218
+S
+#28220
+The End of a Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28213
+D5
+~
+~
+1 0 28221
+S
+#28221
+A Dark Passageway~
+~
+0 0 0
+D2
+~
+~
+0 0 28222
+D4
+~
+~
+1 0 28220
+S
+#28222
+A Dark Passageway~
+~
+0 0 0
+D0
+~
+~
+0 0 28221
+D5
+~
+~
+1 0 28223
+S
+#28223
+A Dark Passageway~
+~
+0 0 0
+D2
+~
+~
+0 0 28224
+D4
+~
+~
+1 0 28222
+S
+#28224
+A Dark Passageway~
+~
+0 0 0
+D0
+~
+~
+0 0 28223
+D5
+~
+~
+1 0 28225
+S
+#28225
+Descending into Violet Light~
+~
+0 0 0
+D4
+~
+~
+1 0 28224
+D5
+~
+~
+0 0 28226
+S
+#28226
+The Astral Prison~
+~
+0 0 0
+D2
+~
+~
+0 0 28227
+D4
+~
+~
+0 0 28225
+S
+#28227
+The Astral Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 28226
+D2
+~
+~
+0 0 28228
+S
+#28228
+The Astral Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 28227
+D2
+~
+~
+0 0 28229
+S
+#28229
+The Astral Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 28228
+D2
+~
+~
+0 0 28230
+S
+#28230
+The Astral Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 28229
+D2
+~
+~
+0 0 28231
+S
+#28231
+The Astral Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 28230
+D2
+~
+~
+0 0 28232
+S
+#28232
+The Astral Prison~
+~
+0 0 0
+D0
+~
+~
+0 0 28231
+S
+#28237
+The Chamber of Fortitude~
+~
+0 0 0
+D1
+~
+~
+1 0 28239
+S
+#28238
+A Quiet Armsman's Chambers~
+~
+0 0 0
+D3
+~
+~
+1 0 28239
+S
+#28239
+The End of a Violet-lit Hall~
+~
+0 0 0
+D1
+~
+~
+1 0 28238
+D2
+~
+~
+1 0 28205
+D3
+~
+~
+1 0 28237
+S
+#28240
+A Violet-lit Spiral Staircase~
+~
+0 0 0
+D4
+~
+~
+0 0 28242
+D5
+~
+~
+0 0 28211
+S
+#28241
+A Violet-lit Spiral Staircase~
+~
+0 4 0
+S
+#28242
+A Violet-lit Hall~
+~
+0 0 0
+D3
+~
+~
+0 0 28245
+D5
+~
+~
+0 0 28240
+S
+#28243
+A Violet-lit Spiral Staircase~
+~
+0 0 0
+D4
+~
+~
+0 0 28244
+D5
+~
+~
+0 0 28214
+S
+#28244
+~
+~
+0 0 0
+D1
+~
+~
+0 0 28246
+D5
+~
+~
+0 0 28243
+S
+#28245
+A Violet-lit Tripassage~
+~
+0 0 0
+D1
+~
+~
+0 0 28242
+D2
+~
+~
+0 0 28247
+D3
+~
+~
+0 0 28246
+S
+#28246
+~
+~
+0 0 0
+D1
+~
+~
+0 0 28245
+D3
+~
+~
+0 0 28244
+S
+#28247
+~
+~
+0 0 0
+D0
+~
+~
+0 0 28245
+D4
+~
+~
+0 0 28248
+S
+#28248
+~
+~
+0 0 0
+D2
+~
+~
+0 0 28249
+D5
+~
+~
+0 0 28247
+S
+#28249
+~
+~
+0 0 0
+D0
+~
+~
+0 0 28248
+S
+#28250
+A Violet-lit Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 28205
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 28205 0 1
+D 0 28220 5 1
+D 0 28221 4 1
+D 0 28222 5 1
+D 0 28223 4 1
+D 0 28224 5 1
+D 0 28225 4 1
+D 0 28237 1 1
+D 0 28238 3 1
+D 0 28239 1 1
+D 0 28239 2 1
+D 0 28239 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

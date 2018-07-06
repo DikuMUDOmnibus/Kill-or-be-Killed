@@ -1,0 +1,260 @@
+#AREA
+merthairu2.are~
+The Temple of Serenity~
+{SHRINE} Merthairu The Temple of Serenity~
+4450 4455
+
+#MOBILES
+#4450
+wood-elf druid~
+a wood-elf druid~
+A small druid rests here, praying for his lord. 
+~
+This small wood-elf rests on the floor of the massive oak, his legs
+crossed. His sight is fixed straight in front of him. He has light green
+hair and eyes, matching the darker forest green of his tunic and leggings. 
+~
+elf~
+ABGKQ FHJNOVe 0 0
+60 60 50d35+11000 12d12+1000 20d70+28 nature
+-30 -30 -30 -30
+FHK ABO B Z
+rest rest male 0
+AHMV ABCDEFGHIJK small flesh
+#4451
+priestess ellf elven~
+an elven priestess~
+A small elven maiden dressed in a long white gown stands here. 
+~
+This small elven flutist stands here in worship for her lord. She
+sometimes stops to play en enchanting melody on her flute or look over the
+beauty of her surroundings. She has long brown hair that falls to her knees.
+Her light blue eyes glint in the light of the room. 
+~
+elf~
+ABGJQ DFHJNU 1000 0
+55 5 50d10+20000 12d12+1000 30d30+30 sound
+-25 -25 -25 -25
+FKQ ABN B Z
+stand stand female 0
+AHMV ABCDEFGHIJK tiny flesh
+#4452
+hummingbird~
+a tiny hummingbird~
+A tiny hummingbird is perched on a small yellow flower. 
+~
+This small blue hummingbird sits on a tiny yellow flower. Although she
+often takes flight she never seems to leaves the temple. 
+~
+song bird~
+ABG DFNTUV 1000 0
+51 0 50d10+5000 0d0+0 5d8+20 light
+-21 -21 -21 -21
+FH ABCDEFGHIJKMNOPQRSZ 0 0
+stand stand female 0
+AGW ACDEFHKP tiny flesh
+#4453
+paladeine spirit of nature~
+paladeine, spirit of nature~
+Paladeine, the Spirit of Nature stands before you. 
+~
+This enchanting maiden is here to guide and teach you. She is immortal, a
+sprit of the great cycle. Her divine knowledge and understanding of nature
+and its growth and ways are the only reason she is here. Although you never
+looks up to look at you, you feel she understand every move you make. 
+~
+human~
+ABGVa DFHNTUV 1000 0
+60 0 80d40+18000 12d12+2000 80d25+28 nature
+-30 -30 -30 -30
+FKP ACEHIJKLMNOPQRTX 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#4450
+alter~
+alter~
+The alter of the onyx seedling lies here.~
+onyx~
+container A 0
+500 E 0 500 500 
+60 100 0 P
+#4451
+pool water~
+a pool of water~
+A pool of fresh, cool water lies in the center of the temple.~
+granite~
+fountain 0 0
+100 100 'water' 0 0 
+60 30 0 P
+#4452
+tattoo merthairu~
+the onyx seedling~
+before you lies the tattoo of merthairu~
+flesh~
+armor 0 AR
+CD CD CD CD 0 
+60 1 0 P
+A
+13 230
+A
+0 0
+#4453
+rift portal leaves~
+the portal of onyx leaves~
+A mass of onyx-colored leaves swirls before you.~
+energy~
+portal A 0
+ABCFGHIJ 1 1 ACFGIM 0 
+5 0 0 P
+#0
+
+
+
+#ROOMS
+#4450
+A Trail~
+This narrow forest trail weaves through the forest in a general northeast
+direction. The trail is calm and quiet, not a sound can be heard except for
+the gentle creeks of flowing water and soft calls of the animals. The trees
+are all massive Oaks, towering many feet over your head. The trail continues
+its path through the forest. 
+~
+0 0 3
+D0
+
+~
+~
+0 0 4451
+D1
+
+~
+~
+0 0 19272
+S
+#4451
+A Trail~
+This narrow forest trail weaves through the forest in a general northeast
+direction. The trail is calm and quiet, not a sound can be heard except for
+the gentle creeks of flowing water and soft calls of the animals. The trees
+are all massive Oaks, towering many feet over your head. The trail continues
+its path through the forest. 
+~
+0 0 3
+D2
+
+~
+~
+0 0 4450
+D3
+
+~
+~
+0 0 4452
+S
+#4452
+A Trail~
+This narrow forest trail weaves through the forest in a general northeast
+direction. The trail is calm and quiet, not a sound can be heard except for
+the gentle creeks of flowing water and soft calls of the animals. The trees
+are all massive Oaks, towering many feet over your head. To the north is a
+massive oak tree. 
+~
+0 0 3
+D0
+
+~
+~
+0 0 4453
+D1
+
+~
+~
+0 0 4451
+S
+#4453
+Inside a Massive Oak~
+You are within a massive oak tree pillaring hundreds of feet in the air.
+Its hollow inside serves as a temple of some sort. Covering the walls are
+dim, flickering torches. Far above you is a large branch supporting a temple
+of some kind but there seems no way to climb up there and enter. All around
+are small elves and wood-elves chanting songs and devoting their time to
+prayer. 
+~
+0 8 0
+D2
+
+~
+~
+0 0 4452
+S
+#4454
+The Temple of Serenity~
+It is truly a blessing to be within this temple. You are far above the
+floor, which you stood on moment ago. Looking down the mass of elves and
+priestess, druids and flutists are mere specs. Near the center of the temple
+is a small pool of fresh cool water. On the far end of the pool in an alter
+with some sort of description on it. Standing aside the alter is a beautiful
+human maiden. The temple is calm and cool, refreshing and tranquil. Although
+from below there is no possible way down there is a mass of swirling leaves
+which looks like a portal to the floor below. 
+~
+0 5242888 0
+E
+alter~
+Moonlit dew sparkles on the grass, the light reflected in your eyes as I pass.
+The wondrous beauty of the forests perfection pales when compared to your flawless complexion.
+The sparkles of the stars in the skies, pale next to the gaze of your eyes.
+
+
+How I long to stroke your luxuriant hair, no one is more perfect, no one is so fair.
+The sinuous curves of the warm river bend, pale when compared to your beauty, to no end!
+How I long to be near, my dear heaven sent, the only thing sweeter than the gardenias scent.
+
+And so in closing, I will only say, I'd take you over nature, any old day.
+And if by my side you agree to stay, such joy in my life, I never could say.
+My dearest angel, believe me it's true; there’s one thing more beautiful than nature.
+And that’s you.
+~
+S
+#4455
+Within the Weave of Nature~
+Mertys special room! 
+~
+0 5242880 9
+S
+#0
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+M 4450 spec_cast_cleric
+M 4451 spec_cast_cleric
+M 4453 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 4452 1 4453 1
+M 0 4450 1 4453 1
+M 0 4451 1 4453 1
+M 0 4453 1 4454 1
+E 0 4452 1 20
+O 0 4451 0 4454
+O 0 4450 0 4454
+O 0 4453 0 4454
+S
+
+
+
+#$

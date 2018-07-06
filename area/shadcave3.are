@@ -1,0 +1,262 @@
+#AREA
+shadcave.are~
+The Cave of Shadows~
+{CABAL} Lestregus    Cave of Shadows~
+3800 3850
+
+#MOBILES
+#3800
+guardian shadow shadows cloak~
+The Guardian of Shadows~
+A large cloak of shadows engulfs the room in darkness.
+~
+This being has no face nor form, yet occupies every space of the
+room like a plague without a cure.
+~
+giant~
+ABWR DFHJV -1000 0
+55 40 50d10+6000 1d1+3999 5d20+55 drain
+-35 -35 -35 -35
+ACKNFEVU AB 0 0
+stand stand male 0
+A ABCDE medium 0
+#3801
+healer~
+a healer~
+a Healer is gliding through the shadows here.
+~
+This healer will heal you if you are a friend, if he owes you a
+favor or if he wants you to owe him something.  Be careful on
+what price you are willing to pay...
+~
+human~
+ABQVae DFH -1000 0
+60 0 1d1+1999 1d1+999 2d4+30 divine
+-15 -15 -15 -15
+FHIK ABC D 0
+stand stand male 5000
+0 0 medium 0
+#3802
+kreegan shopkeep~
+Kreegan~
+Kreegan is here forging a weapon of darkness.
+~
+This is one crazy beast. Messing with him would probably be a
+very bad idea. He seems bent on achieving only one goal,
+that of making money. You'd better start paying him.~
+human~
+ABGV CDFHV -1000 0
+60 0 1d1+1999 1d1+999 2d4+30 drain
+-35 -35 -35 -35
+FHIOKV ABCDE 0 0
+stand stand male 5000
+0 0 medium 0
+M grall 3800 100~
+#0
+#OBJECTS
+#3800
+key skull black~
+skull hilted black key~
+a Skull hilted black key is on the ground.~
+bone~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#3801
+torch ancient~
+the Torch of Ancient~
+the Torch of Ancient is on the skull of the King of Honor.~
+wood~
+treasure ATO A
+0 0 0 0 0
+60 1 100000 P
+C
+1
+L
+1
+#3802
+altar~
+an altar~
+an altar is hidden in the shadows here.~
+bone~
+container ORY P
+10 15 3800 15 100
+60 1 20 P
+#3803
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+#3804
+decayed skull rigamortis~
+a decayed skull suffering from rigamortis~
+a decayed skull lies here rotting further.~
+bone~
+weapon AHJLPE AN
+exotic 9 6 drain DC
+51 90 5000 P
+A
+18 10
+A
+19 10
+#3805
+black murky potion~
+a murky black potion~
+a black potion rests here.~
+energy~
+potion ABEGP AO
+51 'cure blindness' 'protective shield' 'bless' ''
+51 50 6000 P
+#3806
+sign wooden~
+a wooden sign~
+~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign wooden~
+The Cave of Shadows was conceived and created by Lestregus.
+This area is not to be traded or used in any other mud without the
+permission of the author. Author reachable at JLein@mindspring.com
+c1999
+~
+#0
+#ROOMS
+#3800
+The Mouth of a Cave~
+You stumble upon a cave, eerie yet soothing to the hearts of the wicked.
+Howling winds echo in the distance, while screams of terror and anguish
+fill your ears like an infection. To wonder....Should you even be here?
+~
+0 D 1
+D0
+~
+~
+0 -1 3801
+D1
+~
+~
+0 -1 873
+S
+#3801
+Cave Entrance~
+You get a feeling of emptiness as you enter this room, a cold chill
+running up your spine. The walls are wet as if they actually have
+been bleeding. An old rotting sign barely clings to wall.
+~
+0 D 1
+D2
+~
+~
+0 -1 3800
+D5
+~
+~
+0 -1 3802
+S
+#3802
+A Dank Tunnel~
+These tunnels are empty and dark. Only the bravest of creatures
+would dare venture further, for to do so without the proper
+mindset would surely cause one much harm.
+~
+0 D 1
+D0
+~
+~
+0 -1 3803
+D4
+~
+~
+0 -1 3801
+D5
+~
+~
+0 -1 3805
+S
+#3803
+The Flickering Tunnel~
+These tunnels are empty and dark. Only the bravest of creatures
+would dare venture further, for to do so without the proper
+mindset would surely cause one much harm. A very low chanting
+can be heard coming from the north.
+~
+0 D 1
+D0
+~
+~
+0 -1 3804
+D2
+~
+~
+0 -1 3802
+S
+#3804
+Altar of the Damned~
+The tunnel opens up in a small room filled with the sounds of
+demonic chants. A huge altar to the Lord of the Ancients rests
+against the northern wall. Small creatures scuttle about
+sliding in an out of the shadows.  Every now and then,
+a scream rings out from the distance, perhaps a sacrifice for
+the Dark One being carried out.
+~
+0 D 1
+D2
+~
+~
+0 -1 3803
+S
+#3805
+Kreegan's Hole in the Wall~
+This room houses a shop built by the only being crazy enough to
+want to sell wares to scum like assassins. Various pots and tools
+litter the floor and a table on the eastern wall. A pit of fire is
+set within the center of the room.
+~
+0 D 1
+D4
+~
+~
+0 -1 3802
+S
+#3806
+The Crimson Room~
+Decorated entirely in crimson, from the walls, ceiling and floor,
+to the scant furniture placed asymeterically throughout, this room
+sends a shiver down your spine as you sense death is but a breath
+away.  Here and there, you can just barely discern old bloodstains
+against the blooded reds of the room.  Weapons of every conceivable
+type, and some quite unimagineable, line the walls like trophies.
+~
+0 D 1
+S
+#0
+#RESETS
+M 0 3800 1 3800 1                 * the Ancient Guardian
+G 1 3801 1 3443			    * torch
+M 0 3801 1 3804 1                 * healer
+O 0 3802 1 3804 1                 * altar
+O 0 3803 1 3804 1                 * pit
+M 0 3802 1 3805 1                 * kreegan
+G 0 3804 0
+G 0 3805 0
+O 0 3806 1 3801 1                 * sign
+S
+#SHOPS
+3802 2 3 4 5 9 150 75 0 23        *kreegan shopkeep
+0
+#SPECIALS
+M 3800 spec_cast_mage
+S
+#MOBPROGS
+#3800
+say Welcome to the hole scum! What do you want?
+emote stares at you with distrust in his eyes.
+~
+#0
+#$

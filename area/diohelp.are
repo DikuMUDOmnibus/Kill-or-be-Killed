@@ -1,0 +1,230 @@
+#HELPS
+1 WARCRY~
+Syntax: warcry
+
+This skill allows one to gain some resistance by yelling out a warcry.
+The effects have been compared with bless.
+~
+
+1 'GROUND CONTROL'~
+  Upon a successful throw or crush, the character has a chance to cause 
+further damage as they maintain their initial hold. Keep in mind that this is 
+an automatic skill that has a chance to happen  only after a successful throw 
+or crush.  Since the ability to execute a ground  control is one that requires 
+many factors, it will not always happen. 
+~
+
+1 LASH~
+Syntax: lash <victim>
+
+Using a whip or a flail, the object is to entangle your opponents feet 
+and knock them to the ground.
+~
+
+1 'SHIELD CLEAVE' SHIELDCLEAVE~
+Syntax:  shieldcleave
+
+When using an axe, it is possible to split your opponents shield in two.
+This is not an easy feat, but the results can be quite satisfying.
+~
+
+1 DEATHSTRIKE~
+Syntax: deathstrike
+
+This is a skill is taught by the Tiger school of monks.  Due to their 
+relentless practice in strong attacks this skill was developed as a 
+starting attack in battle in which the monk strikes out with all his/her 
+force to the head of the victim.  If successful the result will be 
+deadly.
+~
+
+1 DEFEND~
+Syntax: defend <target>
+
+Allows a fighter to automatically attempt a rescue on the person they are
+defending if that person comes under attack. It requires the rescue skill
+to work.
+~
+
+1 COUNTER~
+   This automatic skill lets a high level warrior or paladin attempt to
+turn an attackers first hit back on themselves. It only works if the warrior
+or paladin is not fighting and awake, and the attack is a weapon based one
+like backstab, ambush, or a normal attack.
+~
+
+1 LUNGE~
+Syntax: lunge <victim>
+
+   Allows a fighter who is wielding a sword, spear or polearm to 
+lunge at a victim. If successful, it inflicts satisfying damage.
+~
+
+1 'FOREST BLENDING' BLENDING~
+Syntax: forest
+
+This skill is a natural ability of elves and Grey elves. In a forest region
+they may attempt to 'forest blend', which makes them much harder to see.
+An elf who is blending with the forest has a chance to avoid detection when
+others look into the room for them. Any movement will bring an elf into easy
+view since it is not a true camouflage but merely a standing and blending in
+with the surroundings. Another elf who is actively aware of the forest around
+him or her will always see another blended elf.
+
+See also: AWARENESS
+~
+
+1 AWARENESS~
+Syntax: awareness
+
+This is a natural ability for all elves and Grey elves. It allows them to
+become more aware of their surroundings in a forest and detect other blended
+elves.
+
+See also: FOREST BLENDING
+~
+
+1 CRUSH~
+Syntax: crush
+
+   During a fight a warrior can attempt to grab an opponent in 
+his/her arms and crush them to the ground. Very skilled warriors can 
+attempt to do further damage on a downed foe by using a method of ground 
+control upon the victim.
+   This ground control is automatically attempted on each successful crush.
+
+See also: GROUND CONTROL
+~
+
+1 ENLIST~
+Syntax: enlist <victim>
+
+   A high level warrior may attempt to recruit a mob as a loyal
+retainer who will follow and aid their leader. The recruiting is not
+permanent, and only one such enlisted follower can be had at any one time.
+   The alignment of the person greatly effects the chances of
+enlisting their aid, and players of vastly different alignments to their
+victim will find themselves scorned.
+~
+
+1 'BREATH FIRE' BREATH~
+Syntax: breath <victim>
+
+A draconian of sufficient power may use it's innate draconian power of fire
+breath. This causes a cone of deadly flames to be blasted out at the victim.
+The fire is built up by the draconian's natural stores of heat retention.
+~
+
+1 'REAR KICK' REAR~
+Syntax: rear
+
+This skill enables a centaur to turn it's body in combat and attempt a hard
+and solid kick with his/her hind legs. The kick delivered is much more powerful
+than a normal kick but opens the centaur to retaliating hits.
+~
+
+1 DISENCHANT 'DISENCHANT ARMOR' 'DISENCHANT WEAPON'~
+Syntax: cast 'disenchant armor' <object>
+        cast 'disenchant weapon' <object>
+
+These spells allow a channeler to drain away the magic on an armor or
+weapon. There is a chance of destroying the object, but if successful all
+magical enchantments are removed.
+~
+
+1 ICELANCE~
+Syntax: cast 'icelance' <target>
+
+        At the culmination of this spell, the caster hurls a long shard of
+ice at the target.  This shard causes damage as it pierces the target.
+~
+
+1 DRAIN~
+Syntax: cast 'drain' <object>
+
+Channelers may drain magical objects of their energies and absorb them
+for their own use. Mana channeling like this allows destroys the object
+used, and there is a chance of failing to channel the energy.
+~
+
+1 'CONCATENATE' CONCAT~
+Syntax: c 'concat' <target>
+
+One of many spells in a channeler's ongoing studies, this spell allows the
+channeler to summon all magical energy around him and focus its power onto
+a target, causing damage and rarely, even blindness. Because of the amount
+of energy required to even cause damage, the victims very belongings could
+be drained, if magical, thus destroying them.
+~
+
+
+1 WEB~
+Syntax: cast 'web' <victim>
+
+   Causes a sticky substance akin to spider webs to coat a victim. This
+reduces general mobility and hampers movement.
+~
+
+1 SHADOWSTRIKE~
+Syntax: c 'shadowstrike' <victim>
+
+When cast at a target it causes a pair of shadowy arms to appear
+and grab their victim. If successful the victim becomes hindered by them and 
+certain actions, such as fleeing, casting, bashing etc may be prevented
+by the arms. The arms do not prevent all these actions all the time, but
+do reduce the chances of them being able to be performed.
+~
+
+1 LIFEBANE~
+Syntax: cast 'lifebane'
+
+This powerful Assassin spell causes the room the caster is in to be
+blasted with powerful negative energies. In an enclosed indoor room it
+will hit everyone, even the caster, and can cause poison, cursing and
+weakening of the victims who succumb.
+~
+
+1 'DARK WRATH'~
+Syntax: cast 'dark wrath' <victim>
+
+   Much like paladin's wrath, but this version is powered by the
+Lords of Darkness. A Assassin may call upon the dark gods to assail
+a victim who is of good align with negative energies. It will only work
+on those pure of heart.
+~
+
+1 NIGHTWALK~
+Syntax: cast 'nightwalk'
+
+This allows a high ranking Assassin to enter the shadowplane for a
+brief period of time. From this plane he or she may exit to various points
+of evil within the lands of Thera. Nightwalking within the shadowplane for
+extended time will cause injury to the Assassin.
+~
+
+1 DARKSHIELD~
+Syntax: cast 'darkshield' <victim>
+
+Surrounds the recipient in a shield of unholy energy. This can not be cast on 
+those of good align, and is weaker on neutrals than evils.
+~
+
+1 'DARK DREAM'~
+This is an automatic skill which allows a Assassin to enter a state
+of dark dreaming during nighttime. If successful a sleeping Assassin can
+gain a large regeneration boost with it.
+~
+
+1 'EVIL EYE' EVILEYE~
+Syntax: c 'evil' <target>
+
+An Assassin adept in this spell can be a dangerous weapon, summoning on
+dark arcane forces the Assassin channels all his negative energy through
+his eyes and to his victims. Possibly overloading the cerebrum and causing
+death. Blinded victims or those whose sight is impaired are not vulnerable.
+If this spell fails it can still cause damage.
+~
+
+0 $~
+
+#$
